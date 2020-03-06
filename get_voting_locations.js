@@ -31,17 +31,37 @@ async function get_voting_locations() {
         .then((data) => {
             for (let i = 0; i < data.length; i++) {
                 let result = data[i];
-                let latLng = new google.maps.LatLng(result['lat'], result['lng'])
+                let latLng = new google.maps.LatLng(result['lat'], result['lng']);
                 let marker = new google.maps.Marker({
                     position: latLng,
                     map: map,
-                    label: result['pollPlaceName']
+                    label: ''
+                });
+                let infoContents = '<h2>' + result['pollPlaceName'] + '</h2><br><h3>Address:</h3><br> <a href="' + result['url'] + '">' + result['address'] + '</a>' + "<br><h3>Availability:</h3><br>";
+                for (let j = 0; j < result['dates'].length; j++) {
+                    infoContents += result['dates'][j] + "<br>";
+                }
+                let infoWindow = new google.maps.InfoWindow({content: infoContents});
+                marker.addListener('click', () => {
+                    map.panTo(marker.getPosition());
+                    infoWindow.open(map, marker);
+                });
+                marker.addListener('mouseover', () => {
+                    marker.setLabel('Click me!');
+                });
+                marker.addListener('mouseout', () => {
+                    marker.setLabel('');
+                });
+                infoWindow.addListener('closeclick', () => {
+                    infoWindow.close();
                 });
                 markers.push(marker);
             }
             let markerCluster = new MarkerClusterer(map, markers,
-                {imagePath: './markerclustererplus/images/m',
-                 maxZoom: map.maxZoom - 1});
+                {
+                    imagePath: './markerclustererplus/images/m',
+                    maxZoom: map.maxZoom - 1
+                });
             return markerCluster;
         });
 }

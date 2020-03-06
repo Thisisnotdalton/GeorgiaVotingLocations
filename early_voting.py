@@ -84,7 +84,7 @@ def cache_google_place_ids(google_api_key, max_retries=3, delay=0.02):
                     startEndDate = bs4.BeautifulSoup(place['startAndEndDate'], 'html.parser')
                     dates = list(map(lambda _soup: str(_soup.text) if isinstance(_soup, bs4.Tag) else _soup, startEndDate.children))
                     dates = list(filter(lambda _x: len(_x) > 0, map(lambda _date: _date.strip(' '), dates)))
-                    geocode_placeid_cache.append(dict(pollPlaceName=place['pollPlaceName'], googlePlaceID=place_id, dates=dates, lat=lat, lng=lng))
+                    geocode_placeid_cache.append(dict(pollPlaceName=place['pollPlaceName'], googlePlaceID=place_id, dates=dates, lat=lat, lng=lng, address=place['formatted_address'], url=place['googleAddress']))
 
             places_df = pd.DataFrame([place for place in simplified_places if place not in errors])
             places_df.to_csv('places.csv')
@@ -93,7 +93,6 @@ def cache_google_place_ids(google_api_key, max_retries=3, delay=0.02):
             geocode_cache_df.to_csv('geocode_place_id_cache.csv')
             with open('geocode_place_id_cache.json', 'wt') as json_out:
                 json.dump(geocode_placeid_cache, json_out, indent=4)
-
 
             for error in errors:
                 print(f'Cannot find location for {error}.')
