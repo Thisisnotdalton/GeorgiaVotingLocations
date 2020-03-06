@@ -18,7 +18,8 @@ async function get_voting_locations() {
         center: {lat: 33.247875, lng: -83.441162},
         zoom: 8,
         minZoom: 7,
-        maxZoom: 18
+        maxZoom: 18,
+        streetViewControl: false
     });
     let markers = []
     fetch('./geocode_place_id_cache.json')
