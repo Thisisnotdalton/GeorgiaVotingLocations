@@ -19,7 +19,7 @@ def stable_hash(item: str) -> str:
     return str(hasher.hexdigest())
 
 
-def cache_google_place_ids(google_api_key):
+def cache_google_place_ids(google_api_key, max_retries=3, delay=0.02):
     cache_directory = 'cache'
     os.makedirs(cache_directory, exist_ok=True)
     errors = []
@@ -40,34 +40,51 @@ def cache_google_place_ids(google_api_key):
                 place['formatted_address'] = f'{street}, {city}, GA {postal_code}'
 
                 cache_file_path = os.path.join('cache', f"{stable_hash(place['pollPlaceName'])}.pkl")
-                place_id = None
+                place_stats = None
                 try:
                     if os.path.isfile(cache_file_path):
                         with open(cache_file_path, 'rb') as response_file:
-                            place_id = pickle.load(response_file)
-                            assert isinstance(place_id, str)
+                            place_stats = pickle.load(response_file)
+                            assert isinstance(place_stats, tuple) and len(place_stats) == 3
+                            place_id, lat, lng = place_stats
+                            assert isinstance(place_id, str) and isinstance(lat, float) and isinstance(lng, float)
                 finally:
-                    if place_id is None:
-                        with requests.get(google_geocode_url, params=dict(key=google_api_key, address=place['formatted_address'])) as google_geocode_response:
-                            request_count += 1
-                            response = google_geocode_response.json()
-                            if response['status'] == 'OK':
-                                place_id = response['results'][0]['place_id']
-                                with open(cache_file_path, 'wb') as response_file:
-                                    pickle.dump(place_id, response_file)
-                                time.sleep(1/40)
-                            else:
-                                print(response)
-                                errors.append(place)
-                                progress.set_description(f'errors:{len(errors)}')
+                    if place_stats is None:
+                        attempts = 0
+                        while attempts < max_retries and place_stats is None:
+                            with requests.get(google_geocode_url, params=dict(key=google_api_key, address=place['formatted_address'])) as google_geocode_response:
+                                if google_geocode_response.ok:
+                                    request_count += 1
+                                    google_geocode_response = google_geocode_response.json()
+                                    if google_geocode_response['status'] == 'OK':
+                                        results = google_geocode_response['results']
+                                        if len(results) > 0:
+                                            selected = 0
+                                            if len(results) > 1:
+                                                print(f'Multiple results found. Which place is correct for {place["pollPlaceName"]} at {place["formatted_address"]}:')
+                                                for i, result in enumerate(results):
+                                                    print(i, '=>', result['address_components']['formatted_address'], result['geometry']['location'], sep='\t')
+                                                selected = int(input('\nPlease enter integer selection:'))
+                                            place_id = results[selected]['place_id']
+                                            lat = results[selected]['geometry']['location']['lat']
+                                            lng = results[selected]['geometry']['location']['lng']
+                                            place_stats = (place_id, lat, lng)
+                                            with open(cache_file_path, 'wb') as response_file:
+                                                pickle.dump(place_stats, response_file)
+                                            time.sleep(delay)
+                        if place_stats is None:
+                            print(google_geocode_response)
+                            errors.append(place)
+                            progress.set_description(f'errors:{len(errors)}')
 
-                if place_id is not None:
+                if place_stats is not None:
                     place['place_id'] = place_id
-                    startEndDate = place['startAndEndDate']
-                    startEndDate = bs4.BeautifulSoup(startEndDate, 'html.parser')
+                    place['lat'] = lat
+                    place['lng'] = lng
+                    startEndDate = bs4.BeautifulSoup(place['startAndEndDate'], 'html.parser')
                     dates = list(map(lambda _soup: str(_soup.text) if isinstance(_soup, bs4.Tag) else _soup, startEndDate.children))
                     dates = list(filter(lambda _x: len(_x) > 0, map(lambda _date: _date.strip(' '), dates)))
-                    geocode_placeid_cache.append(dict(pollPlaceName=place['pollPlaceName'], googlePlaceID=place_id, dates=dates))
+                    geocode_placeid_cache.append(dict(pollPlaceName=place['pollPlaceName'], googlePlaceID=place_id, dates=dates, lat=lat, lng=lng))
 
             places_df = pd.DataFrame([place for place in simplified_places if place not in errors])
             places_df.to_csv('places.csv')
@@ -76,6 +93,7 @@ def cache_google_place_ids(google_api_key):
             geocode_cache_df.to_csv('geocode_place_id_cache.csv')
             with open('geocode_place_id_cache.json', 'wt') as json_out:
                 json.dump(geocode_placeid_cache, json_out, indent=4)
+
 
             for error in errors:
                 print(f'Cannot find location for {error}.')
@@ -88,3 +106,4 @@ if __name__ == '__main__':
     parser.add_argument('google_api_key', help='Required Google Maps API key for fetching/caching placeIds for later use.')
     args = parser.parse_args()
     cache_google_place_ids(google_api_key=args.google_api_key)
+
