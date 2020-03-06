@@ -1,27 +1,41 @@
 function status(response) {
-  if (response.status >= 200 && response.status < 300) {
-    return Promise.resolve(response)
-  } else {
-      console.log(response);
-      console.log(response.error);
-    return Promise.reject(new Error(response.statusText))
-  }
+    if (response.status >= 200 && response.status < 300) {
+        return Promise.resolve(response)
+    } else {
+        console.log(response);
+        console.log(response.error);
+        return Promise.reject(new Error(response.statusText))
+    }
 }
 
 function json(response) {
-  return response.json()
+    return response.json()
 }
 
 
-async function get_voting_locations(){
+async function get_voting_locations() {
+    map = new google.maps.Map(document.getElementById('map'), {
+        center: {lat: 33.247875, lng: -83.441162},
+        zoom: 8
+    });
+    markers = []
     let result = fetch('./geocode_place_id_cache.json')
         .then(status)
         .then(json)
         .then((data) => {
-            console.log(data);
+            console.log("Loaded temporary cache of "+data.length+" polling locations.");
             return data;
+        })
+        .then((data) => {
+           for (let i = 0; i < data.length; i++){
+               let result = data[i];
+               let latLng = new google.maps.LatLng(result['lat'], result['lng'])
+               let marker = new google.maps.Marker({
+                   position: latLng,
+                   map: map,
+                   name: result['pollPlaceName']
+               });
+           }
         });
-    return result;
 }
 
-let data = get_voting_locations();
