@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <title>Where can I vote early in Georgia?</title>
     <script src="get_voting_locations.js"></script>
+    <script src="https://unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js"></script>
     <style>
       /* Always set the map height explicitly to define the size of the div
        * element that contains the map. */
@@ -21,9 +22,7 @@
 
 </head>
 <body>
-<div id="map"></div>
-    <script>
-    </script>
+    <div id="map"></div>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDjF7ewJ0a-_jKTpb0a4UllztzD4E1184U&callback=get_voting_locations"
     async defer></script>
 
