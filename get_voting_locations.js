@@ -19,6 +19,7 @@ async function get_voting_locations(){
         .then(json)
         .then((data) => {
             console.log(data);
+            return data;
         });
     return result;
 }
