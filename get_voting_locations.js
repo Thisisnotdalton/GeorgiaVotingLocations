@@ -12,16 +12,18 @@ function json(response) {
     return response.json()
 }
 
+let map = null;
+let markers = null;
 
 async function get_voting_locations() {
-    let map = new google.maps.Map(document.getElementById('map'), {
+    map = new google.maps.Map(document.getElementById('map'), {
         center: {lat: 33.247875, lng: -83.441162},
         zoom: 8,
         minZoom: 7,
         maxZoom: 18,
         streetViewControl: false
     });
-    let markers = []
+    markers = []
     fetch('./geocode_place_id_cache.json')
         .then(status)
         .then(json)
@@ -67,3 +69,9 @@ async function get_voting_locations() {
         });
 }
 
+function moveMap(){
+    let lat = parseFloat(document.getElementById("latitude").value);
+    let lng = parseFloat(document.getElementById("longitude").value);
+    map.panTo(new google.maps.LatLng(lat, lng));
+    console.log(lat +','+lng);
+}

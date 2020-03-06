@@ -11,17 +11,44 @@
        * element that contains the map. */
       #map {
         height: 100%;
+        flex-grow: 3;
+        background: darkgray;
+      }
+      #options{
+        display: flex;
+        flex-grow:1;
+        height: 100%;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        background: #4285F4;
       }
       /* Optional: Makes the sample page fill the window. */
       html, body {
         height: 100%;
+        width: 100%;
         margin: 0;
         padding: 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
       }
     </style>
 
 </head>
 <body>
+    <div id="options">
+        <div>
+             <form id="coordinates">
+              <label for="latitude">Latitude:</label><br>
+              <input type="text" id="latitude" name="latitude"><br>
+              <label for="longitude">Longitude:</label><br>
+              <input type="text" id="longitude" name="longitude"><br>
+            </form>
+            <button type="button" onclick="moveMap()">Submit</button>
+        </div>
+    </div>
     <div id="map"></div>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDjF7ewJ0a-_jKTpb0a4UllztzD4E1184U&callback=get_voting_locations"
     async defer></script>
