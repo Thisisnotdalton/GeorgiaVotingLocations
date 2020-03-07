@@ -14,7 +14,7 @@ function json(response) {
 
 let map = null;
 let markers = null;
-let circle = null;
+let locationMarker = null;
 
 async function get_voting_locations() {
     if ("geolocation" in navigator) {
@@ -91,19 +91,15 @@ function moveMap(){
     let lat = parseFloat(document.getElementById("latitude").value);
     let lng = parseFloat(document.getElementById("longitude").value);
     let position = new google.maps.LatLng(lat, lng)
-    if (circle == null){
-        circle = new google.maps.Circle({
-            strokeColor: '#FF0000',
-            strokeOpacity: 0.8,
-            strokeWeight: 2,
-            fillColor: '#FF0000',
-            fillOpacity: 0.35,
+    if (locationMarker == null){
+        locationMarker = new google.maps.Marker({
+            position: position,
             map: map,
-            center: position,
-            radius: 100 * map.getZoom() / 18
+            label: 'You are here!',
+            icon: './markerclustererplus/images/people35.png'
         });
     }
-    circle.setCenter(position);
+    locationMarker.setPosition(position);
     map.panTo(position);
     console.log(lat +','+lng);
 }
