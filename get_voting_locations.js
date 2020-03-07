@@ -109,6 +109,7 @@ function findNearestPollingPlaceBounds(location, count=3){
     let bounds = new google.maps.LatLngBounds();
     bounds.extend(location);
     for (let i = 0; i < pollingPlaces.length; i++){
+        console.log("Nearest location "+(i+1)+": "+markers[i].label);
         bounds.extend(markers[i].getPosition());
     }
 
