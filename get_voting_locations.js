@@ -15,6 +15,9 @@ function json(response) {
 let map = null;
 let markers = null;
 let locationMarker = null;
+let counties = null;
+let markersByCounty = null;
+let countyFilter = null;
 
 async function get_voting_locations() {
     if ("geolocation" in navigator) {
@@ -31,7 +34,9 @@ async function get_voting_locations() {
         maxZoom: 18,
         streetViewControl: false
     });
-    markers = []
+    markers = [];
+    counties = [];
+    markersByCounty = {};
     fetch('./geocode_place_id_cache.json')
         .then(status)
         .then(json)
@@ -42,6 +47,22 @@ async function get_voting_locations() {
         .then((data) => {
             for (let i = 0; i < data.length; i++) {
                 let result = data[i];
+                let county = result['county'];
+                let countyIndex = counties.length;
+                for (let j = counties.length - 1; j >= 0; j--) {
+                    if (counties[j] <= county) {
+                        if (counties[j] == county) {
+                            countyIndex = -1;
+                        }
+                        break;
+                    }
+                    countyIndex = j;
+                }
+                if (countyIndex >= 0) {
+                    counties.splice(countyIndex, 0, county);
+                    markersByCounty[county] = [];
+                }
+
                 let latLng = new google.maps.LatLng(result['lat'], result['lng']);
                 let marker = new google.maps.Marker({
                     position: latLng,
@@ -67,6 +88,7 @@ async function get_voting_locations() {
                     infoWindow.close();
                 });
                 markers.push(marker);
+                markersByCounty[county].push(marker);
             }
             let markerCluster = new MarkerClusterer(map, markers,
                 {
@@ -75,6 +97,15 @@ async function get_voting_locations() {
                 });
             return markerCluster;
         });
+    for(let i = 0; i < counties.length; i++){
+        let opt = document.createElement('option')
+        opt.value = counties[i];
+        opt.innerHTML = counties[i];
+        opt.addEventListener('onselect', () =>{
+            filterMarkersByCounty(counties[i]);
+        })
+        document.getElementById("countySelect").appendChild(opt);
+    }
 }
 
 function get_coordinates() {
@@ -84,6 +115,15 @@ function get_coordinates() {
             document.getElementById("longitude").value = position.coords.longitude;
             moveMap();
         });
+    }
+}
+
+function filterMarkersByCounty(county=null) {
+    countyFilter = county;
+    for (let i = 0; i < counties.length; i++) {
+        for (let j = 0; j < markersByCounty[counties[i]].length; j++) {
+            markersByCounty[counties[i]][j].setMap((county == counties[i] || county == null) ? map : null);
+        }
     }
 }
 
@@ -142,14 +182,14 @@ function moveMap() {
 
 let optionsEnabled = true;
 
-function toggleOptions(){
-    if (optionsEnabled){
-        document.getElementById("options").style.display="none";
-        document.getElementById("options-button").style.display="flex";
-    }else{
+function toggleOptions() {
+    if (optionsEnabled) {
+        document.getElementById("options").style.display = "none";
+        document.getElementById("options-button").style.display = "flex";
+    } else {
 
-        document.getElementById("options").style.display="flex";
-        document.getElementById("options-button").style.display="none";
+        document.getElementById("options").style.display = "flex";
+        document.getElementById("options-button").style.display = "none";
     }
 
     optionsEnabled = !optionsEnabled;
