@@ -96,16 +96,17 @@ async function get_voting_locations() {
                     maxZoom: map.maxZoom - 1
                 });
             return markerCluster;
-        });
-    for(let i = 0; i < counties.length; i++){
-        let opt = document.createElement('option')
-        opt.value = counties[i];
-        opt.innerHTML = counties[i];
-        opt.addEventListener('onselect', () =>{
-            filterMarkersByCounty(counties[i]);
-        })
-        document.getElementById("countySelect").appendChild(opt);
-    }
+        }).then(() => {
+            for (let i = 0; i < counties.length; i++) {
+                let opt = document.createElement('option')
+                opt.value = counties[i];
+                opt.innerHTML = counties[i];
+                opt.addEventListener('onselect', () => {
+                    filterMarkersByCounty(counties[i]);
+                })
+                document.getElementById("countySelect").appendChild(opt);
+            }
+    });
 }
 
 function get_coordinates() {
@@ -118,7 +119,7 @@ function get_coordinates() {
     }
 }
 
-function filterMarkersByCounty(county=null) {
+function filterMarkersByCounty(county = null) {
     countyFilter = county;
     for (let i = 0; i < counties.length; i++) {
         for (let j = 0; j < markersByCounty[counties[i]].length; j++) {
