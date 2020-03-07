@@ -101,9 +101,6 @@ async function get_voting_locations() {
             let opt = document.createElement('option')
             opt.value = counties[i];
             opt.innerHTML = counties[i];
-            opt.onselect = () => {
-                filterMarkersByCounty(counties[i]);
-            };
             document.getElementById("countySelect").appendChild(opt);
         }
     });
@@ -119,8 +116,8 @@ function get_coordinates() {
     }
 }
 
-function filterMarkersByCounty(county = null) {
-    if (county != null) {
+function filterMarkersByCounty(county = 'Any') {
+    if (county != 'Any') {
         console.log("Filtering out markers which do not match county " + county);
     }else{
         console.log("Removing county filter.");
@@ -128,11 +125,11 @@ function filterMarkersByCounty(county = null) {
     countyFilter = county;
     for (let i = 0; i < counties.length; i++) {
         for (let j = 0; j < markersByCounty[counties[i]].length; j++) {
-            markersByCounty[counties[i]][j].setMap((county == counties[i] || county == null) ? map : null);
+            markersByCounty[counties[i]][j].setMap((county == counties[i] || county == 'Any') ? map : null);
         }
     }
     markerCluster.clearMarkers();
-    markerCluster = new MarkerClusterer(map, county == null? markers : markersByCounty[county],
+    markerCluster = new MarkerClusterer(map, county == 'Any'? markers : markersByCounty[county],
     {
         imagePath: './markerclustererplus/images/m',
         maxZoom: map.maxZoom - 1

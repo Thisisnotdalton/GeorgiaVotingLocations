@@ -68,8 +68,8 @@
               <label for="longitude">Longitude:</label><br>
               <input type="text" id="longitude" name="longitude"><br>
               <label for="countySelect">County:</label><br>
-              <select id="countySelect">
-                  <option value="Any" onselect="filterMarkersByCounty()">Any</option>
+              <select id="countySelect" onchange="filterMarkersByCounty(this.value)">
+                  <option value="Any">Any</option>
               </select>
             </form>
             <button class="btn btn-light btn-block" type="button" onclick="moveMap()">Submit</button>
