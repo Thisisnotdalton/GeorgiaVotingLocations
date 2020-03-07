@@ -140,3 +140,17 @@ function moveMap() {
     console.log(lat + ',' + lng);
 }
 
+let optionsEnabled = true;
+
+function toggleOptions(){
+    if (optionsEnabled){
+        document.getElementById("options").style.display="none";
+        document.getElementById("options-button").style.display="flex";
+    }else{
+
+        document.getElementById("options").style.display="flex";
+        document.getElementById("options-button").style.display="none";
+    }
+
+    optionsEnabled = !optionsEnabled;
+}

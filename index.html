@@ -6,6 +6,8 @@
     <title>Where can I vote early in Georgia?</title>
     <script src="get_voting_locations.js"></script>
     <script src="https://unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     <style>
       /* Always set the map height explicitly to define the size of the div
        * element that contains the map. */
@@ -26,6 +28,11 @@
         background: #4b91fa;
         overflow: hidden;
         box-sizing: border-box;
+        overflow: hidden;
+      }
+      #options-button{
+          display: none;
+          height: 100%;
       }
       /* Optional: Makes the sample page fill the window. */
       html, body {
@@ -38,24 +45,30 @@
         justify-content: center;
         align-items: center;
       }
+      button{
+        margin-top: 5%;
+        margin-bottom: 5%;
+      }
     </style>
 
 </head>
 <body>
+    <button id="options-button" class="btn btn-primary" onclick="toggleOptions()">Menu</button>
     <div id="options">
         <h1>Where can I vote early in Georgia's Primary Elections?</h1>
         <p>Simply enter your location below and submit to view the closest 3 early voting locations near you! Click on any polling place marker to view its title, address, and availability.</p>
         <div>
-            <button type="button" onclick="get_coordinates()" id="GetLocation">Check my location</button>
+            <button class="btn btn-light btn-block" type="button" onclick="get_coordinates()" id="GetLocation">Check my location</button>
              <form id="coordinates">
               <label for="latitude">Latitude:</label><br>
               <input type="text" id="latitude" name="latitude"><br>
               <label for="longitude">Longitude:</label><br>
               <input type="text" id="longitude" name="longitude"><br>
             </form>
-            <button type="button" onclick="moveMap()">Submit</button>
+            <button class="btn btn-light btn-block" type="button" onclick="moveMap()">Submit</button>
         </div>
 
+        <button class="btn btn-light btn-block" type="button" onclick="toggleOptions()">Hide Menu</button>
         <p><i>For best results, we recommend using this site on a mobile device with a wide screen orientation.</i></p>
         <p>All data for polling locations was fetched from  Georgia's <a href="https://www.mvp.sos.ga.gov/MVP/mvp.do">My Voter Page</a>.</p>
         <p><small>This website is a personal project by <a href="https://www.linkedin.com/in/dalton-nickerson/">Dalton Nickerson</a> and is not affiliated with any government agency or group.</small></p>
