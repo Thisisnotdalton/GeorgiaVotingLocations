@@ -14,6 +14,7 @@ function json(response) {
 
 let map = null;
 let markers = null;
+let markerCluster = null;
 let locationMarker = null;
 let counties = null;
 let markersByCounty = null;
@@ -90,12 +91,11 @@ async function get_voting_locations() {
                 markers.push(marker);
                 markersByCounty[county].push(marker);
             }
-            let markerCluster = new MarkerClusterer(map, markers,
-                {
-                    imagePath: './markerclustererplus/images/m',
-                    maxZoom: map.maxZoom - 1
-                });
-            return markerCluster;
+            markerCluster = new MarkerClusterer(map, markers,
+            {
+                imagePath: './markerclustererplus/images/m',
+                maxZoom: map.maxZoom - 1
+            });
         }).then(() => {
         for (let i = 0; i < counties.length; i++) {
             let opt = document.createElement('option')
@@ -122,6 +122,8 @@ function get_coordinates() {
 function filterMarkersByCounty(county = null) {
     if (county != null) {
         console.log("Filtering out markers which do not match county " + county);
+    }else{
+        console.log("Removing county filter.");
     }
     countyFilter = county;
     for (let i = 0; i < counties.length; i++) {
@@ -129,6 +131,12 @@ function filterMarkersByCounty(county = null) {
             markersByCounty[counties[i]][j].setMap((county == counties[i] || county == null) ? map : null);
         }
     }
+    markerCluster.clearMarkers();
+    markerCluster = new MarkerClusterer(map, county == null? markers : markersByCounty[county],
+    {
+        imagePath: './markerclustererplus/images/m',
+        maxZoom: map.maxZoom - 1
+    });
 }
 
 function findNearestPollingPlaceBounds(location, count = 3) {
