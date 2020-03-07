@@ -106,25 +106,13 @@ function findNearestPollingPlaceBounds(location, count=3){
             }
         }
     }
-    let n = null;
-    let e = null;
-    let s = null;
-    let w = null;
+    let bounds = new google.maps.LatLngBounds();
+    bounds.extend(location);
     for (let i = 0; i < pollingPlaces.length; i++){
-        if (n == null || markers[i].latitude > n){
-            n = markers[i].latitude;
-        }else if (s == null || markers[i].latitude < s){
-            s = markers[i].latitude;
-        }
-
-        if (e == null || markers[i].longitude > e){
-            e = markers[i].longitude;
-        }else if (w == null || markers[i].longitude < w){
-            w = markers[i].longitude;
-        }
+        bounds.extend(markers[i].getPosition());
     }
 
-    return new google.maps.LatLngBounds([new google.maps.LatLng(s, w), new google.maps.LatLng(n, e)]);
+    return bounds;
 }
 
 function moveMap(){
