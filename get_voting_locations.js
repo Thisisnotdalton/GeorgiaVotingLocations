@@ -87,6 +87,46 @@ function get_coordinates(){
     }
 }
 
+function findNearestPollingPlaceBounds(location, count=3){
+    let pollingPlaces = [];
+    let distances = [];
+    for (let i = 0; i < markers.length; i++){
+        let distance = google.maps.geometry.spherical.computeDistanceBetween(location, markers[i].getPosition());
+        if (distances.length < count || distance < distances[distances.length - 1]){
+            for(let j = 0; j < distance.length; j++){
+                if (distance < distances[j]){
+                    distances.splice(j, 0, distance);
+                    pollingPlaces.splice(j, 0, i);
+                    break;
+                }
+            }
+            if (distances.length > count){
+                distances.pop();
+                pollingPlaces.pop();
+            }
+        }
+    }
+    let n = null;
+    let e = null;
+    let s = null;
+    let w = null;
+    for (let i = 0; i < pollingPlaces.length; i++){
+        if (n == null || markers[i].latitude > n){
+            n = markers[i].latitude;
+        }else if (s == null || markers[i].latitude < s){
+            s = markers[i].latitude;
+        }
+
+        if (e == null || markers[i].longitude > e){
+            e = markers[i].longitude;
+        }else if (w == null || markers[i].longitude < w){
+            w = markers[i].longitude;
+        }
+    }
+
+    return new google.maps.LatLngBounds([new google.maps.LatLng(s, w), new google.maps.LatLng(n, e)]);
+}
+
 function moveMap(){
     let lat = parseFloat(document.getElementById("latitude").value);
     let lng = parseFloat(document.getElementById("longitude").value);
@@ -101,5 +141,9 @@ function moveMap(){
     }
     locationMarker.setPosition(position);
     map.panTo(position);
+    map.fitBounds(findNearestPollingPlaceBounds(position), 100);
+
+
     console.log(lat +','+lng);
 }
+
