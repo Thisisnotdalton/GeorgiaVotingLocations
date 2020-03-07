@@ -18,10 +18,10 @@ let locationMarker = null;
 
 async function get_voting_locations() {
     if ("geolocation" in navigator) {
-      /* geolocation is available */
+        /* geolocation is available */
     } else {
-      let location_button = document.getElementById("GetLocation");
-      location_button.parentElement.removeChild(location_button);
+        let location_button = document.getElementById("GetLocation");
+        location_button.parentElement.removeChild(location_button);
     }
 
     map = new google.maps.Map(document.getElementById('map'), {
@@ -77,8 +77,8 @@ async function get_voting_locations() {
         });
 }
 
-function get_coordinates(){
-    if ("geolocation" in navigator){
+function get_coordinates() {
+    if ("geolocation" in navigator) {
         navigator.geolocation.getCurrentPosition((position) => {
             document.getElementById("latitude").value = position.coords.latitude;
             document.getElementById("longitude").value = position.coords.longitude;
@@ -87,20 +87,23 @@ function get_coordinates(){
     }
 }
 
-function findNearestPollingPlaceBounds(location, count=3){
+function findNearestPollingPlaceBounds(location, count = 3) {
     let pollingPlaces = [];
     let distances = [];
-    for (let i = 0; i < markers.length; i++){
+    for (let i = 0; i < markers.length; i++) {
         let distance = google.maps.geometry.spherical.computeDistanceBetween(location, markers[i].getPosition());
-        if (distances.length < count || distance < distances[distances.length - 1]){
-            for(let j = 0; j < distance.length; j++){
-                if (distance < distances[j]){
-                    distances.splice(j, 0, distance);
-                    pollingPlaces.splice(j, 0, i);
+        if (distances.length < count || distance < distances[distances.length - 1]) {
+            let insertion_point = 0;
+            for (let j = 0; j < distances.length; j++) {
+                insertion_point = j;
+                if (distance < distances[j]) {
                     break;
                 }
             }
-            if (distances.length > count){
+            distances.splice(insertion_point, 0, distance);
+            pollingPlaces.splice(insertion_point, 0, i);
+
+            if (distances.length > count) {
                 distances.pop();
                 pollingPlaces.pop();
             }
@@ -108,19 +111,19 @@ function findNearestPollingPlaceBounds(location, count=3){
     }
     let bounds = new google.maps.LatLngBounds();
     bounds.extend(location);
-    for (let i = 0; i < pollingPlaces.length; i++){
-        console.log("Nearest location "+(i+1)+": "+markers[i].label);
-        bounds.extend(markers[i].getPosition());
+    for (let i = 0; i < pollingPlaces.length; i++) {
+        console.log("Nearest location " + (pollingPlaces[i]) + ": " + markers[pollingPlaces[i]].getPosition());
+        bounds.extend(markers[pollingPlaces[i]].getPosition());
     }
 
     return bounds;
 }
 
-function moveMap(){
+function moveMap() {
     let lat = parseFloat(document.getElementById("latitude").value);
     let lng = parseFloat(document.getElementById("longitude").value);
     let position = new google.maps.LatLng(lat, lng)
-    if (locationMarker == null){
+    if (locationMarker == null) {
         locationMarker = new google.maps.Marker({
             position: position,
             map: map,
@@ -129,10 +132,11 @@ function moveMap(){
         });
     }
     locationMarker.setPosition(position);
+    map.setZoom(18);
     map.panTo(position);
     map.fitBounds(findNearestPollingPlaceBounds(position), 100);
 
 
-    console.log(lat +','+lng);
+    console.log(lat + ',' + lng);
 }
 
