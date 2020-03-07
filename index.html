@@ -11,7 +11,7 @@
        * element that contains the map. */
       #map {
         height: 100%;
-        flex-grow: 3;
+        flex-grow: 4;
         background: darkgray;
       }
       #options{
@@ -40,6 +40,7 @@
 <body>
     <div id="options">
         <div>
+            <button type="button" onclick="get_coordinates()" id="GetLocation">Check my location</button>
              <form id="coordinates">
               <label for="latitude">Latitude:</label><br>
               <input type="text" id="latitude" name="latitude"><br>
@@ -47,6 +48,7 @@
               <input type="text" id="longitude" name="longitude"><br>
             </form>
             <button type="button" onclick="moveMap()">Submit</button>
+
         </div>
     </div>
     <div id="map"></div>

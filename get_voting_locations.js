@@ -16,6 +16,13 @@ let map = null;
 let markers = null;
 
 async function get_voting_locations() {
+    if ("geolocation" in navigator) {
+      /* geolocation is available */
+    } else {
+      let location_button = document.getElementById("GetLocation");
+      location_button.parentElement.removeChild(location_button);
+    }
+
     map = new google.maps.Map(document.getElementById('map'), {
         center: {lat: 33.247875, lng: -83.441162},
         zoom: 8,
@@ -67,6 +74,16 @@ async function get_voting_locations() {
                 });
             return markerCluster;
         });
+}
+
+function get_coordinates(){
+    if ("geolocation" in navigator){
+        navigator.geolocation.getCurrentPosition((position) => {
+            document.getElementById("latitude").value = position.coords.latitude;
+            document.getElementById("longitude").value = position.coords.longitude;
+            moveMap();
+        });
+    }
 }
 
 function moveMap(){
