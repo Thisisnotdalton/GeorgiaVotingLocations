@@ -112,6 +112,9 @@ function get_coordinates() {
             document.getElementById("latitude").value = position.coords.latitude;
             document.getElementById("longitude").value = position.coords.longitude;
             moveMap();
+        }, () =>{
+            document.getElementById("latitude").value = "unable to access GPS";
+            document.getElementById("longitude").value = "unable to access GPS";
         });
     }
 }

@@ -52,6 +52,13 @@
         margin-top: 5%;
         margin-bottom: 5%;
       }
+
+      h1, li, p{
+        color: white;
+      }
+      a{
+        color: #FF1111;
+      }
     </style>
 
 </head>
@@ -59,18 +66,22 @@
     <button id="options-button" class="btn btn-primary" onclick="toggleOptions()">Menu</button>
     <div id="options">
         <h1>Where can I vote early in Georgia's Primary Elections?</h1>
-        <p>Simply enter your location below and submit to view the closest 3 early voting locations near you! Click on any polling place marker to view its title, address, and availability.</p>
+        <ul>
+            <li>Click on any polling place marker to view its title, address, and availability.</li>
+            <li>Select a county to view all early voting locations in that county.</li>
+            <li>Enter your location below and submit to view the closest 3 early voting locations near you.</li>
+        </ul>
         <div>
+             <label for="countySelect">County:</label><br>
+             <select id="countySelect" onchange="filterMarkersByCounty(this.value)">
+                 <option value="Any">Any</option>
+             </select>
             <button class="btn btn-light btn-block" type="button" onclick="get_coordinates()" id="GetLocation">Check my location</button>
              <form id="coordinates">
               <label for="latitude">Latitude:</label><br>
               <input type="text" id="latitude" name="latitude"><br>
               <label for="longitude">Longitude:</label><br>
               <input type="text" id="longitude" name="longitude"><br>
-              <label for="countySelect">County:</label><br>
-              <select id="countySelect" onchange="filterMarkersByCounty(this.value)">
-                  <option value="Any">Any</option>
-              </select>
             </form>
             <button class="btn btn-light btn-block" type="button" onclick="moveMap()">Submit</button>
         </div>
