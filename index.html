@@ -25,9 +25,9 @@
         height: 100%;
         flex-basis: 20rem;
         flex-direction: column;
-        justify-content: safe center;
+        justify-content: flex-start;
         align-self: safe center;
-        align-items: center;
+        align-items: flex-start;
         background: #4b91fa;
         box-sizing: border-box;
         overflow: scroll;
@@ -84,9 +84,9 @@
               <input type="text" id="longitude" name="longitude"><br>
             </form>
             <button class="btn btn-light btn-block" type="button" onclick="moveMap()">Submit</button>
+            <button class="btn btn-light btn-block" type="button" onclick="toggleOptions()">Hide Menu</button>
         </div>
 
-        <button class="btn btn-light btn-block" type="button" onclick="toggleOptions()">Hide Menu</button>
         <p><i>For best results, we recommend using this site on a mobile device with a wide screen orientation.</i></p>
         <p>All data for polling locations was fetched from  Georgia's <a href="https://www.mvp.sos.ga.gov/MVP/mvp.do">My Voter Page</a>.</p>
         <p><small>This website is a personal project by <a href="https://www.linkedin.com/in/dalton-nickerson/">Dalton Nickerson</a> and is not affiliated with any government agency or group.</small></p>
