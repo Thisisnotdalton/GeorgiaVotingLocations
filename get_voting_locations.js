@@ -129,11 +129,19 @@ function filterMarkersByCounty(county = 'Any') {
         }
     }
     markerCluster.clearMarkers();
-    markerCluster = new MarkerClusterer(map, county == 'Any'? markers : markersByCounty[county],
+
+    let activeMarkers = county == 'Any'? markers : markersByCounty[county];
+
+    markerCluster = new MarkerClusterer(map, activeMarkers,
     {
         imagePath: './markerclustererplus/images/m',
         maxZoom: map.maxZoom - 1
     });
+    let bounds = new google.maps.LatLngBounds();
+    for (let i = 0; i < activeMarkers.length; i++) {
+        bounds.extend(activeMarkers[i].getPosition());
+    }
+    map.fitBounds(bounds, 100);
 }
 
 function findNearestPollingPlaceBounds(location, count = 3) {
