@@ -12,7 +12,7 @@ import bs4
 
 voting_locations_url = 'https://www.mvp.sos.ga.gov/MVP/advancePollPlace.do?'
 google_geocode_url = 'https://maps.googleapis.com/maps/api/geocode/json?'
-
+google_places_url = 'https://maps.googleapis.com/maps/api/place/details/json?'
 county_source = f"zip://{os.path.abspath('./Census_2010_Counties_Georgia.zip')}!Census_2010_Counties_Georgia.shp"
 
 
@@ -87,6 +87,21 @@ def cache_google_place_ids(google_api_key, max_retries=3, delay=0.02):
                                 print(google_geocode_response)
                                 errors.append(place)
                                 progress.set_description(f'errors:{len(errors)}')
+                                manual = input('Would you like to manually enter a place id y/n\n').lower()
+                                if 'y' in manual:
+                                    place_id = input('Please enter the place id:\n')
+                                    with requests.get(google_places_url, params=dict(key=google_api_key, place_id=place_id)) as google_geocode_response:
+                                        if google_geocode_response.ok:
+                                            request_count += 1
+                                            google_geocode_response = google_geocode_response.json()
+                                            if google_geocode_response['status'] == 'OK':
+                                                result = google_geocode_response['result']
+                                                lat = result['geometry']['location']['lat']
+                                                lng = result['geometry']['location']['lng']
+                                                place_stats = (place_id, lat, lng)
+                                                with open(cache_file_path, 'wb') as response_file:
+                                                    pickle.dump(place_stats, response_file)
+                                                time.sleep(delay)
 
                     if place_stats is not None:
                         place['place_id'] = place_id
