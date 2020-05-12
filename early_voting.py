@@ -62,6 +62,7 @@ def cache_google_place_ids(google_api_key, max_retries=3, delay=0.02):
                         if place_stats is None:
                             attempts = 0
                             while attempts < max_retries and place_stats is None:
+                                attempts += 1
                                 with requests.get(google_geocode_url, params=dict(key=google_api_key, address=place['formatted_address'])) as google_geocode_response:
                                     if google_geocode_response.ok:
                                         request_count += 1
