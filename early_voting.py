@@ -30,7 +30,7 @@ def cache_google_place_ids(google_api_key, max_retries=3, delay=0.02):
     geocode_placeid_cache = []
     request_count = 0
     counties = gpd.read_file(county_source)
-    counties['idTown'] = counties['COUNTY'].apply(lambda _x: str(_x).zfill(3))
+    counties['idTown'] = counties['OBJECTID_1'].apply(lambda _x: str(_x).zfill(3))
     counties.sort_values(by=['idTown'], inplace=True)
     polling_locations = []
 
@@ -128,7 +128,9 @@ def cache_google_place_ids(google_api_key, max_retries=3, delay=0.02):
                         geocode_placeid_cache.append(dict(pollPlaceName=place['pollPlaceName'], googlePlaceID=place_id, dates=dates,
                                                           county=county['NAME'], idTown=county['idTown'],
                                                           lat=lat, lng=lng, address=place['formatted_address'], url=place['googleAddress']))
-                polling_locations.extend([place for place in simplified_places if place not in errors])
+                county_polling_locations = [place for place in simplified_places if place not in errors]
+                print(f'Found {len(county_polling_locations)} for {county["NAME"]}.')
+                polling_locations.extend(county_polling_locations)
     places_df = pd.DataFrame(polling_locations)
     places_df.to_csv('places.csv')
     print(f'Fetched {len(places_df)} results using {request_count} new placeId requests.')
