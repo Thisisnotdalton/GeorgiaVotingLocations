@@ -13,7 +13,8 @@ import bs4
 voting_locations_url = 'https://www.mvp.sos.ga.gov/MVP/advancePollPlace.do?'
 google_geocode_url = 'https://maps.googleapis.com/maps/api/geocode/json?'
 google_places_url = 'https://maps.googleapis.com/maps/api/place/details/json?'
-county_source = f"zip://{os.path.abspath('./Census_2010_Counties_Georgia.zip')}!Census_2010_Counties_Georgia.shp"
+county_source = f"zip://{os.path.abspath('./Census_2010_Counties_Georgia-shp.zip')}!Census_2010_Counties_Georgia.shp"
+# source: https://gisdata.fultoncountyga.gov/datasets/GARC::census-2010-counties-georgia
 
 
 def stable_hash(item: str) -> str:
@@ -29,7 +30,7 @@ def cache_google_place_ids(google_api_key, max_retries=3, delay=0.02):
     geocode_placeid_cache = []
     request_count = 0
     counties = gpd.read_file(county_source)
-    counties['idTown'] = counties['OBJECTID_1'].apply(lambda _x: str(_x).zfill(3))
+    counties['idTown'] = counties['COUNTY'].apply(lambda _x: str(_x).zfill(3))
     counties.sort_values(by=['idTown'], inplace=True)
     polling_locations = []
 
@@ -61,9 +62,9 @@ def cache_google_place_ids(google_api_key, max_retries=3, delay=0.02):
                     finally:
                         if place_stats is None:
                             attempts = 0
+                            geocode_params = dict(key=google_api_key, address=place['formatted_address'])
                             while attempts < max_retries and place_stats is None:
-                                attempts += 1
-                                with requests.get(google_geocode_url, params=dict(key=google_api_key, address=place['formatted_address'])) as google_geocode_response:
+                                with requests.get(google_geocode_url, params=geocode_params) as google_geocode_response:
                                     if google_geocode_response.ok:
                                         request_count += 1
                                         google_geocode_response = google_geocode_response.json()
@@ -71,37 +72,51 @@ def cache_google_place_ids(google_api_key, max_retries=3, delay=0.02):
                                             results = google_geocode_response['results']
                                             if len(results) > 0:
                                                 selected = 0
-                                                if len(results) > 1:
-                                                    print(f'Multiple results found. Which place is correct for {place["pollPlaceName"]} at {place["formatted_address"]}:')
+                                                if len(results) != 1:
+                                                    print(f'Unexpected number of results found. Which place is correct for {place["pollPlaceName"]} at {place["formatted_address"]}:')
                                                     for i, result in enumerate(results):
                                                         print(i, '=>', result['geometry']['location'], result, sep='\t')
-                                                    selected = int(input('\nPlease enter integer selection:'))
-                                                place_id = results[selected]['place_id']
-                                                lat = results[selected]['geometry']['location']['lat']
-                                                lng = results[selected]['geometry']['location']['lng']
-                                                place_stats = (place_id, lat, lng)
-                                                with open(cache_file_path, 'wb') as response_file:
-                                                    pickle.dump(place_stats, response_file)
-                                                time.sleep(delay)
-                            if place_stats is None:
-                                print(google_geocode_response)
-                                errors.append(place)
-                                progress.set_description(f'errors:{len(errors)}')
-                                manual = input('Would you like to manually enter a place id y/n\n').lower()
-                                if 'y' in manual:
-                                    place_id = input('Please enter the place id:\n')
-                                    with requests.get(google_places_url, params=dict(key=google_api_key, place_id=place_id)) as google_geocode_response:
-                                        if google_geocode_response.ok:
-                                            request_count += 1
-                                            google_geocode_response = google_geocode_response.json()
-                                            if google_geocode_response['status'] == 'OK':
-                                                result = google_geocode_response['result']
-                                                lat = result['geometry']['location']['lat']
-                                                lng = result['geometry']['location']['lng']
-                                                place_stats = (place_id, lat, lng)
-                                                with open(cache_file_path, 'wb') as response_file:
-                                                    pickle.dump(place_stats, response_file)
-                                                time.sleep(delay)
+                                                    selected = input('\nPlease enter integer selection to manually enter a place id or a plus code:')
+                                                    try:
+                                                        selected = int(selected)
+                                                    except:
+                                                        if len(selected) > 0:
+                                                            geocode_params['address'] = selected
+                                                            continue
+                                                if selected >= 0:
+                                                    place_id = results[selected]['place_id']
+                                                    lat = results[selected]['geometry']['location']['lat']
+                                                    lng = results[selected]['geometry']['location']['lng']
+                                                    place_stats = (place_id, lat, lng)
+                                                    with open(cache_file_path, 'wb') as response_file:
+                                                        pickle.dump(place_stats, response_file)
+                                            time.sleep(delay)
+                                if place_stats is None:
+                                    print(google_geocode_response)
+                                    errors.append(place)
+                                    progress.set_description(f'errors:{len(errors)}')
+                                    print(f'No place stats found for {place["formatted_address"]}.')
+                                    manual = input('Would you like to manually enter a place id? y/n\n').lower()
+                                    if 'y' in manual:
+                                        place_id = input('Please enter the place id:\n')
+                                        with requests.get(google_places_url, params=dict(key=google_api_key, place_id=place_id)) as google_geocode_response:
+                                            if google_geocode_response.ok:
+                                                request_count += 1
+                                                google_geocode_response = google_geocode_response.json()
+                                                if google_geocode_response['status'] == 'OK':
+                                                    result = google_geocode_response['result']
+                                                    lat = result['geometry']['location']['lat']
+                                                    lng = result['geometry']['location']['lng']
+                                                    place_stats = (place_id, lat, lng)
+                                                    with open(cache_file_path, 'wb') as response_file:
+                                                        pickle.dump(place_stats, response_file)
+                                                    time.sleep(delay)
+                                    elif 'n' in manual:
+                                        manual = input('Would you like to manually enter an address? y/n\n').lower()
+                                        if 'y' in manual:
+                                            geocode_params['address'] = input('Please enter the address:\n')
+
+                                attempts += 1
 
                     if place_stats is not None:
                         place['place_id'] = place_id
