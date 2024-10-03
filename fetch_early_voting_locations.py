@@ -2,6 +2,7 @@ import time
 from functools import lru_cache
 
 from selenium import webdriver
+from selenium.common import StaleElementReferenceException
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -9,7 +10,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 @lru_cache()
-def get_driver(browser: str = 'chromium'):
+def get_driver(browser: str = 'firefox'):
     if browser == 'chromium':
         from selenium import webdriver
         from selenium.webdriver.chrome.service import Service as ChromiumService
@@ -35,6 +36,9 @@ def get_driver(browser: str = 'chromium'):
 
 def extract_results_from_page(driver) -> dict:
     result = {}
+    found_back_button_enabled = None
+    while found_back_button_enabled is None:
+        found_back_button_enabled = get_enabled_back_button(driver) is not None
     return result
 
 
@@ -44,20 +48,23 @@ def get_buttons(driver):
 
 def get_button_with_text(driver, text: str = 'NEXT', ignore_disabled: bool = True):
     for button in get_buttons(driver):
-        if button.text == text:
-            if ignore_disabled and button.get_attribute('aria-disabled') == True:
-                continue
-            return button
-
+        try:
+            if button.text == text:
+                if ignore_disabled and button.get_attribute('aria-disabled') == 'true':
+                    continue
+                return button
+        except StaleElementReferenceException:
+            return None
 
 def get_enabled_next_button(driver):
     return get_button_with_text(driver, text='NEXT')
 
 
 def get_enabled_back_button(driver):
-    return get_button_with_text(driver, text='BACK TO ELECTIONS PAGE')
+    return get_button_with_text(driver, text='BACK')
 
 def is_element_visible_in_viewpoint(driver, element) -> bool:
+    return element.is_displayed()
     return driver.execute_script("var elem = arguments[0],                 " 
                                  "  box = elem.getBoundingClientRect(),    " 
                                  "  cx = box.left + box.width / 2,         " 
@@ -71,11 +78,23 @@ def is_element_visible_in_viewpoint(driver, element) -> bool:
                                  , element)
 
 def advance_to_next_page(driver):
-    button = get_enabled_next_button(driver)
+    button = None
+    while button is None:
+        button = get_enabled_next_button(driver)
+        if not page_has_more_results(driver):
+            print('No more results can be found')
+            return
     assert button is not None, f'No next page button found!'
     while not is_element_visible_in_viewpoint(driver, button):
         ActionChains(driver).move_to_element(button).perform()
-    button.click()
+    for attempt in range(3):
+        try:
+            button.click()
+            return
+        except:
+            pass
+
+def wait_for_back_button(driver):
     found_back_button_enabled = False
     while not found_back_button_enabled:
         time.sleep(1)
@@ -84,9 +103,9 @@ def advance_to_next_page(driver):
 
 def page_has_more_results(driver) -> bool:
     try:
-        found_next_button_enabled = get_enabled_next_button(driver) is not None
-        found_back_button_enabled = get_enabled_back_button(driver) is not None
-        return (not found_back_button_enabled) or found_next_button_enabled
+        next_button = get_enabled_next_button(driver)
+        back_button = get_enabled_back_button(driver)
+        return back_button is None or next_button is not None
     except Exception as e:
         return True  # still loading
 
@@ -102,13 +121,18 @@ def fetch_early_voting_locations(
     time.sleep(3)
     locations = {}
     more_results = True
+    pages = 0
     while more_results:
+        wait_for_back_button(driver)
         new_locations = extract_results_from_page(driver)
         for k, v in new_locations.items():
             assert k not in locations, f'Duplicate location data found for {k}!'
             locations[k] = v
         more_results = page_has_more_results(driver)
+        pages += 1
+        print(f'Scanned {pages} pages for county {county}')
         if more_results:
+            print(f'Advancing to next page for county {county}')
             advance_to_next_page(driver)
     return locations
 
