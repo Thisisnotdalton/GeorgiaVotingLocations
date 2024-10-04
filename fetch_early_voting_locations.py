@@ -1,12 +1,13 @@
+import json
 import time
 from functools import lru_cache
 
+from tqdm import tqdm
 from selenium import webdriver
 from selenium.common import StaleElementReferenceException
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-
 
 
 @lru_cache()
@@ -35,10 +36,9 @@ def get_driver(browser: str = 'firefox'):
 
 
 def extract_results_from_page(driver) -> dict:
-    result = {}
     wait_for_back_button(driver)
     locations = fetch_location_elements(driver)
-    return result
+    return locations
 
 
 def get_buttons(driver):
@@ -55,6 +55,7 @@ def get_button_with_text(driver, text: str = 'NEXT', ignore_disabled: bool = Tru
         except StaleElementReferenceException:
             return None
 
+
 def get_enabled_next_button(driver):
     return get_button_with_text(driver, text='NEXT')
 
@@ -62,8 +63,10 @@ def get_enabled_next_button(driver):
 def get_enabled_back_button(driver):
     return get_button_with_text(driver, text='BACK')
 
+
 def is_element_visible_in_viewpoint(driver, element) -> bool:
     return element.is_displayed()
+
 
 def advance_to_next_page(driver):
     button = None
@@ -82,6 +85,7 @@ def advance_to_next_page(driver):
         except:
             pass
 
+
 def wait_for_back_button(driver):
     found_back_button_enabled = False
     while not found_back_button_enabled:
@@ -97,27 +101,51 @@ def page_has_more_results(driver) -> bool:
     except Exception as e:
         return True  # still loading
 
+
 def fetch_location_elements(driver):
     location_elements = {}
-    for element in driver.find_elements(by=By.CLASS_NAME, value="slds-card"):
+    property_names = {
+        'County': 'county',
+        'Election': 'election',
+        'LOCATION NAME': 'name',
+        'LOCATION ADDRESS': 'address',
+        'LOCATION HOURS OF OPERATION': 'schedule'
+    }
+    polling_place_results = driver.find_elements(by=By.TAG_NAME, value='c-vr-wi-adv-polling-place-result')
+    assert len(polling_place_results) == 1, f'{len(polling_place_results)} polling place results found!'
+    potential_location_elements = polling_place_results[0].find_elements(by=By.CLASS_NAME, value="slds-button")
+    potential_location_elements = list(
+        filter(lambda _x: _x.text == 'DIRECTIONS TO POLLING PLACE', potential_location_elements))
+    for element in tqdm(potential_location_elements):
+        potential_element = element
+        for parent_attempt in range(3):
+            if potential_element.get_attribute('class') != 'slds-card':
+                potential_element = potential_element.find_element(By.XPATH, "..")
+            else:
+                break
         location = dict()
+        element = potential_element
         for property_element in element.find_elements(by=By.CLASS_NAME, value='text-muted'):
-            for property_label, property_name in {
-                'County': 'county',
-                'Election': 'election',
-                'LOCATION NAME': 'name',
-                'LOCATION ADDRESS': 'address',
-                'LOCATION HOURS OF OPERATION': 'schedule'
-            }.items():
-                if property_label == property_element.text:
-                    value_elements = property_element.find_elements(By.XPATH, "following-sibling::*")
-                    if len(value_elements) == 1:
-                        location[property_name] = value_elements[0].text
-                    else:
-                        location[property_name] = list(map(lambda _x: _x.text, value_elements))
-                    break
-        if len(location) > 0:
-            location_elements[location['name']] = location
+            output_property_name = property_names.get(property_element.text)
+            if output_property_name is not None:
+                value_elements = property_element.find_elements(By.XPATH, "following-sibling::*")
+                if len(value_elements) == 1:
+                    location[output_property_name] = value_elements[0].text
+                else:
+                    location[output_property_name] = list(map(lambda _x: _x.text, value_elements))
+        if len(location) == len(property_names):
+            location_name = location['name']
+            if location_name in location_elements:
+                same_element = True
+                for key, value in location_elements[location_name].items():
+                    if value != location[key]:
+                        same_element = False
+                        break
+                if same_element:
+                    print(f'Found duplicate entry for {location_name}')
+                    continue
+            location_elements[location_name] = location
+            print(f'Location #{len(location_elements)}: {location_name} found!')
     return location_elements
 
 
@@ -149,4 +177,6 @@ def fetch_early_voting_locations(
 
 
 if __name__ == '__main__':
-    fetch_early_voting_locations()
+    fulton_locations = fetch_early_voting_locations()
+    with open('fulton_locations.json', 'wt') as out_file:
+        json.dump(fulton_locations, out_file, indent=4, sort_keys=True)
