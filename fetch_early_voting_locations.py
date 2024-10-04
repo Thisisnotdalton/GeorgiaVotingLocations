@@ -36,9 +36,8 @@ def get_driver(browser: str = 'firefox'):
 
 def extract_results_from_page(driver) -> dict:
     result = {}
-    found_back_button_enabled = None
-    while found_back_button_enabled is None:
-        found_back_button_enabled = get_enabled_back_button(driver) is not None
+    wait_for_back_button(driver)
+    locations = fetch_location_elements(driver)
     return result
 
 
@@ -65,17 +64,6 @@ def get_enabled_back_button(driver):
 
 def is_element_visible_in_viewpoint(driver, element) -> bool:
     return element.is_displayed()
-    return driver.execute_script("var elem = arguments[0],                 " 
-                                 "  box = elem.getBoundingClientRect(),    " 
-                                 "  cx = box.left + box.width / 2,         " 
-                                 "  cy = box.top + box.height / 2,         " 
-                                 "  e = document.elementFromPoint(cx, cy); " 
-                                 "for (; e; e = e.parentElement) {         " 
-                                 "  if (e === elem)                        " 
-                                 "    return true;                         " 
-                                 "}                                        " 
-                                 "return false;                            "
-                                 , element)
 
 def advance_to_next_page(driver):
     button = None
@@ -108,6 +96,26 @@ def page_has_more_results(driver) -> bool:
         return back_button is None or next_button is not None
     except Exception as e:
         return True  # still loading
+
+def fetch_location_elements(driver):
+    location_elements = {}
+    for element in driver.find_elements(by=By.CLASS_NAME, value="slds-card"):
+        location = dict()
+        for property_element in element.find_elements(by=By.CLASS_NAME, value='text-muted'):
+            for property_label, property_name in {
+                'County': 'county',
+                'Election': 'election',
+                'LOCATION NAME': 'name',
+                'LOCATION ADDRESS': 'address',
+                'LOCATION HOURS OF OPERATION': 'schedule'
+            }.items():
+                if property_label == property_element.text:
+                    value_element = property_element.find_element(By.XPATH, "following-sibling::*[1]")
+                    location[property_name] = value_element.text
+                    break
+        if len(location) > 0:
+            location_elements[location['name']] = location
+    return location_elements
 
 
 def fetch_early_voting_locations(
