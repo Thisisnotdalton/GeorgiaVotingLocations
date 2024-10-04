@@ -129,7 +129,7 @@ def fetch_location_elements(driver):
             output_property_name = property_names.get(property_element.text)
             if output_property_name is not None:
                 value_elements = property_element.find_elements(By.XPATH, "following-sibling::*")
-                if len(value_elements) == 1:
+                if len(value_elements) == 1 and output_property_name != 'schedule':
                     location[output_property_name] = value_elements[0].text
                 else:
                     location[output_property_name] = list(map(lambda _x: _x.text, value_elements))
@@ -138,8 +138,17 @@ def fetch_location_elements(driver):
             if location_name in location_elements:
                 same_element = True
                 for key, value in location_elements[location_name].items():
+                    if key == 'schedule':
+                        missing_items = set(value).difference(location[key])
+                        new_items = set(location[key]).difference(value)
+                        if len(missing_items) == 0 and len(new_items) == 0:
+                            continue
+                        else:
+                            location[key] = list(sorted(set(location[key]).union(value)))
+                            print(f'Missing in previous: {missing_items}\t New: {new_items}')
                     if value != location[key]:
                         same_element = False
+                        print(f'Difference in {location_name} with {key}: \"{value}\" != \"{location[key]}\"')
                         break
                 if same_element:
                     print(f'Found duplicate entry for {location_name}')
