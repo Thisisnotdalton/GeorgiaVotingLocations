@@ -110,8 +110,11 @@ def fetch_location_elements(driver):
                 'LOCATION HOURS OF OPERATION': 'schedule'
             }.items():
                 if property_label == property_element.text:
-                    value_element = property_element.find_element(By.XPATH, "following-sibling::*[1]")
-                    location[property_name] = value_element.text
+                    value_elements = property_element.find_elements(By.XPATH, "following-sibling::*")
+                    if len(value_elements) == 1:
+                        location[property_name] = value_elements[0].text
+                    else:
+                        location[property_name] = list(map(lambda _x: _x.text, value_elements))
                     break
         if len(location) > 0:
             location_elements[location['name']] = location
