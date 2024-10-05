@@ -1,5 +1,7 @@
 import json
+import os
 import time
+import typing
 from functools import lru_cache
 
 from tqdm import tqdm
@@ -158,6 +160,11 @@ def fetch_location_elements(driver):
     return location_elements
 
 
+def get_list_of_counties() -> typing.List[str]:
+    result = ['FULTON']
+    return result
+
+
 def fetch_early_voting_locations(
         election_id='a0p3d00000LWdF5AAL',
         county='FULTON'):
@@ -185,7 +192,45 @@ def fetch_early_voting_locations(
     return locations
 
 
+def fetch_and_cache_voting_locations(
+        election_id='a0p3d00000LWdF5AAL',
+        county='FULTON', output_directory: str = 'voting_locations'):
+    election_directory = os.path.join(output_directory, election_id)
+    os.makedirs(election_directory, exist_ok=True)
+    output_file = os.path.jion(election_directory, f'voting_locations_{county}.json')
+    locations = None
+    if os.path.exists(output_file):
+        try:
+            with open(output_file, 'rt') as in_file:
+                locations = json.load(in_file)
+        except Exception as e:
+            print(f'Failed to load cached locations file for county {county} due to exception: {e}')
+    if locations is None:
+        locations = fetch_early_voting_locations(election_id, county)
+        with open(output_file, 'wt') as out_file:
+            json.dump(locations, out_file, indent=4, sort_keys=True)
+    return locations
+
+
+def aggregate_county_voting_locations(election_id='a0p3d00000LWdF5AAL',
+                                      output_directory: str = 'voting_locations'):
+    voting_locations_by_county = {}
+    election_directory = os.path.join(output_directory, election_id)
+    os.makedirs(election_directory, exist_ok=True)
+    all_locations_file = os.path.join(election_directory, 'all_voting_locations.json')
+    if os.path.exists(all_locations_file):
+        try:
+            with open(all_locations_file, 'rt') as in_file:
+                all_locations = json.load(in_file)
+        except Exception as e:
+            print(f'Failed to load all voting locations for election {election_id} due to exception: {e}')
+    if len(all_locations) == 0:
+        for county in get_list_of_counties():
+            voting_locations_by_county[county] = fetch_and_cache_voting_locations(election_id, county, output_directory)
+        with open(all_locations_file, 'wt') as out_file:
+            json.dump(voting_locations_by_county, out_file, indent=4, sort_keys=True)
+    return all_locations
+
+
 if __name__ == '__main__':
-    fulton_locations = fetch_early_voting_locations()
-    with open('fulton_locations.json', 'wt') as out_file:
-        json.dump(fulton_locations, out_file, indent=4, sort_keys=True)
+    aggregate_county_voting_locations()
