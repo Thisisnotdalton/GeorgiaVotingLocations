@@ -160,8 +160,30 @@ def fetch_location_elements(driver):
     return location_elements
 
 
+@lru_cache()
 def get_list_of_counties() -> typing.List[str]:
     result = ['FULTON']
+    try:
+        locations_url = 'https://mvp.sos.ga.gov/s/advanced-voting-location-information'
+        driver = get_driver()
+        driver.implicitly_wait(10)
+        driver.get(locations_url)
+        polling_places = driver.find_element(by=By.TAG_NAME, value='c-vr-wi-adv-voting-location-info')
+        for attempt in range(3):
+            try:
+                county_dropdown_button = polling_places.find_element(by=By.XPATH,
+                                                                     value='//button[@aria-label="County Name"]')
+                county_dropdown_button.click()
+                break
+            except Exception as e:
+                time.sleep(3)
+        county_dropdown_element = polling_places.find_element(by=By.XPATH, value='//div[@aria-label="County Name"]')
+        for attempt in range(3):
+            if len(county_dropdown_element.text) == 0:
+                time.sleep(3)
+        result = county_dropdown_element.text.split('\n')
+    except Exception as e:
+        print(f'Failed to get list of counties: {e}. Defaulting to {result}')
     return result
 
 
@@ -197,7 +219,7 @@ def fetch_and_cache_voting_locations(
         county='FULTON', output_directory: str = 'voting_locations'):
     election_directory = os.path.join(output_directory, election_id)
     os.makedirs(election_directory, exist_ok=True)
-    output_file = os.path.jion(election_directory, f'voting_locations_{county}.json')
+    output_file = os.path.join(election_directory, f'voting_locations_{county}.json')
     locations = None
     if os.path.exists(output_file):
         try:
@@ -214,10 +236,10 @@ def fetch_and_cache_voting_locations(
 
 def aggregate_county_voting_locations(election_id='a0p3d00000LWdF5AAL',
                                       output_directory: str = 'voting_locations'):
-    voting_locations_by_county = {}
     election_directory = os.path.join(output_directory, election_id)
     os.makedirs(election_directory, exist_ok=True)
     all_locations_file = os.path.join(election_directory, 'all_voting_locations.json')
+    all_locations = {}
     if os.path.exists(all_locations_file):
         try:
             with open(all_locations_file, 'rt') as in_file:
@@ -226,9 +248,9 @@ def aggregate_county_voting_locations(election_id='a0p3d00000LWdF5AAL',
             print(f'Failed to load all voting locations for election {election_id} due to exception: {e}')
     if len(all_locations) == 0:
         for county in get_list_of_counties():
-            voting_locations_by_county[county] = fetch_and_cache_voting_locations(election_id, county, output_directory)
+            all_locations[county] = fetch_and_cache_voting_locations(election_id, county, output_directory)
         with open(all_locations_file, 'wt') as out_file:
-            json.dump(voting_locations_by_county, out_file, indent=4, sort_keys=True)
+            json.dump(all_locations, out_file, indent=4, sort_keys=True)
     return all_locations
 
 
