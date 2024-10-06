@@ -197,6 +197,18 @@ def fetch_early_voting_locations(
     return locations
 
 
+def geocode_location(location: dict):
+    pass
+
+def geocode_locations(locations: typing.List[dict]) -> bool:
+    updated_geocodes = False
+    for i, location in enumerate(locations):
+        if 'lat' in location and 'lng' in location:
+            geocode_location(location)
+        updated_geocodes = True
+    return updated_geocodes
+
+
 def fetch_and_cache_voting_locations(
         election_id='a0p3d00000LWdF5AAL',
         county='FULTON', output_directory: str = 'voting_locations'):
@@ -210,7 +222,8 @@ def fetch_and_cache_voting_locations(
                 locations = json.load(in_file)
         except Exception as e:
             print(f'Failed to load cached locations file for county {county} due to exception: {e}')
-    if locations is None:
+    geocoded = geocode_locations(locations)
+    if locations is None or geocoded:
         locations = fetch_early_voting_locations(election_id, county)
         with open(output_file, 'wt') as out_file:
             json.dump(locations, out_file, indent=4, sort_keys=True)
@@ -312,7 +325,8 @@ def generate_voting_location_subsets(all_county_voting_locations: dict, scenario
             time_filter = parse_time(time_filter)
         while start_date <= end_date:
             results[scenario_name][start_date.isoformat()] = filter_voting_locations_by_datetime(
-                all_county_voting_locations, start_date, os.path.join(scenario_directory, f'{start_date.isoformat()}.json'), time_filter
+                all_county_voting_locations, start_date,
+                os.path.join(scenario_directory, f'{start_date.isoformat()}.json'), time_filter
             )
             start_date += datetime.timedelta(days=1)
     return results
@@ -322,7 +336,7 @@ def main(scenarios_file_path: str = 'scenarios.json', output_directory: str = 'v
     all_county_voting_locations = aggregate_county_voting_locations()
     with open(scenarios_file_path, 'rt') as in_file:
         scenarios = json.load(in_file)
-    generate_voting_location_subsets(all_county_voting_locations, scenarios, output_directory)
+    scenarios = generate_voting_location_subsets(all_county_voting_locations, scenarios, output_directory)
 
 
 if __name__ == '__main__':
