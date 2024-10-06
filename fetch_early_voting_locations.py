@@ -2,7 +2,7 @@ import json
 import os
 import time
 import typing
-from datetime import datetime, date
+import datetime
 from functools import lru_cache
 import re
 
@@ -256,32 +256,86 @@ def aggregate_county_voting_locations(election_id='a0p3d00000LWdF5AAL',
     return all_locations
 
 
-date_regex = re.compile(r'(?P<start>\d\d/\d\d/\d{4})\s*-\s*(?P<end>\d\d/\d\d/\d{4})')
+schedule_regex = re.compile(r'(?P<start>\d\d/\d\d/\d{4})\s*-\s*(?P<end>\d\d/\d\d/\d{4})\s*'
+                            r'(?P<start_time>\d+:\d+\s*[APap][Mm])'
+                            r'\s*-\s*'
+                            r'(?P<end_time>\d+:\d+\s*[APap][Mm])')
 
 
-def is_location_open_on_day(location: dict, day: datetime.day) -> bool:
+def parse_date(date_string: str) -> datetime.date:
+    month, day, year = list(map(int, date_string.split('/')))
+    return datetime.date(year, month, day)
+
+
+def parse_time(time_string: str) -> datetime.time:
+    hour = int(time_string.split(':')[0]) + (12 if 'pm' in time_string.lower() else 0)
+    minute = int(time_string.split(':')[1][:2])
+    return datetime.time(hour=hour, minute=minute)
+
+
+def is_location_open_on_datetime(location: dict, day: datetime.date, time_filter: datetime.time) -> bool:
     assert isinstance(location.get('schedule'), list), f'No schedule found for location: {location["name"]}'
     for time_span_text in location['schedule']:
-        dates = date_regex.search(time_span_text)
-        start_month, start_day, start_year = dates.group('start').split('/')
-        start = date(start_year, start_month, start_day)
-        end_month, end_day, end_year = dates.group('end').split('/')
-        end = date(end_year, end_month, end_day)
-        if start <= day <= end:
+        schedule = schedule_regex.search(time_span_text)
+        start = parse_date(schedule.group('start'))
+        end = parse_date(schedule.group('end'))
+        if not (start <= day <= end):
+            continue
+        if time_filter is None:
+            return True
+        start_time = parse_time(schedule.group('start_time'))
+        end_time = parse_time(schedule.group('end_time'))
+        if start_time <= time_filter <= end_time:
             return True
     return False
 
 
-def filter_voting_locations_by_day(all_county_voting_locations: dict, day: datetime.date):
+def filter_voting_locations_by_datetime(all_county_voting_locations: dict,
+                                        day: datetime.date, out_file_path: str, time_filter: datetime.time = None):
     results = {}
-    for county, locations in all_county_voting_locations.items():
-        county_results = []
-        for location_name, location_data in locations.items():
-            if is_location_open_on_day(location_data, day):
-                county_results.append(location_name)
-        results[county] = county_results
+    file_exists = False
+    if os.path.isfile(out_file_path):
+        try:
+            with open(out_file_path, 'rt') as in_file:
+                results = json.load(in_file)
+            file_exists = True
+        except Exception as e:
+            print(f'Failed to load cached filtered locations from {out_file_path} due to exception: {e}')
+    if len(results) == 0:
+        for county, locations in all_county_voting_locations.items():
+            county_results = []
+            for location_name, location_data in locations.items():
+                if is_location_open_on_datetime(location_data, day, time_filter):
+                    county_results.append(location_name)
+            results[county] = county_results
+    if not file_exists:
+        with open(out_file_path, 'wt') as out_file:
+            json.dump(results, out_file, indent=4, sort_keys=True)
     return results
 
 
+def generate_voting_location_subsets(all_county_voting_locations: dict, scenarios: dict, output_directory: str):
+    results = {}
+    os.makedirs(output_directory, exist_ok=True)
+    for date_str, scenario_options in scenarios.items():
+        results[date_str] = {}
+        date = datetime.date.fromisoformat(date_str)
+        os.makedirs(os.path.join(output_directory, date_str), exist_ok=True)
+        for scenario_name, scenario_time_filter in scenario_options.items():
+            if isinstance(scenario_time_filter, str):
+                scenario_time_filter = datetime.time.fromisoformat(scenario_time_filter)
+            results[date_str][scenario_name] = filter_voting_locations_by_datetime(
+                all_county_voting_locations, date, os.path.join(output_directory, date_str, f'{scenario_name}.json'), scenario_time_filter
+            )
+    return results
+
+
+def main(scenarios_file_path: str = 'scenarios.json', output_directory: str = 'voting_location_scenarios'):
+    all_county_voting_locations = aggregate_county_voting_locations()
+    with open(scenarios_file_path, 'rt') as in_file:
+        scenarios = json.load(in_file)
+    generate_voting_location_subsets(all_county_voting_locations, scenarios, output_directory)
+
+
 if __name__ == '__main__':
-    aggregate_county_voting_locations()
+    main()
