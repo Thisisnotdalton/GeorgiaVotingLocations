@@ -33,7 +33,8 @@ def get_driver(browser: str = 'firefox'):
         from selenium.webdriver.chrome.service import Service as ChromeService
         from webdriver_manager.chrome import ChromeDriverManager
         driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
-
+    import atexit
+    atexit.register(driver.close)
     return driver
 
 
@@ -198,12 +199,13 @@ def fetch_early_voting_locations(
 
 
 def geocode_location(location: dict):
-    pass
+    location['address'] = location['address'].strip().replace('\n', ', ')
+
 
 def geocode_locations(locations: typing.List[dict]) -> bool:
     updated_geocodes = False
     for i, location in enumerate(locations):
-        if 'lat' in location and 'lng' in location:
+        if 'lat' not in location or 'lng' not in location:
             geocode_location(location)
         updated_geocodes = True
     return updated_geocodes
@@ -222,9 +224,10 @@ def fetch_and_cache_voting_locations(
                 locations = json.load(in_file)
         except Exception as e:
             print(f'Failed to load cached locations file for county {county} due to exception: {e}')
-    geocoded = geocode_locations(locations)
-    if locations is None or geocoded:
+    updated_dataset = geocode_locations(locations) or locations is None
+    if locations is None:
         locations = fetch_early_voting_locations(election_id, county)
+    if updated_dataset:
         with open(output_file, 'wt') as out_file:
             json.dump(locations, out_file, indent=4, sort_keys=True)
     return locations
