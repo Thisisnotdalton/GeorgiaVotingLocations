@@ -145,8 +145,13 @@ def fetch_location_elements(driver) -> typing.List[dict]:
 
 
 @lru_cache()
-def get_list_of_counties() -> typing.List[str]:
+def get_list_of_counties(cache_file: str = 'counties.json') -> typing.List[str]:
     result = ['FULTON']
+    if os.path.isfile(cache_file):
+        with open(cache_file, 'r') as f:
+            result = json.load(f)
+        if len(result) > 0:
+            return result
     try:
         locations_url = 'https://mvp.sos.ga.gov/s/advanced-voting-location-information'
         driver = get_driver()
@@ -166,6 +171,8 @@ def get_list_of_counties() -> typing.List[str]:
             if len(county_dropdown_element.text) == 0:
                 time.sleep(3)
         result = county_dropdown_element.text.split('\n')
+        with open(cache_file, 'w') as f:
+            json.dump(result, f)
     except Exception as e:
         print(f'Failed to get list of counties: {e}. Defaulting to {result}')
     return result
@@ -228,7 +235,9 @@ def geocode_location(location: dict):
 
 def geocode_locations(locations: typing.List[dict], max_attempts: int = 3, retry_delay: float = 3) -> bool:
     updated_geocodes = False
-    for i, location in enumerate(locations):
+    needs_geocode = list(filter(lambda _x: 'lat' not in locations[_x] or 'lng' not in locations[_x], range(len(locations))))
+    for i in tqdm(needs_geocode, desc='Geocoding'):
+        location = locations[i]
         needs_geocode = 'lat' not in location or 'lng' not in location
         if needs_geocode:
             for attempt in range(max_attempts):
@@ -239,7 +248,7 @@ def geocode_locations(locations: typing.List[dict], max_attempts: int = 3, retry
                         updated_geocodes = True
                         break
                 except Exception as e:
-                    pass
+                    print(f'Failed to geocode {location["name"]} due to exception: {e}')
                 time.sleep(retry_delay)
     return updated_geocodes
 
