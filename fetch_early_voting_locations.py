@@ -10,6 +10,7 @@ from tqdm import tqdm
 from selenium.common import StaleElementReferenceException
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
+import nominatim_api as napi
 
 
 @lru_cache()
@@ -199,15 +200,47 @@ def fetch_early_voting_locations(
 
 
 def geocode_location(location: dict):
-    location['address'] = location['address'].strip().replace('\n', ', ')
+    address = location['address'].strip().replace('\n', ', ')
+    location['address'] = address
 
+    with napi.NominatimAPI() as api:
+        results = api.search(address)
 
-def geocode_locations(locations: typing.List[dict]) -> bool:
+    if not results:
+        return
+    result_coords = set()
+    for result in results:
+        result_coords.add((result.centroid.x, result.centroid.y))
+    while len(result_coords) > 1:
+        print(f'Unable to determine single match for address: {address}.')
+        for i, result in enumerate(results):
+            print(f'{i}:\t{result}')
+        chosen = input(' Please pick an option as numbered:')
+        try:
+            chosen = int(chosen)
+            result_coords = {(results[chosen].centroid.x, results[chosen].centroid.y)}
+        except:
+            pass
+    if len(result_coords) == 1:
+        result_coords = result_coords.pop()
+        location['lng'] = result_coords[0]
+        location['lat'] = result_coords[1]
+
+def geocode_locations(locations: typing.List[dict], max_attempts: int = 3, retry_delay: float = 3) -> bool:
     updated_geocodes = False
     for i, location in enumerate(locations):
-        if 'lat' not in location or 'lng' not in location:
-            geocode_location(location)
-        updated_geocodes = True
+        needs_geocode = 'lat' not in location or 'lng' not in location
+        if needs_geocode:
+            for attempt in range(max_attempts):
+                try:
+                    geocode_location(location)
+                    updated_geocodes = True
+                    if 'lat' in location and 'lng' in location:
+                        updated_geocodes = True
+                        break
+                except Exception as e:
+                    pass
+                time.sleep(retry_delay)
     return updated_geocodes
 
 
