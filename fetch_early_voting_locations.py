@@ -7,11 +7,9 @@ from functools import lru_cache
 import re
 
 from tqdm import tqdm
-from selenium import webdriver
 from selenium.common import StaleElementReferenceException
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 
 
 @lru_cache()
@@ -39,7 +37,7 @@ def get_driver(browser: str = 'firefox'):
     return driver
 
 
-def extract_results_from_page(driver) -> dict:
+def extract_results_from_page(driver) -> typing.List[dict]:
     wait_for_back_button(driver)
     locations = fetch_location_elements(driver)
     return locations
@@ -106,8 +104,8 @@ def page_has_more_results(driver) -> bool:
         return True  # still loading
 
 
-def fetch_location_elements(driver):
-    location_elements = {}
+def fetch_location_elements(driver) -> typing.List[dict]:
+    location_elements = []
     property_names = {
         'County': 'county',
         'Election': 'election',
@@ -139,25 +137,7 @@ def fetch_location_elements(driver):
                     location[output_property_name] = list(map(lambda _x: _x.text, value_elements))
         if len(location) == len(property_names):
             location_name = location['name']
-            if location_name in location_elements:
-                same_element = True
-                for key, value in location_elements[location_name].items():
-                    if key == 'schedule':
-                        missing_items = set(value).difference(location[key])
-                        new_items = set(location[key]).difference(value)
-                        if len(missing_items) == 0 and len(new_items) == 0:
-                            continue
-                        else:
-                            location[key] = list(sorted(set(location[key]).union(value)))
-                            print(f'Missing in previous: {missing_items}\t New: {new_items}')
-                    if value != location[key]:
-                        same_element = False
-                        print(f'Difference in {location_name} with {key}: \"{value}\" != \"{location[key]}\"')
-                        break
-                if same_element:
-                    print(f'Found duplicate entry for {location_name}')
-                    continue
-            location_elements[location_name] = location
+            location_elements.append(location)
             print(f'Location #{len(location_elements)}: {location_name} found!')
     return location_elements
 
@@ -198,21 +178,22 @@ def fetch_early_voting_locations(
     driver.implicitly_wait(10)
     driver.get(locations_url)
     time.sleep(3)
-    locations = {}
+    locations = []
     more_results = True
     pages = 0
     while more_results:
         wait_for_back_button(driver)
         new_locations = extract_results_from_page(driver)
-        for k, v in new_locations.items():
-            assert k not in locations, f'Duplicate location data found for {k}!'
-            locations[k] = v
+        locations.extend(new_locations)
         more_results = page_has_more_results(driver)
         pages += 1
         print(f'Scanned {pages} pages for county {county}')
         if more_results:
             print(f'Advancing to next page for county {county}')
             advance_to_next_page(driver)
+    locations_dict = {}
+    for i, location in enumerate(locations):
+        locations_dict[f'{i}-{location["name"]}'] = location
     return locations
 
 
