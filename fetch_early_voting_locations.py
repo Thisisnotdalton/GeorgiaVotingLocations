@@ -2,7 +2,9 @@ import json
 import os
 import time
 import typing
+from datetime import datetime
 from functools import lru_cache
+import re
 
 from tqdm import tqdm
 from selenium import webdriver
@@ -252,6 +254,31 @@ def aggregate_county_voting_locations(election_id='a0p3d00000LWdF5AAL',
         with open(all_locations_file, 'wt') as out_file:
             json.dump(all_locations, out_file, indent=4, sort_keys=True)
     return all_locations
+
+
+date_regex = re.compile(r'(?P<start>\d\d/\d\d/\d{4})\s*-\s*(?P<end>\d\d/\d\d/\d{4})')
+
+
+def is_location_open_on_day(location: dict, day: datetime.day) -> bool:
+    assert isinstance(location.get('schedule'), list), f'No schedule found for location: {location["name"]}'
+    for time_span_text in location['schedule']:
+        dates = date_regex.search(time_span_text)
+        start = dates.group('start')
+        month, day, year = start.split('/')
+        start = datetime.date(year, month, day)
+
+    return False
+
+
+def filter_voting_locations_by_day(all_county_voting_locations: dict, day: datetime.date):
+    results = {}
+    for county, locations in all_county_voting_locations.items():
+        county_results = []
+        for location_name, location_data in locations.items():
+            if is_location_open_on_day(location_data, day):
+                county_results.append(location_name)
+        results[county] = county_results
+    return results
 
 
 if __name__ == '__main__':
