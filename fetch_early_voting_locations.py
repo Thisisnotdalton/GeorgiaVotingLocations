@@ -2,7 +2,7 @@ import json
 import os
 import time
 import typing
-from datetime import datetime
+from datetime import datetime, date
 from functools import lru_cache
 import re
 
@@ -263,10 +263,12 @@ def is_location_open_on_day(location: dict, day: datetime.day) -> bool:
     assert isinstance(location.get('schedule'), list), f'No schedule found for location: {location["name"]}'
     for time_span_text in location['schedule']:
         dates = date_regex.search(time_span_text)
-        start = dates.group('start')
-        month, day, year = start.split('/')
-        start = datetime.date(year, month, day)
-
+        start_month, start_day, start_year = dates.group('start').split('/')
+        start = date(start_year, start_month, start_day)
+        end_month, end_day, end_year = dates.group('end').split('/')
+        end = date(end_year, end_month, end_day)
+        if start <= day <= end:
+            return True
     return False
 
 
