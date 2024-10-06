@@ -288,9 +288,9 @@ def filter_voting_locations_by_datetime(all_county_voting_locations: dict,
     if len(results) == 0:
         for county, locations in all_county_voting_locations.items():
             county_results = []
-            for location_name, location_data in locations.items():
+            for i, location_data in enumerate(locations):
                 if is_location_open_on_datetime(location_data, day, time_filter):
-                    county_results.append(location_name)
+                    county_results.append(i)
             results[county] = county_results
     if not file_exists:
         with open(out_file_path, 'wt') as out_file:
