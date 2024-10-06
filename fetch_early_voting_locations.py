@@ -268,9 +268,12 @@ def parse_date(date_string: str) -> datetime.date:
 
 
 def parse_time(time_string: str) -> datetime.time:
-    hour = int(time_string.split(':')[0]) + (12 if 'pm' in time_string.lower() else 0)
+    hour = int(time_string.split(':')[0])
+    if hour != 12 and 'pm' in time_string.lower():
+        hour += 12
     minute = int(time_string.split(':')[1][:2])
-    return datetime.time(hour=hour, minute=minute)
+    result = datetime.time(hour=hour, minute=minute)
+    return result
 
 
 def is_location_open_on_datetime(location: dict, day: datetime.date, time_filter: datetime.time) -> bool:
@@ -317,16 +320,20 @@ def filter_voting_locations_by_datetime(all_county_voting_locations: dict,
 def generate_voting_location_subsets(all_county_voting_locations: dict, scenarios: dict, output_directory: str):
     results = {}
     os.makedirs(output_directory, exist_ok=True)
-    for date_str, scenario_options in scenarios.items():
-        results[date_str] = {}
-        date = datetime.date.fromisoformat(date_str)
-        os.makedirs(os.path.join(output_directory, date_str), exist_ok=True)
-        for scenario_name, scenario_time_filter in scenario_options.items():
-            if isinstance(scenario_time_filter, str):
-                scenario_time_filter = datetime.time.fromisoformat(scenario_time_filter)
-            results[date_str][scenario_name] = filter_voting_locations_by_datetime(
-                all_county_voting_locations, date, os.path.join(output_directory, date_str, f'{scenario_name}.json'), scenario_time_filter
+    for scenario_name, scenario_options in scenarios.items():
+        results[scenario_name] = {}
+        scenario_directory = os.path.join(output_directory, scenario_name)
+        os.makedirs(scenario_directory, exist_ok=True)
+        start_date = datetime.date.fromisoformat(scenario_options['start_date'])
+        end_date = datetime.date.fromisoformat(scenario_options['end_date'])
+        time_filter = scenario_options.get('time_filter')
+        if isinstance(time_filter, str):
+            time_filter = parse_time(time_filter)
+        while start_date <= end_date:
+            results[scenario_name][start_date.isoformat()] = filter_voting_locations_by_datetime(
+                all_county_voting_locations, start_date, os.path.join(scenario_directory, f'{start_date.isoformat()}.json'), time_filter
             )
+            start_date += datetime.timedelta(days=1)
     return results
 
 

@@ -1,5 +1,16 @@
 {
-  "2024-10-15": {
-   "Before_9_AM": "08:00:00"
+  "before_9_am": {
+   "start_date": "2024-10-15",
+   "end_date": "2024-11-05",
+   "time_filter": "08:30:00"
+  },
+  "after_5_pm": {
+   "start_date": "2024-10-15",
+   "end_date": "2024-11-05",
+   "time_filter": "17:30:00"
+  },
+  "any_time": {
+   "start_date": "2024-10-15",
+   "end_date": "2024-11-05"
   }
 }
