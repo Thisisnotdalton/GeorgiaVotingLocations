@@ -10,7 +10,9 @@ from tqdm import tqdm
 from selenium.common import StaleElementReferenceException
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
-import nominatim_api as napi
+import requests
+from requests.structures import CaseInsensitiveDict
+
 
 
 @lru_cache()
@@ -206,18 +208,46 @@ def fetch_early_voting_locations(
     return locations
 
 
+@lru_cache()
+def get_geoapify_key(cache_file: str = 'geoapify.json') -> str:
+    key_name = 'geoapify_key'
+    if not os.path.isfile(cache_file):
+        with open(cache_file, 'w') as out_file:
+            json.dump({key_name: ''}, out_file)
+    with open(cache_file, 'r') as f:
+        result = json.load(f)
+    key = result.get(key_name)
+    assert isinstance(key, str) and len(key) > 0, f'No api key provided for Geoapify. Please set api key in file {cache_file} property {key_name}!'
+    return key
+
+def geoapify_geocode(address: str, rate_delay_seconds: float = 1) -> typing.Optional[typing.List[typing.Tuple[float, float]]]:
+    search_url = "https://api.geoapify.com/v1/geocode/search"
+    headers = CaseInsensitiveDict()
+    headers["Accept"] = "application/json"
+    results = []
+    search_parameters=dict(
+        text=address, apiKey=get_geoapify_key()
+    )
+    with requests.get(search_url, headers=headers, params=search_parameters) as response:
+        if response.ok:
+            response_json = response.json()
+            for feature in response_json.get('features', []):
+                if feature.get('geometry', {}).get('type') == 'Point':
+                    results.append(tuple(feature['geometry']['coordinates']))
+        time.sleep(rate_delay_seconds)
+    return results
+
 def geocode_location(location: dict):
     address = location['address'].strip().replace('\n', ', ')
     location['address'] = address
 
-    with napi.NominatimAPI() as api:
-        results = api.search(address)
+    results = geoapify_geocode(address)
 
     if not results:
         return
     result_coords = set()
     for result in results:
-        result_coords.add((result.centroid.x, result.centroid.y))
+        result_coords.add(result)
     while len(result_coords) > 1:
         print(f'Unable to determine single match for address: {address}.')
         for i, result in enumerate(results):
@@ -225,7 +255,7 @@ def geocode_location(location: dict):
         chosen = input(' Please pick an option as numbered:')
         try:
             chosen = int(chosen)
-            result_coords = {(results[chosen].centroid.x, results[chosen].centroid.y)}
+            result_coords = {results[chosen]}
         except:
             pass
     if len(result_coords) == 1:
@@ -233,9 +263,11 @@ def geocode_location(location: dict):
         location['lng'] = result_coords[0]
         location['lat'] = result_coords[1]
 
+
 def geocode_locations(locations: typing.List[dict], max_attempts: int = 3, retry_delay: float = 3) -> bool:
     updated_geocodes = False
-    needs_geocode = list(filter(lambda _x: 'lat' not in locations[_x] or 'lng' not in locations[_x], range(len(locations))))
+    needs_geocode = list(
+        filter(lambda _x: 'lat' not in locations[_x] or 'lng' not in locations[_x], range(len(locations))))
     for i in tqdm(needs_geocode, desc='Geocoding'):
         location = locations[i]
         needs_geocode = 'lat' not in location or 'lng' not in location
