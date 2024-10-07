@@ -249,9 +249,10 @@ def geocode_location(location: dict):
     for result in results:
         result_coords.add(result)
     while len(result_coords) > 1:
-        print(f'Unable to determine single match for address: {address}.')
+        print(f'Unable to determine single match for location {location["name"]} at address: {address}.')
         for i, result in enumerate(results):
-            print(f'{i}:\t{result}')
+            url = f"https://www.latlong.net/c/?lat={result[1]}&long={result[0]}"
+            print(f'{i}:\t{result}:\t{url}')
         chosen = input(' Please pick an option as numbered:')
         try:
             chosen = int(chosen)
