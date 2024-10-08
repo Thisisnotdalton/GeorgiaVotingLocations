@@ -3,6 +3,7 @@ import time
 import typing
 from configparser import ConfigParser
 from argparse import ArgumentParser
+from datetime import datetime, timedelta
 from functools import lru_cache
 
 import requests
@@ -53,7 +54,7 @@ def mapbox_geocode_parameters_hasher(*args, **kwargs):
     return kwargs_hasher(**filtered_kwargs)
 
 
-
+_next_request_time = datetime.now()
 
 @FileCachedFunction.decorate('./mapbox_geocode_cache/', parameter_hasher=mapbox_geocode_parameters_hasher)
 def mapbox_geocode(access_token: str = None, query: str = None, address_number: str = None, street: str = None,
@@ -65,8 +66,14 @@ def mapbox_geocode(access_token: str = None, query: str = None, address_number: 
                    url='https://api.mapbox.com/search/geocode/v6/forward') -> dict:
     if access_token is None:
         access_token = get_mapbox_api_token()
+
+    global _next_request_time
+    while datetime.now() < _next_request_time:
+        time.sleep((_next_request_time - datetime.now()).seconds)
     if request_delay_seconds is None:
         request_delay_seconds = get_mapbox_rate_limit()
+    if request_delay_seconds > 0:
+        _next_request_time = datetime.now() + timedelta(seconds=request_delay_seconds)
     assert isinstance(access_token, str) and len(access_token) > 0, \
         f'No access token provided for MapBox Geocoding API!'
     parameters = dict(access_token=access_token, permanent='true', format='geojson', types='address')
@@ -85,8 +92,6 @@ def mapbox_geocode(access_token: str = None, query: str = None, address_number: 
     with requests.get(url, params=parameters) as response:
         assert response.ok, f'Request not okay: {response.text}'
         result = response.json()
-        if request_delay_seconds > 0:
-            time.sleep(request_delay_seconds)
         return result
 
 
