@@ -35,7 +35,7 @@ def get_mapbox_api_token():
 
 @lru_cache()
 def get_mapbox_rate_limit():
-    return float(get_mapbox_api_config()['mapbox']['rate_limit_per_minute']) / 60
+    return 60 / float(get_mapbox_api_config()['mapbox']['rate_limit_per_minute'])
 
 
 STRUCTURED_ADDRESS_KWARGS = [
