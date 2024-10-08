@@ -66,7 +66,7 @@ class FileCachedFunction:
                 pickle.dump(data, f)
         elif self.cache_format == 'json':
             with open(file_path, 'w') as f:
-                json.dump(data, f)
+                json.dump(data, f, indent=4, sort_keys=True)
 
     def _save_cache(self, key: str, value):
         self._cache[key] = value
