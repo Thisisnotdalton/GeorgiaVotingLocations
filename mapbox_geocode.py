@@ -124,7 +124,9 @@ def geocode_address(address: typing.Union[str, dict], comment: str = None, inter
         for i, result in enumerate(results):
             position = result['geometry']['coordinates']
             url = f"https://www.latlong.net/c/?lat={position[1]}&long={position[0]}"
-            print(f'{i}:\t{result}:\t{url}')
+            match_code = result['properties'].get('match_code', {})
+            full_address = result['properties'].get('full_address', 'MISSING!')
+            print(f'{i}:{full_address}\t{match_code}:\t{url}')
         chosen = input(' Please pick an option as numbered:')
         try:
             chosen = int(chosen)
