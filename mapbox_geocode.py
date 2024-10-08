@@ -46,11 +46,18 @@ def mapbox_geocode_parameters_hasher(*args, **kwargs):
     }
     return kwargs_hasher(**filtered_kwargs)
 
+STRUCTURED_ADDRESS_KWARGS = [
+    'address_number', 'street', 'block', 'place', 'region', 'postcode',
+    'locality', 'neighborhood', 'country'
+]
+
 
 @FileCachedFunction.decorate('./mapbox_geocode_cache/', parameter_hasher=mapbox_geocode_parameters_hasher)
-def mapbox_geocode(query: str, access_token: str = None,
+def mapbox_geocode(access_token: str = None, query: str = None, address_number: str = None, street: str = None,
+                   block: str = None, place: str = None, region: str = None, postcode: str = None,
+                   locality: str = None, neighborhood: str = None, country: str = None,
                    autocomplete: bool = False, bbox: typing.Tuple[float, float, float, float] = None,
-                   country: str = None, language: str = None, limit: int = 5, proximity: str = None,
+                   language: str = None, limit: int = 5, proximity: str = None,
                    types: str = None, worldview: str = 'us', request_delay_seconds: float = None,
                    url='https://api.mapbox.com/search/geocode/v6/forward') -> dict:
     if access_token is None:
@@ -59,7 +66,14 @@ def mapbox_geocode(query: str, access_token: str = None,
         request_delay_seconds = get_mapbox_rate_limit()
     assert isinstance(access_token, str) and len(access_token) > 0, \
         f'No access token provided for MapBox Geocoding API!'
-    parameters = dict(q=query, access_token=access_token, permanent='true', format='geojson')
+    parameters = dict(access_token=access_token, permanent='true', format='geojson')
+    if isinstance(query, str) and len(query) > 0:
+        parameters['query'] = query
+    else:
+        parameters.update(
+            address_number=address_number, street=street, block=block, place=place, region=region,
+            postcode=postcode, locality=locality, neighborhood=neighborhood
+        )
     parameters.update(
         autocomplete=str(autocomplete).lower(), bbox=bbox, country=country, language=language,
         limit=limit, proxy=proximity, types=types, worldview=worldview
@@ -73,8 +87,17 @@ def mapbox_geocode(query: str, access_token: str = None,
         return result
 
 
-def geocode_address(address: str, comment: str = None, interactive: bool = False) -> typing.Tuple[float, float]:
-    response = mapbox_geocode(query=address)
+
+def geocode_address(address: typing.Union[str, dict], comment: str = None, interactive: bool = False) -> typing.Tuple[float, float]:
+    if isinstance(address, dict):
+        kwargs = {
+            k: address.get(k) for k in set(address.keys()).intersection(STRUCTURED_ADDRESS_KWARGS)
+        }
+    elif isinstance(address, str):
+        kwargs = dict(query=address)
+    else:
+        raise ValueError(f'Address must be a string query or a dictionary with keys: {STRUCTURED_ADDRESS_KWARGS}.')
+    response = mapbox_geocode(**kwargs)
     assert isinstance(response, dict) and isinstance(response.get('features'), list), f'Could not determine features from response: {response}'
     results = list(response['features'])
     while len(results) > 1 and interactive:
