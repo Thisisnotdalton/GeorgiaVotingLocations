@@ -109,6 +109,10 @@ def geocode_address(address: typing.Union[str, dict], comment: str = None, inter
     assert isinstance(response, dict) and isinstance(response.get('features'),
                                                      list), f'Could not determine features from response: {response}'
     results = list(response['features'])
+    for result in results:
+        if result['properties'].get('match_code', {}).get('confidence', 'low') != 'exact':
+            results = [result]
+            break
     if len(results) > 1:
         print('Dropping low confidence matches.')
         results = list(
