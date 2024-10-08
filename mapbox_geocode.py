@@ -59,9 +59,9 @@ def mapbox_geocode(query: str, access_token: str = None,
         request_delay_seconds = get_mapbox_rate_limit()
     assert isinstance(access_token, str) and len(access_token) > 0, \
         f'No access token provided for MapBox Geocoding API!'
-    parameters = dict(q=query, access_token=access_token, permanent=True, format='geojson')
+    parameters = dict(q=query, access_token=access_token, permanent='true', format='geojson')
     parameters.update(
-        autocomplete=autocomplete, bbox=bbox, country=country, language=language,
+        autocomplete=str(autocomplete).lower(), bbox=bbox, country=country, language=language,
         limit=limit, proxy=proximity, types=types, worldview=worldview
     )
 
@@ -74,15 +74,16 @@ def mapbox_geocode(query: str, access_token: str = None,
 
 
 def geocode_address(address: str, comment: str = None, interactive: bool = False) -> typing.Tuple[float, float]:
-    results = []
     response = mapbox_geocode(query=address)
-    assert isinstance(response, dict)
+    assert isinstance(response, dict) and isinstance(response.get('features'), list), f'Could not determine features from response: {response}'
+    results = list(response['features'])
     while len(results) > 1 and interactive:
         print(f'Unable to determine single match for location at address: {address}.')
         if isinstance(comment, str) and len(comment) > 0:
             print(comment)
         for i, result in enumerate(results):
-            url = f"https://www.latlong.net/c/?lat={result[1]}&long={result[0]}"
+            position = result['geometry']['coordinates']
+            url = f"https://www.latlong.net/c/?lat={position[1]}&long={position[0]}"
             print(f'{i}:\t{result}:\t{url}')
         chosen = input(' Please pick an option as numbered:')
         try:
