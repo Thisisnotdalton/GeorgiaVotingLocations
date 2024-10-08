@@ -1,0 +1,127 @@
+import os
+import time
+import typing
+from configparser import ConfigParser
+from argparse import ArgumentParser
+from functools import lru_cache
+
+import requests
+import pandas as pd
+
+from file_cached_function import FileCachedFunction, kwargs_hasher
+
+
+@lru_cache
+def get_mapbox_api_config(config_file: str = 'mapbox_config.ini') -> str:
+    config = ConfigParser()
+    config.add_section('mapbox')
+    config.set('mapbox', 'token', '')
+    config.set('mapbox', 'rate_limit_per_minute', '1000')
+    if os.path.exists(config_file):
+        print(f'Loaded MapBox configuration file: {config_file}')
+        config.read(config_file)
+    else:
+        with open(config_file, 'w') as f:
+            config.write(f)
+        print(f'Created blank MapBox configuration file: {config_file}')
+    return config
+
+
+@lru_cache()
+def get_mapbox_api_token():
+    return get_mapbox_api_config()['mapbox']['token']
+
+
+@lru_cache()
+def get_mapbox_rate_limit():
+    return float(get_mapbox_api_config()['mapbox']['rate_limit_per_minute']) / 60
+
+
+def mapbox_geocode_parameters_hasher(*args, **kwargs):
+    assert len(args) == 0, f'Only kwargs are supported! Received unnamed args: {args}!'
+    filtered_kwargs = {
+        k: kwargs.get(k) for k in [
+            'query', 'autocomplete', 'bbox', 'country', 'language', 'limit', 'proximity', 'types', 'worldview', 'url'
+        ]
+    }
+    return kwargs_hasher(**filtered_kwargs)
+
+
+@FileCachedFunction.decorate('./mapbox_geocode_cache/', parameter_hasher=mapbox_geocode_parameters_hasher)
+def mapbox_geocode(query: str, access_token: str = None,
+                   autocomplete: bool = False, bbox: typing.Tuple[float, float, float, float] = None,
+                   country: str = None, language: str = None, limit: int = 5, proximity: str = None,
+                   types: str = None, worldview: str = 'us', request_delay_seconds: float = None,
+                   url='https://api.mapbox.com/search/geocode/v6/forward') -> dict:
+    if access_token is None:
+        access_token = get_mapbox_api_token()
+    if request_delay_seconds is None:
+        request_delay_seconds = get_mapbox_rate_limit()
+    assert isinstance(access_token, str) and len(access_token) > 0, \
+        f'No access token provided for MapBox Geocoding API!'
+    parameters = dict(q=query, access_token=access_token, permanent=True, format='geojson')
+    parameters.update(
+        autocomplete=autocomplete, bbox=bbox, country=country, language=language,
+        limit=limit, proxy=proximity, types=types, worldview=worldview
+    )
+
+    with requests.get(url, params=parameters) as response:
+        assert response.ok, f'Request not okay: {response.text}'
+        result = response.json()
+        if request_delay_seconds > 0:
+            time.sleep(request_delay_seconds)
+        return result
+
+
+def geocode_address(address: str, comment: str = None, interactive: bool = False) -> typing.Tuple[float, float]:
+    results = []
+    response = mapbox_geocode(query=address)
+    assert isinstance(response, dict)
+    while len(results) > 1 and interactive:
+        print(f'Unable to determine single match for location at address: {address}.')
+        if isinstance(comment, str) and len(comment) > 0:
+            print(comment)
+        for i, result in enumerate(results):
+            url = f"https://www.latlong.net/c/?lat={result[1]}&long={result[0]}"
+            print(f'{i}:\t{result}:\t{url}')
+        chosen = input(' Please pick an option as numbered:')
+        try:
+            chosen = int(chosen)
+            results = [results[chosen]]
+        except:
+            pass
+
+    assert len(results) == 1
+    return results[0]
+
+
+def main():
+    arg_parser = ArgumentParser()
+    arg_parser.add_argument('--input-file', type=str, default='',
+                            help='Input csv file of addresses to geocode.')
+    arg_parser.add_argument('--output-file', type=str, default='',
+                            help='Output csv file to save geocoded addresses to.')
+    arg_parser.add_argument('--address-column', type=str, default='address',
+                            help='The column in the input csv which holds the address to geocode; defaults to "address"')
+    arg_parser.add_argument('--lat-column', type=str, default='lat',
+                            help='The column to store the geocoded latitude in; defaults to "lat".')
+    arg_parser.add_argument('--lng-column', type=str, default='lng',
+                            help='The column to store the geocoded longitude in; defaults to "lng".')
+    args = arg_parser.parse_args()
+    assert len(args.input_file) > 0, 'Input csv file path is empty!'
+    assert os.path.isfile(args.input_file), 'Input csv file does not exist!'
+
+    addresses = pd.read_csv(args.input_file)
+    assert isinstance(addresses, pd.DataFrame) and len(addresses) > 0, 'No addresses in input file!'
+    assert (isinstance(args.address_column, str) and len(args.address_column) > 0
+            and args.address_column in addresses.columns), f'Address column is invalid!'
+    assert len(args.output_file) > 0, f'Output csv file path is empty!'
+    for row_index, row in addresses.iterrows():
+        result = geocode_address(row[args.address_column])
+        addresses.at[row_index, args.lat_column] = result[0]
+        addresses.at[row_index, args.lng_column] = result[1]
+    addresses.to_csv(args.output_file, index=False)
+
+
+if __name__ == '__main__':
+    main()
