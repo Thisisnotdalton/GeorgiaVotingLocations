@@ -37,19 +37,22 @@ def get_mapbox_rate_limit():
     return float(get_mapbox_api_config()['mapbox']['rate_limit_per_minute']) / 60
 
 
-def mapbox_geocode_parameters_hasher(*args, **kwargs):
-    assert len(args) == 0, f'Only kwargs are supported! Received unnamed args: {args}!'
-    filtered_kwargs = {
-        k: kwargs.get(k) for k in [
-            'query', 'autocomplete', 'bbox', 'country', 'language', 'limit', 'proximity', 'types', 'worldview', 'url'
-        ]
-    }
-    return kwargs_hasher(**filtered_kwargs)
-
 STRUCTURED_ADDRESS_KWARGS = [
     'address_number', 'street', 'block', 'place', 'region', 'postcode',
     'locality', 'neighborhood', 'country'
 ]
+
+def mapbox_geocode_parameters_hasher(*args, **kwargs):
+    assert len(args) == 0, f'Only kwargs are supported! Received unnamed args: {args}!'
+    filtered_kwargs = {
+        k: kwargs.get(k) for k in [
+            'query', 'autocomplete', 'bbox', 'country', 'language', 'limit', 'proximity', 'types', 'worldview', 'url',
+            *STRUCTURED_ADDRESS_KWARGS
+        ]
+    }
+    return kwargs_hasher(**filtered_kwargs)
+
+
 
 
 @FileCachedFunction.decorate('./mapbox_geocode_cache/', parameter_hasher=mapbox_geocode_parameters_hasher)
@@ -66,7 +69,7 @@ def mapbox_geocode(access_token: str = None, query: str = None, address_number: 
         request_delay_seconds = get_mapbox_rate_limit()
     assert isinstance(access_token, str) and len(access_token) > 0, \
         f'No access token provided for MapBox Geocoding API!'
-    parameters = dict(access_token=access_token, permanent='true', format='geojson')
+    parameters = dict(access_token=access_token, permanent='true', format='geojson', types='address')
     if isinstance(query, str) and len(query) > 0:
         parameters['query'] = query
     else:
@@ -87,8 +90,8 @@ def mapbox_geocode(access_token: str = None, query: str = None, address_number: 
         return result
 
 
-
-def geocode_address(address: typing.Union[str, dict], comment: str = None, interactive: bool = False) -> typing.Tuple[float, float]:
+def geocode_address(address: typing.Union[str, dict], comment: str = None, interactive: bool = False) -> typing.Tuple[
+    float, float]:
     if isinstance(address, dict):
         kwargs = {
             k: address.get(k) for k in set(address.keys()).intersection(STRUCTURED_ADDRESS_KWARGS)
@@ -98,8 +101,13 @@ def geocode_address(address: typing.Union[str, dict], comment: str = None, inter
     else:
         raise ValueError(f'Address must be a string query or a dictionary with keys: {STRUCTURED_ADDRESS_KWARGS}.')
     response = mapbox_geocode(**kwargs)
-    assert isinstance(response, dict) and isinstance(response.get('features'), list), f'Could not determine features from response: {response}'
+    assert isinstance(response, dict) and isinstance(response.get('features'),
+                                                     list), f'Could not determine features from response: {response}'
     results = list(response['features'])
+    if len(results) > 1:
+        print('Dropping low confidence matches.')
+        results = list(
+            filter(lambda _x: _x['properties'].get('match_code', {}).get('confidence', 'low') != 'low', results))
     while len(results) > 1 and interactive:
         print(f'Unable to determine single match for location at address: {address}.')
         if isinstance(comment, str) and len(comment) > 0:

@@ -206,13 +206,37 @@ def fetch_early_voting_locations(
         locations_dict[f'{i}-{location["name"]}'] = location
     return locations
 
+address_re = re.compile(r'(?P<address_number>\d*)\s+(?P<street>[^,]+),\s*(?P<place>[A-Za-z]+)')
+postcode_re = re.compile(r'\s+(\d+[- ]?\d*)$')
 def geocode_location(location: dict):
     address = location['address'].strip().replace('\n', ', ')
+    postcode = postcode_re.search(address).group(1)
+    assert len(postcode) > 0, f'Failed to parse postcode: {address}'
+    address = address[:-len(postcode)].strip()
+    while address.endswith(','):
+        address = address.rstrip(',')
+    assert str(address).lower().endswith(' ga'), f'Failed to parse state for address: {address}!'
+    region='GA'
+    address = address[:-len(region)].strip()
+    address_components = address_re.search(address)
+    address += f', {region}, {postcode}'
+    if address_components:
+        address_query = dict(
+            address_number=address_components.group('address_number'),
+            street=address_components.group('street'),
+            place=address_components.group('place'),
+            postcode=postcode,
+            country='United States',
+            region=region
+        )
+    else:
+        address_query = address
     location['address'] = address
-    result = geocode_address(address, f'Geocoding polling location "{location["name"]}".', interactive=True)
-    if result is not None:
-        location['lng'] = result[0]
-        location['lat'] = result[1]
+    result = geocode_address(address_query, f'Geocoding polling location "{location["name"]}".', interactive=True)
+    if isinstance(result, dict) and result.get('geometry',{}).get('coordinates'):
+        coordinates = result['geometry']['coordinates']
+        location['lng'] = coordinates[0]
+        location['lat'] = coordinates[1]
 
 
 def geocode_locations(locations: typing.List[dict], max_attempts: int = 3, retry_delay: float = 3) -> bool:
@@ -226,7 +250,6 @@ def geocode_locations(locations: typing.List[dict], max_attempts: int = 3, retry
             for attempt in range(max_attempts):
                 try:
                     geocode_location(location)
-                    updated_geocodes = True
                     if 'lat' in location and 'lng' in location:
                         updated_geocodes = True
                         break
