@@ -219,6 +219,8 @@ def geocode_location(location: dict):
     region='GA'
     address = address[:-len(region)].strip()
     address_components = address_re.search(address)
+    while address.endswith(','):
+        address = address.rstrip(',')
     address += f', {region}, {postcode}'
     if address_components:
         address_query = dict(
