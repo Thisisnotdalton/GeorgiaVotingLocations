@@ -31,15 +31,14 @@ class FileCachedFunction:
                  cache_format: Literal['json', 'pickle'] = 'json',
                  cache_schedule: Literal['atexit', 'immediate'] = 'immediate',
                  ):
-        self.cache_directory = cache_directory
+        self.cache_directory = os.path.abspath(cache_directory)
         self.parameter_hasher = parameter_hasher
         self._cache = {}
         self.cache_format = cache_format
         self._modified_cache_queue = []
         self.cache_schedule = cache_schedule
         self.function = function
-        if self.cache_schedule == 'atexit':
-            atexit.register(self._save_modified_cache_queue)
+        atexit.register(self._save_modified_cache_queue)
 
     def _get_cache_file(self, key: str):
         file_path = os.path.join(self.cache_directory, f'{key}.{self.cache_format}')
@@ -70,13 +69,15 @@ class FileCachedFunction:
 
     def _save_cache(self, key: str, value):
         self._cache[key] = value
-        cache_file_path = self._get_cache_file(key)
-        self._save_cache_file(cache_file_path, value)
+        self._modified_cache_queue.append(key)
+        if self.cache_schedule == 'immediate':
+            self._save_modified_cache_queue()
 
     def _save_modified_cache_queue(self):
         while len(self._modified_cache_queue) > 0:
             key = self._modified_cache_queue.pop()
-            self._save_cache(key, self[key])
+            cache_file_path = self._get_cache_file(key)
+            self._save_cache_file(cache_file_path, self[key])
 
     def __delitem__(self, key: str):
         del self._cache[key]
@@ -108,9 +109,6 @@ class FileCachedFunction:
         if key not in self:
             result = self.function(*args, **kwargs)
             self._save_cache(key, result)
-            self._modified_cache_queue.append(key)
-            if self.cache_schedule == 'immediate':
-                self._save_modified_cache_queue()
             return result
         return self[key]
 
