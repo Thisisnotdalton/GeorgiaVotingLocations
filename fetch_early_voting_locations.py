@@ -239,11 +239,11 @@ def geocode_location(location: dict):
         location['lat'] = coordinates[1]
 
 
-def geocode_locations(locations: typing.List[dict], max_attempts: int = 3, retry_delay: float = 3) -> bool:
+def geocode_locations(locations: typing.List[dict], county_name: str = '', max_attempts: int = 3, retry_delay: float = 3) -> bool:
     updated_geocodes = False
     needs_geocode = list(
         filter(lambda _x: 'lat' not in locations[_x] or 'lng' not in locations[_x], range(len(locations))))
-    for i in tqdm(needs_geocode, desc='Geocoding'):
+    for i in tqdm(needs_geocode, desc=f'Geocoding locations for {county_name}'):
         location = locations[i]
         needs_geocode = 'lat' not in location or 'lng' not in location
         if needs_geocode:
@@ -272,7 +272,7 @@ def fetch_and_cache_voting_locations(
                 locations = json.load(in_file)
         except Exception as e:
             print(f'Failed to load cached locations file for county {county} due to exception: {e}')
-    updated_dataset = geocode_locations(locations) or locations is None
+    updated_dataset = geocode_locations(locations, county) or locations is None
     if locations is None:
         locations = fetch_early_voting_locations(election_id, county)
     if updated_dataset:
