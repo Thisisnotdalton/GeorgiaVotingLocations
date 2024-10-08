@@ -10,9 +10,8 @@ from tqdm import tqdm
 from selenium.common import StaleElementReferenceException
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
-import requests
-from requests.structures import CaseInsensitiveDict
 
+from mapbox_geocode import geocode_address
 
 
 @lru_cache()
@@ -207,62 +206,13 @@ def fetch_early_voting_locations(
         locations_dict[f'{i}-{location["name"]}'] = location
     return locations
 
-
-@lru_cache()
-def get_geoapify_key(cache_file: str = 'geoapify.json') -> str:
-    key_name = 'geoapify_key'
-    if not os.path.isfile(cache_file):
-        with open(cache_file, 'w') as out_file:
-            json.dump({key_name: ''}, out_file)
-    with open(cache_file, 'r') as f:
-        result = json.load(f)
-    key = result.get(key_name)
-    assert isinstance(key, str) and len(key) > 0, f'No api key provided for Geoapify. Please set api key in file {cache_file} property {key_name}!'
-    return key
-
-def geoapify_geocode(address: str, rate_delay_seconds: float = 1) -> typing.Optional[typing.List[typing.Tuple[float, float]]]:
-    search_url = "https://api.geoapify.com/v1/geocode/search"
-    headers = CaseInsensitiveDict()
-    headers["Accept"] = "application/json"
-    results = []
-    search_parameters=dict(
-        text=address, apiKey=get_geoapify_key()
-    )
-    with requests.get(search_url, headers=headers, params=search_parameters) as response:
-        if response.ok:
-            response_json = response.json()
-            for feature in response_json.get('features', []):
-                if feature.get('geometry', {}).get('type') == 'Point':
-                    results.append(tuple(feature['geometry']['coordinates']))
-        time.sleep(rate_delay_seconds)
-    return results
-
 def geocode_location(location: dict):
     address = location['address'].strip().replace('\n', ', ')
     location['address'] = address
-
-    results = geoapify_geocode(address)
-
-    if not results:
-        return
-    result_coords = set()
-    for result in results:
-        result_coords.add(result)
-    while len(result_coords) > 1:
-        print(f'Unable to determine single match for location {location["name"]} at address: {address}.')
-        for i, result in enumerate(results):
-            url = f"https://www.latlong.net/c/?lat={result[1]}&long={result[0]}"
-            print(f'{i}:\t{result}:\t{url}')
-        chosen = input(' Please pick an option as numbered:')
-        try:
-            chosen = int(chosen)
-            result_coords = {results[chosen]}
-        except:
-            pass
-    if len(result_coords) == 1:
-        result_coords = result_coords.pop()
-        location['lng'] = result_coords[0]
-        location['lat'] = result_coords[1]
+    result = geocode_address(address, f'Geocoding polling location "{location["name"]}".', interactive=True)
+    if result is not None:
+        location['lng'] = result[0]
+        location['lat'] = result[1]
 
 
 def geocode_locations(locations: typing.List[dict], max_attempts: int = 3, retry_delay: float = 3) -> bool:
