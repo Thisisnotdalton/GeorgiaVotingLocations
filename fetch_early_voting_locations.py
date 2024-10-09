@@ -10,6 +10,8 @@ from tqdm import tqdm
 from selenium.common import StaleElementReferenceException
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
+import pandas as pd
+import geopandas as gpd
 
 from mapbox_geocode import geocode_address
 
@@ -300,6 +302,19 @@ def aggregate_county_voting_locations(election_id='a0p3d00000LWdF5AAL',
             all_locations[county] = fetch_and_cache_voting_locations(election_id, county, output_directory)
         with open(all_locations_file, 'wt') as out_file:
             json.dump(all_locations, out_file, indent=4, sort_keys=True)
+    geojson_directory = os.path.join(election_directory, 'geojson')
+    all_locations_geojson_file = os.path.join(geojson_directory, f'all_voting_locations.json')
+    if not os.path.isfile(all_locations_geojson_file):
+        os.makedirs(geojson_directory, exist_ok=True)
+        all_locations_gdf = []
+        for county in get_list_of_counties():
+            county_locations_gdf = generate_polling_place_gdf(all_locations[county])
+            if len(county_locations_gdf) > 0:
+                county_geojson_file = os.path.join(geojson_directory, f'{county}_voting_locations.json')
+                county_locations_gdf.to_file(county_geojson_file, driver='GeoJSON')
+                all_locations_gdf.append(county_locations_gdf)
+        all_locations_gdf = gpd.GeoDataFrame(pd.concat(all_locations_gdf))
+        all_locations_gdf.to_file(all_locations_geojson_file, driver='GeoJSON')
     return all_locations
 
 
@@ -384,6 +399,24 @@ def generate_voting_location_subsets(all_county_voting_locations: dict, scenario
             start_date += datetime.timedelta(days=1)
     return results
 
+
+def generate_polling_place_gdf(county_voting_locations: list) -> gpd.GeoDataFrame:
+    data = {}
+    expected_columns = ['address', 'county', 'election', 'lat', 'lng', 'name', 'schedule']
+    for i, location in enumerate(county_voting_locations):
+        data[i] = {
+            k: location.get(k) for k in expected_columns
+        }
+        data[i]['schedule'] = '\n'.join(data[i]['schedule'])
+    data = pd.DataFrame.from_dict(data, orient='index')
+    if len(county_voting_locations) > 0:
+        for column in expected_columns:
+            if column not in data:
+                data.loc[:, column] = None
+        data = gpd.GeoDataFrame(data, geometry=gpd.points_from_xy(data.lng, data.lat), crs='EPSG:4326')
+    else:
+        data = gpd.GeoDataFrame()
+    return data
 
 def main(scenarios_file_path: str = 'scenarios.json', output_directory: str = 'voting_location_scenarios'):
     all_county_voting_locations = aggregate_county_voting_locations()

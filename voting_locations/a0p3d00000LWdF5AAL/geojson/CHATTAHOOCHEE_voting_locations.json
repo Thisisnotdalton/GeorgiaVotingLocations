@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHATTAHOOCHEE_voting_locations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "215 MCNAUGHTON, CUSSETA, GA, 31805", "county": "CHATTAHOOCHEE", "election": "11/05/2024 NOVEMBER 5, 2024 - GENERAL ELECTION", "lat": 32.307934, "lng": -84.764303, "name": "UNIFIED GOVT OFFICES OF CUSSETA-CHATTAHOOCHEE COUNTY", "schedule": "10/15/2024 - 10/25/2024 8:00 AM - 5:00 PM\n10/15/2024 - 10/28/2024 8:30 AM - 5:00 PM\n10/19/2024 - 10/19/2024 9:00 AM - 5:00 PM\n10/26/2024 - 10/26/2024 9:00 AM - 5:00 PM\n10/29/2024 - 11/01/2024 8:30 AM - 5:00 PM" }, "geometry": { "type": "Point", "coordinates": [ -84.764303, 32.307934 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "RICHMOND_voting_locations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "535 Telfair Street, Augusta, GA, 30901", "county": "RICHMOND", "election": "11/05/2024 NOVEMBER 5, 2024 - GENERAL ELECTION", "lat": 33.483143, "lng": -81.999775, "name": "1 MAIN OFFICE", "schedule": "10/15/2024 - 10/19/2024 8:30 AM - 6:00 PM\n10/15/2024 - 10/19/2024 8:30 AM - 6:00 PM\n10/21/2024 - 11/01/2024 8:30 AM - 6:00 PM\n10/21/2024 - 11/01/2024 8:30 AM - 6:00 PM" }, "geometry": { "type": "Point", "coordinates": [ -81.999775, 33.483143 ] } },
+{ "type": "Feature", "properties": { "address": "2463 GOLDEN CAMP ROAD, AUGUSTA, GA, 30906 0000", "county": "RICHMOND", "election": "11/05/2024 NOVEMBER 5, 2024 - GENERAL ELECTION", "lat": 33.430027, "lng": -82.051739, "name": "HENRY BRIGHAM COMMUNITY CENTER", "schedule": "10/15/2024 - 10/19/2024 8:30 AM - 6:00 PM\n10/21/2024 - 10/26/2024 8:30 AM - 6:00 PM\n10/28/2024 - 11/01/2024 8:30 AM - 6:00 PM" }, "geometry": { "type": "Point", "coordinates": [ -82.051739, 33.430027 ] } },
+{ "type": "Feature", "properties": { "address": "103 DIAMOND LAKES WAY, HEPHZIBAH, GA, 30815 0000", "county": "RICHMOND", "election": "11/05/2024 NOVEMBER 5, 2024 - GENERAL ELECTION", "lat": 33.356274, "lng": -82.08653, "name": "ROBERT HOWARD CC/DIAMOND LAKES", "schedule": "10/15/2024 - 10/19/2024 8:30 AM - 6:00 PM\n10/21/2024 - 10/26/2024 8:30 AM - 6:00 PM\n10/28/2024 - 11/01/2024 8:30 AM - 6:00 PM" }, "geometry": { "type": "Point", "coordinates": [ -82.08653, 33.356274 ] } },
+{ "type": "Feature", "properties": { "address": "300 WARREN ROAD, AUGUSTA, GA, 30907 0000", "county": "RICHMOND", "election": "11/05/2024 NOVEMBER 5, 2024 - GENERAL ELECTION", "lat": 33.506211, "lng": -82.057778, "name": "WARREN RD RECREATION CENTER", "schedule": "10/15/2024 - 10/19/2024 8:30 AM - 6:00 PM\n10/21/2024 - 10/26/2024 8:30 AM - 6:00 PM\n10/28/2024 - 11/01/2024 8:30 AM - 6:00 PM" }, "geometry": { "type": "Point", "coordinates": [ -82.057778, 33.506211 ] } }
+]
+}
