@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LONG",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "75 W ACADEMY ST, LUDOWICI, GA, 31316", "county": "LONG", "election": "11/05/2024 NOVEMBER 5, 2024 - GENERAL ELECTION", "lat": 31.71016, "lng": -81.735309, "name": "ADVANCE IN PERSON-AIP", "schedule": "10/15/2024 - 10/18/2024 8:00 AM - 5:00 PM\n10/19/2024 - 10/19/2024 9:00 AM - 5:00 PM\n10/21/2024 - 10/25/2024 8:00 AM - 5:00 PM\n10/26/2024 - 10/26/2024 9:00 AM - 5:00 PM\n10/28/2024 - 11/01/2024 8:00 AM - 5:00 PM\n10/29/2024 - 11/01/2024 8:00 AM - 5:00 PM" }, "geometry": { "type": "Point", "coordinates": [ -81.735309, 31.71016 ] } }
+]
+}

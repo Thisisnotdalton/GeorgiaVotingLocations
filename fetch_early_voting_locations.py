@@ -182,7 +182,7 @@ def get_list_of_counties(cache_file: str = 'counties.json') -> typing.List[str]:
 
 
 def fetch_early_voting_locations(
-        election_id='a0p3d00000LWdF5AAL',
+        election_id='',
         county='FULTON'):
     parameters = f'page=advpollingplace&election={election_id}&countyName={county}'
     locations_url = f'https://mvp.sos.ga.gov/s/advanced-voting-location-information?{parameters}'
@@ -268,7 +268,7 @@ def fetch_and_cache_voting_locations(
         county='FULTON', output_directory: str = 'voting_locations'):
     os.makedirs(output_directory, exist_ok=True)
     json_directory = os.path.join(output_directory, 'json')
-    output_file = os.path.join(json_directory, f'voting_locations_{county}.json')
+    output_file = os.path.join(json_directory, f'{county}.json')
     locations = None
     if os.path.exists(output_file):
         try:
@@ -276,20 +276,16 @@ def fetch_and_cache_voting_locations(
                 locations = json.load(in_file)
         except Exception as e:
             print(f'Failed to load cached locations file for county {county} due to exception: {e}')
-    updated_dataset = geocode_locations(locations, county) or locations is None
     if locations is None:
         locations = fetch_early_voting_locations(election_id, county)
+    updated_dataset = geocode_locations(locations, county) or locations is None
     if updated_dataset:
         with open(output_file, 'wt') as out_file:
-            json.dump(locations, out_file, indent=4, sort_keys=True)
-    preferred_name = os.path.join(json_directory, f'{county}.json')
-    if not os.path.exists(preferred_name):
-        with open(preferred_name, 'wt') as out_file:
             json.dump(locations, out_file, indent=4, sort_keys=True)
     return locations
 
 
-def aggregate_county_voting_locations(election_id='a0p3d00000LWdF5AAL',
+def aggregate_county_voting_locations(election_id='',
                                       output_directory: str = 'voting_locations'):
     os.makedirs(output_directory, exist_ok=True)
     all_locations_file = os.path.join(output_directory, 'json', 'all_voting_locations.json')
@@ -421,7 +417,7 @@ def generate_polling_place_gdf(county_voting_locations: list) -> gpd.GeoDataFram
         data = gpd.GeoDataFrame()
     return data
 
-def main(scenarios_file_path: str = 'scenarios.json', election_id = '', output_directory: str = 'voting_locations'):
+def main(scenarios_file_path: str = 'scenarios.json', election_id = 'a0p3d00000LWdF5AAL', output_directory: str = 'data'):
     election_output_directory = os.path.join(output_directory, election_id)
     all_county_voting_locations = aggregate_county_voting_locations(election_id=election_id,
                                                                     output_directory=election_output_directory)
