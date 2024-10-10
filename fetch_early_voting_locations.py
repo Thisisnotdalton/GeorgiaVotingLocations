@@ -400,6 +400,8 @@ def generate_voting_location_subsets(all_county_voting_locations: dict, scenario
                 os.path.join(scenario_directory, f'{start_date.isoformat()}.json'), time_filter
             )
             start_date += datetime.timedelta(days=1)
+    with open(os.path.join(output_directory, 'scenarios.json'), 'wt') as out_file:
+        json.dump(results, out_file, indent=4, sort_keys=True)
     return results
 
 
