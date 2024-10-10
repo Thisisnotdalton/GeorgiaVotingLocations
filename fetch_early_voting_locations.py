@@ -266,9 +266,9 @@ def geocode_locations(locations: typing.List[dict], county_name: str = '', max_a
 def fetch_and_cache_voting_locations(
         election_id='a0p3d00000LWdF5AAL',
         county='FULTON', output_directory: str = 'voting_locations'):
-    election_directory = os.path.join(output_directory, election_id)
-    os.makedirs(election_directory, exist_ok=True)
-    output_file = os.path.join(election_directory, f'voting_locations_{county}.json')
+    os.makedirs(output_directory, exist_ok=True)
+    json_directory = os.path.join(output_directory, 'json')
+    output_file = os.path.join(json_directory, f'voting_locations_{county}.json')
     locations = None
     if os.path.exists(output_file):
         try:
@@ -282,14 +282,17 @@ def fetch_and_cache_voting_locations(
     if updated_dataset:
         with open(output_file, 'wt') as out_file:
             json.dump(locations, out_file, indent=4, sort_keys=True)
+    preferred_name = os.path.join(json_directory, f'{county}.json')
+    if not os.path.exists(preferred_name):
+        with open(preferred_name, 'wt') as out_file:
+            json.dump(locations, out_file, indent=4, sort_keys=True)
     return locations
 
 
 def aggregate_county_voting_locations(election_id='a0p3d00000LWdF5AAL',
                                       output_directory: str = 'voting_locations'):
-    election_directory = os.path.join(output_directory, election_id)
-    os.makedirs(election_directory, exist_ok=True)
-    all_locations_file = os.path.join(election_directory, 'all_voting_locations.json')
+    os.makedirs(output_directory, exist_ok=True)
+    all_locations_file = os.path.join(output_directory, 'json', 'all_voting_locations.json')
     all_locations = {}
     if os.path.exists(all_locations_file):
         try:
@@ -302,15 +305,15 @@ def aggregate_county_voting_locations(election_id='a0p3d00000LWdF5AAL',
             all_locations[county] = fetch_and_cache_voting_locations(election_id, county, output_directory)
         with open(all_locations_file, 'wt') as out_file:
             json.dump(all_locations, out_file, indent=4, sort_keys=True)
-    geojson_directory = os.path.join(election_directory, 'geojson')
-    all_locations_geojson_file = os.path.join(geojson_directory, f'all_voting_locations.json')
+    geojson_directory = os.path.join(output_directory, 'geojson')
+    all_locations_geojson_file = os.path.join(geojson_directory, f'all_voting_locations.geojson')
     if not os.path.isfile(all_locations_geojson_file):
         os.makedirs(geojson_directory, exist_ok=True)
         all_locations_gdf = []
         for county in get_list_of_counties():
             county_locations_gdf = generate_polling_place_gdf(all_locations[county])
             if len(county_locations_gdf) > 0:
-                county_geojson_file = os.path.join(geojson_directory, f'{county}_voting_locations.json')
+                county_geojson_file = os.path.join(geojson_directory, f'{county}.geojson')
                 county_locations_gdf.to_file(county_geojson_file, driver='GeoJSON')
                 all_locations_gdf.append(county_locations_gdf)
         all_locations_gdf = gpd.GeoDataFrame(pd.concat(all_locations_gdf))
@@ -418,11 +421,14 @@ def generate_polling_place_gdf(county_voting_locations: list) -> gpd.GeoDataFram
         data = gpd.GeoDataFrame()
     return data
 
-def main(scenarios_file_path: str = 'scenarios.json', output_directory: str = 'voting_location_scenarios'):
-    all_county_voting_locations = aggregate_county_voting_locations()
+def main(scenarios_file_path: str = 'scenarios.json', election_id = '', output_directory: str = 'voting_locations'):
+    election_output_directory = os.path.join(output_directory, election_id)
+    all_county_voting_locations = aggregate_county_voting_locations(election_id=election_id,
+                                                                    output_directory=election_output_directory)
     with open(scenarios_file_path, 'rt') as in_file:
         scenarios = json.load(in_file)
-    scenarios = generate_voting_location_subsets(all_county_voting_locations, scenarios, output_directory)
+    scenarios = generate_voting_location_subsets(all_county_voting_locations, scenarios,
+                                                 output_directory=os.path.join(election_output_directory, 'scenarios'))
 
 
 if __name__ == '__main__':
