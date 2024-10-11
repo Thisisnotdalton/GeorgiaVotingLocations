@@ -86,6 +86,7 @@ class StringValueSet {
 class DataSet {
     #jsonCache;
     #electionID = 'a0p3d00000LWdF5AAL';
+    #stateName='Georgia';
     #dataPath;
     #counties = null;
     #scenarioNames = null;
@@ -102,6 +103,39 @@ class DataSet {
             this.#counties = new StringValueSet(values, 'County', 'all_voting_locations', 'upper')
         }
         return this.#counties;
+    }
+    
+    async #getCountyBoundaries(){
+        return await this.#jsonCache.getJSON(`${this.#dataPath}/county_boundaries/${this.#stateName}.geojson`);
+    }
+    
+    async #getCountyCentroids(){
+        return await this.#jsonCache.getJSON(`${this.#dataPath}/county_boundaries/${this.#stateName}_centroids.geojson`);
+    }
+    
+    async #filterCountyGeometry(countyName, centroids = false, mustMatch=true){
+        let matches = [];
+        let data = await (centroids? this.#getCountyCentroids() : this.#getCountyBoundaries());
+        for (const feature of data['features']){
+            if ((feature['properties']['NAME'] === countyName) === mustMatch){
+                matches.push(feature);
+            }
+        }
+        let results = structuredClone(data);
+        results['features'] = matches;
+        return Promise.resolve(results);
+    }
+    
+    async getCountyGeometry(countyName, centroid=false){
+        return this.#filterCountyGeometry(countyName, centroid);
+    }
+    
+    async getAllCountyGeometry(centroid=false){
+        return this.#filterCountyGeometry('', centroid, false);
+    }
+    
+    async getStateGeometry(centroid=false){
+        return this.#filterCountyGeometry('', centroid);
     }
 
     async #getGeoJSON(countyName) {
