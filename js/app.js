@@ -62,22 +62,38 @@ class ScenarioSelector {
         }
     }
 
-    async getData(geojson = false) {
+    async getPollingPlaces(geojson = false) {
         return this.#data.getPollingPlaces(this.#selectedScenarioName, this.#selectedDate, this.#selectedCounty, geojson);
     }
+
+    async getCentroid() {
+        let centroid = null;
+        if (this.#selectedCounty === 'all_voting_locations') {
+            centroid = await this.#data.getStateGeometry(true);
+        } else {
+            centroid = await this.#data.getCountyGeometry(this.#selectedCounty, true);
+        }
+        if (centroid) {
+            centroid = centroid['features'][0]['geometry']['coordinates'];
+        }
+        return centroid;
+    }
+
 }
 
 export async function Start() {
-    let map = new Map(
-        "map",
-        'https://demotiles.maplibre.org/style.json',
-        [0, 0],
-        1);
+    const stateZoomLevel = 5;
+    const countyZoomLevel = 6;
+    let map = new Map("map", 'https://tiles.openfreemap.org/styles/liberty', [0, 0], 8);
 
     let scenarios = new ScenarioSelector();
 
     async function onSelectionChanged(selector) {
-        console.log(await selector.getData());
+        let selection = await selector.getSelection();
+        console.log(selection);
+        let centroid = await selector.getCentroid();
+        map.zoomTo(selection.county === 'all_voting_locations' ? stateZoomLevel : countyZoomLevel);
+        map.centerMap(centroid[0], centroid[1]);
     }
 
     scenarios.appendCallSelectionChangedCallback(onSelectionChanged);
