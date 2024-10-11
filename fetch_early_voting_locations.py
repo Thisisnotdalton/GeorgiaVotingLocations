@@ -424,6 +424,61 @@ def generate_polling_place_gdf(county_voting_locations: list) -> gpd.GeoDataFram
     return data
 
 
+@lru_cache()
+def get_state_fips_codes(state_name_column='Name', usps_column='Official USPS Code',
+                         state_fips_column='FIPS State Numeric Code'):
+    # data fetched from https://www.census.gov/library/reference/code-lists/ansi/ansi-codes-for-states.html
+    state_fips_codes = pd.read_csv('./inputs/states_fips_codes.csv')
+    for column in [state_name_column, usps_column, state_fips_column]:
+        assert column in state_fips_codes.columns, f'Missing column {column}'
+    state_name_lookup_table = {}
+    usps_lookup_table = {}
+    for _, row in state_fips_codes.iterrows():
+        state_name_lookup_table[row[state_name_column].lower()] = row[state_fips_column]
+        usps_lookup_table[row[usps_column].lower()] = row[state_fips_column]
+    return state_name_lookup_table, usps_lookup_table
+
+
+@lru_cache()
+def get_state_fips(state_name: str = None, state_usps: str = None) -> dict:
+    assert state_name or state_usps, 'State name or USPS code must be specified!'
+    result = None
+    state_name_lookup_table, usps_lookup_table = get_state_fips_codes()
+    if state_name is not None:
+        state_name = state_name.lower()
+        assert state_name in state_name_lookup_table, f'No state could be found with name {state_name}!'
+        result = state_name_lookup_table[state_name]
+    if state_usps is not None:
+        state_usps = state_usps.lower()
+        assert state_usps in usps_lookup_table, f'No state could be found with USPS {state_usps}!'
+        if result is None:
+            result = usps_lookup_table[state_usps]
+        else:
+            assert usps_lookup_table[state_usps] == result, \
+                f'Received conflicting state FIPS codes for name {state_name} and USPS code {state_usps}!'
+    return result
+
+
+def get_state_county_boundaries(state: str = 'Georgia') -> gpd.GeoDataFrame:
+    # data fetched from https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+    national_county_boundary_file = './inputs/cb_2018_us_county_500k.zip' #!cb_2018_us_county_500k.shp'
+    assert os.path.isfile(national_county_boundary_file), 'Cannot find national county boundary file!'
+    statefp_filter = str(get_state_fips(state_name=state))
+    gdf = gpd.read_file(national_county_boundary_file)
+    gdf = gdf.loc[gdf['STATEFP'] == statefp_filter, ['NAME', 'geometry']]
+    gdf.loc[:, 'NAME'] = gdf.loc[:, 'NAME'].str.lower()
+    return gdf
+
+
+def save_state_county_boundaries(state: str = 'Georgia', output_directory: str = 'data'):
+    county_boundaries_directory = os.path.join(output_directory, 'county_boundaries')
+    os.makedirs(county_boundaries_directory, exist_ok=True)
+    output_file = os.path.join(county_boundaries_directory, f'{state}.geojson')
+    if not os.path.isfile(output_file):
+        state_counties = get_state_county_boundaries(state)
+        state_counties.to_file(output_file)
+
+
 def main(scenarios_file_path: str = 'scenarios.json', election_id='a0p3d00000LWdF5AAL', output_directory: str = 'data'):
     election_output_directory = os.path.join(output_directory, election_id)
     all_county_voting_locations = aggregate_county_voting_locations(election_id=election_id,
@@ -432,6 +487,7 @@ def main(scenarios_file_path: str = 'scenarios.json', election_id='a0p3d00000LWd
         scenarios = json.load(in_file)
     scenarios = generate_voting_location_subsets(all_county_voting_locations, scenarios,
                                                  output_directory=os.path.join(election_output_directory, 'scenarios'))
+    save_state_county_boundaries(output_directory=output_directory)
 
 
 if __name__ == '__main__':
