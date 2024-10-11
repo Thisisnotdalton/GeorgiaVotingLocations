@@ -12,22 +12,21 @@ class ScenarioSelector {
         this.#data = new DataSet();
         this.#callbacks = [];
     }
-    
-    getSelection(){
+
+    getSelection() {
         return {
             "county": this.#selectedCounty,
             "scenarioName": this.#selectedScenarioName,
             "scenarioDate": this.#selectedDate
         }
     }
-    
+
     #selectionChangedCallback() {
-        let selection = this.getSelection();
         for (const callback of this.#callbacks) {
-            callback(selection);
+            callback(this);
         }
     }
-    
+
     appendCallSelectionChangedCallback(callback) {
         this.#callbacks.push(callback);
     }
@@ -39,7 +38,7 @@ class ScenarioSelector {
         this.#selectionChangedCallback();
     }
 
-    selectCounty(countyName){
+    selectCounty(countyName) {
         countyName = this.#data.getCounties().normalize(countyName);
         if (countyName !== this.#selectedCounty) {
             this.#selectedCounty = countyName;
@@ -62,6 +61,10 @@ class ScenarioSelector {
             this.#selectionChangedCallback();
         }
     }
+
+    async getData(geojson = false) {
+        return this.#data.getPollingPlaces(this.#selectedScenarioName, this.#selectedDate, this.#selectedCounty, geojson);
+    }
 }
 
 export async function Start() {
@@ -70,8 +73,14 @@ export async function Start() {
         'https://demotiles.maplibre.org/style.json',
         [0, 0],
         1);
+
     let scenarios = new ScenarioSelector();
-    scenarios.appendCallSelectionChangedCallback(console.log);
+
+    async function onSelectionChanged(selector) {
+        console.log(await selector.getData());
+    }
+
+    scenarios.appendCallSelectionChangedCallback(onSelectionChanged);
     await scenarios.initialize();
 }
 
