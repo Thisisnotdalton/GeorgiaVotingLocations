@@ -45,15 +45,27 @@ class StringValueSet {
         }
     }
 
+    static #toUpperCase(value) {
+        return value ? value.toUpperCase() : value;
+    }
+
+    static #toLowerCase(value) {
+        return value ? value.toLowerCase() : value;
+    }
+
+    static #noCaseChange(value) {
+        return value;
+    }
+
     static #applyCase(setCase) {
-        if (setCase != undefined) {
-            if (setCase == 'upper') {
-                return (x) => x.toUpperCase();
-            } else if (setCase == 'lower') {
-                return (x) => x.toLowerCase();
+        if (setCase !== undefined && setCase !== null) {
+            if (setCase === 'upper') {
+                return StringValueSet.#toUpperCase;
+            } else if (setCase === 'lower') {
+                return StringValueSet.#toLowerCase;
             }
         }
-        return (x) => x;
+        return StringValueSet.#noCaseChange;
     }
 
     normalize(value) {
@@ -89,7 +101,7 @@ class DataSet {
             let values = await this.#jsonCache.getJSON(`${this.#dataPath}/counties.json`);
             this.#counties = new StringValueSet(values, 'County', 'all_voting_locations', 'upper')
         }
-        return this.#counties.values();
+        return this.#counties;
     }
 
     async #getGeoJSON(countyName) {
@@ -107,9 +119,9 @@ class DataSet {
     async getScenarioNames() {
         if (this.#scenarioNames == null) {
             let values = Object.keys(await this.#getScenariosJSON());
-            this.#scenarioNames = new StringValueSet(values, 'Scenario Name');
+            this.#scenarioNames = new StringValueSet(values, 'Scenario Name', 'any_time');
         }
-        return this.#scenarioNames.values();
+        return this.#scenarioNames;
     }
 
     async #getAllScenariosData(scenarioName) {
@@ -126,7 +138,7 @@ class DataSet {
             let values = Object.keys(await this.#getAllScenariosData(scenarioName));
             this.#scenarioDates[scenarioName] = new StringValueSet(values, 'Scenario Date');
         }
-        return this.#scenarioDates[scenarioName].values();
+        return this.#scenarioDates[scenarioName];
     }
 
     async #getScenarioData(scenarioName, scenarioDate, countyName = '') {
