@@ -467,6 +467,10 @@ def get_state_county_boundaries(state: str = 'Georgia') -> gpd.GeoDataFrame:
     gdf = gpd.read_file(national_county_boundary_file)
     gdf = gdf.loc[gdf['STATEFP'] == statefp_filter, ['NAME', 'geometry']]
     gdf.loc[:, 'NAME'] = gdf.loc[:, 'NAME'].str.upper()
+    state_bounds = gpd.GeoDataFrame(pd.DataFrame(data=[dict(NAME='', geometry=gdf.geometry.union_all())]))
+    gdf = gpd.GeoDataFrame(pd.concat([gdf, state_bounds]))
+    gdf.loc[:, 'lng'] = gdf.geometry.centroid.x
+    gdf.loc[:, 'lat'] = gdf.geometry.centroid.y
     return gdf
 
 
@@ -476,6 +480,11 @@ def save_state_county_boundaries(state: str = 'Georgia', output_directory: str =
     output_file = os.path.join(county_boundaries_directory, f'{state}.geojson')
     if not os.path.isfile(output_file):
         state_counties = get_state_county_boundaries(state)
+        state_counties.to_file(output_file)
+    output_file = os.path.join(county_boundaries_directory, f'{state}_centroids.geojson')
+    if not os.path.isfile(output_file):
+        state_counties = get_state_county_boundaries(state)
+        state_counties = state_counties.set_geometry(state_counties.geometry.centroid)
         state_counties.to_file(output_file)
 
 
@@ -487,7 +496,7 @@ def main(scenarios_file_path: str = 'scenarios.json', election_id='a0p3d00000LWd
         scenarios = json.load(in_file)
     scenarios = generate_voting_location_subsets(all_county_voting_locations, scenarios,
                                                  output_directory=os.path.join(election_output_directory, 'scenarios'))
-    save_state_county_boundaries(output_directory=output_directory)
+    save_state_county_boundaries(output_directory=election_output_directory)
 
 
 if __name__ == '__main__':
