@@ -289,10 +289,13 @@ def fetch_and_cache_voting_locations(
     return locations
 
 
+ALL_LOCATIONS_ID = 'ALL_COUNTIES'
+
+
 def aggregate_county_voting_locations(election_id='',
                                       output_directory: str = 'voting_locations'):
     os.makedirs(output_directory, exist_ok=True)
-    all_locations_file = os.path.join(output_directory, 'json', 'all_voting_locations.json')
+    all_locations_file = os.path.join(output_directory, 'json', f'{ALL_LOCATIONS_ID}.json')
     all_locations = {}
     if os.path.exists(all_locations_file):
         try:
@@ -306,11 +309,14 @@ def aggregate_county_voting_locations(election_id='',
         with open(all_locations_file, 'wt') as out_file:
             json.dump(all_locations, out_file, indent=4, sort_keys=True)
     geojson_directory = os.path.join(output_directory, 'geojson')
-    all_locations_geojson_file = os.path.join(geojson_directory, f'all_voting_locations.geojson')
+    all_locations_geojson_file = os.path.join(geojson_directory, f'{ALL_LOCATIONS_ID}.geojson')
+    all_locations_list = []
+    for county in get_list_of_counties(os.path.join(output_directory, 'counties.json')):
+        all_locations_list.extend(all_locations[county])
     if not os.path.isfile(all_locations_geojson_file):
         os.makedirs(geojson_directory, exist_ok=True)
         all_locations_gdf = []
-        for county in get_list_of_counties():
+        for county in get_list_of_counties(os.path.join(output_directory, 'counties.json')):
             county_locations_gdf = generate_polling_place_gdf(all_locations[county])
             if len(county_locations_gdf) > 0:
                 county_geojson_file = os.path.join(geojson_directory, f'{county}.geojson')
@@ -318,6 +324,7 @@ def aggregate_county_voting_locations(election_id='',
                 all_locations_gdf.append(county_locations_gdf)
         all_locations_gdf = gpd.GeoDataFrame(pd.concat(all_locations_gdf))
         all_locations_gdf.to_file(all_locations_geojson_file, driver='GeoJSON')
+    all_locations[ALL_LOCATIONS_ID] = all_locations_list
     return all_locations
 
 
