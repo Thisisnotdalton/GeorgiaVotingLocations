@@ -494,7 +494,41 @@ def save_state_county_boundaries(state: str = 'Georgia', output_directory: str =
         state_counties.to_file(output_file)
 
 
-def main(scenarios_file_path: str = 'scenarios.json', election_id='a0p3d00000LWdF5AAL', output_directory: str = 'data'):
+def check_polling_locations_against_boundaries(polling_places: gpd.GeoDataFrame, boundaries: gpd.GeoDataFrame) -> dict:
+    errors = {}
+    counties = list(sorted(polling_places['county'].unique()))
+    for county in counties:
+        points = polling_places.loc[polling_places.county == county]
+        boundary = boundaries.loc[boundaries.NAME == county].union_all()
+        error_points = points.loc[~points.geometry.intersects(boundary)]
+        if len(error_points) > 0:
+            print(f'There are {len(error_points)} points for county {county} that fall outside of the county bounds!')
+            errors[county] = error_points
+    return errors
+
+
+def spatially_check_polling_places(output_directory: str = 'data', state: str = 'Georgia'):
+    all_counties_gdf = gpd.read_file(os.path.join(output_directory, 'geojson', f'{ALL_LOCATIONS_ID}.geojson'))
+    all_counties_boundaries_gdf = gpd.read_file(os.path.join(output_directory, 'county_boundaries', f'{state}.geojson'))
+    errors = check_polling_locations_against_boundaries(all_counties_gdf, all_counties_boundaries_gdf)
+    errors_file_path = os.path.join(output_directory, f'errors.geojson')
+    if len(errors) > 0:
+        all_errors = []
+        for county in sorted(errors.keys()):
+            all_errors.append(errors[county])
+        all_errors = pd.concat(all_errors)
+        all_errors = gpd.GeoDataFrame(all_errors)
+        all_errors.to_file(errors_file_path)
+        print(f'There were {len(all_errors)} polling places which did not intersect with their county bounds!')
+    elif os.path.isdir(errors_file_path):
+        os.remove(errors_file_path)
+        print('All polling places intersect their county bounds.')
+
+
+
+
+def main(scenarios_file_path: str = 'scenarios.json', state='Georgia',
+         election_id='a0p3d00000LWdF5AAL', output_directory: str = 'data'):
     election_output_directory = os.path.join(output_directory, election_id)
     all_county_voting_locations = aggregate_county_voting_locations(election_id=election_id,
                                                                     output_directory=election_output_directory)
@@ -502,7 +536,8 @@ def main(scenarios_file_path: str = 'scenarios.json', election_id='a0p3d00000LWd
         scenarios = json.load(in_file)
     scenarios = generate_voting_location_subsets(all_county_voting_locations, scenarios,
                                                  output_directory=os.path.join(election_output_directory, 'scenarios'))
-    save_state_county_boundaries(output_directory=election_output_directory)
+    save_state_county_boundaries(output_directory=election_output_directory, state=state)
+    spatially_check_polling_places(output_directory=election_output_directory, state=state)
 
 
 if __name__ == '__main__':
