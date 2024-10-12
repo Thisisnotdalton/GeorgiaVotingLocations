@@ -1,0 +1,337 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.382401,
+                    33.922171
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxY2E5OTg2MC1hZjdmLTQzMmEtOTYyZi1hNGE2OTY0OTVmNGM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "6110",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxY2E5OTg2MC1hZjdmLTQzMmEtOTYyZi1hNGE2OTY0OTVmNGM",
+                        "name": "6110 Bluestone Road Northeast",
+                        "street_name": "Bluestone Road Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFV3BJN0E",
+                        "name": "Sandy Springs",
+                        "wikidata_id": "Q914884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmF1N0E",
+                        "name": "30328"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWNhOTk4NjAtYWY3Zi00MzJhLTk2MmYtYTRhNjk2NDk1ZjRj",
+                        "name": "Bluestone Road Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.922171,
+                    "longitude": -84.382401,
+                    "routable_points": [
+                        {
+                            "latitude": 33.92216,
+                            "longitude": -84.382152,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "6110 Bluestone Road Northeast, Sandy Springs, Georgia 30328, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxY2E5OTg2MC1hZjdmLTQzMmEtOTYyZi1hNGE2OTY0OTVmNGM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "6110 Blue Stone Rd",
+                "name_preferred": "6110 Bluestone Road Northeast",
+                "place_formatted": "Sandy Springs, Georgia 30328, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.379119,
+                    33.921597
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZmF1N0E",
+            "properties": {
+                "bbox": [
+                    -84.447536,
+                    33.901543,
+                    -84.347625,
+                    33.963344
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFV3BJN0E",
+                        "name": "Sandy Springs",
+                        "wikidata_id": "Q914884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmF1N0E",
+                        "name": "30328"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.921597,
+                    "longitude": -84.379119
+                },
+                "feature_type": "postcode",
+                "full_address": "Sandy Springs, Georgia 30328, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZmF1N0E",
+                "name": "30328",
+                "name_preferred": "30328",
+                "place_formatted": "Sandy Springs, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.888289,
+                    33.066138
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjMzM2E2ODItZTkyMS00MzE4LTk4MWUtYzkxNWE4ZTQwYTBl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo5Y2Jz",
+                        "name": "Monroe County",
+                        "wikidata_id": "Q493024"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc3NJN0E",
+                        "name": "Forsyth",
+                        "wikidata_id": "Q1820317"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDdPN0E",
+                        "name": "31029"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjMzM2E2ODItZTkyMS00MzE4LTk4MWUtYzkxNWE4ZTQwYTBl",
+                        "name": "Blue Store Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.066138,
+                    "longitude": -83.888289
+                },
+                "feature_type": "street",
+                "full_address": "Blue Store Road, Forsyth, Georgia 31029, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjMzM2E2ODItZTkyMS00MzE4LTk4MWUtYzkxNWE4ZTQwYTBl",
+                "name": "Blue Store Road",
+                "name_preferred": "Blue Store Road",
+                "place_formatted": "Forsyth, Georgia 31029, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.382998,
+                    33.91649
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODdkZmM4MGMtNjEwNS00NmZkLWJlZWYtYjVhZDMwZWE3MmUw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFV3BJN0E",
+                        "name": "Sandy Springs",
+                        "wikidata_id": "Q914884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmF1N0E",
+                        "name": "30328"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODdkZmM4MGMtNjEwNS00NmZkLWJlZWYtYjVhZDMwZWE3MmUw",
+                        "name": "Sandy Springs W Loop Northeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.91649,
+                    "longitude": -84.382998
+                },
+                "feature_type": "street",
+                "full_address": "Sandy Springs W Loop Northeast, Sandy Springs, Georgia 30328, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODdkZmM4MGMtNjEwNS00NmZkLWJlZWYtYjVhZDMwZWE3MmUw",
+                "name": "Sandy Springs Cir",
+                "name_preferred": "Sandy Springs W Loop Northeast",
+                "place_formatted": "Sandy Springs, Georgia 30328, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.52491,
+                    33.823962
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MzBiMTJjNTAtMTNjOS00MTMyLWFiNTAtZjVkNDhkZDZkNDlj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIVExzN0E",
+                        "name": "Pebblebrook Estates"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFamhvN0E",
+                            "name": "Smyrna"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN0pvN0E",
+                        "name": "Mableton",
+                        "wikidata_id": "Q2656942"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVR1N0E",
+                        "name": "30126"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzBiMTJjNTAtMTNjOS00MTMyLWFiNTAtZjVkNDhkZDZkNDlj",
+                        "name": "Bluestone Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.823962,
+                    "longitude": -84.52491
+                },
+                "feature_type": "street",
+                "full_address": "Bluestone Circle, Mableton, Georgia 30126, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzBiMTJjNTAtMTNjOS00MTMyLWFiNTAtZjVkNDhkZDZkNDlj",
+                "name": "Blue Stone Circle",
+                "name_preferred": "Bluestone Circle",
+                "place_formatted": "Mableton, Georgia 30126, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

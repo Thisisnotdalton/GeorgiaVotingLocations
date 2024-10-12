@@ -1,0 +1,361 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.324348,
+                    33.799856
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplZDNmNzc5Yi1mOGJjLTQ4MzItYmJkMi1lMDg3MzNkZTVjY2Q",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1599",
+                        "mapbox_id": "dXJuOm1ieGFkcjplZDNmNzc5Yi1mOGJjLTQ4MzItYmJkMi1lMDg3MzNkZTVjY2Q",
+                        "name": "1599 Clifton Road Northeast",
+                        "street_name": "Clifton Road Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBbHRvN0E",
+                            "name": "Brookhaven"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZllPN0E",
+                        "name": "30322"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWQzZjc3OWItZjhiYy00ODMyLWJiZDItZTA4NzMzZGU1Y2Nk",
+                        "name": "Clifton Road Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.799856,
+                    "longitude": -84.324348,
+                    "routable_points": [
+                        {
+                            "latitude": 33.799376,
+                            "longitude": -84.324775,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1599 Clifton Road Northeast, Atlanta, Georgia 30322, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplZDNmNzc5Yi1mOGJjLTQ4MzItYmJkMi1lMDg3MzNkZTVjY2Q",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1599 Clifton Road Northeast",
+                "name_preferred": "1599 Clifton Road Northeast",
+                "place_formatted": "Atlanta, Georgia 30322, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.31794,
+                    33.79869
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDk2NDYxYWItOGM4My00MDQzLTlmYTItZDYxYTM2ZjQ1YzJi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBbHRvN0E",
+                            "name": "Brookhaven"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHBPN0E",
+                        "name": "30033"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDk2NDYxYWItOGM4My00MDQzLTlmYTItZDYxYTM2ZjQ1YzJi",
+                        "name": "Clifton Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.79869,
+                    "longitude": -84.31794
+                },
+                "feature_type": "street",
+                "full_address": "Clifton Road, Atlanta, Georgia 30033, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDk2NDYxYWItOGM4My00MDQzLTlmYTItZDYxYTM2ZjQ1YzJi",
+                "name": "Clifton Road",
+                "name_preferred": "Clifton Road",
+                "place_formatted": "Atlanta, Georgia 30033, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.332992,
+                    33.764249
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDdmNjBhMTMtYzcxNC00ZWM5LTkwNmMtNmZkMjkyY2M2ZGQy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGRmlNN0E",
+                        "name": "Lake Claire",
+                        "wikidata_id": "Q14686693"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlF1N0E",
+                        "name": "30307"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDdmNjBhMTMtYzcxNC00ZWM5LTkwNmMtNmZkMjkyY2M2ZGQy",
+                        "name": "Clifton Road Northeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.764249,
+                    "longitude": -84.332992
+                },
+                "feature_type": "street",
+                "full_address": "Clifton Road Northeast, Atlanta, Georgia 30307, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDdmNjBhMTMtYzcxNC00ZWM5LTkwNmMtNmZkMjkyY2M2ZGQy",
+                "name": "Clifton Road Northeast",
+                "name_preferred": "Clifton Road Northeast",
+                "place_formatted": "Atlanta, Georgia 30307, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.310806,
+                    33.688236
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTVPU0lzSW5OMGNtVmxkQ0k2SWtOTVNVWlVUMDRnVWtRZ1FpSXNJbkJzWVdObElqb2lRVlJNUVU1VVFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRE15TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1599",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTVPU0lzSW5OMGNtVmxkQ0k2SWtOTVNVWlVUMDRnVWtRZ1FpSXNJbkJzWVdObElqb2lRVlJNUVU1VVFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRE15TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                        "name": "1599 Clifton Church Road",
+                        "street_name": "Clifton Church Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEWUxLN0E",
+                        "name": "Gresham Park",
+                        "wikidata_id": "Q1966667"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLcXZNN0E",
+                        "name": "Whitehall Forest Estates"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlZPN0E",
+                        "name": "30316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFU1T1NJc0luTjBjbVZsZENJNklrTk1TVVpVVDA0Z1VrUWdRaUlzSW5Cc1lXTmxJam9pUVZSTVFVNVVRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURNeU1pSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+                        "name": "Clifton Church Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.688236,
+                    "longitude": -84.310806,
+                    "routable_points": [
+                        {
+                            "latitude": 33.688236,
+                            "longitude": -84.310806,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1599 Clifton Church Road, Atlanta, Georgia 30316, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTVPU0lzSW5OMGNtVmxkQ0k2SWtOTVNVWlVUMDRnVWtRZ1FpSXNJbkJzWVdObElqb2lRVlJNUVU1VVFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRE15TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1599 Clifton Church Road",
+                "name_preferred": "1599 Clifton Church Road",
+                "place_formatted": "Atlanta, Georgia 30316, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.32524,
+                    33.79201
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2NkN2I0ZDEtYTI5Mi00ZTE1LWFmOTAtOWYyYmY1MjJjYjQ3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZllPN0E",
+                        "name": "30322"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2NkN2I0ZDEtYTI5Mi00ZTE1LWFmOTAtOWYyYmY1MjJjYjQ3",
+                        "name": "Clifton Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.79201,
+                    "longitude": -84.32524
+                },
+                "feature_type": "street",
+                "full_address": "Clifton Road, Atlanta, Georgia 30322, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2NkN2I0ZDEtYTI5Mi00ZTE1LWFmOTAtOWYyYmY1MjJjYjQ3",
+                "name": "Clifton Road",
+                "name_preferred": "Clifton Road",
+                "place_formatted": "Atlanta, Georgia 30322, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

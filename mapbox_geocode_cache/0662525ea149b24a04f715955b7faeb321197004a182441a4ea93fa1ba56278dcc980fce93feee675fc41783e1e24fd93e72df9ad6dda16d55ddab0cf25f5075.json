@@ -1,0 +1,318 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.135845,
+                    33.543379
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2NmU0ODA1NC01NDMxLTRmMzAtYWU1MS1jZTVhNjAzNDg4OGI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "610",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2NmU0ODA1NC01NDMxLTRmMzAtYWU1MS1jZTVhNjAzNDg4OGI",
+                        "name": "610 Ronald Reagan Drive",
+                        "street_name": "Ronald Reagan Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUR2Jz",
+                        "name": "Columbia County",
+                        "wikidata_id": "Q115307"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCUTBNN0E",
+                        "name": "Camelot"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2NvN0E",
+                        "name": "Evans",
+                        "wikidata_id": "Q2437337"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGRPN0E",
+                        "name": "30809"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjZlNDgwNTQtNTQzMS00ZjMwLWFlNTEtY2U1YTYwMzQ4ODhi",
+                        "name": "Ronald Reagan Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.543379,
+                    "longitude": -82.135845,
+                    "routable_points": [
+                        {
+                            "latitude": 33.543212,
+                            "longitude": -82.135939,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "610 Ronald Reagan Drive, Evans, Georgia 30809, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2NmU0ODA1NC01NDMxLTRmMzAtYWU1MS1jZTVhNjAzNDg4OGI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "610 Ronald Reagan Drive",
+                "name_preferred": "610 Ronald Reagan Drive",
+                "place_formatted": "Evans, Georgia 30809, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.06351,
+                    33.09555
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjMwMTE4NWMtMjdhYS00ODdmLWEyZWQtNTczODkzNjdhZjk1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKMmJz",
+                        "name": "Burke County",
+                        "wikidata_id": "Q211360"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTDRvN0E",
+                        "name": "Waynesboro",
+                        "wikidata_id": "Q1282929"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGx1N0E",
+                        "name": "30830"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjMwMTE4NWMtMjdhYS00ODdmLWEyZWQtNTczODkzNjdhZjk1",
+                        "name": "Reagan Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.09555,
+                    "longitude": -82.06351
+                },
+                "feature_type": "street",
+                "full_address": "Reagan Dr, Waynesboro, Georgia 30830, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjMwMTE4NWMtMjdhYS00ODdmLWEyZWQtNTczODkzNjdhZjk1",
+                "name": "Reagan Dr",
+                "name_preferred": "Reagan Dr",
+                "place_formatted": "Waynesboro, Georgia 30830, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.003976,
+                    33.719588
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDZkMGJjNjMtNWE1Yy00MDZlLTkzNDAtODJkMDU2OWY0ZDE2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpNZ2Jz",
+                        "name": "Carroll County",
+                        "wikidata_id": "Q493088"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMVJJN0E",
+                        "name": "Temple",
+                        "wikidata_id": "Q2854437"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZW91N0E",
+                        "name": "30179"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDZkMGJjNjMtNWE1Yy00MDZlLTkzNDAtODJkMDU2OWY0ZDE2",
+                        "name": "Reagan Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.719588,
+                    "longitude": -85.003976
+                },
+                "feature_type": "street",
+                "full_address": "Reagan Drive, Temple, Georgia 30179, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDZkMGJjNjMtNWE1Yy00MDZlLTkzNDAtODJkMDU2OWY0ZDE2",
+                "name": "Reagan Drive",
+                "name_preferred": "Reagan Drive",
+                "place_formatted": "Temple, Georgia 30179, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.184521,
+                    34.70367
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDEwOTFmOTUtZDhmNi00YWNiLTkwZmItMDU4YTY2YjM3MWRl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbXpvN0E",
+                        "name": "La Fayette"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFBPN0E",
+                        "name": "30728"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDEwOTFmOTUtZDhmNi00YWNiLTkwZmItMDU4YTY2YjM3MWRl",
+                        "name": "Reagan Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.70367,
+                    "longitude": -85.184521
+                },
+                "feature_type": "street",
+                "full_address": "Reagan Dr, La Fayette, Georgia 30728, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDEwOTFmOTUtZDhmNi00YWNiLTkwZmItMDU4YTY2YjM3MWRl",
+                "name": "Reagan Dr",
+                "name_preferred": "Reagan Dr",
+                "place_formatted": "La Fayette, Georgia 30728, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.994162,
+                    34.092342
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTcyNDc3MjktZTJlNC00NGE2LWJjYTktODkzNWZlOTM5NmVm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzphMmJz",
+                        "name": "Elbert County",
+                        "wikidata_id": "Q492016"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZG1vN0E",
+                        "name": "Elberton",
+                        "wikidata_id": "Q1869391"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzZPN0E",
+                        "name": "30635"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTcyNDc3MjktZTJlNC00NGE2LWJjYTktODkzNWZlOTM5NmVm",
+                        "name": "Deerfield Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.092342,
+                    "longitude": -82.994162
+                },
+                "feature_type": "street",
+                "full_address": "Deerfield Road, Elberton, Georgia 30635, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTcyNDc3MjktZTJlNC00NGE2LWJjYTktODkzNWZlOTM5NmVm",
+                "name": "Reagin Dr",
+                "name_preferred": "Deerfield Road",
+                "place_formatted": "Elberton, Georgia 30635, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

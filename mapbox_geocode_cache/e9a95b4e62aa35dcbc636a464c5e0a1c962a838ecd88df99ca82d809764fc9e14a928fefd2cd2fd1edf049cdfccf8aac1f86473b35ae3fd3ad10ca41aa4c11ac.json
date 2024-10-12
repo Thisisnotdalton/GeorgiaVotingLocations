@@ -1,0 +1,385 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.280511,
+                    34.704353
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3YmZlY2NlOC01NWQ4LTRhZDktOTlhNy0yOTA0OGJjNTVhMTY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "103",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3YmZlY2NlOC01NWQ4LTRhZDktOTlhNy0yOTA0OGJjNTVhMTY",
+                        "name": "103 South Duke Street",
+                        "street_name": "South Duke Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbXpvN0E",
+                        "name": "La Fayette"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFBPN0E",
+                        "name": "30728"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2JmZWNjZTgtNTVkOC00YWQ5LTk5YTctMjkwNDhiYzU1YTE2",
+                        "name": "South Duke Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.704353,
+                    "longitude": -85.280511,
+                    "routable_points": [
+                        {
+                            "latitude": 34.704322,
+                            "longitude": -85.280323,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "103 South Duke Street, La Fayette, Georgia 30728, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3YmZlY2NlOC01NWQ4LTRhZDktOTlhNy0yOTA0OGJjNTVhMTY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "103 South Duke Street",
+                "name_preferred": "103 South Duke Street",
+                "place_formatted": "La Fayette, Georgia 30728, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.236697,
+                    31.205946
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3ZmMxNjg2ZC03ZjRlLTQ4MDYtYTFiMS01NmRiZWZhMjU1YzM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "103",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3ZmMxNjg2ZC03ZjRlLTQ4MDYtYTFiMS01NmRiZWZhMjU1YzM",
+                        "name": "103 Luke Street",
+                        "street_name": "Luke Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHS2Jz",
+                        "name": "Berrien County",
+                        "wikidata_id": "Q488868"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEWVFvN0E",
+                        "name": "Nashville",
+                        "wikidata_id": "Q2196177"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanBPN0E",
+                        "name": "31639"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2ZjMTY4NmQtN2Y0ZS00ODA2LWExYjEtNTZkYmVmYTI1NWMz",
+                        "name": "Luke Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 31.205946,
+                    "longitude": -83.236697,
+                    "routable_points": [
+                        {
+                            "latitude": 31.205938,
+                            "longitude": -83.236617,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "103 Luke Street, Nashville, Georgia 31639, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3ZmMxNjg2ZC03ZjRlLTQ4MDYtYTFiMS01NmRiZWZhMjU1YzM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "103 S Luke St",
+                "name_preferred": "103 Luke Street",
+                "place_formatted": "Nashville, Georgia 31639, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.061845,
+                    31.954531
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpJaXdpYzNSeVpXVjBJam9pVXk0Z1JGVkxSU0JUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa3hCUmtGWlJWUlVSU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURjeU9DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "103",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpJaXdpYzNSeVpXVjBJam9pVXk0Z1JGVkxSU0JUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa3hCUmtGWlJWUlVSU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURjeU9DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjI",
+                        "name": "103 South Luke Street",
+                        "street_name": "South Luke Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                        "name": "Sumter County",
+                        "wikidata_id": "Q503076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCUldJN0E",
+                        "name": "De Soto",
+                        "wikidata_id": "Q2526831"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajZPN0E",
+                        "name": "31743"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEF6SWl3aWMzUnlaV1YwSWpvaVV5NGdSRlZMUlNCVFZGSkZSVlFpTENKd2JHRmpaU0k2SWt4QlJrRlpSVlJVUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EY3lPQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToy",
+                        "name": "South Luke Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.954531,
+                    "longitude": -84.061845,
+                    "routable_points": [
+                        {
+                            "latitude": 31.954531,
+                            "longitude": -84.061845,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "103 South Luke Street, De Soto, Georgia 31743, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpJaXdpYzNSeVpXVjBJam9pVXk0Z1JGVkxSU0JUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa3hCUmtGWlJWUlVSU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURjeU9DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "103 South Luke Street",
+                "name_preferred": "103 South Luke Street",
+                "place_formatted": "De Soto, Georgia 31743, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.278541,
+                    34.712792
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDhkZjg4OWUtOWYwMi00ZDAwLWJjNzEtNzIzOWIyMjk0NWYz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbXpvN0E",
+                        "name": "La Fayette"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFBPN0E",
+                        "name": "30728"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDhkZjg4OWUtOWYwMi00ZDAwLWJjNzEtNzIzOWIyMjk0NWYz",
+                        "name": "North Duke Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.712792,
+                    "longitude": -85.278541
+                },
+                "feature_type": "street",
+                "full_address": "North Duke Street, La Fayette, Georgia 30728, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDhkZjg4OWUtOWYwMi00ZDAwLWJjNzEtNzIzOWIyMjk0NWYz",
+                "name": "North Duke Street",
+                "name_preferred": "North Duke Street",
+                "place_formatted": "La Fayette, Georgia 30728, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.303074,
+                    40.036463
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1NTNiOGNiYy1lOTdmLTQ0ZTctYTY2NC05NWEzMjRjMWM2ZGM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "103",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1NTNiOGNiYy1lOTdmLTQ0ZTctYTY2NC05NWEzMjRjMWM2ZGM",
+                        "name": "103 South Duke Street",
+                        "street_name": "South Duke Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp4VWJz",
+                        "name": "Lancaster County",
+                        "wikidata_id": "Q142369"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDcXZvN0E",
+                        "name": "Lancaster",
+                        "wikidata_id": "Q320514"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeVV1N0E",
+                        "name": "17602"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBa1Rz",
+                        "name": "Pennsylvania",
+                        "region_code": "PA",
+                        "region_code_full": "US-PA",
+                        "wikidata_id": "Q1400"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTUzYjhjYmMtZTk3Zi00NGU3LWE2NjQtOTVhMzI0YzFjNmRj",
+                        "name": "South Duke Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 40.036463,
+                    "longitude": -76.303074,
+                    "routable_points": [
+                        {
+                            "latitude": 40.036446,
+                            "longitude": -76.303228,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "103 South Duke Street, Lancaster, Pennsylvania 17602, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1NTNiOGNiYy1lOTdmLTQ0ZTctYTY2NC05NWEzMjRjMWM2ZGM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "103 South Duke Street",
+                "name_preferred": "103 South Duke Street",
+                "place_formatted": "Lancaster, Pennsylvania 17602, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,324 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.382401,
+                    33.922171
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxY2E5OTg2MC1hZjdmLTQzMmEtOTYyZi1hNGE2OTY0OTVmNGM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "6110",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxY2E5OTg2MC1hZjdmLTQzMmEtOTYyZi1hNGE2OTY0OTVmNGM",
+                        "name": "6110 Bluestone Road Northeast",
+                        "street_name": "Bluestone Road Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFV3BJN0E",
+                        "name": "Sandy Springs",
+                        "wikidata_id": "Q914884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmF1N0E",
+                        "name": "30328"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWNhOTk4NjAtYWY3Zi00MzJhLTk2MmYtYTRhNjk2NDk1ZjRj",
+                        "name": "Bluestone Road Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.922171,
+                    "longitude": -84.382401,
+                    "routable_points": [
+                        {
+                            "latitude": 33.92216,
+                            "longitude": -84.382152,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "6110 Bluestone Road Northeast, Sandy Springs, Georgia 30328, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxY2E5OTg2MC1hZjdmLTQzMmEtOTYyZi1hNGE2OTY0OTVmNGM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "medium",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "6110 Blue Stone Rd",
+                "name_preferred": "6110 Bluestone Road Northeast",
+                "place_formatted": "Sandy Springs, Georgia 30328, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.888289,
+                    33.066138
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjMzM2E2ODItZTkyMS00MzE4LTk4MWUtYzkxNWE4ZTQwYTBl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo5Y2Jz",
+                        "name": "Monroe County",
+                        "wikidata_id": "Q493024"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc3NJN0E",
+                        "name": "Forsyth",
+                        "wikidata_id": "Q1820317"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDdPN0E",
+                        "name": "31029"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjMzM2E2ODItZTkyMS00MzE4LTk4MWUtYzkxNWE4ZTQwYTBl",
+                        "name": "Blue Store Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.066138,
+                    "longitude": -83.888289
+                },
+                "feature_type": "street",
+                "full_address": "Blue Store Road, Forsyth, Georgia 31029, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjMzM2E2ODItZTkyMS00MzE4LTk4MWUtYzkxNWE4ZTQwYTBl",
+                "name": "Blue Store Road",
+                "name_preferred": "Blue Store Road",
+                "place_formatted": "Forsyth, Georgia 31029, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.211767,
+                    32.312507
+                ],
+                "type": "Point"
+            },
+            "id": "address.2482938108658508",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWJz",
+                        "name": "Effingham County",
+                        "wikidata_id": "Q156637"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFSkxJN0E",
+                        "name": "Rincon",
+                        "wikidata_id": "Q2396741"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTN1N0E",
+                        "name": "31326"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.2482938108658508",
+                        "name": "Stone Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.312507,
+                    "longitude": -81.211767
+                },
+                "feature_type": "street",
+                "full_address": "Stone Road, Rincon, Georgia 31326, United States",
+                "mapbox_id": "address.2482938108658508",
+                "name": "Stone Road",
+                "name_preferred": "Stone Road",
+                "place_formatted": "Rincon, Georgia 31326, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.0291,
+                    31.608463
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjAyYmRjYjUtMDg4ZS00OGNhLTlhNjctM2JkYWI1NGJmOGI3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTYWJz",
+                        "name": "Coffee County",
+                        "wikidata_id": "Q156503"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzphS2pz",
+                        "name": "Ambrose",
+                        "wikidata_id": "Q2751462"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakdPN0E",
+                        "name": "31512"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjAyYmRjYjUtMDg4ZS00OGNhLTlhNjctM2JkYWI1NGJmOGI3",
+                        "name": "Stine Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.608463,
+                    "longitude": -83.0291
+                },
+                "feature_type": "street",
+                "full_address": "Stine Rd, Ambrose, Georgia 31512, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjAyYmRjYjUtMDg4ZS00OGNhLTlhNjctM2JkYWI1NGJmOGI3",
+                "name": "Stine Rd",
+                "name_preferred": "Stine Rd",
+                "place_formatted": "Ambrose, Georgia 31512, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.549624,
+                    34.070633
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MzIwOWE1YTgtNzU2Ni00ZGJiLThhZjgtNmI4Y2U5ODkzMzkz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo0R3Jz",
+                        "name": "Arcade",
+                        "wikidata_id": "Q1881069"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDY0JJN0E",
+                        "name": "Jefferson",
+                        "wikidata_id": "Q1966822"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2dPN0E",
+                        "name": "30549"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzIwOWE1YTgtNzU2Ni00ZGJiLThhZjgtNmI4Y2U5ODkzMzkz",
+                        "name": "Stoner Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.070633,
+                    "longitude": -83.549624
+                },
+                "feature_type": "street",
+                "full_address": "Stoner Road, Jefferson, Georgia 30549, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzIwOWE1YTgtNzU2Ni00ZGJiLThhZjgtNmI4Y2U5ODkzMzkz",
+                "name": "Stoner Road",
+                "name_preferred": "Stoner Road",
+                "place_formatted": "Jefferson, Georgia 30549, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

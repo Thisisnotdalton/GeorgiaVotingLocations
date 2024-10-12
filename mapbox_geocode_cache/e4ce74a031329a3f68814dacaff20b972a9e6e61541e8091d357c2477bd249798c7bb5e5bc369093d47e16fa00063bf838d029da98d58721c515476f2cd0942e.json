@@ -1,0 +1,327 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.362594,
+                    33.965938
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4ODNiMjk2Ni1mODBjLTQ4Y2MtYThlZC1mNWJmNzRhNDljZTQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "7741",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4ODNiMjk2Ni1mODBjLTQ4Y2MtYThlZC1mNWJmNzRhNDljZTQ",
+                        "name": "7741 Roswell Road",
+                        "street_name": "Roswell Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCWGZvN0E",
+                            "name": "Dunwoody"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFV3BJN0E",
+                        "name": "Sandy Springs",
+                        "wikidata_id": "Q914884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmtPN0E",
+                        "name": "30350"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODgzYjI5NjYtZjgwYy00OGNjLWE4ZWQtZjViZjc0YTQ5Y2U0",
+                        "name": "Roswell Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.965938,
+                    "longitude": -84.362594,
+                    "routable_points": [
+                        {
+                            "latitude": 33.966172,
+                            "longitude": -84.362474,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "7741 Roswell Road, Sandy Springs, Georgia 30350, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4ODNiMjk2Ni1mODBjLTQ4Y2MtYThlZC1mNWJmNzRhNDljZTQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "7741 Roswell Road",
+                "name_preferred": "7741 Roswell Road",
+                "place_formatted": "Sandy Springs, Georgia 30350, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.359777,
+                    34.013885
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Mzk0YzFhNTQtYmZmYy00MDhlLTk3NTctMWMwMDdmY2EyY2U5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEVDdJN0E",
+                            "name": "Mountain Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUGJJN0E",
+                        "name": "Roswell",
+                        "wikidata_id": "Q585176"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDdPN0E",
+                        "name": "30075"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Mzk0YzFhNTQtYmZmYy00MDhlLTk3NTctMWMwMDdmY2EyY2U5",
+                        "name": "Roswell Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.013885,
+                    "longitude": -84.359777
+                },
+                "feature_type": "street",
+                "full_address": "Roswell Rd, Roswell, Georgia 30075, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Mzk0YzFhNTQtYmZmYy00MDhlLTk3NTctMWMwMDdmY2EyY2U5",
+                "name": "Roswell Rd",
+                "name_preferred": "Roswell Rd",
+                "place_formatted": "Roswell, Georgia 30075, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.454323,
+                    33.979189
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDk4NGU3ZTUtMmUyNS00MTllLWFjNWMtM2QyYmFmZjU3ZmQw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDLzdvN0E",
+                        "name": "Marietta",
+                        "wikidata_id": "Q852684"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.1537535253843896",
+                        "name": "30062"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDk4NGU3ZTUtMmUyNS00MTllLWFjNWMtM2QyYmFmZjU3ZmQw",
+                        "name": "Roswell Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.979189,
+                    "longitude": -84.454323
+                },
+                "feature_type": "street",
+                "full_address": "Roswell Road, Marietta, Georgia 30062, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDk4NGU3ZTUtMmUyNS00MTllLWFjNWMtM2QyYmFmZjU3ZmQw",
+                "name": "Roswell Road",
+                "name_preferred": "Roswell Road",
+                "place_formatted": "Marietta, Georgia 30062, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.351598,
+                    33.99234
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODJlMTZkYzgtY2U0Ny00NTA3LWE5NGUtYjFiMjA2YWFhNTgy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCWGZvN0E",
+                            "name": "Dunwoody"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFV3BJN0E",
+                        "name": "Sandy Springs",
+                        "wikidata_id": "Q914884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmtPN0E",
+                        "name": "30350"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODJlMTZkYzgtY2U0Ny00NTA3LWE5NGUtYjFiMjA2YWFhNTgy",
+                        "name": "Roswell Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.99234,
+                    "longitude": -84.351598
+                },
+                "feature_type": "street",
+                "full_address": "Roswell Road, Sandy Springs, Georgia 30350, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODJlMTZkYzgtY2U0Ny00NTA3LWE5NGUtYjFiMjA2YWFhNTgy",
+                "name": "Roswell Road",
+                "name_preferred": "Roswell Road",
+                "place_formatted": "Sandy Springs, Georgia 30350, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.783135,
+                    32.448772
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YWI3NGNiYzktZTJmMC00ZjI2LTkwMGQtN2YwZDhjYzI4ZTY5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKc2Jz",
+                        "name": "Bulloch County",
+                        "wikidata_id": "Q488166"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFclVJN0E",
+                        "name": "Statesboro",
+                        "wikidata_id": "Q988919"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0ZPN0E",
+                        "name": "30458"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWI3NGNiYzktZTJmMC00ZjI2LTkwMGQtN2YwZDhjYzI4ZTY5",
+                        "name": "Roswell Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.448772,
+                    "longitude": -81.783135
+                },
+                "feature_type": "street",
+                "full_address": "Roswell Rd, Statesboro, Georgia 30458, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWI3NGNiYzktZTJmMC00ZjI2LTkwMGQtN2YwZDhjYzI4ZTY5",
+                "name": "Roswell Rd",
+                "name_preferred": "Roswell Rd",
+                "place_formatted": "Statesboro, Georgia 30458, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,353 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.507181,
+                    31.206948
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowMGU1ZmE3MC1iOGU2LTRhMjUtYjlkZS1lYmUzMjYwOTEyNjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "30",
+                        "mapbox_id": "dXJuOm1ieGFkcjowMGU1ZmE3MC1iOGU2LTRhMjUtYjlkZS1lYmUzMjYwOTEyNjM",
+                        "name": "30 Nimitz Drive",
+                        "street_name": "Nimitz Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDTUFxN0E",
+                        "name": "Dock Junction",
+                        "wikidata_id": "Q2668503"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYzZzN0E",
+                        "name": "Pine Ridge"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBblhvN0E",
+                        "name": "Brunswick",
+                        "wikidata_id": "Q994144"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakpPN0E",
+                        "name": "31520"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDBlNWZhNzAtYjhlNi00YTI1LWI5ZGUtZWJlMzI2MDkxMjYz",
+                        "name": "Nimitz Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 31.206948,
+                    "longitude": -81.507181,
+                    "routable_points": [
+                        {
+                            "latitude": 31.20672,
+                            "longitude": -81.508072,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "30 Nimitz Drive, Brunswick, Georgia 31520, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowMGU1ZmE3MC1iOGU2LTRhMjUtYjlkZS1lYmUzMjYwOTEyNjM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "30 Nimitz Drive",
+                "name_preferred": "30 Nimitz Drive",
+                "place_formatted": "Brunswick, Georgia 31520, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.49339,
+                    31.149603
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCakpPN0E",
+            "properties": {
+                "bbox": [
+                    -81.540431,
+                    31.109499,
+                    -81.424615,
+                    31.241319
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBblhvN0E",
+                        "name": "Brunswick",
+                        "wikidata_id": "Q994144"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakpPN0E",
+                        "name": "31520"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.149603,
+                    "longitude": -81.49339
+                },
+                "feature_type": "postcode",
+                "full_address": "Brunswick, Georgia 31520, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCakpPN0E",
+                "name": "31520",
+                "name_preferred": "31520",
+                "place_formatted": "Brunswick, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.91566,
+                    43.90101
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Mzc3ZTQ0NTEtYWIzYS00MzU2LThiMDctNWY2MzdlYmRhYjJm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpWb2Jz",
+                        "name": "Cumberland County",
+                        "wikidata_id": "Q497788"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbmJJN0E",
+                        "name": "Brunswick",
+                        "wikidata_id": "Q518466"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoNjdz",
+                        "name": "04011"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCU1Rz",
+                        "name": "Maine",
+                        "region_code": "ME",
+                        "region_code_full": "US-ME",
+                        "wikidata_id": "Q724"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Mzc3ZTQ0NTEtYWIzYS00MzU2LThiMDctNWY2MzdlYmRhYjJm",
+                        "name": "Nimitz Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 43.90101,
+                    "longitude": -69.91566
+                },
+                "feature_type": "street",
+                "full_address": "Nimitz Dr, Brunswick, Maine 04011, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Mzc3ZTQ0NTEtYWIzYS00MzU2LThiMDctNWY2MzdlYmRhYjJm",
+                "name": "Nimitz Dr",
+                "name_preferred": "Nimitz Dr",
+                "place_formatted": "Brunswick, Maine 04011, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.530586,
+                    33.913046
+                ],
+                "type": "Point"
+            },
+            "id": "address.5893937687660784",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFamhJN0E",
+                        "name": "Smyrna",
+                        "wikidata_id": "Q958676"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDl1N0E",
+                        "name": "30080"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.5893937687660784",
+                        "name": "Nimitz Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.913046,
+                    "longitude": -84.530586
+                },
+                "feature_type": "street",
+                "full_address": "Nimitz Drive, Smyrna, Georgia 30080, United States",
+                "mapbox_id": "address.5893937687660784",
+                "name": "Nimitz Drive",
+                "name_preferred": "Nimitz Drive",
+                "place_formatted": "Smyrna, Georgia 30080, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.13143,
+                    39.76845
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplYWQ2ZTg3NS05MWJjLTRlOWMtYjM1My01OWVjNjhhNmMxNDg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "30",
+                        "mapbox_id": "dXJuOm1ieGFkcjplYWQ2ZTg3NS05MWJjLTRlOWMtYjM1My01OWVjNjhhNmMxNDg",
+                        "name": "30 Nimitz Drive",
+                        "street_name": "Nimitz Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo5K2Jz",
+                        "name": "Montgomery County",
+                        "wikidata_id": "Q485600"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBVXNvN0E",
+                            "name": "Beavercreek Township"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFS2JJN0E",
+                        "name": "Riverside"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUmVPN0E",
+                        "name": "45431"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBaVRz",
+                        "name": "Ohio",
+                        "region_code": "OH",
+                        "region_code_full": "US-OH",
+                        "wikidata_id": "Q1397"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWFkNmU4NzUtOTFiYy00ZTljLWIzNTMtNTllYzY4YTZjMTQ4",
+                        "name": "Nimitz Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 39.76845,
+                    "longitude": -84.13143,
+                    "routable_points": [
+                        {
+                            "latitude": 39.768306,
+                            "longitude": -84.131495,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "30 Nimitz Drive, Riverside, Ohio 45431, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplYWQ2ZTg3NS05MWJjLTRlOWMtYjM1My01OWVjNjhhNmMxNDg",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "30 Nimitz Drive",
+                "name_preferred": "30 Nimitz Drive",
+                "place_formatted": "Riverside, Ohio 45431, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

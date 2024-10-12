@@ -1,0 +1,324 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.971203,
+                    34.772557
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5NjM0NTgyMi1jNzIzLTQ5ZTQtOGZkMy1lZTU1Y2M5Yzc5YjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "205",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5NjM0NTgyMi1jNzIzLTQ5ZTQtOGZkMy1lZTU1Y2M5Yzc5YjI",
+                        "name": "205 North Selvidge Street",
+                        "street_name": "North Selvidge Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHhtN0E",
+                        "name": "Whitfield County",
+                        "wikidata_id": "Q491537"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTHJJN0E",
+                        "name": "Dalton",
+                        "wikidata_id": "Q996830"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaE1PN0E",
+                        "name": "30720"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTYzNDU4MjItYzcyMy00OWU0LThmZDMtZWU1NWNjOWM3OWIy",
+                        "name": "North Selvidge Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.772557,
+                    "longitude": -84.971203,
+                    "routable_points": [
+                        {
+                            "latitude": 34.772414,
+                            "longitude": -84.970704,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "205 North Selvidge Street, Dalton, Georgia 30720, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5NjM0NTgyMi1jNzIzLTQ5ZTQtOGZkMy1lZTU1Y2M5Yzc5YjI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "205 North Selvidge Street",
+                "name_preferred": "205 North Selvidge Street",
+                "place_formatted": "Dalton, Georgia 30720, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.971224,
+                    34.770484
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjdkMzRkMWEtNzc5OC00ZDhjLWEwNDctMGNkYmVlOTk1NDE0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHhtN0E",
+                        "name": "Whitfield County",
+                        "wikidata_id": "Q491537"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTHJJN0E",
+                        "name": "Dalton",
+                        "wikidata_id": "Q996830"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaE1PN0E",
+                        "name": "30720"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjdkMzRkMWEtNzc5OC00ZDhjLWEwNDctMGNkYmVlOTk1NDE0",
+                        "name": "South Selvidge Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.770484,
+                    "longitude": -84.971224
+                },
+                "feature_type": "street",
+                "full_address": "South Selvidge Street, Dalton, Georgia 30720, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjdkMzRkMWEtNzc5OC00ZDhjLWEwNDctMGNkYmVlOTk1NDE0",
+                "name": "South Selvidge Street",
+                "name_preferred": "South Selvidge Street",
+                "place_formatted": "Dalton, Georgia 30720, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.969133,
+                    34.771515
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaE1PN0E",
+            "properties": {
+                "bbox": [
+                    -85.050818,
+                    34.615844,
+                    -84.960198,
+                    34.896593
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHhtN0E",
+                        "name": "Whitfield County",
+                        "wikidata_id": "Q491537"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTHJJN0E",
+                        "name": "Dalton",
+                        "wikidata_id": "Q996830"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaE1PN0E",
+                        "name": "30720"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.771515,
+                    "longitude": -84.969133
+                },
+                "feature_type": "postcode",
+                "full_address": "Dalton, Georgia 30720, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaE1PN0E",
+                "name": "30720",
+                "name_preferred": "30720",
+                "place_formatted": "Dalton, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.33579,
+                    31.07699
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjhjNzMwZDAtZjZiMy00MGI4LTk3OGUtZjhjMjQ4MTA1YmI4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoV2Jz",
+                        "name": "Grady County",
+                        "wikidata_id": "Q492061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeTBJN0E",
+                        "name": "Pelham"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0ZPN0E",
+                        "name": "31779"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjhjNzMwZDAtZjZiMy00MGI4LTk3OGUtZjhjMjQ4MTA1YmI4",
+                        "name": "N"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.07699,
+                    "longitude": -84.33579
+                },
+                "feature_type": "street",
+                "full_address": "N, Pelham, Georgia 31779, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjhjNzMwZDAtZjZiMy00MGI4LTk3OGUtZjhjMjQ4MTA1YmI4",
+                "name": "N",
+                "name_preferred": "N",
+                "place_formatted": "Pelham, Georgia 31779, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.532699,
+                    33.711017
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NWJiZTA5ZTEtYWQ1OS00NjQzLTg5YjgtMmI1ZTU2Mjk1ZDdm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHaGlzN0E",
+                        "name": "Niskey Lake"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFbDVJN0E",
+                            "name": "South Fulton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmJ1N0E",
+                        "name": "30331"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWJiZTA5ZTEtYWQ1OS00NjQzLTg5YjgtMmI1ZTU2Mjk1ZDdm",
+                        "name": "N"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.711017,
+                    "longitude": -84.532699
+                },
+                "feature_type": "street",
+                "full_address": "N, Atlanta, Georgia 30331, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWJiZTA5ZTEtYWQ1OS00NjQzLTg5YjgtMmI1ZTU2Mjk1ZDdm",
+                "name": "N",
+                "name_preferred": "N",
+                "place_formatted": "Atlanta, Georgia 30331, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

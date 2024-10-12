@@ -1,0 +1,144 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.303055,
+                    33.925351
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmNGYzYzFmNy0yNGUwLTQ4OTQtYjQ2Ni04M2Q1MTg0OTVjZTA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4460",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmNGYzYzFmNy0yNGUwLTQ4OTQtYjQ2Ni04M2Q1MTg0OTVjZTA",
+                        "name": "4460 Lexington Road",
+                        "street_name": "Lexington Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3dPN0E",
+                        "name": "30605"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjRmM2MxZjctMjRlMC00ODk0LWI0NjYtODNkNTE4NDk1Y2Uw",
+                        "name": "Lexington Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.925351,
+                    "longitude": -83.303055,
+                    "routable_points": [
+                        {
+                            "latitude": 33.925599,
+                            "longitude": -83.303081,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4460 Lexington Road, Athens, Georgia 30605, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmNGYzYzFmNy0yNGUwLTQ4OTQtYjQ2Ni04M2Q1MTg0OTVjZTA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "4460 Lexington Road",
+                "name_preferred": "4460 Lexington Road",
+                "place_formatted": "Athens, Georgia 30605, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.258537,
+                    33.922904
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2YyZTJhYTktZDgxZC00OWM0LThhMjktNTg3M2NkMDhlYWYy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGWnBvN0E",
+                        "name": "Winterville",
+                        "wikidata_id": "Q2784729"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEh1N0E",
+                        "name": "30683"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2YyZTJhYTktZDgxZC00OWM0LThhMjktNTg3M2NkMDhlYWYy",
+                        "name": "Lexington Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.922904,
+                    "longitude": -83.258537
+                },
+                "feature_type": "street",
+                "full_address": "Lexington Rd, Winterville, Georgia 30683, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2YyZTJhYTktZDgxZC00OWM0LThhMjktNTg3M2NkMDhlYWYy",
+                "name": "Lexington Rd",
+                "name_preferred": "Lexington Rd",
+                "place_formatted": "Winterville, Georgia 30683, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

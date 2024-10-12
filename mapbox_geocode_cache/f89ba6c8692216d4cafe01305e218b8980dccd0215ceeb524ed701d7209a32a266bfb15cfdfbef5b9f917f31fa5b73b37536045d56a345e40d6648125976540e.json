@@ -1,0 +1,225 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.707089,
+                    33.662439
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4N2NkMDJlNy05NTE1LTRkYjItYjUyNC0wMDEwMDI1MTM2ZGI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "573",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4N2NkMDJlNy05NTE1LTRkYjItYjUyNC0wMDEwMDI1MTM2ZGI",
+                        "name": "573 Fairplay Drive",
+                        "street_name": "Fairplay Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzFtN0E",
+                        "name": "Walton County",
+                        "wikidata_id": "Q498312"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFajVvN0E",
+                        "name": "Social Circle",
+                        "wikidata_id": "Q1852917"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGx1N0E",
+                        "name": "30025"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODdjZDAyZTctOTUxNS00ZGIyLWI1MjQtMDAxMDAyNTEzNmRi",
+                        "name": "Fairplay Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 33.662439,
+                    "longitude": -83.707089,
+                    "routable_points": [
+                        {
+                            "latitude": 33.661479,
+                            "longitude": -83.706518,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "573 Fairplay Drive, Social Circle, Georgia 30025, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4N2NkMDJlNy05NTE1LTRkYjItYjUyNC0wMDEwMDI1MTM2ZGI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "573 Fairplay Drive",
+                "name_preferred": "573 Fairplay Drive",
+                "place_formatted": "Social Circle, Georgia 30025, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.556215,
+                    33.695716
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZWUyNzYwZTgtMWNmMi00ZDk2LWJmZWYtZTUyZTQ5Zjg2YTM3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorNGJz",
+                        "name": "Morgan County",
+                        "wikidata_id": "Q493083"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNzVvN0E",
+                        "name": "Madison",
+                        "wikidata_id": "Q580412"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEJ1N0E",
+                        "name": "30663"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWUyNzYwZTgtMWNmMi00ZDk2LWJmZWYtZTUyZTQ5Zjg2YTM3",
+                        "name": "Fairplay Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.695716,
+                    "longitude": -83.556215
+                },
+                "feature_type": "street",
+                "full_address": "Fairplay Road, Madison, Georgia 30663, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWUyNzYwZTgtMWNmMi00ZDk2LWJmZWYtZTUyZTQ5Zjg2YTM3",
+                "name": "Fairplay Road",
+                "name_preferred": "Fairplay Road",
+                "place_formatted": "Madison, Georgia 30663, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.603003,
+                    33.638744
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UY3pJaXdpYzNSeVpXVjBJam9pUmtGSlVsQk1RVmtnUkZJaUxDSndiR0ZqWlNJNklsTlBRMGxCVENCRFNWSkRURVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBd01qVWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "573",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UY3pJaXdpYzNSeVpXVjBJam9pUmtGSlVsQk1RVmtnUkZJaUxDSndiR0ZqWlNJNklsTlBRMGxCVENCRFNWSkRURVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBd01qVWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+                        "name": "573 Fairplay Street",
+                        "street_name": "Fairplay Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorNGJz",
+                        "name": "Morgan County",
+                        "wikidata_id": "Q493083"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUnZvN0E",
+                        "name": "Rutledge",
+                        "wikidata_id": "Q2162304"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEJ1N0E",
+                        "name": "30663"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVGN6SWl3aWMzUnlaV1YwSWpvaVJrRkpVbEJNUVZrZ1JGSWlMQ0p3YkdGalpTSTZJbE5QUTBsQlRDQkRTVkpEVEVVaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXdNalVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mg",
+                        "name": "Fairplay Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.638744,
+                    "longitude": -83.603003,
+                    "routable_points": [
+                        {
+                            "latitude": 33.638744,
+                            "longitude": -83.603003,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "573 Fairplay Street, Rutledge, Georgia 30663, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UY3pJaXdpYzNSeVpXVjBJam9pUmtGSlVsQk1RVmtnUkZJaUxDSndiR0ZqWlNJNklsTlBRMGxCVENCRFNWSkRURVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBd01qVWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "573 Fairplay Street",
+                "name_preferred": "573 Fairplay Street",
+                "place_formatted": "Rutledge, Georgia 30663, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

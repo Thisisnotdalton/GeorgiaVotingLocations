@@ -1,0 +1,368 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.36785,
+                    33.61631
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxNzlkYmU2NC0zNTNkLTRlM2MtOWM4NS1hMDc3MjBkNjc1YTM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5087",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxNzlkYmU2NC0zNTNkLTRlM2MtOWM4NS1hMDc3MjBkNjc1YTM",
+                        "name": "5087 Park Avenue",
+                        "street_name": "Park Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc1FvN0E",
+                        "name": "Forest Park",
+                        "wikidata_id": "Q3261685"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZk11N0E",
+                        "name": "30297"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTc5ZGJlNjQtMzUzZC00ZTNjLTljODUtYTA3NzIwZDY3NWEz",
+                        "name": "Park Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.61631,
+                    "longitude": -84.36785,
+                    "routable_points": [
+                        {
+                            "latitude": 33.616166,
+                            "longitude": -84.367767,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5087 Park Avenue, Forest Park, Georgia 30297, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxNzlkYmU2NC0zNTNkLTRlM2MtOWM4NS1hMDc3MjBkNjc1YTM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5087 Park Avenue",
+                "name_preferred": "5087 Park Avenue",
+                "place_formatted": "Forest Park, Georgia 30297, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.369261,
+                    33.621607
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZk11N0E",
+            "properties": {
+                "bbox": [
+                    -84.404391,
+                    33.574157,
+                    -84.340343,
+                    33.648014
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc1FvN0E",
+                        "name": "Forest Park",
+                        "wikidata_id": "Q3261685"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZk11N0E",
+                        "name": "30297"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.621607,
+                    "longitude": -84.369261
+                },
+                "feature_type": "postcode",
+                "full_address": "Forest Park, Georgia 30297, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZk11N0E",
+                "name": "30297",
+                "name_preferred": "30297",
+                "place_formatted": "Forest Park, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.337165,
+                    34.035494
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTROeUlzSW5OMGNtVmxkQ0k2SWxCQlVrc2dRVlpGVGxWRklpd2ljR3hoWTJVaU9pSkdUMUpGVTFRZ1VFRlNTeUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURJNU55SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5087",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTROeUlzSW5OMGNtVmxkQ0k2SWxCQlVrc2dRVlpGVGxWRklpd2ljR3hoWTJVaU9pSkdUMUpGVTFRZ1VFRlNTeUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURJNU55SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjI",
+                        "name": "5087 Old Roswell Lakes Parkway",
+                        "street_name": "Old Roswell Lakes Parkway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUGJJN0E",
+                        "name": "Roswell",
+                        "wikidata_id": "Q585176"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDd1N0E",
+                        "name": "30076"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVEE0TnlJc0luTjBjbVZsZENJNklsQkJVa3NnUVZaRlRsVkZJaXdpY0d4aFkyVWlPaUpHVDFKRlUxUWdVRUZTU3lJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ESTVOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToy",
+                        "name": "Old Roswell Lakes Parkway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.035494,
+                    "longitude": -84.337165,
+                    "routable_points": [
+                        {
+                            "latitude": 34.035494,
+                            "longitude": -84.337165,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5087 Old Roswell Lakes Parkway, Roswell, Georgia 30076, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTROeUlzSW5OMGNtVmxkQ0k2SWxCQlVrc2dRVlpGVGxWRklpd2ljR3hoWTJVaU9pSkdUMUpGVTFRZ1VFRlNTeUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURJNU55SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "5087 Park Avenue",
+                "name_preferred": "5087 Old Roswell Lakes Parkway",
+                "place_formatted": "Roswell, Georgia 30076, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.848426,
+                    41.807395
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTROeUlzSW5OMGNtVmxkQ0k2SWxCQlVrc2dRVlpGVGxWRklpd2ljR3hoWTJVaU9pSkdUMUpGVTFRZ1VFRlNTeUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURJNU55SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5087",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTROeUlzSW5OMGNtVmxkQ0k2SWxCQlVrc2dRVlpGVGxWRklpd2ljR3hoWTJVaU9pSkdUMUpGVTFRZ1VFRlNTeUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURJNU55SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+                        "name": "5087 Park Avenue",
+                        "street_name": "Park Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUc2Jz",
+                        "name": "Cook County",
+                        "wikidata_id": "Q108418"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbHFvN0E",
+                        "name": "Brookfield",
+                        "wikidata_id": "Q2486605"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERjZPN0E",
+                        "name": "60513"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpST3c",
+                        "name": "Illinois",
+                        "region_code": "IL",
+                        "region_code_full": "US-IL",
+                        "wikidata_id": "Q1204"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVEE0TnlJc0luTjBjbVZsZENJNklsQkJVa3NnUVZaRlRsVkZJaXdpY0d4aFkyVWlPaUpHVDFKRlUxUWdVRUZTU3lJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ESTVOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+                        "name": "Park Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 41.807395,
+                    "longitude": -87.848426,
+                    "routable_points": [
+                        {
+                            "latitude": 41.807395,
+                            "longitude": -87.848426,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5087 Park Avenue, Brookfield, Illinois 60513, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTROeUlzSW5OMGNtVmxkQ0k2SWxCQlVrc2dRVlpGVGxWRklpd2ljR3hoWTJVaU9pSkdUMUpGVTFRZ1VFRlNTeUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURJNU55SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "5087 Park Avenue",
+                "name_preferred": "5087 Park Avenue",
+                "place_formatted": "Brookfield, Illinois 60513, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.819415,
+                    41.847293
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjY0Nzg2ZWUtOTc0ZS00ZjAzLWFmNTUtOTUxNWQ2NGI5MTlh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUc2Jz",
+                        "name": "Cook County",
+                        "wikidata_id": "Q108418"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFS2ZJN0E",
+                            "name": "Riverside"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpEaS9vN0E",
+                        "name": "North Riverside"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpER0lPN0E",
+                        "name": "60546"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpST3c",
+                        "name": "Illinois",
+                        "region_code": "IL",
+                        "region_code_full": "US-IL",
+                        "wikidata_id": "Q1204"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjY0Nzg2ZWUtOTc0ZS00ZjAzLWFmNTUtOTUxNWQ2NGI5MTlh",
+                        "name": "Park Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 41.847293,
+                    "longitude": -87.819415
+                },
+                "feature_type": "street",
+                "full_address": "Park Avenue, North Riverside, Illinois 60546, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjY0Nzg2ZWUtOTc0ZS00ZjAzLWFmNTUtOTUxNWQ2NGI5MTlh",
+                "name": "Park Avenue",
+                "name_preferred": "Park Avenue",
+                "place_formatted": "North Riverside, Illinois 60546, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

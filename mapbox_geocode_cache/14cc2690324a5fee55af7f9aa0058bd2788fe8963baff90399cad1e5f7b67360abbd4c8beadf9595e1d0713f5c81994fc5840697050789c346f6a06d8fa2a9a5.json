@@ -1,0 +1,395 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.234182,
+                    33.548801
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1NWNjNThhNi04YTY5LTQxNzAtYWNjZS04MWNjZjVjY2Y3M2I",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "111",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1NWNjNThhNi04YTY5LTQxNzAtYWNjZS04MWNjZjVjY2Y3M2I",
+                        "name": "111 Davis Road",
+                        "street_name": "Davis Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIUDVzN0E",
+                        "name": "Parkwood"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFc3VvN0E",
+                        "name": "Stockbridge",
+                        "wikidata_id": "Q3260995"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkZ1N0E",
+                        "name": "30281"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTVjYzU4YTYtOGE2OS00MTcwLWFjY2UtODFjY2Y1Y2NmNzNi",
+                        "name": "Davis Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.548801,
+                    "longitude": -84.234182,
+                    "routable_points": [
+                        {
+                            "latitude": 33.548821,
+                            "longitude": -84.234526,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "111 Davis Road, Stockbridge, Georgia 30281, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1NWNjNThhNi04YTY5LTQxNzAtYWNjZS04MWNjZjVjY2Y3M2I",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "111 Davis Road",
+                "name_preferred": "111 Davis Road",
+                "place_formatted": "Stockbridge, Georgia 30281, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.24994,
+                    33.55182
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGU0NWZiZjgtNjcwYi00MmMzLTkyZmMtMjE3ZjQzNTQ0ZDU0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFc3VvN0E",
+                        "name": "Stockbridge",
+                        "wikidata_id": "Q3260995"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkZ1N0E",
+                        "name": "30281"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGU0NWZiZjgtNjcwYi00MmMzLTkyZmMtMjE3ZjQzNTQ0ZDU0",
+                        "name": "Davis Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.55182,
+                    "longitude": -84.24994
+                },
+                "feature_type": "street",
+                "full_address": "Davis Rd, Stockbridge, Georgia 30281, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGU0NWZiZjgtNjcwYi00MmMzLTkyZmMtMjE3ZjQzNTQ0ZDU0",
+                "name": "Davis Rd",
+                "name_preferred": "Davis Rd",
+                "place_formatted": "Stockbridge, Georgia 30281, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.242122,
+                    33.559189
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URXhJaXdpYzNSeVpXVjBJam9pUkVGV1NWTWdVa1FpTENKd2JHRmpaU0k2SWxOVVQwTkxRbEpKUkVkRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamd4SURBd01EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "111",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URXhJaXdpYzNSeVpXVjBJam9pUkVGV1NWTWdVa1FpTENKd2JHRmpaU0k2SWxOVVQwTkxRbEpKUkVkRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamd4SURBd01EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+                        "name": "111 North Davis Drive",
+                        "street_name": "North Davis Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKTlpzN0E",
+                        "name": "Stockbridge North"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFc3VvN0E",
+                        "name": "Stockbridge",
+                        "wikidata_id": "Q3260995"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkZ1N0E",
+                        "name": "30281"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEV4SWl3aWMzUnlaV1YwSWpvaVJFRldTVk1nVWtRaUxDSndiR0ZqWlNJNklsTlVUME5MUWxKSlJFZEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWpneElEQXdNREFpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mg",
+                        "name": "North Davis Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.559189,
+                    "longitude": -84.242122,
+                    "routable_points": [
+                        {
+                            "latitude": 33.559189,
+                            "longitude": -84.242122,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "111 North Davis Drive, Stockbridge, Georgia 30281, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URXhJaXdpYzNSeVpXVjBJam9pUkVGV1NWTWdVa1FpTENKd2JHRmpaU0k2SWxOVVQwTkxRbEpKUkVkRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamd4SURBd01EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "111 North Davis Drive",
+                "name_preferred": "111 North Davis Drive",
+                "place_formatted": "Stockbridge, Georgia 30281, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.262418,
+                    32.051275
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URXhJaXdpYzNSeVpXVjBJam9pUkVGV1NWTWdVa1FpTENKd2JHRmpaU0k2SWxOVVQwTkxRbEpKUkVkRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamd4SURBd01EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "111",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URXhJaXdpYzNSeVpXVjBJam9pUkVGV1NWTWdVa1FpTENKd2JHRmpaU0k2SWxOVVQwTkxRbEpKUkVkRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamd4SURBd01EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoz",
+                        "name": "111 Davis Road",
+                        "street_name": "Davis Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEOElJN0E",
+                        "name": "Pooler",
+                        "wikidata_id": "Q2648622"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTJPN0E",
+                        "name": "31322"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEV4SWl3aWMzUnlaV1YwSWpvaVJFRldTVk1nVWtRaUxDSndiR0ZqWlNJNklsTlVUME5MUWxKSlJFZEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWpneElEQXdNREFpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mw",
+                        "name": "Davis Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.051275,
+                    "longitude": -81.262418,
+                    "routable_points": [
+                        {
+                            "latitude": 32.051275,
+                            "longitude": -81.262418,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "111 Davis Road, Pooler, Georgia 31322, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URXhJaXdpYzNSeVpXVjBJam9pUkVGV1NWTWdVa1FpTENKd2JHRmpaU0k2SWxOVVQwTkxRbEpKUkVkRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamd4SURBd01EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "111 Davis Road",
+                "name_preferred": "111 Davis Road",
+                "place_formatted": "Pooler, Georgia 31322, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.270945,
+                    31.83805
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URXhJaXdpYzNSeVpXVjBJam9pUkVGV1NWTWdVa1FpTENKd2JHRmpaU0k2SWxOVVQwTkxRbEpKUkVkRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamd4SURBd01EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "111",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URXhJaXdpYzNSeVpXVjBJam9pUkVGV1NWTWdVa1FpTENKd2JHRmpaU0k2SWxOVVQwTkxRbEpKUkVkRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamd4SURBd01EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+                        "name": "111 Davis Road",
+                        "street_name": "Davis Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKU2Jz",
+                        "name": "Bryan County",
+                        "wikidata_id": "Q486848"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFSVNJN0E",
+                        "name": "Richmond Hill",
+                        "wikidata_id": "Q581910"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTNPN0E",
+                        "name": "31324"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEV4SWl3aWMzUnlaV1YwSWpvaVJFRldTVk1nVWtRaUxDSndiR0ZqWlNJNklsTlVUME5MUWxKSlJFZEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWpneElEQXdNREFpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6NA",
+                        "name": "Davis Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.83805,
+                    "longitude": -81.270945,
+                    "routable_points": [
+                        {
+                            "latitude": 31.83805,
+                            "longitude": -81.270945,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "111 Davis Road, Richmond Hill, Georgia 31324, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URXhJaXdpYzNSeVpXVjBJam9pUkVGV1NWTWdVa1FpTENKd2JHRmpaU0k2SWxOVVQwTkxRbEpKUkVkRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamd4SURBd01EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "111 Davis Road",
+                "name_preferred": "111 Davis Road",
+                "place_formatted": "Richmond Hill, Georgia 31324, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

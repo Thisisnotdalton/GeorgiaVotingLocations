@@ -1,0 +1,319 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.945462,
+                    32.476655
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5M2RhMWU4ZS1kYzEwLTQ3N2MtYTg0NS01YjU3NzMzZWUxMmM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3111",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5M2RhMWU4ZS1kYzEwLTQ3N2MtYTg0NS01YjU3NzMzZWUxMmM",
+                        "name": "3111 Citizens Way",
+                        "street_name": "Citizens Way"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovaWJz",
+                        "name": "Muscogee County",
+                        "wikidata_id": "Q492048"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCd0RzN0E",
+                        "name": "Civic Commons"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQmZJN0E",
+                        "name": "Columbus",
+                        "wikidata_id": "Q239870"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2VPN0E",
+                        "name": "31906"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTNkYTFlOGUtZGMxMC00NzdjLWE4NDUtNWI1NzczM2VlMTJj",
+                        "name": "Citizens Way"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.476655,
+                    "longitude": -84.945462,
+                    "routable_points": [
+                        {
+                            "latitude": 32.476961,
+                            "longitude": -84.945149,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3111 Citizens Way, Columbus, Georgia 31906, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5M2RhMWU4ZS1kYzEwLTQ3N2MtYTg0NS01YjU3NzMzZWUxMmM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3111 Citizens Way",
+                "name_preferred": "3111 Citizens Way",
+                "place_formatted": "Columbus, Georgia 31906, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.944241,
+                    32.476192
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCa2VPN0E",
+            "properties": {
+                "bbox": [
+                    -84.979741,
+                    32.430097,
+                    -84.926414,
+                    32.502449
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovaWJz",
+                        "name": "Muscogee County",
+                        "wikidata_id": "Q492048"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQmZJN0E",
+                        "name": "Columbus",
+                        "wikidata_id": "Q239870"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2VPN0E",
+                        "name": "31906"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.476192,
+                    "longitude": -84.944241
+                },
+                "feature_type": "postcode",
+                "full_address": "Columbus, Georgia 31906, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCa2VPN0E",
+                "name": "31906",
+                "name_preferred": "31906",
+                "place_formatted": "Columbus, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.178389,
+                    33.460795
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmVjOWFjNWYtOWY1Ny00NTkzLTgxOTktY2UxY2Q0OTNhZWY4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUR2Jz",
+                        "name": "Columbia County",
+                        "wikidata_id": "Q115307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQmtvN0E",
+                        "name": "Grovetown",
+                        "wikidata_id": "Q2728276"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGZPN0E",
+                        "name": "30813"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmVjOWFjNWYtOWY1Ny00NTkzLTgxOTktY2UxY2Q0OTNhZWY4",
+                        "name": "Citizens Way"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.460795,
+                    "longitude": -82.178389
+                },
+                "feature_type": "street",
+                "full_address": "Citizens Way, Grovetown, Georgia 30813, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmVjOWFjNWYtOWY1Ny00NTkzLTgxOTktY2UxY2Q0OTNhZWY4",
+                "name": "Citizens Way",
+                "name_preferred": "Citizens Way",
+                "place_formatted": "Grovetown, Georgia 30813, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.9904,
+                    32.466686
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCQmZJN0E",
+            "properties": {
+                "bbox": [
+                    -85.080784,
+                    32.374022,
+                    -84.735625,
+                    32.608096
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovaWJz",
+                        "name": "Muscogee County",
+                        "wikidata_id": "Q492048"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQmZJN0E",
+                        "name": "Columbus",
+                        "wikidata_id": "Q239870"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.466686,
+                    "longitude": -84.9904
+                },
+                "feature_type": "place",
+                "full_address": "Columbus, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCQmZJN0E",
+                "name": "Columbus",
+                "name_preferred": "Columbus",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.47376,
+                    33.87319
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzljODFkYTktMGFlNS00OTY4LTlmY2QtM2EyZjk3NzA0M2Ex",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q492026"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGS3VvN0E",
+                        "name": "Watkinsville",
+                        "wikidata_id": "Q426428"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEdPN0E",
+                        "name": "30677"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzljODFkYTktMGFlNS00OTY4LTlmY2QtM2EyZjk3NzA0M2Ex",
+                        "name": "Way"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.87319,
+                    "longitude": -83.47376
+                },
+                "feature_type": "street",
+                "full_address": "Way, Watkinsville, Georgia 30677, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzljODFkYTktMGFlNS00OTY4LTlmY2QtM2EyZjk3NzA0M2Ex",
+                "name": "Way",
+                "name_preferred": "Way",
+                "place_formatted": "Watkinsville, Georgia 30677, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

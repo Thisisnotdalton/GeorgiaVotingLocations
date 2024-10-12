@@ -1,0 +1,389 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.497434,
+                    34.335424
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2ZTQ5NzlkYS04Y2YyLTQ3YTctODdmOS0zNjAyNTZmMmJiMGM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "226",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2ZTQ5NzlkYS04Y2YyLTQ3YTctODdmOS0zNjAyNTZmMmJiMGM",
+                        "name": "226 Candler Street",
+                        "street_name": "Candler Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEK2Jz",
+                        "name": "Banks County",
+                        "wikidata_id": "Q488201"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUmZvN0E",
+                        "name": "Homer",
+                        "wikidata_id": "Q2101592"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2ZPN0E",
+                        "name": "30547"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmU0OTc5ZGEtOGNmMi00N2E3LTg3ZjktMzYwMjU2ZjJiYjBj",
+                        "name": "Candler Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.335424,
+                    "longitude": -83.497434,
+                    "routable_points": [
+                        {
+                            "latitude": 34.335362,
+                            "longitude": -83.497622,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "226 Candler Street, Homer, Georgia 30547, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2ZTQ5NzlkYS04Y2YyLTQ3YTctODdmOS0zNjAyNTZmMmJiMGM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "226 Candler Street",
+                "name_preferred": "226 Candler Street",
+                "place_formatted": "Homer, Georgia 30547, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.063444,
+                    32.40177
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSTJJaXdpYzNSeVpXVjBJam9pUTBGT1JFeEZVaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa2hQVFVWU0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOVFEzSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "226",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSTJJaXdpYzNSeVpXVjBJam9pUTBGT1JFeEZVaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa2hQVFVWU0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOVFEzSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+                        "name": "226 Candler Street",
+                        "street_name": "Candler Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMNGJz",
+                        "name": "Candler County",
+                        "wikidata_id": "Q488224"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpESTBvN0E",
+                        "name": "Metter",
+                        "wikidata_id": "Q2797227"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjlPN0E",
+                        "name": "30439"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakkySWl3aWMzUnlaV1YwSWpvaVEwRk9SRXhGVWlCVFZGSkZSVlFpTENKd2JHRmpaU0k2SWtoUFRVVlNJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TlRRM0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTox",
+                        "name": "Candler Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.40177,
+                    "longitude": -82.063444,
+                    "routable_points": [
+                        {
+                            "latitude": 32.40177,
+                            "longitude": -82.063444,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "226 Candler Street, Metter, Georgia 30439, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSTJJaXdpYzNSeVpXVjBJam9pUTBGT1JFeEZVaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa2hQVFVWU0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOVFEzSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "226 Candler Street",
+                "name_preferred": "226 Candler Street",
+                "place_formatted": "Metter, Georgia 30439, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.825117,
+                    34.307211
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSTJJaXdpYzNSeVpXVjBJam9pUTBGT1JFeEZVaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa2hQVFVWU0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOVFEzSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "226",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSTJJaXdpYzNSeVpXVjBJam9pUTBGT1JFeEZVaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa2hQVFVWU0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOVFEzSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                        "name": "226 Candler Street",
+                        "street_name": "Candler Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprS2Jz",
+                        "name": "Hall County",
+                        "wikidata_id": "Q492012"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCeXBJN0E",
+                        "name": "Gainesville",
+                        "wikidata_id": "Q651051"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0x1N0E",
+                        "name": "30501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakkySWl3aWMzUnlaV1YwSWpvaVEwRk9SRXhGVWlCVFZGSkZSVlFpTENKd2JHRmpaU0k2SWtoUFRVVlNJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TlRRM0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                        "name": "Candler Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.307211,
+                    "longitude": -83.825117,
+                    "routable_points": [
+                        {
+                            "latitude": 34.307211,
+                            "longitude": -83.825117,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "226 Candler Street, Gainesville, Georgia 30501, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSTJJaXdpYzNSeVpXVjBJam9pUTBGT1JFeEZVaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa2hQVFVWU0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOVFEzSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "226 Candler Street",
+                "name_preferred": "226 Candler Street",
+                "place_formatted": "Gainesville, Georgia 30501, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.935986,
+                    34.355179
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSTJJaXdpYzNSeVpXVjBJam9pUTBGT1JFeEZVaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa2hQVFVWU0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOVFEzSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "226",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSTJJaXdpYzNSeVpXVjBJam9pUTBGT1JFeEZVaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa2hQVFVWU0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOVFEzSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjM",
+                        "name": "226 Chandler Street",
+                        "street_name": "Chandler Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptTWJz",
+                        "name": "Hart County",
+                        "wikidata_id": "Q491301"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDSDdvN0E",
+                        "name": "Hartwell",
+                        "wikidata_id": "Q2855962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzh1N0E",
+                        "name": "30643"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakkySWl3aWMzUnlaV1YwSWpvaVEwRk9SRXhGVWlCVFZGSkZSVlFpTENKd2JHRmpaU0k2SWtoUFRVVlNJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TlRRM0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+                        "name": "Chandler Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.355179,
+                    "longitude": -82.935986,
+                    "routable_points": [
+                        {
+                            "latitude": 34.355179,
+                            "longitude": -82.935986,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "226 Chandler Street, Hartwell, Georgia 30643, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSTJJaXdpYzNSeVpXVjBJam9pUTBGT1JFeEZVaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa2hQVFVWU0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOVFEzSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjM",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "226 Chandler Street",
+                "name_preferred": "226 Chandler Street",
+                "place_formatted": "Hartwell, Georgia 30643, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.500495,
+                    34.333426
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ2ZPN0E",
+            "properties": {
+                "bbox": [
+                    -83.539037,
+                    34.291843,
+                    -83.388819,
+                    34.431195
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEK2Jz",
+                        "name": "Banks County",
+                        "wikidata_id": "Q488201"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUmZvN0E",
+                        "name": "Homer",
+                        "wikidata_id": "Q2101592"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2ZPN0E",
+                        "name": "30547"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.333426,
+                    "longitude": -83.500495
+                },
+                "feature_type": "postcode",
+                "full_address": "Homer, Georgia 30547, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ2ZPN0E",
+                "name": "30547",
+                "name_preferred": "30547",
+                "place_formatted": "Homer, Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

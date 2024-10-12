@@ -1,0 +1,166 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.38658,
+                    31.157212
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1vc206NjYyMDcwNjcz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1929",
+                        "mapbox_id": "dXJuOm1ieGFkci1vc206NjYyMDcwNjcz",
+                        "name": "1929 Demere Road",
+                        "street_name": "Demere Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJQ1NLN0E",
+                        "name": "St. Simons",
+                        "wikidata_id": "Q1523372"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVzBzN0E",
+                        "name": "Saint Simons Heights"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpGbDJvN0E",
+                            "name": "Brunswick"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVW1vN0E",
+                        "name": "Saint Simons Island",
+                        "wikidata_id": "Q1523372"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaktPN0E",
+                        "name": "31522"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItb3NtOjY2MjA3MDY3Mw",
+                        "name": "Demere Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 31.157212,
+                    "longitude": -81.38658,
+                    "routable_points": [
+                        {
+                            "latitude": 31.157229,
+                            "longitude": -81.386595,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1929 Demere Road, Saint Simons Island, Georgia 31522, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1vc206NjYyMDcwNjcz",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1929 Demere Road",
+                "name_preferred": "1929 Demere Road",
+                "place_formatted": "Saint Simons Island, Georgia 31522, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.389363,
+                    31.136728
+                ],
+                "type": "Point"
+            },
+            "id": "address.244875338192494",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJQ1NLN0E",
+                        "name": "St. Simons",
+                        "wikidata_id": "Q1523372"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpGbDJvN0E",
+                            "name": "Brunswick"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVW1vN0E",
+                        "name": "Saint Simons Island",
+                        "wikidata_id": "Q1523372"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaktPN0E",
+                        "name": "31522"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.244875338192494",
+                        "name": "Demere Way"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.136728,
+                    "longitude": -81.389363
+                },
+                "feature_type": "street",
+                "full_address": "Demere Way, Saint Simons Island, Georgia 31522, United States",
+                "mapbox_id": "address.244875338192494",
+                "name": "Demere Way",
+                "name_preferred": "Demere Way",
+                "place_formatted": "Saint Simons Island, Georgia 31522, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

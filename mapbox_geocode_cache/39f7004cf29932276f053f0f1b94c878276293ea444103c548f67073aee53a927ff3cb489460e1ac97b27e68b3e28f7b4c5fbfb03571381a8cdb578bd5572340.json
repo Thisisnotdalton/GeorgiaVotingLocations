@@ -1,0 +1,337 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.327874,
+                    33.850564
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkNGYwMTYyMy03NzNkLTRlZDAtYjZlMC0yMzczOGUyZWQ0ZTU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2235",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkNGYwMTYyMy03NzNkLTRlZDAtYjZlMC0yMzczOGUyZWQ0ZTU",
+                        "name": "2235 Briarwood Way Northeast",
+                        "street_name": "Briarwood Way Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbHRJN0E",
+                        "name": "Brookhaven",
+                        "wikidata_id": "Q154462"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZld1N0E",
+                        "name": "30319"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDRmMDE2MjMtNzczZC00ZWQwLWI2ZTAtMjM3MzhlMmVkNGU1",
+                        "name": "Briarwood Way Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.850564,
+                    "longitude": -84.327874,
+                    "routable_points": [
+                        {
+                            "latitude": 33.850469,
+                            "longitude": -84.328196,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2235 Briarwood Way Northeast, Brookhaven, Georgia 30319, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkNGYwMTYyMy03NzNkLTRlZDAtYjZlMC0yMzczOGUyZWQ0ZTU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2235 Briarwood Way Northeast",
+                "name_preferred": "2235 Briarwood Way Northeast",
+                "place_formatted": "Brookhaven, Georgia 30319, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.3395,
+                    33.861083
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZld1N0E",
+            "properties": {
+                "bbox": [
+                    -84.359507,
+                    33.833107,
+                    -84.309436,
+                    33.920202
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbHRJN0E",
+                        "name": "Brookhaven",
+                        "wikidata_id": "Q154462"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZld1N0E",
+                        "name": "30319"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.861083,
+                    "longitude": -84.3395
+                },
+                "feature_type": "postcode",
+                "full_address": "Brookhaven, Georgia 30319, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZld1N0E",
+                "name": "30319",
+                "name_preferred": "30319",
+                "place_formatted": "Brookhaven, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.329263,
+                    33.847872
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6M2NhYWE0NmItNTllOC00NWMyLThkNTEtODc4MDdhOWIwMWVi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbHRJN0E",
+                        "name": "Brookhaven",
+                        "wikidata_id": "Q154462"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZld1N0E",
+                        "name": "30319"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2NhYWE0NmItNTllOC00NWMyLThkNTEtODc4MDdhOWIwMWVi",
+                        "name": "Briarwood Road Northeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.847872,
+                    "longitude": -84.329263
+                },
+                "feature_type": "street",
+                "full_address": "Briarwood Road Northeast, Brookhaven, Georgia 30319, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2NhYWE0NmItNTllOC00NWMyLThkNTEtODc4MDdhOWIwMWVi",
+                "name": "Briarwood Road",
+                "name_preferred": "Briarwood Road Northeast",
+                "place_formatted": "Brookhaven, Georgia 30319, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.348318,
+                    33.868329
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDBiMGNlMGMtZDY0Ni00MjM2LTkxNzgtNDFkMTJlMDUyYjM4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBbHRvN0E",
+                            "name": "Brookhaven"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbHRJN0E",
+                        "name": "Brookhaven",
+                        "wikidata_id": "Q154462"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZld1N0E",
+                        "name": "30319"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDBiMGNlMGMtZDY0Ni00MjM2LTkxNzgtNDFkMTJlMDUyYjM4",
+                        "name": "East Brookhaven Drive Northeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.868329,
+                    "longitude": -84.348318
+                },
+                "feature_type": "street",
+                "full_address": "East Brookhaven Drive Northeast, Brookhaven, Georgia 30319, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDBiMGNlMGMtZDY0Ni00MjM2LTkxNzgtNDFkMTJlMDUyYjM4",
+                "name": "East Brookhaven Drive",
+                "name_preferred": "East Brookhaven Drive Northeast",
+                "place_formatted": "Brookhaven, Georgia 30319, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.345255,
+                    33.858531
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTc1NWQ3NDAtM2M0OS00Y2IwLTk2MTItZWZlNjMwOWVjNTJm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbHRJN0E",
+                        "name": "Brookhaven",
+                        "wikidata_id": "Q154462"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZld1N0E",
+                        "name": "30319"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTc1NWQ3NDAtM2M0OS00Y2IwLTk2MTItZWZlNjMwOWVjNTJm",
+                        "name": "Brookhaven Place"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.858531,
+                    "longitude": -84.345255
+                },
+                "feature_type": "street",
+                "full_address": "Brookhaven Place, Brookhaven, Georgia 30319, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTc1NWQ3NDAtM2M0OS00Y2IwLTk2MTItZWZlNjMwOWVjNTJm",
+                "name": "Brookhaven Drive",
+                "name_preferred": "Brookhaven Place",
+                "place_formatted": "Brookhaven, Georgia 30319, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

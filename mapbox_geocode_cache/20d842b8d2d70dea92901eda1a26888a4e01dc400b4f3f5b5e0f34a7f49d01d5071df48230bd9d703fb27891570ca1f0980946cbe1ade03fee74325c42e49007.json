@@ -1,0 +1,318 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.312268,
+                    34.150998
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkYmMxYWU5Yi1iMjM5LTQ4MTYtYTFmMy1lOGVjMGNiMDgyMjU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1785",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkYmMxYWU5Yi1iMjM5LTQ4MTYtYTFmMy1lOGVjMGNiMDgyMjU",
+                        "name": "1785 Dinsmore Road",
+                        "street_name": "Dinsmore Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpVc2pz",
+                            "name": "Alpharetta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpETVlvN0E",
+                        "name": "Milton"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGJ1N0E",
+                        "name": "30004"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGJjMWFlOWItYjIzOS00ODE2LWExZjMtZThlYzBjYjA4MjI1",
+                        "name": "Dinsmore Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.150998,
+                    "longitude": -84.312268,
+                    "routable_points": [
+                        {
+                            "latitude": 34.151281,
+                            "longitude": -84.31233,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1785 Dinsmore Road, Milton, Georgia 30004, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkYmMxYWU5Yi1iMjM5LTQ4MTYtYTFmMy1lOGVjMGNiMDgyMjU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1785 Dinsmore Road",
+                "name_preferred": "1785 Dinsmore Road",
+                "place_formatted": "Milton, Georgia 30004, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.342106,
+                    34.08937
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZGJ1N0E",
+            "properties": {
+                "bbox": [
+                    -84.379295,
+                    34.072899,
+                    -84.213447,
+                    34.220588
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETVpJN0E",
+                        "name": "Milton"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGJ1N0E",
+                        "name": "30004"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.08937,
+                    "longitude": -84.342106
+                },
+                "feature_type": "postcode",
+                "full_address": "Milton, Georgia 30004, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZGJ1N0E",
+                "name": "30004",
+                "name_preferred": "30004",
+                "place_formatted": "Milton, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.238655,
+                    34.176485
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6M2VjMGNjMmUtMGEwOS00NGJjLTlmODUtMzgzZjhiYTkwMTQ0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkdWJz",
+                        "name": "Forsyth County",
+                        "wikidata_id": "Q493092"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS0ZJN0E",
+                        "name": "Cumming",
+                        "wikidata_id": "Q1003686"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.4802805955388484",
+                        "name": "30041"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2VjMGNjMmUtMGEwOS00NGJjLTlmODUtMzgzZjhiYTkwMTQ0",
+                        "name": "Densmore Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.176485,
+                    "longitude": -84.238655
+                },
+                "feature_type": "street",
+                "full_address": "Densmore Rd, Cumming, Georgia 30041, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2VjMGNjMmUtMGEwOS00NGJjLTlmODUtMzgzZjhiYTkwMTQ0",
+                "name": "Densmore Rd",
+                "name_preferred": "Densmore Rd",
+                "place_formatted": "Cumming, Georgia 30041, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.068167,
+                    34.813059
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Zjg5MGRkZjQtNTgzNS00MzEzLWE5ODAtNjJlYmE4ODVmMGEy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV1lHN0E",
+                        "name": "Union County",
+                        "wikidata_id": "Q491547"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBY2xvN0E",
+                        "name": "Blairsville",
+                        "wikidata_id": "Q579734"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1B1N0E",
+                        "name": "30512"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Zjg5MGRkZjQtNTgzNS00MzEzLWE5ODAtNjJlYmE4ODVmMGEy",
+                        "name": "Dinsmore Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.813059,
+                    "longitude": -84.068167
+                },
+                "feature_type": "street",
+                "full_address": "Dinsmore Rd, Blairsville, Georgia 30512, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Zjg5MGRkZjQtNTgzNS00MzEzLWE5ODAtNjJlYmE4ODVmMGEy",
+                "name": "Dinsmore Rd",
+                "name_preferred": "Dinsmore Rd",
+                "place_formatted": "Blairsville, Georgia 30512, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.253619,
+                    34.480449
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OGJjNDkwMDItOTJhMy00NDY1LWE5NjMtN2I1ZjJjY2JjMzE2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYQWJz",
+                        "name": "Dawson County",
+                        "wikidata_id": "Q492032"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDL2NJN0E",
+                        "name": "Marble Hill"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWN1N0E",
+                        "name": "30148"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGJjNDkwMDItOTJhMy00NDY1LWE5NjMtN2I1ZjJjY2JjMzE2",
+                        "name": "Densmore Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.480449,
+                    "longitude": -84.253619
+                },
+                "feature_type": "street",
+                "full_address": "Densmore Road, Marble Hill, Georgia 30148, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGJjNDkwMDItOTJhMy00NDY1LWE5NjMtN2I1ZjJjY2JjMzE2",
+                "name": "Densmore Road",
+                "name_preferred": "Densmore Road",
+                "place_formatted": "Marble Hill, Georgia 30148, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,383 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.961727,
+                    33.47113
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiYjcyZGI2NC01ZjIzLTQ0MDMtOWM4ZC1iNGQ5MzUxOGI2OTQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "535",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiYjcyZGI2NC01ZjIzLTQ0MDMtOWM4ZC1iNGQ5MzUxOGI2OTQ",
+                        "name": "535 Telfair Street",
+                        "street_name": "Telfair Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEMStNN0E",
+                            "name": "Greene Street Historic District"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaWhNN0E",
+                        "name": "Downtown Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG11N0E",
+                        "name": "30901"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmI3MmRiNjQtNWYyMy00NDAzLTljOGQtYjRkOTM1MThiNjk0",
+                        "name": "Telfair Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.47113,
+                    "longitude": -81.961727,
+                    "routable_points": [
+                        {
+                            "latitude": 33.470867,
+                            "longitude": -81.961603,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "535 Telfair Street, Augusta, Georgia 30901, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiYjcyZGI2NC01ZjIzLTQ0MDMtOWM4ZC1iNGQ5MzUxOGI2OTQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "535 Telfair Street",
+                "name_preferred": "535 Telfair Street",
+                "place_formatted": "Augusta, Georgia 30901, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.999775,
+                    33.483143
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2E1MDg3NWMtZDZlNS00NTViLTkxYjgtYWZiOWEyYzJlYmY4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFWWhNN0E",
+                            "name": "Hillside Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpHOU9zN0E",
+                        "name": "Old City"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG51N0E",
+                        "name": "30904"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2E1MDg3NWMtZDZlNS00NTViLTkxYjgtYWZiOWEyYzJlYmY4",
+                        "name": "Telfair Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.483143,
+                    "longitude": -81.999775
+                },
+                "feature_type": "street",
+                "full_address": "Telfair Street, Augusta, Georgia 30904, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2E1MDg3NWMtZDZlNS00NTViLTkxYjgtYWZiOWEyYzJlYmY4",
+                "name": "Telfair Street",
+                "name_preferred": "Telfair Street",
+                "place_formatted": "Augusta, Georgia 30904, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.950708,
+                    33.466476
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODQyN2ExZjEtOTg1Ni00YjQ5LTgzN2UtZTRiN2QxNzliZmNh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDcWlNN0E",
+                        "name": "East Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG11N0E",
+                        "name": "30901"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODQyN2ExZjEtOTg1Ni00YjQ5LTgzN2UtZTRiN2QxNzliZmNh",
+                        "name": "East Telfair Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.466476,
+                    "longitude": -81.950708
+                },
+                "feature_type": "street",
+                "full_address": "East Telfair Street, Augusta, Georgia 30901, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODQyN2ExZjEtOTg1Ni00YjQ5LTgzN2UtZTRiN2QxNzliZmNh",
+                "name": "Telfair St",
+                "name_preferred": "East Telfair Street",
+                "place_formatted": "Augusta, Georgia 30901, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.908257,
+                    32.533904
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UTTFJaXdpYzNSeVpXVjBJam9pVkdWc1ptRnBjaUJUZEhKbFpYUWlMQ0p3YkdGalpTSTZJa0YxWjNWemRHRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE1TURFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "535",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UTTFJaXdpYzNSeVpXVjBJam9pVkdWc1ptRnBjaUJUZEhKbFpYUWlMQ0p3YkdGalpTSTZJa0YxWjNWemRHRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE1TURFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjM",
+                        "name": "535 Telfair Street",
+                        "street_name": "Telfair Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5R2Jz",
+                        "name": "Laurens County",
+                        "wikidata_id": "Q491556"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV0ZJN0E",
+                        "name": "Dublin",
+                        "wikidata_id": "Q2671021"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDNPN0E",
+                        "name": "31021"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVE0xSWl3aWMzUnlaV1YwSWpvaVZHVnNabUZwY2lCVGRISmxaWFFpTENKd2JHRmpaU0k2SWtGMVozVnpkR0VpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBNU1ERWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoz",
+                        "name": "Telfair Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.533904,
+                    "longitude": -82.908257,
+                    "routable_points": [
+                        {
+                            "latitude": 32.533904,
+                            "longitude": -82.908257,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "535 Telfair Street, Dublin, Georgia 31021, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UTTFJaXdpYzNSeVpXVjBJam9pVkdWc1ptRnBjaUJUZEhKbFpYUWlMQ0p3YkdGalpTSTZJa0YxWjNWemRHRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE1TURFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjM",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "535 Telfair Street",
+                "name_preferred": "535 Telfair Street",
+                "place_formatted": "Dublin, Georgia 31021, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04645,
+                    35.54536
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UTTFJaXdpYzNSeVpXVjBJam9pVkdWc1ptRnBjaUJUZEhKbFpYUWlMQ0p3YkdGalpTSTZJa0YxWjNWemRHRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE1TURFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "535",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UTTFJaXdpYzNSeVpXVjBJam9pVkdWc1ptRnBjaUJUZEhKbFpYUWlMQ0p3YkdGalpTSTZJa0YxWjNWemRHRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE1TURFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjQ",
+                        "name": "535 Telfair Road",
+                        "street_name": "Telfair Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFOGJz",
+                        "name": "Beaufort County",
+                        "wikidata_id": "Q484639"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSmdvN0E",
+                        "name": "Washington",
+                        "wikidata_id": "Q1026008"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVURPN0E",
+                        "name": "27889"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdVRz",
+                        "name": "North Carolina",
+                        "region_code": "NC",
+                        "region_code_full": "US-NC",
+                        "wikidata_id": "Q1454"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVE0xSWl3aWMzUnlaV1YwSWpvaVZHVnNabUZwY2lCVGRISmxaWFFpTENKd2JHRmpaU0k2SWtGMVozVnpkR0VpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBNU1ERWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+                        "name": "Telfair Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 35.54536,
+                    "longitude": -77.04645,
+                    "routable_points": [
+                        {
+                            "latitude": 35.54536,
+                            "longitude": -77.04645,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "535 Telfair Road, Washington, North Carolina 27889, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UTTFJaXdpYzNSeVpXVjBJam9pVkdWc1ptRnBjaUJUZEhKbFpYUWlMQ0p3YkdGalpTSTZJa0YxWjNWemRHRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE1TURFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "535 Telfair St",
+                "name_preferred": "535 Telfair Road",
+                "place_formatted": "Washington, North Carolina 27889, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

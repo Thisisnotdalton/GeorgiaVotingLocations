@@ -1,0 +1,373 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.97937,
+                    32.50649
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiZWRjZGM0MS1mOTIzLTQ2M2ItOWJjMy1kM2Q3MmZlZWNhMmE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "928",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiZWRjZGM0MS1mOTIzLTQ2M2ItOWJjMy1kM2Q3MmZlZWNhMmE",
+                        "name": "928 Manchester Expy",
+                        "street_name": "Manchester Expy"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovaWJz",
+                        "name": "Muscogee County",
+                        "wikidata_id": "Q492048"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCYWdNN0E",
+                            "name": "Cascade Hills"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCOFlNN0E",
+                        "name": "Columbus Tech"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQmZJN0E",
+                        "name": "Columbus",
+                        "wikidata_id": "Q239870"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2RPN0E",
+                        "name": "31904"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmVkY2RjNDEtZjkyMy00NjNiLTliYzMtZDNkNzJmZWVjYTJh",
+                        "name": "Manchester Expy"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.50649,
+                    "longitude": -84.97937,
+                    "routable_points": [
+                        {
+                            "latitude": 32.506729,
+                            "longitude": -84.979365,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "928 Manchester Expy, Columbus, Georgia 31904, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiZWRjZGM0MS1mOTIzLTQ2M2ItOWJjMy1kM2Q3MmZlZWNhMmE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "928 Manchester Expy",
+                "name_preferred": "928 Manchester Expy",
+                "place_formatted": "Columbus, Georgia 31904, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.933886,
+                    32.50958
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDVjYjg1ODEtNDQ2Mi00NGZkLWE4ZTMtODdjZWJkODFkMThk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovaWJz",
+                        "name": "Muscogee County",
+                        "wikidata_id": "Q492048"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQmZJN0E",
+                        "name": "Columbus",
+                        "wikidata_id": "Q239870"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2RPN0E",
+                        "name": "31904"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDVjYjg1ODEtNDQ2Mi00NGZkLWE4ZTMtODdjZWJkODFkMThk",
+                        "name": "Columbus-Manchester Expressway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.50958,
+                    "longitude": -84.933886
+                },
+                "feature_type": "street",
+                "full_address": "Columbus-Manchester Expressway, Columbus, Georgia 31904, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDVjYjg1ODEtNDQ2Mi00NGZkLWE4ZTMtODdjZWJkODFkMThk",
+                "name": "Manchester Expressway",
+                "name_preferred": "Columbus-Manchester Expressway",
+                "place_formatted": "Columbus, Georgia 31904, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.953423,
+                    32.506852
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCa2RPN0E",
+            "properties": {
+                "bbox": [
+                    -85.080784,
+                    32.479785,
+                    -84.947439,
+                    32.608096
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovaWJz",
+                        "name": "Muscogee County",
+                        "wikidata_id": "Q492048"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQmZJN0E",
+                        "name": "Columbus",
+                        "wikidata_id": "Q239870"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2RPN0E",
+                        "name": "31904"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.506852,
+                    "longitude": -84.953423
+                },
+                "feature_type": "postcode",
+                "full_address": "Columbus, Georgia 31904, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCa2RPN0E",
+                "name": "31904",
+                "name_preferred": "31904",
+                "place_formatted": "Columbus, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.391719,
+                    31.841784
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9USTRJaXdpYzNSeVpXVjBJam9pVFVGT1EwaEZVMVJGVWlCRldGQlNSVk5UVjBGWklpd2ljR3hoWTJVaU9pSkRUMHhWVFVKVlV5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVGt3TkNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "928",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9USTRJaXdpYzNSeVpXVjBJam9pVFVGT1EwaEZVMVJGVWlCRldGQlNSVk5UVjBGWklpd2ljR3hoWTJVaU9pSkRUMHhWVFVKVlV5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVGt3TkNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                        "name": "928 Manchester Court",
+                        "street_name": "Manchester Court"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp6dWJz",
+                        "name": "Liberty County",
+                        "wikidata_id": "Q487692"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpES1NvN0E",
+                        "name": "Midway",
+                        "wikidata_id": "Q3261544"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTFPN0E",
+                        "name": "31320"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVEk0SWl3aWMzUnlaV1YwSWpvaVRVRk9RMGhGVTFSRlVpQkZXRkJTUlZOVFYwRlpJaXdpY0d4aFkyVWlPaUpEVDB4VlRVSlZVeUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRrd05DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+                        "name": "Manchester Court"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.841784,
+                    "longitude": -81.391719,
+                    "routable_points": [
+                        {
+                            "latitude": 31.841784,
+                            "longitude": -81.391719,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "928 Manchester Court, Midway, Georgia 31320, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9USTRJaXdpYzNSeVpXVjBJam9pVFVGT1EwaEZVMVJGVWlCRldGQlNSVk5UVjBGWklpd2ljR3hoWTJVaU9pSkRUMHhWVFVKVlV5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVGt3TkNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "928 Manchester Court",
+                "name_preferred": "928 Manchester Court",
+                "place_formatted": "Midway, Georgia 31320, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.722149,
+                    32.627194
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9USTRJaXdpYzNSeVpXVjBJam9pVFVGT1EwaEZVMVJGVWlCRldGQlNSVk5UVjBGWklpd2ljR3hoWTJVaU9pSkRUMHhWVFVKVlV5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVGt3TkNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "928",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9USTRJaXdpYzNSeVpXVjBJam9pVFVGT1EwaEZVMVJGVWlCRldGQlNSVk5UVjBGWklpd2ljR3hoWTJVaU9pSkRUMHhWVFVKVlV5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVGt3TkNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+                        "name": "928 Manchester Lane",
+                        "street_name": "Manchester Lane"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUlJtN0E",
+                        "name": "Peach County",
+                        "wikidata_id": "Q491553"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBclFJN0E",
+                        "name": "Byron",
+                        "wikidata_id": "Q1923402"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHd1N0E",
+                        "name": "31008"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVEk0SWl3aWMzUnlaV1YwSWpvaVRVRk9RMGhGVTFSRlVpQkZXRkJTUlZOVFYwRlpJaXdpY0d4aFkyVWlPaUpEVDB4VlRVSlZVeUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRrd05DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjQ",
+                        "name": "Manchester Lane"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.627194,
+                    "longitude": -83.722149,
+                    "routable_points": [
+                        {
+                            "latitude": 32.627194,
+                            "longitude": -83.722149,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "928 Manchester Lane, Byron, Georgia 31008, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9USTRJaXdpYzNSeVpXVjBJam9pVFVGT1EwaEZVMVJGVWlCRldGQlNSVk5UVjBGWklpd2ljR3hoWTJVaU9pSkRUMHhWVFVKVlV5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVGt3TkNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "928 Manchester Lane",
+                "name_preferred": "928 Manchester Lane",
+                "place_formatted": "Byron, Georgia 31008, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

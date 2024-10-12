@@ -1,0 +1,376 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.499502,
+                    33.774113
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkNjI2ZTE5MS1mZDZmLTRlY2ItYTM2OC1hZTBlYzkwZWYyMzQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "677",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkNjI2ZTE5MS1mZDZmLTRlY2ItYTM2OC1hZTBlYzkwZWYyMzQ",
+                        "name": "677 Fairburn Road",
+                        "street_name": "Fairburn Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEQ3BNN0E",
+                        "name": "Fairburn Heights"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFbDVJN0E",
+                            "name": "South Fulton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmJ1N0E",
+                        "name": "30331"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDYyNmUxOTEtZmQ2Zi00ZWNiLWEzNjgtYWUwZWM5MGVmMjM0",
+                        "name": "Fairburn Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.774113,
+                    "longitude": -84.499502,
+                    "routable_points": [
+                        {
+                            "latitude": 33.774153,
+                            "longitude": -84.499719,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "677 Fairburn Road, Atlanta, Georgia 30331, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkNjI2ZTE5MS1mZDZmLTRlY2ItYTM2OC1hZTBlYzkwZWYyMzQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "677 Fairburn Road NW",
+                "name_preferred": "677 Fairburn Road",
+                "place_formatted": "Atlanta, Georgia 30331, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.51876,
+                    33.73712
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGRmMDllNjktYzQ5MC00ZjA3LWIxNWYtMWZlNTYwODg1Y2Q4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBNFVzN0E",
+                        "name": "Boulder Park"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFbDVJN0E",
+                            "name": "South Fulton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.6910797816123846",
+                        "name": "30314"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGRmMDllNjktYzQ5MC00ZjA3LWIxNWYtMWZlNTYwODg1Y2Q4",
+                        "name": "Fairburn Road SW"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.73712,
+                    "longitude": -84.51876
+                },
+                "feature_type": "street",
+                "full_address": "Fairburn Road SW, Atlanta, Georgia 30314, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGRmMDllNjktYzQ5MC00ZjA3LWIxNWYtMWZlNTYwODg1Y2Q4",
+                "name": "Fairburn Road SW",
+                "name_preferred": "Fairburn Road SW",
+                "place_formatted": "Atlanta, Georgia 30314, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.408565,
+                    33.687167
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjNhNWU2MWYtYWViYS00ZDE5LWJjNmItZGE2YTVjNDlmOTNh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIV0NzN0E",
+                        "name": "Perkerson",
+                        "wikidata_id": "Q7169009"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmJ1N0E",
+                        "name": "30331"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjNhNWU2MWYtYWViYS00ZDE5LWJjNmItZGE2YTVjNDlmOTNh",
+                        "name": "Fairburn Rd SW"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.687167,
+                    "longitude": -84.408565
+                },
+                "feature_type": "street",
+                "full_address": "Fairburn Rd SW, Atlanta, Georgia 30331, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjNhNWU2MWYtYWViYS00ZDE5LWJjNmItZGE2YTVjNDlmOTNh",
+                "name": "Fairburn Rd SW",
+                "name_preferred": "Fairburn Rd SW",
+                "place_formatted": "Atlanta, Georgia 30331, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.505614,
+                    33.753806
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZWFkYjg5OWEtMGIzZi00NDFiLWI2MGMtZTRiOGRjODZhZDc2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLM3NNN0E",
+                        "name": "Wisteria Gardens"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFbDVJN0E",
+                            "name": "South Fulton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmJ1N0E",
+                        "name": "30331"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWFkYjg5OWEtMGIzZi00NDFiLWI2MGMtZTRiOGRjODZhZDc2",
+                        "name": "Fairburn Road Southwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.753806,
+                    "longitude": -84.505614
+                },
+                "feature_type": "street",
+                "full_address": "Fairburn Road Southwest, Atlanta, Georgia 30331, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWFkYjg5OWEtMGIzZi00NDFiLWI2MGMtZTRiOGRjODZhZDc2",
+                "name": "Fairburn Road Southwest",
+                "name_preferred": "Fairburn Road Southwest",
+                "place_formatted": "Atlanta, Georgia 30331, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.510556,
+                    33.734898
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qYzNJaXdpYzNSeVpXVjBJam9pUmtGSlVrSlZVazRnVWtRZ1UxY2dUbGNpTENKd2JHRmpaU0k2SWtGVVRFRk9WRUVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBek16RWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "677",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qYzNJaXdpYzNSeVpXVjBJam9pUmtGSlVrSlZVazRnVWtRZ1UxY2dUbGNpTENKd2JHRmpaU0k2SWtGVVRFRk9WRUVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBek16RWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoz",
+                        "name": "677 Fairburn Road Southwest",
+                        "street_name": "Fairburn Road Southwest"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEQ3BzN0E",
+                        "name": "Fairburn Mays"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFbDVJN0E",
+                            "name": "South Fulton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmJ1N0E",
+                        "name": "30331"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOamMzSWl3aWMzUnlaV1YwSWpvaVJrRkpVa0pWVWs0Z1VrUWdVMWNnVGxjaUxDSndiR0ZqWlNJNklrRlVURUZPVkVFaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXpNekVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mw",
+                        "name": "Fairburn Road Southwest"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.734898,
+                    "longitude": -84.510556,
+                    "routable_points": [
+                        {
+                            "latitude": 33.734898,
+                            "longitude": -84.510556,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "677 Fairburn Road Southwest, Atlanta, Georgia 30331, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qYzNJaXdpYzNSeVpXVjBJam9pUmtGSlVrSlZVazRnVWtRZ1UxY2dUbGNpTENKd2JHRmpaU0k2SWtGVVRFRk9WRUVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBek16RWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "677 Fairburn Road Southwest",
+                "name_preferred": "677 Fairburn Road Southwest",
+                "place_formatted": "Atlanta, Georgia 30331, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,319 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.65566,
+                    33.779357
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyZTEzMGMwNi1lMWY1LTRhOTYtYWJiNS00MjAzNTAwZmU0MWQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "7301",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyZTEzMGMwNi1lMWY1LTRhOTYtYWJiNS00MjAzNTAwZmU0MWQ",
+                        "name": "7301 Groovers Lake Road",
+                        "street_name": "Groovers Lake Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDejlJN0E",
+                        "name": "Lithia Springs",
+                        "wikidata_id": "Q3130627"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVJ1N0E",
+                        "name": "30122"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmUxMzBjMDYtZTFmNS00YTk2LWFiYjUtNDIwMzUwMGZlNDFk",
+                        "name": "Groovers Lake Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 33.779357,
+                    "longitude": -84.65566,
+                    "routable_points": [
+                        {
+                            "latitude": 33.779354,
+                            "longitude": -84.65508,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "7301 Groovers Lake Road, Lithia Springs, Georgia 30122, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyZTEzMGMwNi1lMWY1LTRhOTYtYWJiNS00MjAzNTAwZmU0MWQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "7301 Groovers Lake Road",
+                "name_preferred": "7301 Groovers Lake Road",
+                "place_formatted": "Lithia Springs, Georgia 30122, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.499017,
+                    32.135915
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDM1NDViYjEtOGUyZi00OTNlLWE3NWQtOTFhMjk2MjVlMmJk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKU2Jz",
+                        "name": "Bryan County",
+                        "wikidata_id": "Q486848"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlZJN0E",
+                        "name": "Ellabell",
+                        "wikidata_id": "Q5364596"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXdPN0E",
+                        "name": "31308"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDM1NDViYjEtOGUyZi00OTNlLWE3NWQtOTFhMjk2MjVlMmJk",
+                        "name": "Lake Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.135915,
+                    "longitude": -81.499017
+                },
+                "feature_type": "street",
+                "full_address": "Lake Road, Ellabell, Georgia 31308, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDM1NDViYjEtOGUyZi00OTNlLWE3NWQtOTFhMjk2MjVlMmJk",
+                "name": "Lake Road",
+                "name_preferred": "Lake Road",
+                "place_formatted": "Ellabell, Georgia 31308, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.507944,
+                    32.614007
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDJjYjBjNjctOTk0MS00MzE5LTljZmUtMzVlNmRjYjQyYzY2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVUFtN0E",
+                        "name": "Screven County",
+                        "wikidata_id": "Q503511"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDTzlvN0E",
+                            "name": "Hiltonia"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeTBJN0E",
+                        "name": "Sylvania",
+                        "wikidata_id": "Q953354"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0h1N0E",
+                        "name": "30467"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDJjYjBjNjctOTk0MS00MzE5LTljZmUtMzVlNmRjYjQyYzY2",
+                        "name": "Lake Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.614007,
+                    "longitude": -81.507944
+                },
+                "feature_type": "street",
+                "full_address": "Lake Rd, Sylvania, Georgia 30467, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDJjYjBjNjctOTk0MS00MzE5LTljZmUtMzVlNmRjYjQyYzY2",
+                "name": "Lake Rd",
+                "name_preferred": "Lake Rd",
+                "place_formatted": "Sylvania, Georgia 30467, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.778094,
+                    32.453799
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTU1NmRlN2EtZTY0My00ZmUzLWIyM2QtYWEyMWNiMmE4ZmI3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKc2Jz",
+                        "name": "Bulloch County",
+                        "wikidata_id": "Q488166"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFclVJN0E",
+                        "name": "Statesboro",
+                        "wikidata_id": "Q988919"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0ZPN0E",
+                        "name": "30458"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTU1NmRlN2EtZTY0My00ZmUzLWIyM2QtYWEyMWNiMmE4ZmI3",
+                        "name": "Groover Lane"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.453799,
+                    "longitude": -81.778094
+                },
+                "feature_type": "street",
+                "full_address": "Groover Lane, Statesboro, Georgia 30458, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTU1NmRlN2EtZTY0My00ZmUzLWIyM2QtYWEyMWNiMmE4ZmI3",
+                "name": "Groover Lane",
+                "name_preferred": "Groover Lane",
+                "place_formatted": "Statesboro, Georgia 30458, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.381703,
+                    34.269596
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDllZTQ4NWUtZTg2NS00MjRhLTlhYmEtZTJiY2Q0Yjc5MTAy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEK2Jz",
+                        "name": "Banks County",
+                        "wikidata_id": "Q488201"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQjRJN0E",
+                        "name": "Commerce",
+                        "wikidata_id": "Q2689380"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1h1N0E",
+                        "name": "30530"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDllZTQ4NWUtZTg2NS00MjRhLTlhYmEtZTJiY2Q0Yjc5MTAy",
+                        "name": "Groover Lane"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.269596,
+                    "longitude": -83.381703
+                },
+                "feature_type": "street",
+                "full_address": "Groover Lane, Commerce, Georgia 30530, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDllZTQ4NWUtZTg2NS00MjRhLTlhYmEtZTJiY2Q0Yjc5MTAy",
+                "name": "Groover Lane",
+                "name_preferred": "Groover Lane",
+                "place_formatted": "Commerce, Georgia 30530, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

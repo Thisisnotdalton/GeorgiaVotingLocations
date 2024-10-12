@@ -1,0 +1,306 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.664766,
+                    33.876349
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2MTc1OGE1ZC01MzQxLTQ3NjktYTdjYS1hNDU5ZjFlZDBhODU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3820",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2MTc1OGE1ZC01MzQxLTQ3NjktYTdjYS1hNDU5ZjFlZDBhODU",
+                        "name": "3820 Macedonia Road",
+                        "street_name": "Macedonia Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEK2ZvN0E",
+                        "name": "Powder Springs",
+                        "wikidata_id": "Q3261052"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVVPN0E",
+                        "name": "30127"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjE3NThhNWQtNTM0MS00NzY5LWE3Y2EtYTQ1OWYxZWQwYTg1",
+                        "name": "Macedonia Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.876349,
+                    "longitude": -84.664766,
+                    "routable_points": [
+                        {
+                            "latitude": 33.876218,
+                            "longitude": -84.664449,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3820 Macedonia Road, Powder Springs, Georgia 30127, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2MTc1OGE1ZC01MzQxLTQ3NjktYTdjYS1hNDU5ZjFlZDBhODU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3820 Macedonia Road",
+                "name_preferred": "3820 Macedonia Road",
+                "place_formatted": "Powder Springs, Georgia 30127, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.654995,
+                    33.878475
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjJlNTk3NDEtYjJjYS00MDQ1LWFiNGQtM2ViMTZmYjg5NzFl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEK2ZvN0E",
+                        "name": "Powder Springs",
+                        "wikidata_id": "Q3261052"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVVPN0E",
+                        "name": "30127"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjJlNTk3NDEtYjJjYS00MDQ1LWFiNGQtM2ViMTZmYjg5NzFl",
+                        "name": "Macedonia Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.878475,
+                    "longitude": -84.654995
+                },
+                "feature_type": "street",
+                "full_address": "Macedonia Drive, Powder Springs, Georgia 30127, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjJlNTk3NDEtYjJjYS00MDQ1LWFiNGQtM2ViMTZmYjg5NzFl",
+                "name": "Macedonia Drive",
+                "name_preferred": "Macedonia Drive",
+                "place_formatted": "Powder Springs, Georgia 30127, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.653022,
+                    32.524526
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16Z3lNQ0lzSW5OMGNtVmxkQ0k2SWsxQlEwVkVUMDVKUVNCU1JDSXNJbkJzWVdObElqb2lVRTlYUkVWU0lGTlFVa2xPUjFNaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXhNamNpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3820",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16Z3lNQ0lzSW5OMGNtVmxkQ0k2SWsxQlEwVkVUMDVKUVNCU1JDSXNJbkJzWVdObElqb2lVRTlYUkVWU0lGTlFVa2xPUjFNaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXhNamNpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mg",
+                        "name": "3820 Macedonia Road",
+                        "street_name": "Macedonia Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKc2Jz",
+                        "name": "Bulloch County",
+                        "wikidata_id": "Q488166"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFclVJN0E",
+                        "name": "Statesboro",
+                        "wikidata_id": "Q988919"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0d1N0E",
+                        "name": "30461"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNemd5TUNJc0luTjBjbVZsZENJNklrMUJRMFZFVDA1SlFTQlNSQ0lzSW5Cc1lXTmxJam9pVUU5WFJFVlNJRk5RVWtsT1IxTWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF4TWpjaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+                        "name": "Macedonia Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.524526,
+                    "longitude": -81.653022,
+                    "routable_points": [
+                        {
+                            "latitude": 32.524526,
+                            "longitude": -81.653022,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3820 Macedonia Road, Statesboro, Georgia 30461, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16Z3lNQ0lzSW5OMGNtVmxkQ0k2SWsxQlEwVkVUMDVKUVNCU1JDSXNJbkJzWVdObElqb2lVRTlYUkVWU0lGTlFVa2xPUjFNaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXhNamNpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mg",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3820 Macedonia Road",
+                "name_preferred": "3820 Macedonia Road",
+                "place_formatted": "Statesboro, Georgia 30461, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.360415,
+                    35.279296
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16Z3lNQ0lzSW5OMGNtVmxkQ0k2SWsxQlEwVkVUMDVKUVNCU1JDSXNJbkJzWVdObElqb2lVRTlYUkVWU0lGTlFVa2xPUjFNaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXhNamNpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3820",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16Z3lNQ0lzSW5OMGNtVmxkQ0k2SWsxQlEwVkVUMDVKUVNCU1JDSXNJbkJzWVdObElqb2lVRTlYUkVWU0lGTlFVa2xPUjFNaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXhNamNpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mw",
+                        "name": "3820 Macedonia Road",
+                        "street_name": "Macedonia Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpteWJz",
+                        "name": "Henderson County",
+                        "wikidata_id": "Q511747"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVm1vN0E",
+                        "name": "Saluda",
+                        "wikidata_id": "Q2024972"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCWTh1N0E",
+                        "name": "28773"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdVRz",
+                        "name": "North Carolina",
+                        "region_code": "NC",
+                        "region_code_full": "US-NC",
+                        "wikidata_id": "Q1454"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNemd5TUNJc0luTjBjbVZsZENJNklrMUJRMFZFVDA1SlFTQlNSQ0lzSW5Cc1lXTmxJam9pVUU5WFJFVlNJRk5RVWtsT1IxTWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF4TWpjaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjM",
+                        "name": "Macedonia Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 35.279296,
+                    "longitude": -82.360415,
+                    "routable_points": [
+                        {
+                            "latitude": 35.279296,
+                            "longitude": -82.360415,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3820 Macedonia Road, Saluda, North Carolina 28773, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16Z3lNQ0lzSW5OMGNtVmxkQ0k2SWsxQlEwVkVUMDVKUVNCU1JDSXNJbkJzWVdObElqb2lVRTlYUkVWU0lGTlFVa2xPUjFNaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXhNamNpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "3820 Macedonia Road",
+                "name_preferred": "3820 Macedonia Road",
+                "place_formatted": "Saluda, North Carolina 28773, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

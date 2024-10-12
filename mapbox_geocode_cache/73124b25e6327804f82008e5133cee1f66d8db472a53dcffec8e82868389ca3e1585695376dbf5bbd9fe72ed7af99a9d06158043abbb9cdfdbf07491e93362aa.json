@@ -1,0 +1,371 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.164237,
+                    34.116751
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplMjRmNDY4Ni1jMGFhLTQ1ZWEtYTNkOC0wNzU5ZjVmMmIwNGQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1950",
+                        "mapbox_id": "dXJuOm1ieGFkcjplMjRmNDY4Ni1jMGFhLTQ1ZWEtYTNkOC0wNzU5ZjVmMmIwNGQ",
+                        "name": "1950 Sharon Road",
+                        "street_name": "Sharon Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkdWJz",
+                        "name": "Forsyth County",
+                        "wikidata_id": "Q493092"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS0ZJN0E",
+                        "name": "Cumming",
+                        "wikidata_id": "Q1003686"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHRPN0E",
+                        "name": "30041"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTI0ZjQ2ODYtYzBhYS00NWVhLWEzZDgtMDc1OWY1ZjJiMDRk",
+                        "name": "Sharon Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.116751,
+                    "longitude": -84.164237,
+                    "routable_points": [
+                        {
+                            "latitude": 34.116893,
+                            "longitude": -84.164097,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1950 Sharon Road, Cumming, Georgia 30041, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplMjRmNDY4Ni1jMGFhLTQ1ZWEtYTNkOC0wNzU5ZjVmMmIwNGQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1950 Sharon Road",
+                "name_preferred": "1950 Sharon Road",
+                "place_formatted": "Cumming, Georgia 30041, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.166712,
+                    34.119384
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UazFNQ0lzSW5OMGNtVmxkQ0k2SWxOSVFWSlBUaUJTUkNJc0luQnNZV05sSWpvaVExVk5UVWxPUnlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EQTBNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1950",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UazFNQ0lzSW5OMGNtVmxkQ0k2SWxOSVFWSlBUaUJTUkNJc0luQnNZV05sSWpvaVExVk5UVWxPUnlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EQTBNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+                        "name": "1950 Sharon Walk Drive",
+                        "street_name": "Sharon Walk Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkdWJz",
+                        "name": "Forsyth County",
+                        "wikidata_id": "Q493092"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS0ZJN0E",
+                        "name": "Cumming",
+                        "wikidata_id": "Q1003686"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHRPN0E",
+                        "name": "30041"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVGsxTUNJc0luTjBjbVZsZENJNklsTklRVkpQVGlCU1JDSXNJbkJzWVdObElqb2lRMVZOVFVsT1J5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNREEwTVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                        "name": "Sharon Walk Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.119384,
+                    "longitude": -84.166712,
+                    "routable_points": [
+                        {
+                            "latitude": 34.119384,
+                            "longitude": -84.166712,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1950 Sharon Walk Drive, Cumming, Georgia 30041, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UazFNQ0lzSW5OMGNtVmxkQ0k2SWxOSVFWSlBUaUJTUkNJc0luQnNZV05sSWpvaVExVk5UVWxPUnlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EQTBNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1950 Sharon Walk Drive",
+                "name_preferred": "1950 Sharon Walk Drive",
+                "place_formatted": "Cumming, Georgia 30041, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.163733,
+                    34.12006
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTQwY2Q3ZTctYzhhZC00NWUwLWE0NWItZWRiODljODcxODU1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkdWJz",
+                        "name": "Forsyth County",
+                        "wikidata_id": "Q493092"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS0ZJN0E",
+                        "name": "Cumming",
+                        "wikidata_id": "Q1003686"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHRPN0E",
+                        "name": "30041"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTQwY2Q3ZTctYzhhZC00NWUwLWE0NWItZWRiODljODcxODU1",
+                        "name": "Sharon Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.12006,
+                    "longitude": -84.163733
+                },
+                "feature_type": "street",
+                "full_address": "Sharon Drive, Cumming, Georgia 30041, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTQwY2Q3ZTctYzhhZC00NWUwLWE0NWItZWRiODljODcxODU1",
+                "name": "Sharon Drive",
+                "name_preferred": "Sharon Drive",
+                "place_formatted": "Cumming, Georgia 30041, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.191277,
+                    31.608563
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UazFNQ0lzSW5OMGNtVmxkQ0k2SWxOSVFWSlBUaUJTUkNJc0luQnNZV05sSWpvaVExVk5UVWxPUnlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EQTBNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1950",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UazFNQ0lzSW5OMGNtVmxkQ0k2SWxOSVFWSlBUaUJTUkNJc0luQnNZV05sSWpvaVExVk5UVWxPUnlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EQTBNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+                        "name": "1950 Sharon Avenue",
+                        "street_name": "Sharon Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaT2Jz",
+                        "name": "Dougherty County",
+                        "wikidata_id": "Q176480"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZ2xNN0E",
+                        "name": "Gailshar Gardens"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLQ2pz",
+                        "name": "Albany",
+                        "wikidata_id": "Q285599"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanh1N0E",
+                        "name": "31707"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVGsxTUNJc0luTjBjbVZsZENJNklsTklRVkpQVGlCU1JDSXNJbkJzWVdObElqb2lRMVZOVFVsT1J5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNREEwTVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                        "name": "Sharon Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.608563,
+                    "longitude": -84.191277,
+                    "routable_points": [
+                        {
+                            "latitude": 31.608563,
+                            "longitude": -84.191277,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1950 Sharon Avenue, Albany, Georgia 31707, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UazFNQ0lzSW5OMGNtVmxkQ0k2SWxOSVFWSlBUaUJTUkNJc0luQnNZV05sSWpvaVExVk5UVWxPUnlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EQTBNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1950 Sharon Drive",
+                "name_preferred": "1950 Sharon Avenue",
+                "place_formatted": "Albany, Georgia 31707, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.150119,
+                    34.025143
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzExZjI0MjYtYmYxZC00NzJmLTg0OGMtM2UwZGVlOTU2NzFl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEeU9vN0E",
+                            "name": "Peachtree Corners"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV2tvN0E",
+                        "name": "Duluth",
+                        "wikidata_id": "Q285751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUZ1N0E",
+                        "name": "30097"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzExZjI0MjYtYmYxZC00NzJmLTg0OGMtM2UwZGVlOTU2NzFl",
+                        "name": "Shake Rag Road Northwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.025143,
+                    "longitude": -84.150119
+                },
+                "feature_type": "street",
+                "full_address": "Shake Rag Road Northwest, Duluth, Georgia 30097, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzExZjI0MjYtYmYxZC00NzJmLTg0OGMtM2UwZGVlOTU2NzFl",
+                "name": "Road",
+                "name_preferred": "Shake Rag Road Northwest",
+                "place_formatted": "Duluth, Georgia 30097, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

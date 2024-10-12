@@ -1,0 +1,325 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.730582,
+                    33.743423
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1N2MxZTUxYi03M2I3LTQyMjYtOWZlOC1jNTRiNjdiMDUyN2E",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "8700",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1N2MxZTUxYi03M2I3LTQyMjYtOWZlOC1jNTRiNjdiMDUyN2E",
+                        "name": "8700 Hospital Drive",
+                        "street_name": "Hospital Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpzYXpz",
+                        "name": "Anneewakee Heights"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVdPN0E",
+                        "name": "30134"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTdjMWU1MWItNzNiNy00MjI2LTlmZTgtYzU0YjY3YjA1Mjdh",
+                        "name": "Hospital Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.743423,
+                    "longitude": -84.730582,
+                    "routable_points": [
+                        {
+                            "latitude": 33.743817,
+                            "longitude": -84.730936,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "8700 Hospital Drive, Douglasville, Georgia 30134, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1N2MxZTUxYi03M2I3LTQyMjYtOWZlOC1jNTRiNjdiMDUyN2E",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "8700 Hospital Drive",
+                "name_preferred": "8700 Hospital Drive",
+                "place_formatted": "Douglasville, Georgia 30134, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.738758,
+                    33.753015
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWUyYjc0YjYtOThhZi00ZDViLWEyZWUtYTFiNDgwMjk4ZDJi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmZXpz",
+                        "name": "Alta Vista"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVdPN0E",
+                        "name": "30134"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWUyYjc0YjYtOThhZi00ZDViLWEyZWUtYTFiNDgwMjk4ZDJi",
+                        "name": "Hospital Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.753015,
+                    "longitude": -84.738758
+                },
+                "feature_type": "street",
+                "full_address": "Hospital Dr, Douglasville, Georgia 30134, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWUyYjc0YjYtOThhZi00ZDViLWEyZWUtYTFiNDgwMjk4ZDJi",
+                "name": "Hospital Dr",
+                "name_preferred": "Hospital Dr",
+                "place_formatted": "Douglasville, Georgia 30134, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.749151,
+                    33.750991
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZVdPN0E",
+            "properties": {
+                "bbox": [
+                    -84.87512,
+                    33.721228,
+                    -84.672807,
+                    33.838398
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVdPN0E",
+                        "name": "30134"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.750991,
+                    "longitude": -84.749151
+                },
+                "feature_type": "postcode",
+                "full_address": "Douglasville, Georgia 30134, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZVdPN0E",
+                "name": "30134",
+                "name_preferred": "30134",
+                "place_formatted": "Douglasville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.50712,
+                    33.460847
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDFjMzBmNzgtMDZmMi00ZjZlLWIzNmYtYWEwN2I2ODMyMjhm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2QWJz",
+                        "name": "McDuffie County",
+                        "wikidata_id": "Q492066"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMjdJN0E",
+                        "name": "Thomson",
+                        "wikidata_id": "Q2784008"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGt1N0E",
+                        "name": "30824"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDFjMzBmNzgtMDZmMi00ZjZlLWIzNmYtYWEwN2I2ODMyMjhm",
+                        "name": "Hospital Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.460847,
+                    "longitude": -82.50712
+                },
+                "feature_type": "street",
+                "full_address": "Hospital Drive, Thomson, Georgia 30824, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDFjMzBmNzgtMDZmMi00ZjZlLWIzNmYtYWEwN2I2ODMyMjhm",
+                "name": "Hospital Drive",
+                "name_preferred": "Hospital Drive",
+                "place_formatted": "Thomson, Georgia 30824, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.440431,
+                    30.263785
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MzU5MWQyODAtNDA1MS00ZmM4LTkzYjQtNTA3ZjRhM2RjYjU4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzphQ2Jz",
+                        "name": "Duval County",
+                        "wikidata_id": "Q493605"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYXRvN0E",
+                        "name": "Jacksonville",
+                        "wikidata_id": "Q16568"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCbHN1N0E",
+                        "name": "32224"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVRz",
+                        "name": "Florida",
+                        "region_code": "FL",
+                        "region_code_full": "US-FL",
+                        "wikidata_id": "Q812"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzU5MWQyODAtNDA1MS00ZmM4LTkzYjQtNTA3ZjRhM2RjYjU4",
+                        "name": "Hospital Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.263785,
+                    "longitude": -81.440431
+                },
+                "feature_type": "street",
+                "full_address": "Hospital Drive, Jacksonville, Florida 32224, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzU5MWQyODAtNDA1MS00ZmM4LTkzYjQtNTA3ZjRhM2RjYjU4",
+                "name": "Hospital Drive",
+                "name_preferred": "Hospital Drive",
+                "place_formatted": "Jacksonville, Florida 32224, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,390 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.344919,
+                    31.775971
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5Mzg4MmYzMC00ZjkxLTRkZmMtOTA0MS0wNTg3ODVmMjFmNjg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "83",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5Mzg4MmYzMC00ZjkxLTRkZmMtOTA0MS0wNTg3ODVmMjFmNjg",
+                        "name": "83 Oak Street",
+                        "street_name": "Oak Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDWWJz",
+                        "name": "Appling County",
+                        "wikidata_id": "Q488186"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVFJJN0E",
+                        "name": "Baxley",
+                        "wikidata_id": "Q2038428"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakd1N0E",
+                        "name": "31513"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTM4ODJmMzAtNGY5MS00ZGZjLTkwNDEtMDU4Nzg1ZjIxZjY4",
+                        "name": "Oak Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 31.775971,
+                    "longitude": -82.344919,
+                    "routable_points": [
+                        {
+                            "latitude": 31.776278,
+                            "longitude": -82.34481,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "83 Oak Street, Baxley, Georgia 31513, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5Mzg4MmYzMC00ZjkxLTRkZmMtOTA0MS0wNTg3ODVmMjFmNjg",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "83 S Oak St",
+                "name_preferred": "83 Oak Street",
+                "place_formatted": "Baxley, Georgia 31513, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.20181,
+                    31.721246
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmY2MzU3ZDQtY2Q0OC00NGQ4LThiZTEtZjRkMWNlY2UzNDk2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDWWJz",
+                        "name": "Appling County",
+                        "wikidata_id": "Q488186"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeGVvN0E",
+                        "name": "Surrency",
+                        "wikidata_id": "Q2607822"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalp1N0E",
+                        "name": "31563"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmY2MzU3ZDQtY2Q0OC00NGQ4LThiZTEtZjRkMWNlY2UzNDk2",
+                        "name": "Oak Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.721246,
+                    "longitude": -82.20181
+                },
+                "feature_type": "street",
+                "full_address": "Oak Street, Surrency, Georgia 31563, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmY2MzU3ZDQtY2Q0OC00NGQ4LThiZTEtZjRkMWNlY2UzNDk2",
+                "name": "Oak Street",
+                "name_preferred": "Oak Street",
+                "place_formatted": "Surrency, Georgia 31563, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.291243,
+                    33.912601
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETWlMQ0p6ZEhKbFpYUWlPaUpUSUU5QlN5QlRWQ0lzSW5Cc1lXTmxJam9pUWtGWVRFVlpJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TlRFeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "83",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETWlMQ0p6ZEhKbFpYUWlPaUpUSUU5QlN5QlRWQ0lzSW5Cc1lXTmxJam9pUWtGWVRFVlpJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TlRFeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                        "name": "83 South Oak Street",
+                        "street_name": "South Oak Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo1dWJz",
+                        "name": "McCormick County",
+                        "wikidata_id": "Q505999"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERWNvN0E",
+                        "name": "McCormick"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYzh1N0E",
+                        "name": "29835"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPRE1pTENKemRISmxaWFFpT2lKVElFOUJTeUJUVkNJc0luQnNZV05sSWpvaVFrRllURVZaSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE5URXpJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+                        "name": "South Oak Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.912601,
+                    "longitude": -82.291243,
+                    "routable_points": [
+                        {
+                            "latitude": 33.912601,
+                            "longitude": -82.291243,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "83 South Oak Street, McCormick, South Carolina 29835, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETWlMQ0p6ZEhKbFpYUWlPaUpUSUU5QlN5QlRWQ0lzSW5Cc1lXTmxJam9pUWtGWVRFVlpJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TlRFeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "83 South Oak Street",
+                "name_preferred": "83 South Oak Street",
+                "place_formatted": "McCormick, South Carolina 29835, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.732936,
+                    35.220327
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETWlMQ0p6ZEhKbFpYUWlPaUpUSUU5QlN5QlRWQ0lzSW5Cc1lXTmxJam9pUWtGWVRFVlpJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TlRFeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "83",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETWlMQ0p6ZEhKbFpYUWlPaUpUSUU5QlN5QlRWQ0lzSW5Cc1lXTmxJam9pUWtGWVRFVlpJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TlRFeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+                        "name": "83 South Oak",
+                        "street_name": "South Oak"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0FtN0E",
+                        "name": "Transylvania County",
+                        "wikidata_id": "Q507743"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEVXBzN0E",
+                        "name": "Forest Hills"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBalVvN0E",
+                        "name": "Brevard",
+                        "wikidata_id": "Q2028837"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCWWZ1N0E",
+                        "name": "28712"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdVRz",
+                        "name": "North Carolina",
+                        "region_code": "NC",
+                        "region_code_full": "US-NC",
+                        "wikidata_id": "Q1454"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPRE1pTENKemRISmxaWFFpT2lKVElFOUJTeUJUVkNJc0luQnNZV05sSWpvaVFrRllURVZaSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE5URXpJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+                        "name": "South Oak"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 35.220327,
+                    "longitude": -82.732936,
+                    "routable_points": [
+                        {
+                            "latitude": 35.220327,
+                            "longitude": -82.732936,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "83 South Oak, Brevard, North Carolina 28712, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETWlMQ0p6ZEhKbFpYUWlPaUpUSUU5QlN5QlRWQ0lzSW5Cc1lXTmxJam9pUWtGWVRFVlpJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TlRFeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "83 S Oak St",
+                "name_preferred": "83 South Oak",
+                "place_formatted": "Brevard, North Carolina 28712, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.956238,
+                    34.683356
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETWlMQ0p6ZEhKbFpYUWlPaUpUSUU5QlN5QlRWQ0lzSW5Cc1lXTmxJam9pUWtGWVRFVlpJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TlRFeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "83",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETWlMQ0p6ZEhKbFpYUWlPaUpUSUU5QlN5QlRWQ0lzSW5Cc1lXTmxJam9pUWtGWVRFVlpJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TlRFeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+                        "name": "83 South Oak Street",
+                        "street_name": "South Oak Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWdtN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q513833"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFY1JvN0E",
+                        "name": "Seneca",
+                        "wikidata_id": "Q2679162"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCY1h1N0E",
+                        "name": "29678"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPRE1pTENKemRISmxaWFFpT2lKVElFOUJTeUJUVkNJc0luQnNZV05sSWpvaVFrRllURVZaSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE5URXpJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+                        "name": "South Oak Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.683356,
+                    "longitude": -82.956238,
+                    "routable_points": [
+                        {
+                            "latitude": 34.683356,
+                            "longitude": -82.956238,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "83 South Oak Street, Seneca, South Carolina 29678, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETWlMQ0p6ZEhKbFpYUWlPaUpUSUU5QlN5QlRWQ0lzSW5Cc1lXTmxJam9pUWtGWVRFVlpJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TlRFeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "83 South Oak Street",
+                "name_preferred": "83 South Oak Street",
+                "place_formatted": "Seneca, South Carolina 29678, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

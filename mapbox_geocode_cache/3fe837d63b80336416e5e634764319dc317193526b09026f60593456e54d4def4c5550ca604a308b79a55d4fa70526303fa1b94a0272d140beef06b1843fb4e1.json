@@ -1,0 +1,325 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.08653,
+                    33.356274
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphMGM0YTRkYi1lMmU4LTQ5ZDUtYjdlMy1hOTQ0YWUyNDE0MTM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "103",
+                        "mapbox_id": "dXJuOm1ieGFkcjphMGM0YTRkYi1lMmU4LTQ5ZDUtYjdlMy1hOTQ0YWUyNDE0MTM",
+                        "name": "103 Diamond Lakes Way",
+                        "street_name": "Diamond Lakes Way"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJMnZzN0E",
+                        "name": "South Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDTDdJN0E",
+                        "name": "Hephzibah",
+                        "wikidata_id": "Q1924289"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGdPN0E",
+                        "name": "30815"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTBjNGE0ZGItZTJlOC00OWQ1LWI3ZTMtYTk0NGFlMjQxNDEz",
+                        "name": "Diamond Lakes Way"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.356274,
+                    "longitude": -82.08653,
+                    "routable_points": [
+                        {
+                            "latitude": 33.355949,
+                            "longitude": -82.086564,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "103 Diamond Lakes Way, Hephzibah, Georgia 30815, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphMGM0YTRkYi1lMmU4LTQ5ZDUtYjdlMy1hOTQ0YWUyNDE0MTM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "103 Diamond Lakes Way",
+                "name_preferred": "103 Diamond Lakes Way",
+                "place_formatted": "Hephzibah, Georgia 30815, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.969577,
+                    33.461487
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTA5NzYzNTctYTNiYi00ODZlLTgxY2UtNDkyN2QwNWVjODY2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJMnZzN0E",
+                        "name": "South Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG11N0E",
+                        "name": "30901"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTA5NzYzNTctYTNiYi00ODZlLTgxY2UtNDkyN2QwNWVjODY2",
+                        "name": "Diamond Lks Way"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.461487,
+                    "longitude": -81.969577
+                },
+                "feature_type": "street",
+                "full_address": "Diamond Lks Way, Augusta, Georgia 30901, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTA5NzYzNTctYTNiYi00ODZlLTgxY2UtNDkyN2QwNWVjODY2",
+                "name": "Diamond Lks Way",
+                "name_preferred": "Diamond Lks Way",
+                "place_formatted": "Augusta, Georgia 30901, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.096954,
+                    33.313865
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaGdPN0E",
+            "properties": {
+                "bbox": [
+                    -82.222157,
+                    33.175317,
+                    -81.925427,
+                    33.422844
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDTDdJN0E",
+                        "name": "Hephzibah",
+                        "wikidata_id": "Q1924289"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGdPN0E",
+                        "name": "30815"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.313865,
+                    "longitude": -82.096954
+                },
+                "feature_type": "postcode",
+                "full_address": "Hephzibah, Georgia 30815, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaGdPN0E",
+                "name": "30815",
+                "name_preferred": "30815",
+                "place_formatted": "Hephzibah, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.76561,
+                    34.59042
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjE3NDkxMTQtNGRhMy00ZTc5LWJmM2YtZGQ4MzYzMjU1NGFj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHZHN0E",
+                        "name": "White County",
+                        "wikidata_id": "Q389365"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBODVvN0E",
+                        "name": "Cleveland",
+                        "wikidata_id": "Q2376316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1d1N0E",
+                        "name": "30528"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjE3NDkxMTQtNGRhMy00ZTc5LWJmM2YtZGQ4MzYzMjU1NGFj",
+                        "name": "Jakes Way"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.59042,
+                    "longitude": -83.76561
+                },
+                "feature_type": "street",
+                "full_address": "Jakes Way, Cleveland, Georgia 30528, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjE3NDkxMTQtNGRhMy00ZTc5LWJmM2YtZGQ4MzYzMjU1NGFj",
+                "name": "Jakes Way",
+                "name_preferred": "Jakes Way",
+                "place_formatted": "Cleveland, Georgia 30528, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.033843,
+                    34.558128
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDUyNDU5MjYtOTIzNi00Y2U1LTk5YTItMWU0NTczNjNjNWQ4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyRWJz",
+                        "name": "Lumpkin County",
+                        "wikidata_id": "Q492040"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTFBJN0E",
+                        "name": "Dahlonega",
+                        "wikidata_id": "Q1003662"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1l1N0E",
+                        "name": "30533"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDUyNDU5MjYtOTIzNi00Y2U1LTk5YTItMWU0NTczNjNjNWQ4",
+                        "name": "Jakes Way"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.558128,
+                    "longitude": -84.033843
+                },
+                "feature_type": "street",
+                "full_address": "Jakes Way, Dahlonega, Georgia 30533, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDUyNDU5MjYtOTIzNi00Y2U1LTk5YTItMWU0NTczNjNjNWQ4",
+                "name": "Jakes Way",
+                "name_preferred": "Jakes Way",
+                "place_formatted": "Dahlonega, Georgia 30533, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

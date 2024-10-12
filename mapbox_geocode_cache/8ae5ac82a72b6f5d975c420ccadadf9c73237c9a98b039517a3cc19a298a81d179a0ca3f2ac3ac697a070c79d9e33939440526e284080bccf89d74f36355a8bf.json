@@ -1,0 +1,91 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.097731,
+                    32.005271
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphOThiYTEwZS1iNWNkLTQyZDItYWQ3Mi1lNThmM2QyNWEzNTY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1249",
+                        "mapbox_id": "dXJuOm1ieGFkcjphOThiYTEwZS1iNWNkLTQyZDItYWQ3Mi1lNThmM2QyNWEzNTY",
+                        "name": "1249 Eisenhower Drive",
+                        "street_name": "Eisenhower Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVE9zN0E",
+                        "name": "Highland Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTlPN0E",
+                        "name": "31406"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTk4YmExMGUtYjVjZC00MmQyLWFkNzItZTU4ZjNkMjVhMzU2",
+                        "name": "Eisenhower Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.005271,
+                    "longitude": -81.097731,
+                    "routable_points": [
+                        {
+                            "latitude": 32.005089,
+                            "longitude": -81.097778,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1249 Eisenhower Drive, Savannah, Georgia 31406, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphOThiYTEwZS1iNWNkLTQyZDItYWQ3Mi1lNThmM2QyNWEzNTY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1249 Eisenhower Drive",
+                "name_preferred": "1249 Eisenhower Drive",
+                "place_formatted": "Savannah, Georgia 31406, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

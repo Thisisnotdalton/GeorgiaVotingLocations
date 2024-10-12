@@ -1,0 +1,314 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.15803,
+                    33.03967
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3MDIxZjE5Yi1iYzdkLTQ2Y2YtYTljMy00MThjZDc0Zjg0MDQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "790",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3MDIxZjE5Yi1iYzdkLTQ2Y2YtYTljMy00MThjZDc0Zjg0MDQ",
+                        "name": "790 Veterans Pkwy",
+                        "street_name": "Veterans Pkwy"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp4RWJz",
+                        "name": "Lamar County",
+                        "wikidata_id": "Q493049"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUnZvN0E",
+                        "name": "Barnesville",
+                        "wikidata_id": "Q1943570"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXRPN0E",
+                        "name": "30204"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzAyMWYxOWItYmM3ZC00NmNmLWE5YzMtNDE4Y2Q3NGY4NDA0",
+                        "name": "Veterans Pkwy"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.03967,
+                    "longitude": -84.15803,
+                    "routable_points": [
+                        {
+                            "latitude": 33.039605,
+                            "longitude": -84.15803,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "790 Veterans Pkwy, Barnesville, Georgia 30204, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3MDIxZjE5Yi1iYzdkLTQ2Y2YtYTljMy00MThjZDc0Zjg0MDQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "790 Veterans Pkwy",
+                "name_preferred": "790 Veterans Pkwy",
+                "place_formatted": "Barnesville, Georgia 30204, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.169478,
+                    33.06856
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDljMmMyZmItZTlmNC00ODE0LWEzZWYtNTY4MmQ2ZGU0YzM0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp4RWJz",
+                        "name": "Lamar County",
+                        "wikidata_id": "Q493049"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUnZvN0E",
+                        "name": "Barnesville",
+                        "wikidata_id": "Q1943570"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXRPN0E",
+                        "name": "30204"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDljMmMyZmItZTlmNC00ODE0LWEzZWYtNTY4MmQ2ZGU0YzM0",
+                        "name": "Veterans Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.06856,
+                    "longitude": -84.169478
+                },
+                "feature_type": "street",
+                "full_address": "Veterans Parkway, Barnesville, Georgia 30204, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDljMmMyZmItZTlmNC00ODE0LWEzZWYtNTY4MmQ2ZGU0YzM0",
+                "name": "Veterans Parkway",
+                "name_preferred": "Veterans Parkway",
+                "place_formatted": "Barnesville, Georgia 30204, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.616087,
+                    31.833905
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplYTdlMWJhNi04ZjA4LTRmOTEtOWMyYi03ZWRmZWUxMTEyNTQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "790",
+                        "mapbox_id": "dXJuOm1ieGFkcjplYTdlMWJhNi04ZjA4LTRmOTEtOWMyYi03ZWRmZWUxMTEyNTQ",
+                        "name": "790 Veterans Parkway",
+                        "street_name": "Veterans Parkway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp6dWJz",
+                        "name": "Liberty County",
+                        "wikidata_id": "Q487692"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHdnpzN0E",
+                        "name": "Northwest Woods"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCcWJvN0E",
+                            "name": "Flemington"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUExJN0E",
+                        "name": "Hinesville",
+                        "wikidata_id": "Q1994691"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXlPN0E",
+                        "name": "31313"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWE3ZTFiYTYtOGYwOC00ZjkxLTljMmItN2VkZmVlMTExMjU0",
+                        "name": "Veterans Parkway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.833905,
+                    "longitude": -81.616087,
+                    "routable_points": [
+                        {
+                            "latitude": 31.833813,
+                            "longitude": -81.616122,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "790 Veterans Parkway, Hinesville, Georgia 31313, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplYTdlMWJhNi04ZjA4LTRmOTEtOWMyYi03ZWRmZWUxMTEyNTQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "790 Veterans Parkway",
+                "name_preferred": "790 Veterans Parkway",
+                "place_formatted": "Hinesville, Georgia 31313, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.773744,
+                    31.129003
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU56a3dJaXdpYzNSeVpXVjBJam9pVmtWVVJWSkJUbE1nVUVGU1MxZEJXU0JUVlVsVVJTQkVJaXdpY0d4aFkyVWlPaUpDUVZKT1JWTldTVXhNUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ESXdOQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "790",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU56a3dJaXdpYzNSeVpXVjBJam9pVmtWVVJWSkJUbE1nVUVGU1MxZEJXU0JUVlVsVVJTQkVJaXdpY0d4aFkyVWlPaUpDUVZKT1JWTldTVXhNUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ESXdOQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+                        "name": "790 Veterans Parkway",
+                        "street_name": "Veterans Parkway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTOGJz",
+                        "name": "Colquitt County",
+                        "wikidata_id": "Q113005"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEVGVJN0E",
+                        "name": "Moultrie",
+                        "wikidata_id": "Q3100551"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0l1N0E",
+                        "name": "31788"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOemt3SWl3aWMzUnlaV1YwSWpvaVZrVlVSVkpCVGxNZ1VFRlNTMWRCV1NCVFZVbFVSU0JFSWl3aWNHeGhZMlVpT2lKQ1FWSk9SVk5XU1V4TVJTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNREl3TkNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                        "name": "Veterans Parkway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.129003,
+                    "longitude": -83.773744,
+                    "routable_points": [
+                        {
+                            "latitude": 31.129003,
+                            "longitude": -83.773744,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "790 Veterans Parkway, Moultrie, Georgia 31788, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU56a3dJaXdpYzNSeVpXVjBJam9pVmtWVVJWSkJUbE1nVUVGU1MxZEJXU0JUVlVsVVJTQkVJaXdpY0d4aFkyVWlPaUpDUVZKT1JWTldTVXhNUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ESXdOQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "790 Veterans Parkway",
+                "name_preferred": "790 Veterans Parkway",
+                "place_formatted": "Moultrie, Georgia 31788, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

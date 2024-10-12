@@ -1,0 +1,312 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.36785,
+                    33.61631
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxNzlkYmU2NC0zNTNkLTRlM2MtOWM4NS1hMDc3MjBkNjc1YTM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5087",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxNzlkYmU2NC0zNTNkLTRlM2MtOWM4NS1hMDc3MjBkNjc1YTM",
+                        "name": "5087 Park Avenue",
+                        "street_name": "Park Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc1FvN0E",
+                        "name": "Forest Park",
+                        "wikidata_id": "Q3261685"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZk11N0E",
+                        "name": "30297"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTc5ZGJlNjQtMzUzZC00ZTNjLTljODUtYTA3NzIwZDY3NWEz",
+                        "name": "Park Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.61631,
+                    "longitude": -84.36785,
+                    "routable_points": [
+                        {
+                            "latitude": 33.616166,
+                            "longitude": -84.367767,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5087 Park Avenue, Forest Park, Georgia 30297, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxNzlkYmU2NC0zNTNkLTRlM2MtOWM4NS1hMDc3MjBkNjc1YTM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5087 Park Avenue",
+                "name_preferred": "5087 Park Avenue",
+                "place_formatted": "Forest Park, Georgia 30297, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.33671,
+                    34.03453
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjdhNWVhYTgtMzVmYS00MGNlLTkyOGUtNDY2NTA1Y2M1NDg0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUGJJN0E",
+                        "name": "Roswell",
+                        "wikidata_id": "Q585176"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDd1N0E",
+                        "name": "30076"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjdhNWVhYTgtMzVmYS00MGNlLTkyOGUtNDY2NTA1Y2M1NDg0",
+                        "name": "Old Roswell Lakes Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.03453,
+                    "longitude": -84.33671
+                },
+                "feature_type": "street",
+                "full_address": "Old Roswell Lakes Parkway, Roswell, Georgia 30076, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjdhNWVhYTgtMzVmYS00MGNlLTkyOGUtNDY2NTA1Y2M1NDg0",
+                "name": "Park Avenue",
+                "name_preferred": "Old Roswell Lakes Parkway",
+                "place_formatted": "Roswell, Georgia 30076, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.369261,
+                    33.621607
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZk11N0E",
+            "properties": {
+                "bbox": [
+                    -84.404391,
+                    33.574157,
+                    -84.340343,
+                    33.648014
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc1FvN0E",
+                        "name": "Forest Park",
+                        "wikidata_id": "Q3261685"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZk11N0E",
+                        "name": "30297"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.621607,
+                    "longitude": -84.369261
+                },
+                "feature_type": "postcode",
+                "full_address": "Forest Park, Georgia 30297, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZk11N0E",
+                "name": "30297",
+                "name_preferred": "30297",
+                "place_formatted": "Forest Park, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.1121,
+                    45.51966
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCc0dvN0E",
+            "properties": {
+                "bbox": [
+                    -123.30891,
+                    45.474208,
+                    -123.060289,
+                    45.749111
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWEZHN0E",
+                        "name": "Washington County",
+                        "wikidata_id": "Q484538"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc0dvN0E",
+                        "name": "Forest Grove",
+                        "wikidata_id": "Q3448655"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVRz",
+                        "name": "Oregon",
+                        "region_code": "OR",
+                        "region_code_full": "US-OR",
+                        "wikidata_id": "Q824"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 45.51966,
+                    "longitude": -123.1121
+                },
+                "feature_type": "place",
+                "full_address": "Forest Grove, Oregon, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCc0dvN0E",
+                "name": "Forest Grove",
+                "name_preferred": "Forest Grove",
+                "place_formatted": "Oregon, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.07981,
+                    46.992096
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCc0hJN0E",
+            "properties": {
+                "bbox": [
+                    -109.137012,
+                    46.75994,
+                    -108.895738,
+                    47.048815
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjNmJz",
+                        "name": "Fergus County",
+                        "wikidata_id": "Q496693"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc0hJN0E",
+                        "name": "Forest Grove"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpwT3c",
+                        "name": "Montana",
+                        "region_code": "MT",
+                        "region_code_full": "US-MT",
+                        "wikidata_id": "Q1212"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 46.992096,
+                    "longitude": -109.07981
+                },
+                "feature_type": "place",
+                "full_address": "Forest Grove, Montana, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCc0hJN0E",
+                "name": "Forest Grove",
+                "name_preferred": "Forest Grove",
+                "place_formatted": "Montana, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

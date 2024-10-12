@@ -1,0 +1,91 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.175888,
+                    31.985774
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyYTRhYTBkMS05ODFkLTRjMzItYjYwNC1mN2Y3NTJjZmQxYzA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "14097",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyYTRhYTBkMS05ODFkLTRjMzItYjYwNC1mN2Y3NTJjZmQxYzA",
+                        "name": "14097 Abercorn Street",
+                        "street_name": "Abercorn Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLeTBNN0E",
+                        "name": "Wilshire Estates"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakN1N0E",
+                        "name": "31419"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmE0YWEwZDEtOTgxZC00YzMyLWI2MDQtZjdmNzUyY2ZkMWMw",
+                        "name": "Abercorn Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.985774,
+                    "longitude": -81.175888,
+                    "routable_points": [
+                        {
+                            "latitude": 31.985657,
+                            "longitude": -81.175612,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "14097 Abercorn Street, Savannah, Georgia 31419, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyYTRhYTBkMS05ODFkLTRjMzItYjYwNC1mN2Y3NTJjZmQxYzA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "14097 Abercorn Street",
+                "name_preferred": "14097 Abercorn Street",
+                "place_formatted": "Savannah, Georgia 31419, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

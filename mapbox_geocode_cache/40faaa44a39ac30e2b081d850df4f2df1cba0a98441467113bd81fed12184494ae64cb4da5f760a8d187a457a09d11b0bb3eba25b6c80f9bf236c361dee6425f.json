@@ -1,0 +1,91 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.27617,
+                    33.58704
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5ZjVkZjQ3Ni1mMTYzLTQ2NjYtYjkwMi05NGIxNmEyNDcxNGE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3499",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5ZjVkZjQ3Ni1mMTYzLTQ2NjYtYjkwMi05NGIxNmEyNDcxNGE",
+                        "name": "3499 Rex Road",
+                        "street_name": "Rex Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMzFzN0E",
+                        "name": "Katherine Valley"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFRzZJN0E",
+                        "name": "Rex",
+                        "wikidata_id": "Q7319112"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkRPN0E",
+                        "name": "30273"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWY1ZGY0NzYtZjE2My00NjY2LWI5MDItOTRiMTZhMjQ3MTRh",
+                        "name": "Rex Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.58704,
+                    "longitude": -84.27617,
+                    "routable_points": [
+                        {
+                            "latitude": 33.586927,
+                            "longitude": -84.276212,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3499 Rex Road, Rex, Georgia 30273, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5ZjVkZjQ3Ni1mMTYzLTQ2NjYtYjkwMi05NGIxNmEyNDcxNGE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3499 Rex Road",
+                "name_preferred": "3499 Rex Road",
+                "place_formatted": "Rex, Georgia 30273, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

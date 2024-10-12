@@ -1,0 +1,394 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.661785,
+                    33.408023
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5MmMxYzY1Ni1hYzg5LTQ0NzItODQ4Ny03MTIwMTUwNGMxZWE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "48",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5MmMxYzY1Ni1hYzg5LTQ0NzItODQ4Ny03MTIwMTUwNGMxZWE",
+                        "name": "48 Warren Street",
+                        "street_name": "Warren Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzdtN0E",
+                        "name": "Warren County",
+                        "wikidata_id": "Q491529"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSTRJN0E",
+                        "name": "Warrenton",
+                        "wikidata_id": "Q1564837"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGxPN0E",
+                        "name": "30828"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTJjMWM2NTYtYWM4OS00NDcyLTg0ODctNzEyMDE1MDRjMWVh",
+                        "name": "Warren Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.408023,
+                    "longitude": -82.661785,
+                    "routable_points": [
+                        {
+                            "latitude": 33.407523,
+                            "longitude": -82.661759,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "48 Warren Street, Warrenton, Georgia 30828, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5MmMxYzY1Ni1hYzg5LTQ0NzItODQ4Ny03MTIwMTUwNGMxZWE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "48 Warren Street",
+                "name_preferred": "48 Warren Street",
+                "place_formatted": "Warrenton, Georgia 30828, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.595402,
+                    33.234515
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EZ2lMQ0p6ZEhKbFpYUWlPaUpYWVhKeVpXNGdVM1J5WldWMElpd2ljR3hoWTJVaU9pSlhZWEp5Wlc1MGIyNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE0TWpnaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "48",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EZ2lMQ0p6ZEhKbFpYUWlPaUpYWVhKeVpXNGdVM1J5WldWMElpd2ljR3hoWTJVaU9pSlhZWEp5Wlc1MGIyNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE0TWpnaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjE",
+                        "name": "48 Warren Street",
+                        "street_name": "Warren Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpneWJz",
+                        "name": "Glascock County",
+                        "wikidata_id": "Q477951"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCY0xJN0E",
+                            "name": "Edge Hill"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCMmRJN0E",
+                        "name": "Gibson",
+                        "wikidata_id": "Q2102518"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGR1N0E",
+                        "name": "30810"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORGdpTENKemRISmxaWFFpT2lKWFlYSnlaVzRnVTNSeVpXVjBJaXdpY0d4aFkyVWlPaUpYWVhKeVpXNTBiMjRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBNE1qZ2lMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDox",
+                        "name": "Warren Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.234515,
+                    "longitude": -82.595402,
+                    "routable_points": [
+                        {
+                            "latitude": 33.234515,
+                            "longitude": -82.595402,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "48 Warren Street, Gibson, Georgia 30810, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EZ2lMQ0p6ZEhKbFpYUWlPaUpYWVhKeVpXNGdVM1J5WldWMElpd2ljR3hoWTJVaU9pSlhZWEp5Wlc1MGIyNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE0TWpnaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "48 Warren Street",
+                "name_preferred": "48 Warren Street",
+                "place_formatted": "Gibson, Georgia 30810, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.957683,
+                    32.385833
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EZ2lMQ0p6ZEhKbFpYUWlPaUpYWVhKeVpXNGdVM1J5WldWMElpd2ljR3hoWTJVaU9pSlhZWEp5Wlc1MGIyNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE0TWpnaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "48",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EZ2lMQ0p6ZEhKbFpYUWlPaUpYWVhKeVpXNGdVM1J5WldWMElpd2ljR3hoWTJVaU9pSlhZWEp5Wlc1MGIyNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE0TWpnaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+                        "name": "48 Main Street",
+                        "street_name": "Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMNGJz",
+                        "name": "Candler County",
+                        "wikidata_id": "Q488224"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpESTFJN0E",
+                            "name": "Metter"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFQTJvN0E",
+                        "name": "Pulaski"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjlPN0E",
+                        "name": "30439"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORGdpTENKemRISmxaWFFpT2lKWFlYSnlaVzRnVTNSeVpXVjBJaXdpY0d4aFkyVWlPaUpYWVhKeVpXNTBiMjRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBNE1qZ2lMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.385833,
+                    "longitude": -81.957683,
+                    "routable_points": [
+                        {
+                            "latitude": 32.385833,
+                            "longitude": -81.957683,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "48 Main Street, Pulaski, Georgia 30439, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EZ2lMQ0p6ZEhKbFpYUWlPaUpYWVhKeVpXNGdVM1J5WldWMElpd2ljR3hoWTJVaU9pSlhZWEp5Wlc1MGIyNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE0TWpnaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "48 Warren Street",
+                "name_preferred": "48 Main Street",
+                "place_formatted": "Pulaski, Georgia 30439, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.152951,
+                    36.404703
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EZ2lMQ0p6ZEhKbFpYUWlPaUpYWVhKeVpXNGdVM1J5WldWMElpd2ljR3hoWTJVaU9pSlhZWEp5Wlc1MGIyNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE0TWpnaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "48",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EZ2lMQ0p6ZEhKbFpYUWlPaUpYWVhKeVpXNGdVM1J5WldWMElpd2ljR3hoWTJVaU9pSlhZWEp5Wlc1MGIyNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE0TWpnaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjM",
+                        "name": "48 Warren Street",
+                        "street_name": "Warren Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzhHN0E",
+                        "name": "Warren County",
+                        "wikidata_id": "Q507853"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSTVvN0E",
+                        "name": "Warrenton",
+                        "wikidata_id": "Q1885980"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCUzN1N0E",
+                        "name": "27589"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdVRz",
+                        "name": "North Carolina",
+                        "region_code": "NC",
+                        "region_code_full": "US-NC",
+                        "wikidata_id": "Q1454"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORGdpTENKemRISmxaWFFpT2lKWFlYSnlaVzRnVTNSeVpXVjBJaXdpY0d4aFkyVWlPaUpYWVhKeVpXNTBiMjRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBNE1qZ2lMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoz",
+                        "name": "Warren Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 36.404703,
+                    "longitude": -78.152951,
+                    "routable_points": [
+                        {
+                            "latitude": 36.404703,
+                            "longitude": -78.152951,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "48 Warren Street, Warrenton, North Carolina 27589, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EZ2lMQ0p6ZEhKbFpYUWlPaUpYWVhKeVpXNGdVM1J5WldWMElpd2ljR3hoWTJVaU9pSlhZWEp5Wlc1MGIyNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekE0TWpnaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjM",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "48 Warren Street",
+                "name_preferred": "48 Warren Street",
+                "place_formatted": "Warrenton, North Carolina 27589, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.15578,
+                    36.39199
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGExNGFlNzYtZDM1Yi00OGQ1LWE5YzctODE5ZmI2ZWY3OGRh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzhHN0E",
+                        "name": "Warren County",
+                        "wikidata_id": "Q507853"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSTVvN0E",
+                        "name": "Warrenton",
+                        "wikidata_id": "Q1885980"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCUzN1N0E",
+                        "name": "27589"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdVRz",
+                        "name": "North Carolina",
+                        "region_code": "NC",
+                        "region_code_full": "US-NC",
+                        "wikidata_id": "Q1454"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGExNGFlNzYtZDM1Yi00OGQ1LWE5YzctODE5ZmI2ZWY3OGRh",
+                        "name": "Warren St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 36.39199,
+                    "longitude": -78.15578
+                },
+                "feature_type": "street",
+                "full_address": "Warren St, Warrenton, North Carolina 27589, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGExNGFlNzYtZDM1Yi00OGQ1LWE5YzctODE5ZmI2ZWY3OGRh",
+                "name": "Warren St",
+                "name_preferred": "Warren St",
+                "place_formatted": "Warrenton, North Carolina 27589, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

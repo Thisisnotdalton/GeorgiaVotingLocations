@@ -1,0 +1,152 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.907809,
+                    32.457384
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphMDdlY2I3OC1iNTJiLTQ3MzYtYjk4Yi1lOTczNjgwNjBlMmU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5025",
+                        "mapbox_id": "dXJuOm1ieGFkcjphMDdlY2I3OC1iNTJiLTQ3MzYtYjk4Yi1lOTczNjgwNjBlMmU",
+                        "name": "5025 Steam Mill Road",
+                        "street_name": "Steam Mill Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovaWJz",
+                        "name": "Muscogee County",
+                        "wikidata_id": "Q492048"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBb25NN0E",
+                        "name": "Belvedere Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQmZJN0E",
+                        "name": "Columbus",
+                        "wikidata_id": "Q239870"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2V1N0E",
+                        "name": "31907"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTA3ZWNiNzgtYjUyYi00NzM2LWI5OGItZTk3MzY4MDYwZTJl",
+                        "name": "Steam Mill Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.457384,
+                    "longitude": -84.907809,
+                    "routable_points": [
+                        {
+                            "latitude": 32.457366,
+                            "longitude": -84.90743,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5025 Steam Mill Road, Columbus, Georgia 31907, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphMDdlY2I3OC1iNTJiLTQ3MzYtYjk4Yi1lOTczNjgwNjBlMmU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5025 Steam Mill Road",
+                "name_preferred": "5025 Steam Mill Road",
+                "place_formatted": "Columbus, Georgia 31907, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.937241,
+                    32.457554
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjY4YjM2ZWEtMTRhZC00MGRhLTg1ZmMtNTY2M2E1ODZiOTNi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovaWJz",
+                        "name": "Muscogee County",
+                        "wikidata_id": "Q492048"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpITGxNN0E",
+                        "name": "Parkchester"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQmZJN0E",
+                        "name": "Columbus",
+                        "wikidata_id": "Q239870"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2VPN0E",
+                        "name": "31906"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjY4YjM2ZWEtMTRhZC00MGRhLTg1ZmMtNTY2M2E1ODZiOTNi",
+                        "name": "Mill Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.457554,
+                    "longitude": -84.937241
+                },
+                "feature_type": "street",
+                "full_address": "Mill Road, Columbus, Georgia 31906, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjY4YjM2ZWEtMTRhZC00MGRhLTg1ZmMtNTY2M2E1ODZiOTNi",
+                "name": "Mill Road",
+                "name_preferred": "Mill Road",
+                "place_formatted": "Columbus, Georgia 31906, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

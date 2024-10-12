@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.197136,
+                    33.880662
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3YWEwODYzMC1lZGNhLTQwZmUtYjlhYS0yODllOGI4MTUwM2Q",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4651",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3YWEwODYzMC1lZGNhLTQwZmUtYjlhYS0yODllOGI4MTUwM2Q",
+                        "name": "4651 Britt Road",
+                        "street_name": "Britt Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZ0pJN0E",
+                        "name": "Norcross",
+                        "wikidata_id": "Q2581974"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUR1N0E",
+                        "name": "30093"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2FhMDg2MzAtZWRjYS00MGZlLWI5YWEtMjg5ZThiODE1MDNk",
+                        "name": "Britt Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.880662,
+                    "longitude": -84.197136,
+                    "routable_points": [
+                        {
+                            "latitude": 33.88091,
+                            "longitude": -84.197212,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4651 Britt Road, Norcross, Georgia 30093, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3YWEwODYzMC1lZGNhLTQwZmUtYjlhYS0yODllOGI4MTUwM2Q",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "4651 Britt Road",
+                "name_preferred": "4651 Britt Road",
+                "place_formatted": "Norcross, Georgia 30093, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.191524,
+                    33.8851
+                ],
+                "type": "Point"
+            },
+            "id": "address.5881225153589436",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZ0pJN0E",
+                        "name": "Norcross",
+                        "wikidata_id": "Q2581974"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUR1N0E",
+                        "name": "30093"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.5881225153589436",
+                        "name": "Britt Road Northwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.8851,
+                    "longitude": -84.191524
+                },
+                "feature_type": "street",
+                "full_address": "Britt Road Northwest, Norcross, Georgia 30093, United States",
+                "mapbox_id": "address.5881225153589436",
+                "name": "Britt Road Northwest",
+                "name_preferred": "Britt Road Northwest",
+                "place_formatted": "Norcross, Georgia 30093, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.191772,
+                    33.8849
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZUR1N0E",
+            "properties": {
+                "bbox": [
+                    -84.237759,
+                    33.867059,
+                    -84.121941,
+                    33.944744
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZ0pJN0E",
+                        "name": "Norcross",
+                        "wikidata_id": "Q2581974"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUR1N0E",
+                        "name": "30093"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.8849,
+                    "longitude": -84.191772
+                },
+                "feature_type": "postcode",
+                "full_address": "Norcross, Georgia 30093, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZUR1N0E",
+                "name": "30093",
+                "name_preferred": "30093",
+                "place_formatted": "Norcross, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.536547,
+                    31.638316
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmJmY2M4YzYtMWM0NS00MDljLTk1YWQtOWZiYmI3ODRjMDQ0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0ttN0E",
+                        "name": "Turner County",
+                        "wikidata_id": "Q498336"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeW1vN0E",
+                        "name": "Sycamore",
+                        "wikidata_id": "Q2932218"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0p1N0E",
+                        "name": "31790"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmJmY2M4YzYtMWM0NS00MDljLTk1YWQtOWZiYmI3ODRjMDQ0",
+                        "name": "Britt Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.638316,
+                    "longitude": -83.536547
+                },
+                "feature_type": "street",
+                "full_address": "Britt Road, Sycamore, Georgia 31790, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmJmY2M4YzYtMWM0NS00MDljLTk1YWQtOWZiYmI3ODRjMDQ0",
+                "name": "Britt Road",
+                "name_preferred": "Britt Road",
+                "place_formatted": "Sycamore, Georgia 31790, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.736804,
+                    32.729113
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NmZmYTE5MzMtYThjMy00NzFlLWE0ZjctN2U2NmJmZDdkMmU4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXBPN0E",
+                        "name": "31216"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmZmYTE5MzMtYThjMy00NzFlLWE0ZjctN2U2NmJmZDdkMmU4",
+                        "name": "Britt Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.729113,
+                    "longitude": -83.736804
+                },
+                "feature_type": "street",
+                "full_address": "Britt Road, Macon, Georgia 31216, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmZmYTE5MzMtYThjMy00NzFlLWE0ZjctN2U2NmJmZDdkMmU4",
+                "name": "Britt Road",
+                "name_preferred": "Britt Road",
+                "place_formatted": "Macon, Georgia 31216, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

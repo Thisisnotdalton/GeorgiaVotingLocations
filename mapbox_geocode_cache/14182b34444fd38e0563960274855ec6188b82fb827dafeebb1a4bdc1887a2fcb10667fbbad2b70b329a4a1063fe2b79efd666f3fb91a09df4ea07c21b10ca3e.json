@@ -1,0 +1,352 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.22285,
+                    34.121515
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyZjU2NGRmYy05Njc0LTRjMzctYjlhMy1iMTU4YTU1YmExNTA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "20",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyZjU2NGRmYy05Njc0LTRjMzctYjlhMy1iMTU4YTU1YmExNTA",
+                        "name": "20 Albany Avenue",
+                        "street_name": "Albany Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozS2Jz",
+                        "name": "Madison County",
+                        "wikidata_id": "Q156387"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTVdJN0E",
+                        "name": "Danielsville",
+                        "wikidata_id": "Q2103790"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzVPN0E",
+                        "name": "30633"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmY1NjRkZmMtOTY3NC00YzM3LWI5YTMtYjE1OGE1NWJhMTUw",
+                        "name": "Albany Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 34.121515,
+                    "longitude": -83.22285,
+                    "routable_points": [
+                        {
+                            "latitude": 34.121515,
+                            "longitude": -83.22285,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "20 Albany Avenue, Danielsville, Georgia 30633, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyZjU2NGRmYy05Njc0LTRjMzctYjlhMy1iMTU4YTU1YmExNTA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "20 Albany Avenue",
+                "name_preferred": "20 Albany Avenue",
+                "place_formatted": "Danielsville, Georgia 30633, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.905237,
+                    32.073998
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qQWlMQ0p6ZEhKbFpYUWlPaUpCVEVKQlRsa2dRVlpGSWl3aWNHeGhZMlVpT2lKRVFVNUpSVXhUVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekEyTXpNaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "20",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qQWlMQ0p6ZEhKbFpYUWlPaUpCVEVKQlRsa2dRVlpGSWl3aWNHeGhZMlVpT2lKRVFVNUpSVXhUVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekEyTXpNaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjE",
+                        "name": "20 North Albany Avenue",
+                        "street_name": "North Albany Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnJHN0E",
+                        "name": "Telfair County",
+                        "wikidata_id": "Q691614"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDSy9JN0E",
+                            "name": "Helena"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpERlFJN0E",
+                        "name": "McRae Helena"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaC9PN0E",
+                        "name": "31037"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakFpTENKemRISmxaWFFpT2lKQlRFSkJUbGtnUVZaRklpd2ljR3hoWTJVaU9pSkVRVTVKUlV4VFZrbE1URVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBMk16TWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDox",
+                        "name": "North Albany Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.073998,
+                    "longitude": -82.905237,
+                    "routable_points": [
+                        {
+                            "latitude": 32.073998,
+                            "longitude": -82.905237,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "20 North Albany Avenue, McRae Helena, Georgia 31037, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qQWlMQ0p6ZEhKbFpYUWlPaUpCVEVKQlRsa2dRVlpGSWl3aWNHeGhZMlVpT2lKRVFVNUpSVXhUVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekEyTXpNaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "20 North Albany Avenue",
+                "name_preferred": "20 North Albany Avenue",
+                "place_formatted": "McRae Helena, Georgia 31037, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.222992,
+                    34.122087
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZzVPN0E",
+            "properties": {
+                "bbox": [
+                    -83.375675,
+                    34.065556,
+                    -83.14077,
+                    34.264587
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozS2Jz",
+                        "name": "Madison County",
+                        "wikidata_id": "Q156387"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTVdJN0E",
+                        "name": "Danielsville",
+                        "wikidata_id": "Q2103790"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzVPN0E",
+                        "name": "30633"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.122087,
+                    "longitude": -83.222992
+                },
+                "feature_type": "postcode",
+                "full_address": "Danielsville, Georgia 30633, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZzVPN0E",
+                "name": "30633",
+                "name_preferred": "30633",
+                "place_formatted": "Danielsville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.945571,
+                    33.46107
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjY4NzY1MmYtMTc2MC00NzliLTk1NmYtM2ZkNzAzYjI5Yjg4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpMUTJzN0E",
+                            "name": "Eastview"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDcWlNN0E",
+                        "name": "East Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG11N0E",
+                        "name": "30901"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjY4NzY1MmYtMTc2MC00NzliLTk1NmYtM2ZkNzAzYjI5Yjg4",
+                        "name": "Albany Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.46107,
+                    "longitude": -81.945571
+                },
+                "feature_type": "street",
+                "full_address": "Albany Avenue, Augusta, Georgia 30901, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjY4NzY1MmYtMTc2MC00NzliLTk1NmYtM2ZkNzAzYjI5Yjg4",
+                "name": "Albany Avenue",
+                "name_preferred": "Albany Avenue",
+                "place_formatted": "Augusta, Georgia 30901, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.354496,
+                    31.213577
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTE4OGU2ZDgtMzQ3MS00MTIzLWI5NGQtOTI5NGE5Yjc0NmRi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzRtN0E",
+                        "name": "Ware County",
+                        "wikidata_id": "Q498353"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTHJJN0E",
+                        "name": "Waycross",
+                        "wikidata_id": "Q615027"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakVPN0E",
+                        "name": "31501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTE4OGU2ZDgtMzQ3MS00MTIzLWI5NGQtOTI5NGE5Yjc0NmRi",
+                        "name": "Albany Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.213577,
+                    "longitude": -82.354496
+                },
+                "feature_type": "street",
+                "full_address": "Albany Avenue, Waycross, Georgia 31501, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTE4OGU2ZDgtMzQ3MS00MTIzLWI5NGQtOTI5NGE5Yjc0NmRi",
+                "name": "Albany Avenue",
+                "name_preferred": "Albany Avenue",
+                "place_formatted": "Waycross, Georgia 31501, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,345 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.93326,
+                    31.378454
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplM2MwOWZjZi01NWY1LTRhZmMtYWE0Ny01MjIyZjllYjhkMTk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "17",
+                        "mapbox_id": "dXJuOm1ieGFkcjplM2MwOWZjZi01NWY1LTRhZmMtYWE0Ny01MjIyZjllYjhkMTk",
+                        "name": "17 Mc Donald Street",
+                        "street_name": "Mc Donald Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzphS2Jz",
+                        "name": "Early County",
+                        "wikidata_id": "Q486757"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBY29JN0E",
+                        "name": "Blakely",
+                        "wikidata_id": "Q1934251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXBPN0E",
+                        "name": "39823"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTNjMDlmY2YtNTVmNS00YWZjLWFhNDctNTIyMmY5ZWI4ZDE5",
+                        "name": "Mc Donald Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.378454,
+                    "longitude": -84.93326,
+                    "routable_points": [
+                        {
+                            "latitude": 31.378248,
+                            "longitude": -84.93321,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "17 Mc Donald Street, Blakely, Georgia 39823, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplM2MwOWZjZi01NWY1LTRhZmMtYWE0Ny01MjIyZjllYjhkMTk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "17 Mcdonald Ave",
+                "name_preferred": "17 Mc Donald Street",
+                "place_formatted": "Blakely, Georgia 39823, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.933521,
+                    31.377606
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDQXBPN0E",
+            "properties": {
+                "bbox": [
+                    -85.114601,
+                    31.147221,
+                    -84.746157,
+                    31.522474
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzphS2Jz",
+                        "name": "Early County",
+                        "wikidata_id": "Q486757"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBY29JN0E",
+                        "name": "Blakely",
+                        "wikidata_id": "Q1934251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXBPN0E",
+                        "name": "39823"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.377606,
+                    "longitude": -84.933521
+                },
+                "feature_type": "postcode",
+                "full_address": "Blakely, Georgia 39823, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDQXBPN0E",
+                "name": "39823",
+                "name_preferred": "39823",
+                "place_formatted": "Blakely, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.715756,
+                    30.959599
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTcyNDk5MjctY2UwMC00OTdlLTlhZmUtZWNhYzJiYjIxM2E0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMY2Jz",
+                        "name": "Camden County",
+                        "wikidata_id": "Q110504"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpITjBLN0E",
+                        "name": "Runnymeade"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGYWZvN0E",
+                        "name": "Woodbine",
+                        "wikidata_id": "Q659178"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamN1N0E",
+                        "name": "31569"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTcyNDk5MjctY2UwMC00OTdlLTlhZmUtZWNhYzJiYjIxM2E0",
+                        "name": "Mcdonald Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.959599,
+                    "longitude": -81.715756
+                },
+                "feature_type": "street",
+                "full_address": "Mcdonald Avenue, Woodbine, Georgia 31569, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTcyNDk5MjctY2UwMC00OTdlLTlhZmUtZWNhYzJiYjIxM2E0",
+                "name": "Mcdonald Avenue",
+                "name_preferred": "Mcdonald Avenue",
+                "place_formatted": "Woodbine, Georgia 31569, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.729959,
+                    31.426258
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGUwNmFkY2YtYTYyOC00ZmQzLTliN2EtZGMzZTY5YjllODEz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzphS2Jz",
+                        "name": "Early County",
+                        "wikidata_id": "Q486757"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpwMGpz",
+                        "name": "Arlington",
+                        "wikidata_id": "Q2567888"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQW11N0E",
+                        "name": "39813"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGUwNmFkY2YtYTYyOC00ZmQzLTliN2EtZGMzZTY5YjllODEz",
+                        "name": "Blakely Road Southwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.426258,
+                    "longitude": -84.729959
+                },
+                "feature_type": "street",
+                "full_address": "Blakely Road Southwest, Arlington, Georgia 39813, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGUwNmFkY2YtYTYyOC00ZmQzLTliN2EtZGMzZTY5YjllODEz",
+                "name": "Blakely Rd",
+                "name_preferred": "Blakely Road Southwest",
+                "place_formatted": "Arlington, Georgia 39813, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.487366,
+                    34.613885
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UY2lMQ0p6ZEhKbFpYUWlPaUp0WTJSdmJtRnNaQ0JoZG1VdUlpd2ljR3hoWTJVaU9pSmliR0ZyWld4NUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTTVPREl6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "17",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UY2lMQ0p6ZEhKbFpYUWlPaUp0WTJSdmJtRnNaQ0JoZG1VdUlpd2ljR3hoWTJVaU9pSmliR0ZyWld4NUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTTVPREl6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjQ",
+                        "name": "17 Mc Donald Avenue",
+                        "street_name": "Mc Donald Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQWJz",
+                        "name": "Anderson County",
+                        "wikidata_id": "Q489420"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGV1RvN0E",
+                        "name": "Williamston",
+                        "wikidata_id": "Q2034377"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCY2d1N0E",
+                        "name": "29697"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVGNpTENKemRISmxaWFFpT2lKdFkyUnZibUZzWkNCaGRtVXVJaXdpY0d4aFkyVWlPaUppYkdGclpXeDVJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak01T0RJeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+                        "name": "Mc Donald Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.613885,
+                    "longitude": -82.487366,
+                    "routable_points": [
+                        {
+                            "latitude": 34.613885,
+                            "longitude": -82.487366,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "17 Mc Donald Avenue, Williamston, South Carolina 29697, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UY2lMQ0p6ZEhKbFpYUWlPaUp0WTJSdmJtRnNaQ0JoZG1VdUlpd2ljR3hoWTJVaU9pSmliR0ZyWld4NUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTTVPREl6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "17 Mcdonald Avenue",
+                "name_preferred": "17 Mc Donald Avenue",
+                "place_formatted": "Williamston, South Carolina 29697, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

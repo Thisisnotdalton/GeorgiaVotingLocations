@@ -1,0 +1,87 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.16752,
+                    32.880677
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2NTNmZjZmMy1jZDI3LTRhNTItYTI1Ny0yZDZlMGI5ZmJhNDg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1122",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2NTNmZjZmMy1jZDI3LTRhNTItYTI1Ny0yZDZlMGI5ZmJhNDg",
+                        "name": "1122 O. G. Skinner Drive",
+                        "street_name": "O. G. Skinner Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0dtN0E",
+                        "name": "Troup County",
+                        "wikidata_id": "Q498295"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGUmZJN0E",
+                        "name": "West Point",
+                        "wikidata_id": "Q2480425"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2F1N0E",
+                        "name": "31833"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjUzZmY2ZjMtY2QyNy00YTUyLWEyNTctMmQ2ZTBiOWZiYTQ4",
+                        "name": "O. G. Skinner Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 32.880677,
+                    "longitude": -85.16752,
+                    "routable_points": [
+                        {
+                            "latitude": 32.879643,
+                            "longitude": -85.16763,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1122 O. G. Skinner Drive, West Point, Georgia 31833, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2NTNmZjZmMy1jZDI3LTRhNTItYTI1Ny0yZDZlMGI5ZmJhNDg",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1122 O. G. Skinner Drive",
+                "name_preferred": "1122 O. G. Skinner Drive",
+                "place_formatted": "West Point, Georgia 31833, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

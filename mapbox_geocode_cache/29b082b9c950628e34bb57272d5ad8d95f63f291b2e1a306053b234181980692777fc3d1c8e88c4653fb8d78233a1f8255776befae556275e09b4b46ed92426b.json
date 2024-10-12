@@ -1,0 +1,399 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.534777,
+                    33.021338
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyYzZmODY4Zi0xYTVlLTQzNzItOGVjOS0xZDM0ODY2Zjg3ODY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "166",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyYzZmODY4Zi0xYTVlLTQzNzItOGVjOS0xZDM0ODY2Zjg3ODY",
+                        "name": "166 Industrial Boulevard",
+                        "street_name": "Industrial Boulevard"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp0Y2Jz",
+                        "name": "Jones County",
+                        "wikidata_id": "Q493040"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBNndzN0E",
+                        "name": "Bragg"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCK01JN0E",
+                        "name": "Gray",
+                        "wikidata_id": "Q2641897"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDh1N0E",
+                        "name": "31032"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmM2Zjg2OGYtMWE1ZS00MzcyLThlYzktMWQzNDg2NmY4Nzg2",
+                        "name": "Industrial Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.021338,
+                    "longitude": -83.534777,
+                    "routable_points": [
+                        {
+                            "latitude": 33.021329,
+                            "longitude": -83.535051,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "166 Industrial Boulevard, Gray, Georgia 31032, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyYzZmODY4Zi0xYTVlLTQzNzItOGVjOS0xZDM0ODY2Zjg3ODY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "166 Industrial Boulevard",
+                "name_preferred": "166 Industrial Boulevard",
+                "place_formatted": "Gray, Georgia 31032, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.254787,
+                    32.339319
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWTJJaXdpYzNSeVpXVjBJam9pU1U1RVZWTlVVa2xCVENCQ1RGWkVMaUlzSW5Cc1lXTmxJam9pUjFKQldTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVEF6TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "166",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWTJJaXdpYzNSeVpXVjBJam9pU1U1RVZWTlVVa2xCVENCQ1RGWkVMaUlzSW5Cc1lXTmxJam9pUjFKQldTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVEF6TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                        "name": "166 Industrial Boulevard",
+                        "street_name": "Industrial Boulevard"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWJz",
+                        "name": "Effingham County",
+                        "wikidata_id": "Q156637"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFSkxJN0E",
+                        "name": "Rincon",
+                        "wikidata_id": "Q2396741"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTN1N0E",
+                        "name": "31326"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFkySWl3aWMzUnlaV1YwSWpvaVNVNUVWVk5VVWtsQlRDQkNURlpFTGlJc0luQnNZV05sSWpvaVIxSkJXU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBek1pSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjE",
+                        "name": "Industrial Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.339319,
+                    "longitude": -81.254787,
+                    "routable_points": [
+                        {
+                            "latitude": 32.339319,
+                            "longitude": -81.254787,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "166 Industrial Boulevard, Rincon, Georgia 31326, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWTJJaXdpYzNSeVpXVjBJam9pU1U1RVZWTlVVa2xCVENCQ1RGWkVMaUlzSW5Cc1lXTmxJam9pUjFKQldTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVEF6TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "166 Industrial Boulevard",
+                "name_preferred": "166 Industrial Boulevard",
+                "place_formatted": "Rincon, Georgia 31326, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.503139,
+                    32.589431
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWTJJaXdpYzNSeVpXVjBJam9pU1U1RVZWTlVVa2xCVENCQ1RGWkVMaUlzSW5Cc1lXTmxJam9pUjFKQldTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVEF6TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "166",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWTJJaXdpYzNSeVpXVjBJam9pU1U1RVZWTlVVa2xCVENCQ1RGWkVMaUlzSW5Cc1lXTmxJam9pUjFKQldTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVEF6TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+                        "name": "166 Industrial Boulevard",
+                        "street_name": "Industrial Boulevard"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVUFtN0E",
+                        "name": "Screven County",
+                        "wikidata_id": "Q503511"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEY21vN0E",
+                        "name": "Newington",
+                        "wikidata_id": "Q2779956"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZi9PN0E",
+                        "name": "30446"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFkySWl3aWMzUnlaV1YwSWpvaVNVNUVWVk5VVWtsQlRDQkNURlpFTGlJc0luQnNZV05sSWpvaVIxSkJXU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBek1pSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjI",
+                        "name": "Industrial Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.589431,
+                    "longitude": -81.503139,
+                    "routable_points": [
+                        {
+                            "latitude": 32.589431,
+                            "longitude": -81.503139,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "166 Industrial Boulevard, Newington, Georgia 30446, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWTJJaXdpYzNSeVpXVjBJam9pU1U1RVZWTlVVa2xCVENCQ1RGWkVMaUlzSW5Cc1lXTmxJam9pUjFKQldTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVEF6TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "166 Industrial Boulevard",
+                "name_preferred": "166 Industrial Boulevard",
+                "place_formatted": "Newington, Georgia 30446, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.054067,
+                    36.944035
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWTJJaXdpYzNSeVpXVjBJam9pU1U1RVZWTlVVa2xCVENCQ1RGWkVMaUlzSW5Cc1lXTmxJam9pUjFKQldTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVEF6TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "166",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWTJJaXdpYzNSeVpXVjBJam9pU1U1RVZWTlVVa2xCVENCQ1RGWkVMaUlzSW5Cc1lXTmxJam9pUjFKQldTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVEF6TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                        "name": "166 Industrial Boulevard",
+                        "street_name": "Industrial Boulevard"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp2d2Jz",
+                        "name": "Knox County",
+                        "wikidata_id": "Q500767"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDZ0FvN0E",
+                            "name": "Keavy"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCRU1JN0E",
+                        "name": "Corbin",
+                        "wikidata_id": "Q2941325"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDREZPN0E",
+                        "name": "40701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCR1Rz",
+                        "name": "Kentucky",
+                        "region_code": "KY",
+                        "region_code_full": "US-KY",
+                        "wikidata_id": "Q1603"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFkySWl3aWMzUnlaV1YwSWpvaVNVNUVWVk5VVWtsQlRDQkNURlpFTGlJc0luQnNZV05sSWpvaVIxSkJXU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBek1pSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+                        "name": "Industrial Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 36.944035,
+                    "longitude": -84.054067,
+                    "routable_points": [
+                        {
+                            "latitude": 36.944035,
+                            "longitude": -84.054067,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "166 Industrial Boulevard, Corbin, Kentucky 40701, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWTJJaXdpYzNSeVpXVjBJam9pU1U1RVZWTlVVa2xCVENCQ1RGWkVMaUlzSW5Cc1lXTmxJam9pUjFKQldTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVEF6TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "166 Industrial Boulevard",
+                "name_preferred": "166 Industrial Boulevard",
+                "place_formatted": "Corbin, Kentucky 40701, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.625376,
+                    32.853181
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NWZkZTViOTItZWM3NC00ODY2LThmODgtYzFhZDgxNjY0Mjkx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMZDNzN0E",
+                        "name": "North Highlands"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaW9PN0E",
+                        "name": "31211"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWZkZTViOTItZWM3NC00ODY2LThmODgtYzFhZDgxNjY0Mjkx",
+                        "name": "Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.853181,
+                    "longitude": -83.625376
+                },
+                "feature_type": "street",
+                "full_address": "Boulevard, Macon, Georgia 31211, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWZkZTViOTItZWM3NC00ODY2LThmODgtYzFhZDgxNjY0Mjkx",
+                "name": "Boulevard",
+                "name_preferred": "Boulevard",
+                "place_formatted": "Macon, Georgia 31211, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

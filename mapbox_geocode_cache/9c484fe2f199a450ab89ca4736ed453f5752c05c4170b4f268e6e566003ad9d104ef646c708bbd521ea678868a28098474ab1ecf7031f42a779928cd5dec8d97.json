@@ -1,0 +1,356 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.171723,
+                    33.73866
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxMGI1MzUyNi1kZmQ1LTRjMGYtYjQyMS01MzBmZmI3MzljOTE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2201",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxMGI1MzUyNi1kZmQ1LTRjMGYtYjQyMS01MzBmZmI3MzljOTE",
+                        "name": "2201 Young Road",
+                        "street_name": "Young Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHM1pxN0E",
+                        "name": "Redan",
+                        "wikidata_id": "Q2111226"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFdE9vN0E",
+                        "name": "Stone Mountain",
+                        "wikidata_id": "Q2073622"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUJ1N0E",
+                        "name": "30088"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTBiNTM1MjYtZGZkNS00YzBmLWI0MjEtNTMwZmZiNzM5Yzkx",
+                        "name": "Young Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.73866,
+                    "longitude": -84.171723,
+                    "routable_points": [
+                        {
+                            "latitude": 33.738753,
+                            "longitude": -84.171362,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2201 Young Road, Stone Mountain, Georgia 30088, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxMGI1MzUyNi1kZmQ1LTRjMGYtYjQyMS01MzBmZmI3MzljOTE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2201 Young Road",
+                "name_preferred": "2201 Young Road",
+                "place_formatted": "Stone Mountain, Georgia 30088, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.18797,
+                    33.73058
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmZkMTAyYmQtYjJmOS00ZTYzLWIwMmItNDU5Zjg5MzI4MzVi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHM1pxN0E",
+                        "name": "Redan",
+                        "wikidata_id": "Q2111226"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFdE9vN0E",
+                        "name": "Stone Mountain",
+                        "wikidata_id": "Q2073622"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUJ1N0E",
+                        "name": "30088"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmZkMTAyYmQtYjJmOS00ZTYzLWIwMmItNDU5Zjg5MzI4MzVi",
+                        "name": "Young Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.73058,
+                    "longitude": -84.18797
+                },
+                "feature_type": "street",
+                "full_address": "Young Road, Stone Mountain, Georgia 30088, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmZkMTAyYmQtYjJmOS00ZTYzLWIwMmItNDU5Zjg5MzI4MzVi",
+                "name": "Young Road",
+                "name_preferred": "Young Road",
+                "place_formatted": "Stone Mountain, Georgia 30088, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.196499,
+                    33.761797
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZUJ1N0E",
+            "properties": {
+                "bbox": [
+                    -84.19941,
+                    33.723823,
+                    -84.154061,
+                    33.791116
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFdE9vN0E",
+                        "name": "Stone Mountain",
+                        "wikidata_id": "Q2073622"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUJ1N0E",
+                        "name": "30088"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.761797,
+                    "longitude": -84.196499
+                },
+                "feature_type": "postcode",
+                "full_address": "Stone Mountain, Georgia 30088, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZUJ1N0E",
+                "name": "30088",
+                "name_preferred": "30088",
+                "place_formatted": "Stone Mountain, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.15302,
+                    33.73771
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NTc0OTU1YTMtN2NlNy00ZTE3LTlhMjgtZTcwYWEzMmQ0NWM2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHM1pxN0E",
+                        "name": "Redan",
+                        "wikidata_id": "Q2111226"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDejlvN0E",
+                        "name": "Lithonia",
+                        "wikidata_id": "Q2409037"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHp1N0E",
+                        "name": "30058"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTc0OTU1YTMtN2NlNy00ZTE3LTlhMjgtZTcwYWEzMmQ0NWM2",
+                        "name": "Young Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.73771,
+                    "longitude": -84.15302
+                },
+                "feature_type": "street",
+                "full_address": "Young Road, Lithonia, Georgia 30058, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTc0OTU1YTMtN2NlNy00ZTE3LTlhMjgtZTcwYWEzMmQ0NWM2",
+                "name": "Young Road",
+                "name_preferred": "Young Road",
+                "place_formatted": "Lithonia, Georgia 30058, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.625667,
+                    30.146635
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSXdNU0lzSW5OMGNtVmxkQ0k2SWxsUFZVNUhJRkpQUVVRaUxDSndiR0ZqWlNJNklsTlVUMDVGSUUxUFZVNVVRVWxPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EZzRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2201",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSXdNU0lzSW5OMGNtVmxkQ0k2SWxsUFZVNUhJRkpQUVVRaUxDSndiR0ZqWlNJNklsTlVUMDVGSUUxUFZVNVVRVWxPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EZzRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+                        "name": "2201 A Young Road",
+                        "street_name": "A Young Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVm1HN0E",
+                        "name": "Taylor County",
+                        "wikidata_id": "Q503064"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEMGJvN0E",
+                        "name": "Perry",
+                        "wikidata_id": "Q1065467"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCbVFPN0E",
+                        "name": "32347"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVRz",
+                        "name": "Florida",
+                        "region_code": "FL",
+                        "region_code_full": "US-FL",
+                        "wikidata_id": "Q812"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakl3TVNJc0luTjBjbVZsZENJNklsbFBWVTVISUZKUFFVUWlMQ0p3YkdGalpTSTZJbE5VVDA1RklFMVBWVTVVUVVsT0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNRGc0SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjQ",
+                        "name": "A Young Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 30.146635,
+                    "longitude": -83.625667,
+                    "routable_points": [
+                        {
+                            "latitude": 30.146635,
+                            "longitude": -83.625667,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2201 A Young Road, Perry, Florida 32347, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSXdNU0lzSW5OMGNtVmxkQ0k2SWxsUFZVNUhJRkpQUVVRaUxDSndiR0ZqWlNJNklsTlVUMDVGSUUxUFZVNVVRVWxPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EZzRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "2201 Young Rd",
+                "name_preferred": "2201 A Young Road",
+                "place_formatted": "Perry, Florida 32347, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

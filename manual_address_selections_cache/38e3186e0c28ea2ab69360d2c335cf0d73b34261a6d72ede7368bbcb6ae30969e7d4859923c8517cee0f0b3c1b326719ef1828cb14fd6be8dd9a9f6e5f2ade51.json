@@ -1,0 +1,87 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -84.398641,
+                33.774013
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjoxYTZmZjgwYy03NzQwLTRlNzItYmU4ZC00M2ZmNzgxZjQ4Yjc",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "351",
+                    "mapbox_id": "dXJuOm1ieGFkcjoxYTZmZjgwYy03NzQwLTRlNzItYmU4ZC00M2ZmNzgxZjQ4Yjc",
+                    "name": "351 Ferst Drive Northwest",
+                    "street_name": "Ferst Drive Northwest"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                    "name": "Fulton County",
+                    "wikidata_id": "Q486633"
+                },
+                "neighborhood": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpEbDRzN0E",
+                    "name": "Georgia Tech"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                    "name": "Atlanta",
+                    "wikidata_id": "Q23556"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZlR1N0E",
+                    "name": "30313"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWE2ZmY4MGMtNzc0MC00ZTcyLWJlOGQtNDNmZjc4MWY0OGI3",
+                    "name": "Ferst Drive Northwest"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 33.774013,
+                "longitude": -84.398641,
+                "routable_points": [
+                    {
+                        "latitude": 33.773599,
+                        "longitude": -84.398775,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "351 Ferst Drive Northwest, Atlanta, Georgia 30313, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjoxYTZmZjgwYy03NzQwLTRlNzItYmU4ZC00M2ZmNzgxZjQ4Yjc",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "high",
+                "country": "matched",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "unmatched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "351 Ferst Drive Northwest",
+            "name_preferred": "351 Ferst Drive Northwest",
+            "place_formatted": "Atlanta, Georgia 30313, United States"
+        },
+        "type": "Feature"
+    }
+]

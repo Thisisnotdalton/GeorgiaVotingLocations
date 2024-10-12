@@ -1,0 +1,395 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.352441,
+                    33.520694
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0NGY3NDRhYi01OWY1LTQ4ZDQtOTFkZS1iYmNiOTYwMWIyODQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "121",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0NGY3NDRhYi01OWY1LTQ4ZDQtOTFkZS1iYmNiOTYwMWIyODQ",
+                        "name": "121 South Mc Donough Street",
+                        "street_name": "South Mc Donough Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZDFvN0E",
+                        "name": "Jonesboro",
+                        "wikidata_id": "Q1703398"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTJ1N0E",
+                        "name": "30236"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDRmNzQ0YWItNTlmNS00OGQ0LTkxZGUtYmJjYjk2MDFiMjg0",
+                        "name": "South Mc Donough Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.520694,
+                    "longitude": -84.352441,
+                    "routable_points": [
+                        {
+                            "latitude": 33.520715,
+                            "longitude": -84.352182,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "121 South Mc Donough Street, Jonesboro, Georgia 30236, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0NGY3NDRhYi01OWY1LTQ4ZDQtOTFkZS1iYmNiOTYwMWIyODQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "121 S Mcdonough St",
+                "name_preferred": "121 South Mc Donough Street",
+                "place_formatted": "Jonesboro, Georgia 30236, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.296409,
+                    33.768618
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USXhJaXdpYzNSeVpXVjBJam9pVXk0Z1RVTkVUMDVQVlVkSUlGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVNrOU9SVk5DVDFKUElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNak0ySWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "121",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USXhJaXdpYzNSeVpXVjBJam9pVXk0Z1RVTkVUMDVQVlVkSUlGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVNrOU9SVk5DVDFKUElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNak0ySWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+                        "name": "121 South Mcdonough Street",
+                        "street_name": "South Mcdonough Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDVmpzN0E",
+                        "name": "Decatur Central Business District"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT1VvN0E",
+                        "name": "Decatur",
+                        "wikidata_id": "Q986200"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZG51N0E",
+                        "name": "30030"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEl4SWl3aWMzUnlaV1YwSWpvaVV5NGdUVU5FVDA1UFZVZElJRk5VVWtWRlZDSXNJbkJzWVdObElqb2lTazlPUlZOQ1QxSlBJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWpNMklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTox",
+                        "name": "South Mcdonough Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.768618,
+                    "longitude": -84.296409,
+                    "routable_points": [
+                        {
+                            "latitude": 33.768618,
+                            "longitude": -84.296409,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "121 South Mcdonough Street, Decatur, Georgia 30030, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USXhJaXdpYzNSeVpXVjBJam9pVXk0Z1RVTkVUMDVQVlVkSUlGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVNrOU9SVk5DVDFKUElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNak0ySWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "121 South Mcdonough Street",
+                "name_preferred": "121 South Mcdonough Street",
+                "place_formatted": "Decatur, Georgia 30030, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.786405,
+                    40.425429
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USXhJaXdpYzNSeVpXVjBJam9pVXk0Z1RVTkVUMDVQVlVkSUlGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVNrOU9SVk5DVDFKUElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNak0ySWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "121",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USXhJaXdpYzNSeVpXVjBJam9pVXk0Z1RVTkVUMDVQVlVkSUlGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVNrOU9SVk5DVDFKUElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNak0ySWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                        "name": "121 South Mcdonough Street",
+                        "street_name": "South Mcdonough Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo1NmJz",
+                        "name": "McDonough County",
+                        "wikidata_id": "Q500758"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBL29vN0E",
+                        "name": "Colchester",
+                        "wikidata_id": "Q575411"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETXZPN0E",
+                        "name": "62326"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpST3c",
+                        "name": "Illinois",
+                        "region_code": "IL",
+                        "region_code_full": "US-IL",
+                        "wikidata_id": "Q1204"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEl4SWl3aWMzUnlaV1YwSWpvaVV5NGdUVU5FVDA1UFZVZElJRk5VVWtWRlZDSXNJbkJzWVdObElqb2lTazlPUlZOQ1QxSlBJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWpNMklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                        "name": "South Mcdonough Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 40.425429,
+                    "longitude": -90.786405,
+                    "routable_points": [
+                        {
+                            "latitude": 40.425429,
+                            "longitude": -90.786405,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "121 South Mcdonough Street, Colchester, Illinois 62326, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USXhJaXdpYzNSeVpXVjBJam9pVXk0Z1RVTkVUMDVQVlVkSUlGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVNrOU9SVk5DVDFKUElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNak0ySWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "121 South Mcdonough Street",
+                "name_preferred": "121 South Mcdonough Street",
+                "place_formatted": "Colchester, Illinois 62326, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.304851,
+                    32.375653
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USXhJaXdpYzNSeVpXVjBJam9pVXk0Z1RVTkVUMDVQVlVkSUlGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVNrOU9SVk5DVDFKUElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNak0ySWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "121",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USXhJaXdpYzNSeVpXVjBJam9pVXk0Z1RVTkVUMDVQVlVkSUlGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVNrOU9SVk5DVDFKUElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNak0ySWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjM",
+                        "name": "121 South Mcdonough Street",
+                        "street_name": "South Mcdonough Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorRWJz",
+                        "name": "Montgomery County",
+                        "wikidata_id": "Q502784"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDai9zN0E",
+                        "name": "Downtown Montgomery"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUVBvN0E",
+                        "name": "Montgomery",
+                        "wikidata_id": "Q29364"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCenR1N0E",
+                        "name": "36104"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT1Rz",
+                        "name": "Alabama",
+                        "region_code": "AL",
+                        "region_code_full": "US-AL",
+                        "wikidata_id": "Q173"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEl4SWl3aWMzUnlaV1YwSWpvaVV5NGdUVU5FVDA1UFZVZElJRk5VVWtWRlZDSXNJbkJzWVdObElqb2lTazlPUlZOQ1QxSlBJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWpNMklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+                        "name": "South Mcdonough Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.375653,
+                    "longitude": -86.304851,
+                    "routable_points": [
+                        {
+                            "latitude": 32.375653,
+                            "longitude": -86.304851,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "121 South Mcdonough Street, Montgomery, Alabama 36104, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USXhJaXdpYzNSeVpXVjBJam9pVXk0Z1RVTkVUMDVQVlVkSUlGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVNrOU9SVk5DVDFKUElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNak0ySWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjM",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "121 South Mcdonough Street",
+                "name_preferred": "121 South Mcdonough Street",
+                "place_formatted": "Montgomery, Alabama 36104, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.220531,
+                    33.46444
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzE5ODdjMDctMDI5My00OTQxLWE1Y2YtYjA4YWI3ZWE5ZTY1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERW1vN0E",
+                        "name": "McDonough",
+                        "wikidata_id": "Q2075251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTdPN0E",
+                        "name": "30253"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzE5ODdjMDctMDI5My00OTQxLWE1Y2YtYjA4YWI3ZWE5ZTY1",
+                        "name": "Jonesboro Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.46444,
+                    "longitude": -84.220531
+                },
+                "feature_type": "street",
+                "full_address": "Jonesboro Road, McDonough, Georgia 30253, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzE5ODdjMDctMDI5My00OTQxLWE1Y2YtYjA4YWI3ZWE5ZTY1",
+                "name": "Jonesboro Road",
+                "name_preferred": "Jonesboro Road",
+                "place_formatted": "McDonough, Georgia 30253, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

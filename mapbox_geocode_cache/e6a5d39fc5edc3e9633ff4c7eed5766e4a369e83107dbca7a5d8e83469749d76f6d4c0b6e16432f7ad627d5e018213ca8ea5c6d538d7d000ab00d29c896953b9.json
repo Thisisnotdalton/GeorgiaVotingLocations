@@ -1,0 +1,339 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.242698,
+                    33.098678
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4OGRlZGE0OS0zNTcyLTQ0ZmQtOTc0ZS03ZGFlNGVkNzc2NWY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1601",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4OGRlZGE0OS0zNTcyLTQ0ZmQtOTc0ZS03ZGFlNGVkNzc2NWY",
+                        "name": "1601 North Columbia Street",
+                        "street_name": "North Columbia Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeWJz",
+                        "name": "Baldwin County",
+                        "wikidata_id": "Q488206"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETFdJN0E",
+                        "name": "Milledgeville",
+                        "wikidata_id": "Q1885071"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUpPN0E",
+                        "name": "31061"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODhkZWRhNDktMzU3Mi00NGZkLTk3NGUtN2RhZTRlZDc3NjVm",
+                        "name": "North Columbia Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.098678,
+                    "longitude": -83.242698,
+                    "routable_points": [
+                        {
+                            "latitude": 33.098476,
+                            "longitude": -83.242809,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1601 North Columbia Street, Milledgeville, Georgia 31061, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4OGRlZGE0OS0zNTcyLTQ0ZmQtOTc0ZS03ZGFlNGVkNzc2NWY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1601 North Columbia Street",
+                "name_preferred": "1601 North Columbia Street",
+                "place_formatted": "Milledgeville, Georgia 31061, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.281703,
+                    33.173184
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWXdNU0lzSW5OMGNtVmxkQ0k2SWs0Z1EwOU1WVTFDU1VFZ1UxUWlMQ0p3YkdGalpTSTZJazFKVEV4RlJFZEZWa2xNVEVVaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXdOakVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1601",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWXdNU0lzSW5OMGNtVmxkQ0k2SWs0Z1EwOU1WVTFDU1VFZ1UxUWlMQ0p3YkdGalpTSTZJazFKVEV4RlJFZEZWa2xNVEVVaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXdOakVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6MQ",
+                        "name": "1601 Sinclair Marina Road Northeast",
+                        "street_name": "Sinclair Marina Road Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeWJz",
+                        "name": "Baldwin County",
+                        "wikidata_id": "Q488206"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETFdJN0E",
+                        "name": "Milledgeville",
+                        "wikidata_id": "Q1885071"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUpPN0E",
+                        "name": "31061"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFl3TVNJc0luTjBjbVZsZENJNklrNGdRMDlNVlUxQ1NVRWdVMVFpTENKd2JHRmpaU0k2SWsxSlRFeEZSRWRGVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekV3TmpFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjE",
+                        "name": "Sinclair Marina Road Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.173184,
+                    "longitude": -83.281703,
+                    "routable_points": [
+                        {
+                            "latitude": 33.173184,
+                            "longitude": -83.281703,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1601 Sinclair Marina Road Northeast, Milledgeville, Georgia 31061, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWXdNU0lzSW5OMGNtVmxkQ0k2SWs0Z1EwOU1WVTFDU1VFZ1UxUWlMQ0p3YkdGalpTSTZJazFKVEV4RlJFZEZWa2xNVEVVaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXdOakVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1601 N Columbia St",
+                "name_preferred": "1601 Sinclair Marina Road Northeast",
+                "place_formatted": "Milledgeville, Georgia 31061, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.24359,
+                    33.09303
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6M2MyYjY4Y2MtMTgyZi00N2MzLThlOTItNWRjYjM3MTlkYjli",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeWJz",
+                        "name": "Baldwin County",
+                        "wikidata_id": "Q488206"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETFdJN0E",
+                        "name": "Milledgeville",
+                        "wikidata_id": "Q1885071"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUpPN0E",
+                        "name": "31061"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2MyYjY4Y2MtMTgyZi00N2MzLThlOTItNWRjYjM3MTlkYjli",
+                        "name": "N Columbia St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.09303,
+                    "longitude": -83.24359
+                },
+                "feature_type": "street",
+                "full_address": "N Columbia St, Milledgeville, Georgia 31061, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2MyYjY4Y2MtMTgyZi00N2MzLThlOTItNWRjYjM3MTlkYjli",
+                "name": "N Columbia St",
+                "name_preferred": "N Columbia St",
+                "place_formatted": "Milledgeville, Georgia 31061, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.233926,
+                    33.080347
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2I1NGFlYzEtZGFhNC00MzQyLWE2ZTEtM2ZkNjZkYzRhNGE0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeWJz",
+                        "name": "Baldwin County",
+                        "wikidata_id": "Q488206"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETFdJN0E",
+                        "name": "Milledgeville",
+                        "wikidata_id": "Q1885071"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUpPN0E",
+                        "name": "31061"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2I1NGFlYzEtZGFhNC00MzQyLWE2ZTEtM2ZkNjZkYzRhNGE0",
+                        "name": "North Columbia Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.080347,
+                    "longitude": -83.233926
+                },
+                "feature_type": "street",
+                "full_address": "North Columbia Street, Milledgeville, Georgia 31061, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2I1NGFlYzEtZGFhNC00MzQyLWE2ZTEtM2ZkNjZkYzRhNGE0",
+                "name": "North Columbia Street",
+                "name_preferred": "North Columbia Street",
+                "place_formatted": "Milledgeville, Georgia 31061, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.233548,
+                    33.078884
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzYzYWM4N2MtODMzZS00YjM4LThhNTAtZTIwZGM0ZTZhYTg4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeWJz",
+                        "name": "Baldwin County",
+                        "wikidata_id": "Q488206"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETFdJN0E",
+                        "name": "Milledgeville",
+                        "wikidata_id": "Q1885071"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUpPN0E",
+                        "name": "31061"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzYzYWM4N2MtODMzZS00YjM4LThhNTAtZTIwZGM0ZTZhYTg4",
+                        "name": "South Columbia Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.078884,
+                    "longitude": -83.233548
+                },
+                "feature_type": "street",
+                "full_address": "South Columbia Street, Milledgeville, Georgia 31061, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzYzYWM4N2MtODMzZS00YjM4LThhNTAtZTIwZGM0ZTZhYTg4",
+                "name": "South Columbia Street",
+                "name_preferred": "South Columbia Street",
+                "place_formatted": "Milledgeville, Georgia 31061, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,366 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.304512,
+                    31.926997
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkNWVmZjE1Yi1kZjQyLTQ3NGEtODgwYi0xZmI0NDE1ZjEwNjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "508",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkNWVmZjE1Yi1kZjQyLTQ3NGEtODgwYi0xZmI0NDE1ZjEwNjI",
+                        "name": "508 Timber Trail",
+                        "street_name": "Timber Trail"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKU2Jz",
+                        "name": "Bryan County",
+                        "wikidata_id": "Q486848"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFSVNJN0E",
+                        "name": "Richmond Hill",
+                        "wikidata_id": "Q581910"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTNPN0E",
+                        "name": "31324"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDVlZmYxNWItZGY0Mi00NzRhLTg4MGItMWZiNDQxNWYxMDYy",
+                        "name": "Timber Trail"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.926997,
+                    "longitude": -81.304512,
+                    "routable_points": [
+                        {
+                            "latitude": 31.926796,
+                            "longitude": -81.304693,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "508 Timber Trail, Richmond Hill, Georgia 31324, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkNWVmZjE1Yi1kZjQyLTQ3NGEtODgwYi0xZmI0NDE1ZjEwNjI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "508 Timber Trail",
+                "name_preferred": "508 Timber Trail",
+                "place_formatted": "Richmond Hill, Georgia 31324, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.309628,
+                    31.946018
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaTNPN0E",
+            "properties": {
+                "bbox": [
+                    -81.569697,
+                    31.726918,
+                    -81.144435,
+                    32.079554
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKU2Jz",
+                        "name": "Bryan County",
+                        "wikidata_id": "Q486848"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFSVNJN0E",
+                        "name": "Richmond Hill",
+                        "wikidata_id": "Q581910"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTNPN0E",
+                        "name": "31324"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.946018,
+                    "longitude": -81.309628
+                },
+                "feature_type": "postcode",
+                "full_address": "Richmond Hill, Georgia 31324, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaTNPN0E",
+                "name": "31324",
+                "name_preferred": "31324",
+                "place_formatted": "Richmond Hill, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.609909,
+                    31.505496
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTRJaXdpYzNSeVpXVjBJam9pVkVsTlFrVlNJRlJTUVVsTUlpd2ljR3hoWTJVaU9pSlNTVU5JVFU5T1JDQklTVXhNSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE16STBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "508",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTRJaXdpYzNSeVpXVjBJam9pVkVsTlFrVlNJRlJTUVVsTUlpd2ljR3hoWTJVaU9pSlNTVU5JVFU5T1JDQklTVXhNSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE16STBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+                        "name": "508 Timber Trl",
+                        "street_name": "Timber Trl"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTYWJz",
+                        "name": "Coffee County",
+                        "wikidata_id": "Q156503"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZkZJN0E",
+                        "name": "Nicholls"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalZ1N0E",
+                        "name": "31554"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVEE0SWl3aWMzUnlaV1YwSWpvaVZFbE5Ra1ZTSUZSU1FVbE1JaXdpY0d4aFkyVWlPaUpTU1VOSVRVOU9SQ0JJU1V4TUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXhNekkwSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                        "name": "Timber Trl"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.505496,
+                    "longitude": -82.609909,
+                    "routable_points": [
+                        {
+                            "latitude": 31.505496,
+                            "longitude": -82.609909,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "508 Timber Trl, Nicholls, Georgia 31554, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTRJaXdpYzNSeVpXVjBJam9pVkVsTlFrVlNJRlJTUVVsTUlpd2ljR3hoWTJVaU9pSlNTVU5JVFU5T1JDQklTVXhNSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE16STBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "508 Timber Trl",
+                "name_preferred": "508 Timber Trl",
+                "place_formatted": "Nicholls, Georgia 31554, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.710027,
+                    30.807475
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTRJaXdpYzNSeVpXVjBJam9pVkVsTlFrVlNJRlJTUVVsTUlpd2ljR3hoWTJVaU9pSlNTVU5JVFU5T1JDQklTVXhNSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE16STBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "508",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTRJaXdpYzNSeVpXVjBJam9pVkVsTlFrVlNJRlJTUVVsTUlpd2ljR3hoWTJVaU9pSlNTVU5JVFU5T1JDQklTVXhNSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE16STBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+                        "name": "508 Ridgemont Court",
+                        "street_name": "Ridgemont Court"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMY2Jz",
+                        "name": "Camden County",
+                        "wikidata_id": "Q110504"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKb1RNN0E",
+                        "name": "The Meadows"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDamZJN0E",
+                        "name": "Kingsland",
+                        "wikidata_id": "Q2398546"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalN1N0E",
+                        "name": "31548"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVEE0SWl3aWMzUnlaV1YwSWpvaVZFbE5Ra1ZTSUZSU1FVbE1JaXdpY0d4aFkyVWlPaUpTU1VOSVRVOU9SQ0JJU1V4TUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXhNekkwSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjM",
+                        "name": "Ridgemont Court"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 30.807475,
+                    "longitude": -81.710027,
+                    "routable_points": [
+                        {
+                            "latitude": 30.807475,
+                            "longitude": -81.710027,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "508 Ridgemont Court, Kingsland, Georgia 31548, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTRJaXdpYzNSeVpXVjBJam9pVkVsTlFrVlNJRlJTUVVsTUlpd2ljR3hoWTJVaU9pSlNTVU5JVFU5T1JDQklTVXhNSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE16STBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "508 Timber Rail Rd",
+                "name_preferred": "508 Ridgemont Court",
+                "place_formatted": "Kingsland, Georgia 31548, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.30963,
+                    31.946018
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpFSVNJN0E",
+            "properties": {
+                "bbox": [
+                    -81.50861,
+                    31.70967,
+                    -81.139566,
+                    32.079543
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKU2Jz",
+                        "name": "Bryan County",
+                        "wikidata_id": "Q486848"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFSVNJN0E",
+                        "name": "Richmond Hill",
+                        "wikidata_id": "Q581910"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.946018,
+                    "longitude": -81.30963
+                },
+                "feature_type": "place",
+                "full_address": "Richmond Hill, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpFSVNJN0E",
+                "name": "Richmond Hill",
+                "name_preferred": "Richmond Hill",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

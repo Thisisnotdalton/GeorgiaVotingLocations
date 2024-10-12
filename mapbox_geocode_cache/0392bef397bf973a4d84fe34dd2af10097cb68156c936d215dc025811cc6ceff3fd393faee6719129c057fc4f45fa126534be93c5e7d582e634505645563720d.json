@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.330798,
+                    34.579698
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjMmEzYzhhYy1jYmY5LTRhMDUtYjAwNC0zZWU4NjBhNjU3NmI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "37",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjMmEzYzhhYy1jYmY5LTRhMDUtYjAwNC0zZWU4NjBhNjU3NmI",
+                        "name": "37 West Tugalo Street",
+                        "street_name": "West Tugalo Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVTVtN0E",
+                        "name": "Stephens County",
+                        "wikidata_id": "Q498362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFNHpvN0E",
+                        "name": "Toccoa",
+                        "wikidata_id": "Q2581787"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3F1N0E",
+                        "name": "30577"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzJhM2M4YWMtY2JmOS00YTA1LWIwMDQtM2VlODYwYTY1NzZi",
+                        "name": "West Tugalo Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.579698,
+                    "longitude": -83.330798,
+                    "routable_points": [
+                        {
+                            "latitude": 34.580051,
+                            "longitude": -83.330816,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "37 West Tugalo Street, Toccoa, Georgia 30577, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjMmEzYzhhYy1jYmY5LTRhMDUtYjAwNC0zZWU4NjBhNjU3NmI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "37 West Tugalo Street",
+                "name_preferred": "37 West Tugalo Street",
+                "place_formatted": "Toccoa, Georgia 30577, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.31823,
+                    34.581252
+                ],
+                "type": "Point"
+            },
+            "id": "address.2998592225967410",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVTVtN0E",
+                        "name": "Stephens County",
+                        "wikidata_id": "Q498362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFNHpvN0E",
+                        "name": "Toccoa",
+                        "wikidata_id": "Q2581787"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3F1N0E",
+                        "name": "30577"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.2998592225967410",
+                        "name": "Tugalo Lane"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.581252,
+                    "longitude": -83.31823
+                },
+                "feature_type": "street",
+                "full_address": "Tugalo Lane, Toccoa, Georgia 30577, United States",
+                "mapbox_id": "address.2998592225967410",
+                "name": "Tugalo Lane",
+                "name_preferred": "Tugalo Lane",
+                "place_formatted": "Toccoa, Georgia 30577, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.331606,
+                    34.580021
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ3F1N0E",
+            "properties": {
+                "bbox": [
+                    -83.457992,
+                    34.402802,
+                    -83.154377,
+                    34.706004
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVTVtN0E",
+                        "name": "Stephens County",
+                        "wikidata_id": "Q498362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFNHpvN0E",
+                        "name": "Toccoa",
+                        "wikidata_id": "Q2581787"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3F1N0E",
+                        "name": "30577"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.580021,
+                    "longitude": -83.331606
+                },
+                "feature_type": "postcode",
+                "full_address": "Toccoa, Georgia 30577, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ3F1N0E",
+                "name": "30577",
+                "name_preferred": "30577",
+                "place_formatted": "Toccoa, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.955308,
+                    32.5414
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDUyYzRkMDctMDM5NC00MGYxLTlkYzgtYTliNmJiMGU2NWMz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5R2Jz",
+                        "name": "Laurens County",
+                        "wikidata_id": "Q491556"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV0ZJN0E",
+                        "name": "Dublin",
+                        "wikidata_id": "Q2671021"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.3768600273787230",
+                        "name": "31027"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDUyYzRkMDctMDM5NC00MGYxLTlkYzgtYTliNmJiMGU2NWMz",
+                        "name": "W"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.5414,
+                    "longitude": -82.955308
+                },
+                "feature_type": "street",
+                "full_address": "W, Dublin, Georgia 31027, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDUyYzRkMDctMDM5NC00MGYxLTlkYzgtYTliNmJiMGU2NWMz",
+                "name": "W",
+                "name_preferred": "W",
+                "place_formatted": "Dublin, Georgia 31027, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.511935,
+                    30.870014
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWI5NTNjYjgtMGRhYi00ODg3LTlkOTItYzJjMDZlNzc3YTE3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJd2Jz",
+                        "name": "Brooks County",
+                        "wikidata_id": "Q488175"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEVEFJN0E",
+                        "name": "Morven",
+                        "wikidata_id": "Q2237744"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCam91N0E",
+                        "name": "31638"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWI5NTNjYjgtMGRhYi00ODg3LTlkOTItYzJjMDZlNzc3YTE3",
+                        "name": "W"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.870014,
+                    "longitude": -83.511935
+                },
+                "feature_type": "street",
+                "full_address": "W, Morven, Georgia 31638, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWI5NTNjYjgtMGRhYi00ODg3LTlkOTItYzJjMDZlNzc3YTE3",
+                "name": "W",
+                "name_preferred": "W",
+                "place_formatted": "Morven, Georgia 31638, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

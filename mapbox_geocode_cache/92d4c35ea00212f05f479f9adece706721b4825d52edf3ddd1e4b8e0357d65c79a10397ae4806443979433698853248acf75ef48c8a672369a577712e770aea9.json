@@ -1,0 +1,346 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.17342,
+                    34.23726
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4MjBlNWY5Zi02OGZmLTQwMTYtOTMyNy03Njc4MzI0ZTRkYmM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "18",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4MjBlNWY5Zi02OGZmLTQwMTYtOTMyNy03Njc4MzI0ZTRkYmM",
+                        "name": "18 East 12th Street",
+                        "street_name": "East 12th Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkWWJz",
+                        "name": "Floyd County",
+                        "wikidata_id": "Q486389"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTjFvN0E",
+                        "name": "Rome",
+                        "wikidata_id": "Q6580"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWh1N0E",
+                        "name": "30161"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODIwZTVmOWYtNjhmZi00MDE2LTkzMjctNzY3ODMyNGU0ZGJj",
+                        "name": "East 12th Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.23726,
+                    "longitude": -85.17342,
+                    "routable_points": [
+                        {
+                            "latitude": 34.237601,
+                            "longitude": -85.173416,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "18 East 12th Street, Rome, Georgia 30161, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4MjBlNWY5Zi02OGZmLTQwMTYtOTMyNy03Njc4MzI0ZTRkYmM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "18 East 12th Street",
+                "name_preferred": "18 East 12th Street",
+                "place_formatted": "Rome, Georgia 30161, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.460791,
+                    31.541212
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UZ2lMQ0p6ZEhKbFpYUWlPaUpGUVZOVUlERXlWRWdnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpTVDAxRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVFl4SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "18",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UZ2lMQ0p6ZEhKbFpYUWlPaUpGUVZOVUlERXlWRWdnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpTVDAxRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVFl4SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+                        "name": "18 East 12th Street",
+                        "street_name": "East 12th Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEbWJz",
+                        "name": "Bacon County",
+                        "wikidata_id": "Q488219"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUQWpz",
+                        "name": "Alma",
+                        "wikidata_id": "Q2478924"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakZ1N0E",
+                        "name": "31510"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVGdpTENKemRISmxaWFFpT2lKRlFWTlVJREV5VkVnZ1UxUlNSVVZVSWl3aWNHeGhZMlVpT2lKU1QwMUZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TVRZeElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTox",
+                        "name": "East 12th Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.541212,
+                    "longitude": -82.460791,
+                    "routable_points": [
+                        {
+                            "latitude": 31.541212,
+                            "longitude": -82.460791,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "18 East 12th Street, Alma, Georgia 31510, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UZ2lMQ0p6ZEhKbFpYUWlPaUpGUVZOVUlERXlWRWdnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpTVDAxRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVFl4SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "18 East 12th Street",
+                "name_preferred": "18 East 12th Street",
+                "place_formatted": "Alma, Georgia 31510, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.08811,
+                    34.33952
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTdlZmNkMzUtNDcyNy00OWEzLThkMTUtODhmZDYxMzZiNDI1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkWWJz",
+                        "name": "Floyd County",
+                        "wikidata_id": "Q486389"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTjJJN0E",
+                        "name": "Rome"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWh1N0E",
+                        "name": "30161"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTdlZmNkMzUtNDcyNy00OWEzLThkMTUtODhmZDYxMzZiNDI1",
+                        "name": "St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.33952,
+                    "longitude": -85.08811
+                },
+                "feature_type": "street",
+                "full_address": "St, Rome, Georgia 30161, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTdlZmNkMzUtNDcyNy00OWEzLThkMTUtODhmZDYxMzZiNDI1",
+                "name": "St",
+                "name_preferred": "St",
+                "place_formatted": "Rome, Georgia 30161, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.176692,
+                    34.265916
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDIzZWJjZDctZjE1NC00OTAwLWI0NzktNWEzZDE2OTEzM2I3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkWWJz",
+                        "name": "Floyd County",
+                        "wikidata_id": "Q486389"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDaFlzN0E",
+                            "name": "Downtown"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYUtNN0E",
+                        "name": "DeSoto Homes"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTjFvN0E",
+                        "name": "Rome",
+                        "wikidata_id": "Q6580"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWpPN0E",
+                        "name": "30165"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDIzZWJjZDctZjE1NC00OTAwLWI0NzktNWEzZDE2OTEzM2I3",
+                        "name": "West 12th Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.265916,
+                    "longitude": -85.176692
+                },
+                "feature_type": "street",
+                "full_address": "West 12th Street, Rome, Georgia 30165, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDIzZWJjZDctZjE1NC00OTAwLWI0NzktNWEzZDE2OTEzM2I3",
+                "name": "West 12th Street",
+                "name_preferred": "West 12th Street",
+                "place_formatted": "Rome, Georgia 30165, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.17518,
+                    34.1911
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NWVkOTE0NWQtN2RkZS00MjhhLWFjYWUtYjg0MjlkYmI5ZjIz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkWWJz",
+                        "name": "Floyd County",
+                        "wikidata_id": "Q486389"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDeTFJN0E",
+                        "name": "Lindale",
+                        "wikidata_id": "Q3322349"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWNPN0E",
+                        "name": "30147"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWVkOTE0NWQtN2RkZS00MjhhLWFjYWUtYjg0MjlkYmI5ZjIz",
+                        "name": "St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.1911,
+                    "longitude": -85.17518
+                },
+                "feature_type": "street",
+                "full_address": "St, Lindale, Georgia 30147, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWVkOTE0NWQtN2RkZS00MjhhLWFjYWUtYjg0MjlkYmI5ZjIz",
+                "name": "St",
+                "name_preferred": "St",
+                "place_formatted": "Lindale, Georgia 30147, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

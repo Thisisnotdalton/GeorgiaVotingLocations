@@ -1,0 +1,213 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.506614,
+                    33.724632
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5MjdmNWJmOS05MTY4LTRkYjctOTNkMC0zY2M1OGIwN2NlNTE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3665",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5MjdmNWJmOS05MTY4LTRkYjctOTNkMC0zY2M1OGIwN2NlNTE",
+                        "name": "3665 Cascade Road",
+                        "street_name": "Cascade Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbDVvN0E",
+                        "name": "South Fulton",
+                        "wikidata_id": "Q7567323"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmJ1N0E",
+                        "name": "30331"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTI3ZjViZjktOTE2OC00ZGI3LTkzZDAtM2NjNThiMDdjZTUx",
+                        "name": "Cascade Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.724632,
+                    "longitude": -84.506614,
+                    "routable_points": [
+                        {
+                            "latitude": 33.724272,
+                            "longitude": -84.506699,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3665 Cascade Road, South Fulton, Georgia 30331, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5MjdmNWJmOS05MTY4LTRkYjctOTNkMC0zY2M1OGIwN2NlNTE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3665 Cascade Road",
+                "name_preferred": "3665 Cascade Road",
+                "place_formatted": "South Fulton, Georgia 30331, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.500299,
+                    33.725344
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjE0NDg4N2EtM2FjMS00NWE1LWE4ZmItNDc5ZGUyYzg4ZDMy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFbDVJN0E",
+                            "name": "South Fulton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlN1N0E",
+                        "name": "30311"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjE0NDg4N2EtM2FjMS00NWE1LWE4ZmItNDc5ZGUyYzg4ZDMy",
+                        "name": "Cascade Parkway Southwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.725344,
+                    "longitude": -84.500299
+                },
+                "feature_type": "street",
+                "full_address": "Cascade Parkway Southwest, Atlanta, Georgia 30311, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjE0NDg4N2EtM2FjMS00NWE1LWE4ZmItNDc5ZGUyYzg4ZDMy",
+                "name": "Cascade Rd",
+                "name_preferred": "Cascade Parkway Southwest",
+                "place_formatted": "Atlanta, Georgia 30311, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.434552,
+                    33.738567
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTBhMTA5N2UtY2NmNC00MzEwLTg5MzMtZjI1YzhjMDllNDRi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLY2dNN0E",
+                        "name": "West End"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlNPN0E",
+                        "name": "30310"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTBhMTA5N2UtY2NmNC00MzEwLTg5MzMtZjI1YzhjMDllNDRi",
+                        "name": "Cascade Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.738567,
+                    "longitude": -84.434552
+                },
+                "feature_type": "street",
+                "full_address": "Cascade Road, Atlanta, Georgia 30310, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTBhMTA5N2UtY2NmNC00MzEwLTg5MzMtZjI1YzhjMDllNDRi",
+                "name": "Cascade Road",
+                "name_preferred": "Cascade Road",
+                "place_formatted": "Atlanta, Georgia 30310, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

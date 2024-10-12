@@ -1,0 +1,281 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.950929,
+                    34.5025
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphYmY0MTZlNy0zYWEyLTQwYmUtOTMwOS03ZTdjNWQ5ZTcwNmI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "100",
+                        "mapbox_id": "dXJuOm1ieGFkcjphYmY0MTZlNy0zYWEyLTQwYmUtOTMwOS03ZTdjNWQ5ZTcwNmI",
+                        "name": "100 South Wall Street",
+                        "street_name": "South Wall Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoT2Jz",
+                        "name": "Gordon County",
+                        "wikidata_id": "Q200696"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBc01vN0E",
+                        "name": "Calhoun",
+                        "wikidata_id": "Q1022996"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaElPN0E",
+                        "name": "30701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWJmNDE2ZTctM2FhMi00MGJlLTkzMDktN2U3YzVkOWU3MDZi",
+                        "name": "South Wall Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.5025,
+                    "longitude": -84.950929,
+                    "routable_points": [
+                        {
+                            "latitude": 34.502536,
+                            "longitude": -84.951293,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "100 South Wall Street, Calhoun, Georgia 30701, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphYmY0MTZlNy0zYWEyLTQwYmUtOTMwOS03ZTdjNWQ5ZTcwNmI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "100 South Wall Street",
+                "name_preferred": "100 South Wall Street",
+                "place_formatted": "Calhoun, Georgia 30701, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.096789,
+                    34.456443
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXdJaXdpYzNSeVpXVjBJam9pVXlCWFFVeE1JRk5VVWtWRlZDSXNJbkJzWVdObElqb2lRMEZNU0U5VlRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRGN3TVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "100",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXdJaXdpYzNSeVpXVjBJam9pVXlCWFFVeE1JRk5VVWtWRlZDSXNJbkJzWVdObElqb2lRMEZNU0U5VlRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRGN3TVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MA",
+                        "name": "100 East Cullpepper Road Southwest",
+                        "street_name": "East Cullpepper Road Southwest"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoT2Jz",
+                        "name": "Gordon County",
+                        "wikidata_id": "Q200696"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBc01vN0E",
+                        "name": "Calhoun",
+                        "wikidata_id": "Q1022996"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaElPN0E",
+                        "name": "30701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEF3SWl3aWMzUnlaV1YwSWpvaVV5QlhRVXhNSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUTBGTVNFOVZUaUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURjd01TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjA",
+                        "name": "East Cullpepper Road Southwest"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.456443,
+                    "longitude": -85.096789,
+                    "routable_points": [
+                        {
+                            "latitude": 34.456443,
+                            "longitude": -85.096789,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "100 East Cullpepper Road Southwest, Calhoun, Georgia 30701, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXdJaXdpYzNSeVpXVjBJam9pVXlCWFFVeE1JRk5VVWtWRlZDSXNJbkJzWVdObElqb2lRMEZNU0U5VlRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRGN3TVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "100 S Wall St",
+                "name_preferred": "100 East Cullpepper Road Southwest",
+                "place_formatted": "Calhoun, Georgia 30701, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.943743,
+                    34.48522
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6M2RkOWQzOTEtY2YzNy00NDY4LTkyOTgtNzk0YmYzMTFiZWFm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoT2Jz",
+                        "name": "Gordon County",
+                        "wikidata_id": "Q200696"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBc01vN0E",
+                        "name": "Calhoun",
+                        "wikidata_id": "Q1022996"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaElPN0E",
+                        "name": "30701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2RkOWQzOTEtY2YzNy00NDY4LTkyOTgtNzk0YmYzMTFiZWFm",
+                        "name": "South Wall Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.48522,
+                    "longitude": -84.943743
+                },
+                "feature_type": "street",
+                "full_address": "South Wall Street, Calhoun, Georgia 30701, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2RkOWQzOTEtY2YzNy00NDY4LTkyOTgtNzk0YmYzMTFiZWFm",
+                "name": "South Wall Street",
+                "name_preferred": "South Wall Street",
+                "place_formatted": "Calhoun, Georgia 30701, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.877683,
+                    34.453547
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YWNjOWVjMjgtMjIwYS00ODQ3LWE2ODItMjk1NzYyOTkwODk2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoT2Jz",
+                        "name": "Gordon County",
+                        "wikidata_id": "Q200696"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEb2pz",
+                        "name": "Adairsville"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaElPN0E",
+                        "name": "30701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWNjOWVjMjgtMjIwYS00ODQ3LWE2ODItMjk1NzYyOTkwODk2",
+                        "name": "Windy Oaks Drive Southeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.453547,
+                    "longitude": -84.877683
+                },
+                "feature_type": "street",
+                "full_address": "Windy Oaks Drive Southeast, Adairsville, Georgia 30701, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWNjOWVjMjgtMjIwYS00ODQ3LWE2ODItMjk1NzYyOTkwODk2",
+                "name": "S Wall St",
+                "name_preferred": "Windy Oaks Drive Southeast",
+                "place_formatted": "Adairsville, Georgia 30701, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

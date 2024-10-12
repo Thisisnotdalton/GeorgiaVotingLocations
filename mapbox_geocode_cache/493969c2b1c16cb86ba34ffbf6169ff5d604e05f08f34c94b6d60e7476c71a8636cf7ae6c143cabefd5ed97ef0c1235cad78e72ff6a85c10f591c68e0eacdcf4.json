@@ -1,0 +1,323 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.437213,
+                    33.591344
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2ZjlmZDZjOC1mOTIwLTQzZDYtYmJkMC00MmZmM2M3Y2RkOTk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1475",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2ZjlmZDZjOC1mOTIwLTQzZDYtYmJkMC00MmZmM2M3Y2RkOTk",
+                        "name": "1475 East Fayetteville Road",
+                        "street_name": "East Fayetteville Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFS0ZzN0E",
+                        "name": "Heatherwood"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFS0dvN0E",
+                        "name": "Riverdale",
+                        "wikidata_id": "Q3260888"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZk1PN0E",
+                        "name": "30296"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmY5ZmQ2YzgtZjkyMC00M2Q2LWJiZDAtNDJmZjNjN2NkZDk5",
+                        "name": "East Fayetteville Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.591344,
+                    "longitude": -84.437213,
+                    "routable_points": [
+                        {
+                            "latitude": 33.591571,
+                            "longitude": -84.437206,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1475 East Fayetteville Road, Riverdale, Georgia 30296, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2ZjlmZDZjOC1mOTIwLTQzZDYtYmJkMC00MmZmM2M3Y2RkOTk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1475 East Fayetteville Road",
+                "name_preferred": "1475 East Fayetteville Road",
+                "place_formatted": "Riverdale, Georgia 30296, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.441928,
+                    33.587495
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NmJhZDdlYWEtYTI2Yy00N2U2LTg4NzktYjkxMDljZDM4ZDBi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFK1pzN0E",
+                        "name": "Kings Forest"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFS0dvN0E",
+                        "name": "Riverdale",
+                        "wikidata_id": "Q3260888"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZk1PN0E",
+                        "name": "30296"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmJhZDdlYWEtYTI2Yy00N2U2LTg4NzktYjkxMDljZDM4ZDBi",
+                        "name": "East Fayetteville Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.587495,
+                    "longitude": -84.441928
+                },
+                "feature_type": "street",
+                "full_address": "East Fayetteville Drive, Riverdale, Georgia 30296, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmJhZDdlYWEtYTI2Yy00N2U2LTg4NzktYjkxMDljZDM4ZDBi",
+                "name": "East Fayetteville Drive",
+                "name_preferred": "East Fayetteville Drive",
+                "place_formatted": "Riverdale, Georgia 30296, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.368133,
+                    33.509051
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NmFmNGFkMTktMTViZi00OWU2LWEyMzAtMzBkZGEwMjBiM2Jj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZDFvN0E",
+                        "name": "Jonesboro",
+                        "wikidata_id": "Q1703398"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.6260183927024956",
+                        "name": "30236"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmFmNGFkMTktMTViZi00OWU2LWEyMzAtMzBkZGEwMjBiM2Jj",
+                        "name": "Fayetteville Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.509051,
+                    "longitude": -84.368133
+                },
+                "feature_type": "street",
+                "full_address": "Fayetteville Road, Jonesboro, Georgia 30236, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmFmNGFkMTktMTViZi00OWU2LWEyMzAtMzBkZGEwMjBiM2Jj",
+                "name": "Fayetteville Road",
+                "name_preferred": "Fayetteville Road",
+                "place_formatted": "Jonesboro, Georgia 30236, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.38867,
+                    33.50107
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWM5Y2FmODQtYTkyNi00NjZmLThmYTgtMWE2Y2ZlZGY5ZTNk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZDFvN0E",
+                        "name": "Jonesboro",
+                        "wikidata_id": "Q1703398"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTN1N0E",
+                        "name": "30238"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWM5Y2FmODQtYTkyNi00NjZmLThmYTgtMWE2Y2ZlZGY5ZTNk",
+                        "name": "Fayetteville Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.50107,
+                    "longitude": -84.38867
+                },
+                "feature_type": "street",
+                "full_address": "Fayetteville Rd, Jonesboro, Georgia 30238, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWM5Y2FmODQtYTkyNi00NjZmLThmYTgtMWE2Y2ZlZGY5ZTNk",
+                "name": "Fayetteville Rd",
+                "name_preferred": "Fayetteville Rd",
+                "place_formatted": "Jonesboro, Georgia 30238, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.452358,
+                    33.434553
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTMzNWM2YmMtNDE0MC00ZTU3LWIxY2EtYjdlN2JlZmI4OWI4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCb09vN0E",
+                        "name": "Fayetteville",
+                        "wikidata_id": "Q782494"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZ1N0E",
+                        "name": "30214"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTMzNWM2YmMtNDE0MC00ZTU3LWIxY2EtYjdlN2JlZmI4OWI4",
+                        "name": "James W Dixon Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.434553,
+                    "longitude": -84.452358
+                },
+                "feature_type": "street",
+                "full_address": "James W Dixon Drive, Fayetteville, Georgia 30214, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTMzNWM2YmMtNDE0MC00ZTU3LWIxY2EtYjdlN2JlZmI4OWI4",
+                "name": "Fayetteville",
+                "name_preferred": "James W Dixon Drive",
+                "place_formatted": "Fayetteville, Georgia 30214, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

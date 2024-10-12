@@ -1,0 +1,346 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.980552,
+                    31.210055
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkMGYxOTFlMS02NDAzLTQ5M2UtOWQ0NS1kY2RlYmQ1Njk0Zjc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "10305",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkMGYxOTFlMS02NDAzLTQ5M2UtOWQ0NS1kY2RlYmQ1Njk0Zjc",
+                        "name": "10305 North Main Street",
+                        "street_name": "North Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJTWJz",
+                        "name": "Brantley County",
+                        "wikidata_id": "Q156650"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEWGhvN0E",
+                        "name": "Nahunta",
+                        "wikidata_id": "Q961836"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalZPN0E",
+                        "name": "31553"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDBmMTkxZTEtNjQwMy00OTNlLTlkNDUtZGNkZWJkNTY5NGY3",
+                        "name": "North Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.210055,
+                    "longitude": -81.980552,
+                    "routable_points": [
+                        {
+                            "latitude": 31.209909,
+                            "longitude": -81.979825,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "10305 North Main Street, Nahunta, Georgia 31553, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkMGYxOTFlMS02NDAzLTQ5M2UtOWQ0NS1kY2RlYmQ1Njk0Zjc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "10305 North Main Street",
+                "name_preferred": "10305 North Main Street",
+                "place_formatted": "Nahunta, Georgia 31553, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.646889,
+                    30.424595
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpNRFVpTENKemRISmxaWFFpT2lKTlFVbE9JRk5VSWl3aWNHeGhZMlVpT2lKT1FVaFZUbFJCSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE5UVXpJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "10305",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpNRFVpTENKemRISmxaWFFpT2lKTlFVbE9JRk5VSWl3aWNHeGhZMlVpT2lKT1FVaFZUbFJCSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE5UVXpJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6MQ",
+                        "name": "10305 Main Street",
+                        "street_name": "Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzphQ2Jz",
+                        "name": "Duval County",
+                        "wikidata_id": "Q493605"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFZFVzN0E",
+                        "name": "Hollyford"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYXRvN0E",
+                        "name": "Jacksonville",
+                        "wikidata_id": "Q16568"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.5108529861841954",
+                        "name": "32208"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVRz",
+                        "name": "Florida",
+                        "region_code": "FL",
+                        "region_code_full": "US-FL",
+                        "wikidata_id": "Q812"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEF6TURVaUxDSnpkSEpsWlhRaU9pSk5RVWxPSUZOVUlpd2ljR3hoWTJVaU9pSk9RVWhWVGxSQklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXhOVFV6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 30.424595,
+                    "longitude": -81.646889,
+                    "routable_points": [
+                        {
+                            "latitude": 30.424595,
+                            "longitude": -81.646889,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "10305 Main Street, Jacksonville, Florida 32208, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpNRFVpTENKemRISmxaWFFpT2lKTlFVbE9JRk5VSWl3aWNHeGhZMlVpT2lKT1FVaFZUbFJCSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE5UVXpJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "10305 Main Street",
+                "name_preferred": "10305 Main Street",
+                "place_formatted": "Jacksonville, Florida 32208, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.275301,
+                    32.73096
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDk1YmVjZmYtNDNhZC00ZjMwLTlhODgtM2YxMGEzYmM0NzI5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPSWJz",
+                        "name": "Charleston County",
+                        "wikidata_id": "Q181015"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpER2RJN0E",
+                            "name": "Meggett"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUkNvN0E",
+                        "name": "Hollywood"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYkR1N0E",
+                        "name": "29449"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDk1YmVjZmYtNDNhZC00ZjMwLTlhODgtM2YxMGEzYmM0NzI5",
+                        "name": "Main St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.73096,
+                    "longitude": -80.275301
+                },
+                "feature_type": "street",
+                "full_address": "Main St, Hollywood, South Carolina 29449, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDk1YmVjZmYtNDNhZC00ZjMwLTlhODgtM2YxMGEzYmM0NzI5",
+                "name": "Main St",
+                "name_preferred": "Main St",
+                "place_formatted": "Hollywood, South Carolina 29449, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.718002,
+                    32.218142
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZWU5M2UwYTgtMmI1Ni00ZTYzLTk2NGMtOTIzMzYwNjFiMWUy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFNmJz",
+                        "name": "Beaufort County",
+                        "wikidata_id": "Q495682"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDTzhJN0E",
+                        "name": "Hilton Head Island",
+                        "wikidata_id": "Q1001134"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZFNPN0E",
+                        "name": "29926"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWU5M2UwYTgtMmI1Ni00ZTYzLTk2NGMtOTIzMzYwNjFiMWUy",
+                        "name": "North Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.218142,
+                    "longitude": -80.718002
+                },
+                "feature_type": "street",
+                "full_address": "North Main Street, Hilton Head Island, South Carolina 29926, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWU5M2UwYTgtMmI1Ni00ZTYzLTk2NGMtOTIzMzYwNjFiMWUy",
+                "name": "Main St",
+                "name_preferred": "North Main Street",
+                "place_formatted": "Hilton Head Island, South Carolina 29926, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.072121,
+                    32.279805
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Y2JkNGI0YmEtYjg0Ny00MTI3LTkwM2EtMTM1NmYwZmFjODZh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyaWJz",
+                        "name": "Jasper County",
+                        "wikidata_id": "Q112957"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDRjBJN0E",
+                        "name": "Hardeeville",
+                        "wikidata_id": "Q2122398"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZFN1N0E",
+                        "name": "29927"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2JkNGI0YmEtYjg0Ny00MTI3LTkwM2EtMTM1NmYwZmFjODZh",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.279805,
+                    "longitude": -81.072121
+                },
+                "feature_type": "street",
+                "full_address": "Main Street, Hardeeville, South Carolina 29927, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2JkNGI0YmEtYjg0Ny00MTI3LTkwM2EtMTM1NmYwZmFjODZh",
+                "name": "Main Street",
+                "name_preferred": "Main Street",
+                "place_formatted": "Hardeeville, South Carolina 29927, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

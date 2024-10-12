@@ -1,0 +1,367 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.781042,
+                    32.448338
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5ZWM5YTNhMS1mZmQ0LTQyZDItODkwYi1mYTIzMDI2MWU0NzY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "64",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5ZWM5YTNhMS1mZmQ0LTQyZDItODkwYi1mYTIzMDI2MWU0NzY",
+                        "name": "64 East Main Street",
+                        "street_name": "East Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKc2Jz",
+                        "name": "Bulloch County",
+                        "wikidata_id": "Q488166"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFclVJN0E",
+                        "name": "Statesboro",
+                        "wikidata_id": "Q988919"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0ZPN0E",
+                        "name": "30458"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWVjOWEzYTEtZmZkNC00MmQyLTg5MGItZmEyMzAyNjFlNDc2",
+                        "name": "East Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 32.448338,
+                    "longitude": -81.781042,
+                    "routable_points": [
+                        {
+                            "latitude": 32.448777,
+                            "longitude": -81.780998,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "64 East Main Street, Statesboro, Georgia 30458, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5ZWM5YTNhMS1mZmQ0LTQyZDItODkwYi1mYTIzMDI2MWU0NzY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "64 East Main Street",
+                "name_preferred": "64 East Main Street",
+                "place_formatted": "Statesboro, Georgia 30458, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.76943,
+                    32.45524
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODIzMzUwNWMtMWFkZi00NGMwLTk1NWItY2JjYzUyN2EyOWU4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKc2Jz",
+                        "name": "Bulloch County",
+                        "wikidata_id": "Q488166"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIMGJNN0E",
+                        "name": "Ramblewood East"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFclVJN0E",
+                        "name": "Statesboro",
+                        "wikidata_id": "Q988919"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0ZPN0E",
+                        "name": "30458"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODIzMzUwNWMtMWFkZi00NGMwLTk1NWItY2JjYzUyN2EyOWU4",
+                        "name": "E Main St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.45524,
+                    "longitude": -81.76943
+                },
+                "feature_type": "street",
+                "full_address": "E Main St, Statesboro, Georgia 30458, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODIzMzUwNWMtMWFkZi00NGMwLTk1NWItY2JjYzUyN2EyOWU4",
+                "name": "E Main St",
+                "name_preferred": "E Main St",
+                "place_formatted": "Statesboro, Georgia 30458, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.299606,
+                    32.128234
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qUWlMQ0p6ZEhKbFpYUWlPaUpGUVZOVUlFMUJTVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpUVkVGVVJWTkNUMUpQSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05EVTRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "64",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qUWlMQ0p6ZEhKbFpYUWlPaUpGUVZOVUlFMUJTVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpUVkVGVVJWTkNUMUpQSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05EVTRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+                        "name": "64 West Main Street",
+                        "street_name": "West Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZGFJN0E",
+                        "name": "Bloomingdale",
+                        "wikidata_id": "Q2546351"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXR1N0E",
+                        "name": "31302"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOalFpTENKemRISmxaWFFpT2lKRlFWTlVJRTFCU1U0Z1UxUlNSVVZVSWl3aWNHeGhZMlVpT2lKVFZFRlVSVk5DVDFKUElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdORFU0SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                        "name": "West Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.128234,
+                    "longitude": -81.299606,
+                    "routable_points": [
+                        {
+                            "latitude": 32.128234,
+                            "longitude": -81.299606,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "64 West Main Street, Bloomingdale, Georgia 31302, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qUWlMQ0p6ZEhKbFpYUWlPaUpGUVZOVUlFMUJTVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpUVkVGVVJWTkNUMUpQSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05EVTRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "64 West Main Street",
+                "name_preferred": "64 West Main Street",
+                "place_formatted": "Bloomingdale, Georgia 31302, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.32201,
+                    34.8718
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qUWlMQ0p6ZEhKbFpYUWlPaUpGUVZOVUlFMUJTVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpUVkVGVVJWTkNUMUpQSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05EVTRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "64",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qUWlMQ0p6ZEhKbFpYUWlPaUpGUVZOVUlFMUJTVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpUVkVGVVJWTkNUMUpQSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05EVTRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+                        "name": "64 East Fain Street",
+                        "street_name": "East Fain Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjWWJz",
+                        "name": "Fannin County",
+                        "wikidata_id": "Q493079"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZUhJN0E",
+                        "name": "Blue Ridge",
+                        "wikidata_id": "Q2035614"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1FPN0E",
+                        "name": "30513"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOalFpTENKemRISmxaWFFpT2lKRlFWTlVJRTFCU1U0Z1UxUlNSVVZVSWl3aWNHeGhZMlVpT2lKVFZFRlVSVk5DVDFKUElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdORFU0SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjM",
+                        "name": "East Fain Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.8718,
+                    "longitude": -84.32201,
+                    "routable_points": [
+                        {
+                            "latitude": 34.8718,
+                            "longitude": -84.32201,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "64 East Fain Street, Blue Ridge, Georgia 30513, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qUWlMQ0p6ZEhKbFpYUWlPaUpGUVZOVUlFMUJTVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpUVkVGVVJWTkNUMUpQSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05EVTRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "64 East Fain Street",
+                "name_preferred": "64 East Fain Street",
+                "place_formatted": "Blue Ridge, Georgia 30513, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.88389,
+                    32.36682
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmM0ZjFlYzYtOTc1MC00YzM3LTk3MzgtMzk5NjBkYzA5Nzc1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKc2Jz",
+                        "name": "Bulloch County",
+                        "wikidata_id": "Q488166"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFR0ZJN0E",
+                        "name": "Register",
+                        "wikidata_id": "Q2477950"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0NPN0E",
+                        "name": "30452"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmM0ZjFlYzYtOTc1MC00YzM3LTk3MzgtMzk5NjBkYzA5Nzc1",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.36682,
+                    "longitude": -81.88389
+                },
+                "feature_type": "street",
+                "full_address": "Main Street, Register, Georgia 30452, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmM0ZjFlYzYtOTc1MC00YzM3LTk3MzgtMzk5NjBkYzA5Nzc1",
+                "name": "Main Street",
+                "name_preferred": "Main Street",
+                "place_formatted": "Register, Georgia 30452, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,366 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.206505,
+                    32.061499
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiMGM2OWIyZC0wYmIzLTQ5OTQtODQ5NS04YzQyMWFiMWUxODY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "104",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiMGM2OWIyZC0wYmIzLTQ5OTQtODQ5NS04YzQyMWFiMWUxODY",
+                        "name": "104 Sunshine Avenue",
+                        "street_name": "Sunshine Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFWTlJN0E",
+                            "name": "Savannah"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCendJN0E",
+                        "name": "Garden City"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTh1N0E",
+                        "name": "31405"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjBjNjliMmQtMGJiMy00OTk0LTg0OTUtOGM0MjFhYjFlMTg2",
+                        "name": "Sunshine Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.061499,
+                    "longitude": -81.206505,
+                    "routable_points": [
+                        {
+                            "latitude": 32.061287,
+                            "longitude": -81.206564,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "104 Sunshine Avenue, Garden City, Georgia 31405, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiMGM2OWIyZC0wYmIzLTQ5OTQtODQ5NS04YzQyMWFiMWUxODY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "medium",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "104 Sunshine Road",
+                "name_preferred": "104 Sunshine Avenue",
+                "place_formatted": "Garden City, Georgia 31405, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.847046,
+                    31.233538
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQTBJaXdpYzNSeVpXVjBJam9pVTFWT1UwaEpUa1VnVWtRaUxDSndiR0ZqWlNJNklrZEJVa1JGVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UUXdOU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "104",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQTBJaXdpYzNSeVpXVjBJam9pVTFWT1UwaEpUa1VnVWtRaUxDSndiR0ZqWlNJNklrZEJVa1JGVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UUXdOU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+                        "name": "104 Sunshine Road",
+                        "street_name": "Sunshine Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJTWJz",
+                        "name": "Brantley County",
+                        "wikidata_id": "Q156650"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDVENJN0E",
+                        "name": "Hortense",
+                        "wikidata_id": "Q5906681"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalFPN0E",
+                        "name": "31543"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEEwSWl3aWMzUnlaV1YwSWpvaVUxVk9VMGhKVGtVZ1VrUWlMQ0p3YkdGalpTSTZJa2RCVWtSRlRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFF3TlNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                        "name": "Sunshine Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.233538,
+                    "longitude": -81.847046,
+                    "routable_points": [
+                        {
+                            "latitude": 31.233538,
+                            "longitude": -81.847046,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "104 Sunshine Road, Hortense, Georgia 31543, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQTBJaXdpYzNSeVpXVjBJam9pVTFWT1UwaEpUa1VnVWtRaUxDSndiR0ZqWlNJNklrZEJVa1JGVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UUXdOU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "104 Sunshine Road",
+                "name_preferred": "104 Sunshine Road",
+                "place_formatted": "Hortense, Georgia 31543, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.352126,
+                    31.779062
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZWMzY2RkODMtZTFjMS00ZTZhLTg1N2YtNjcyZTlkZTkzNDU0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDWWJz",
+                        "name": "Appling County",
+                        "wikidata_id": "Q488186"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVFJJN0E",
+                        "name": "Baxley",
+                        "wikidata_id": "Q2038428"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakd1N0E",
+                        "name": "31513"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWMzY2RkODMtZTFjMS00ZTZhLTg1N2YtNjcyZTlkZTkzNDU0",
+                        "name": "Sunshine Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.779062,
+                    "longitude": -82.352126
+                },
+                "feature_type": "street",
+                "full_address": "Sunshine Dr, Baxley, Georgia 31513, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWMzY2RkODMtZTFjMS00ZTZhLTg1N2YtNjcyZTlkZTkzNDU0",
+                "name": "Sunshine Dr",
+                "name_preferred": "Sunshine Dr",
+                "place_formatted": "Baxley, Georgia 31513, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.461017,
+                    32.236625
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YWRjNDE5NTItYzRmMS00YzExLWExMmQtODI0Y2EwZDkzMzMz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKc2Jz",
+                        "name": "Bulloch County",
+                        "wikidata_id": "Q488166"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlZJN0E",
+                        "name": "Ellabell",
+                        "wikidata_id": "Q5364596"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXdPN0E",
+                        "name": "31308"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWRjNDE5NTItYzRmMS00YzExLWExMmQtODI0Y2EwZDkzMzMz",
+                        "name": "Sunshine Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.236625,
+                    "longitude": -81.461017
+                },
+                "feature_type": "street",
+                "full_address": "Sunshine Rd, Ellabell, Georgia 31308, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWRjNDE5NTItYzRmMS00YzExLWExMmQtODI0Y2EwZDkzMzMz",
+                "name": "Sunshine Rd",
+                "name_preferred": "Sunshine Rd",
+                "place_formatted": "Ellabell, Georgia 31308, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.940245,
+                    34.58367
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQTBJaXdpYzNSeVpXVjBJam9pVTFWT1UwaEpUa1VnVWtRaUxDSndiR0ZqWlNJNklrZEJVa1JGVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UUXdOU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "104",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQTBJaXdpYzNSeVpXVjBJam9pVTFWT1UwaEpUa1VnVWtRaUxDSndiR0ZqWlNJNklrZEJVa1JGVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UUXdOU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+                        "name": "104 Sunshine Drive",
+                        "street_name": "Sunshine Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoT2Jz",
+                        "name": "Gordon County",
+                        "wikidata_id": "Q200696"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFR3RJN0E",
+                        "name": "Resaca",
+                        "wikidata_id": "Q1402992"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFNPN0E",
+                        "name": "30735"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEEwSWl3aWMzUnlaV1YwSWpvaVUxVk9VMGhKVGtVZ1VrUWlMQ0p3YkdGalpTSTZJa2RCVWtSRlRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFF3TlNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+                        "name": "Sunshine Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.58367,
+                    "longitude": -84.940245,
+                    "routable_points": [
+                        {
+                            "latitude": 34.58367,
+                            "longitude": -84.940245,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "104 Sunshine Drive, Resaca, Georgia 30735, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQTBJaXdpYzNSeVpXVjBJam9pVTFWT1UwaEpUa1VnVWtRaUxDSndiR0ZqWlNJNklrZEJVa1JGVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UUXdOU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "104 Sunshine Drive",
+                "name_preferred": "104 Sunshine Drive",
+                "place_formatted": "Resaca, Georgia 30735, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,330 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.813911,
+                    34.206284
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphMzY1MTdhMy0xMmM0LTQ5MmYtOTBhMS0wN2I4MWY5OWY2Yjc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1300",
+                        "mapbox_id": "dXJuOm1ieGFkcjphMzY1MTdhMy0xMmM0LTQ5MmYtOTBhMS0wN2I4MWY5OWY2Yjc",
+                        "name": "1300 Joe Frank Harris Parkway Southeast",
+                        "street_name": "Joe Frank Harris Parkway Southeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaWJz",
+                        "name": "Bartow County",
+                        "wikidata_id": "Q488181"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCa0RJN0E",
+                            "name": "Euharlee"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeEtJN0E",
+                        "name": "Cartersville",
+                        "wikidata_id": "Q932346"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVF1N0E",
+                        "name": "30120"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTM2NTE3YTMtMTJjNC00OTJmLTkwYTEtMDdiODFmOTlmNmI3",
+                        "name": "Joe Frank Harris Parkway Southeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.206284,
+                    "longitude": -84.813911,
+                    "routable_points": [
+                        {
+                            "latitude": 34.206562,
+                            "longitude": -84.813832,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1300 Joe Frank Harris Parkway Southeast, Cartersville, Georgia 30120, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphMzY1MTdhMy0xMmM0LTQ5MmYtOTBhMS0wN2I4MWY5OWY2Yjc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1300 Joe Frank Harris Parkway Southeast",
+                "name_preferred": "1300 Joe Frank Harris Parkway Southeast",
+                "place_formatted": "Cartersville, Georgia 30120, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.808118,
+                    34.220792
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzA3ZDg1NmItYmQyOC00M2UwLThlODgtNzJkNDE5N2I4ZGI3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaWJz",
+                        "name": "Bartow County",
+                        "wikidata_id": "Q488181"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCaGFvN0E",
+                            "name": "Emerson"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeEtJN0E",
+                        "name": "Cartersville",
+                        "wikidata_id": "Q932346"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVJPN0E",
+                        "name": "30121"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzA3ZDg1NmItYmQyOC00M2UwLThlODgtNzJkNDE5N2I4ZGI3",
+                        "name": "Sunrise Drive Southeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.220792,
+                    "longitude": -84.808118
+                },
+                "feature_type": "street",
+                "full_address": "Sunrise Drive Southeast, Cartersville, Georgia 30121, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzA3ZDg1NmItYmQyOC00M2UwLThlODgtNzJkNDE5N2I4ZGI3",
+                "name": "Joe Frank Harris Pkwy SE",
+                "name_preferred": "Sunrise Drive Southeast",
+                "place_formatted": "Cartersville, Georgia 30121, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.748379,
+                    34.106325
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWJkNDYwMjAtNzhkNC00YTE0LWIwZjgtNzlkZTdiZjMzZGM5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaWJz",
+                        "name": "Bartow County",
+                        "wikidata_id": "Q488181"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCa0RJN0E",
+                            "name": "Euharlee"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeEtJN0E",
+                        "name": "Cartersville",
+                        "wikidata_id": "Q932346"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVF1N0E",
+                        "name": "30120"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWJkNDYwMjAtNzhkNC00YTE0LWIwZjgtNzlkZTdiZjMzZGM5",
+                        "name": "Joe Frank Harris Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.106325,
+                    "longitude": -84.748379
+                },
+                "feature_type": "street",
+                "full_address": "Joe Frank Harris Parkway, Cartersville, Georgia 30120, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWJkNDYwMjAtNzhkNC00YTE0LWIwZjgtNzlkZTdiZjMzZGM5",
+                "name": "Joe Frank Harris Parkway",
+                "name_preferred": "Joe Frank Harris Parkway",
+                "place_formatted": "Cartersville, Georgia 30120, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.750425,
+                    34.123988
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGNhNjBmYmMtZmZkOC00Njg1LTg2OTctY2M5ZjA2YTRmMWEx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaWJz",
+                        "name": "Bartow County",
+                        "wikidata_id": "Q488181"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGdXhJN0E",
+                        "name": "Cartersville"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVJPN0E",
+                        "name": "30121"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGNhNjBmYmMtZmZkOC00Njg1LTg2OTctY2M5ZjA2YTRmMWEx",
+                        "name": "Joe Frank Harris Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.123988,
+                    "longitude": -84.750425
+                },
+                "feature_type": "street",
+                "full_address": "Joe Frank Harris Parkway, Cartersville, Georgia 30121, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGNhNjBmYmMtZmZkOC00Njg1LTg2OTctY2M5ZjA2YTRmMWEx",
+                "name": "Joe Frank Harris Parkway",
+                "name_preferred": "Joe Frank Harris Parkway",
+                "place_formatted": "Cartersville, Georgia 30121, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.734554,
+                    34.084899
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTg1MGM5MzItY2JmNS00ZjIyLWJhYzktOTkzMDhiNWU2NzJh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaWJz",
+                        "name": "Bartow County",
+                        "wikidata_id": "Q488181"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCaGFvN0E",
+                            "name": "Emerson"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeEtJN0E",
+                        "name": "Cartersville",
+                        "wikidata_id": "Q932346"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVF1N0E",
+                        "name": "30120"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTg1MGM5MzItY2JmNS00ZjIyLWJhYzktOTkzMDhiNWU2NzJh",
+                        "name": "Joe Frank Harris Parkway Southeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.084899,
+                    "longitude": -84.734554
+                },
+                "feature_type": "street",
+                "full_address": "Joe Frank Harris Parkway Southeast, Cartersville, Georgia 30120, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTg1MGM5MzItY2JmNS00ZjIyLWJhYzktOTkzMDhiNWU2NzJh",
+                "name": "Joe Frank Harris Parkway Southeast",
+                "name_preferred": "Joe Frank Harris Parkway Southeast",
+                "place_formatted": "Cartersville, Georgia 30120, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

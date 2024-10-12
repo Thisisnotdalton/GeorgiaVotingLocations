@@ -1,0 +1,362 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.410045,
+                    32.997934
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplMjZlNzgzMC03ODcwLTRhY2YtYmNkYS1lZTdkMjBlYzI2MDM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "415",
+                        "mapbox_id": "dXJuOm1ieGFkcjplMjZlNzgzMC03ODcwLTRhY2YtYmNkYS1lZTdkMjBlYzI2MDM",
+                        "name": "415 Green Street",
+                        "street_name": "Green Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpzU2Jz",
+                        "name": "Jefferson County",
+                        "wikidata_id": "Q486386"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNExvN0E",
+                        "name": "Louisville",
+                        "wikidata_id": "Q2931901"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjd1N0E",
+                        "name": "30434"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTI2ZTc4MzAtNzg3MC00YWNmLWJjZGEtZWU3ZDIwZWMyNjAz",
+                        "name": "Green Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 32.997934,
+                    "longitude": -82.410045,
+                    "routable_points": [
+                        {
+                            "latitude": 32.997826,
+                            "longitude": -82.409907,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "415 Green Street, Louisville, Georgia 30434, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplMjZlNzgzMC03ODcwLTRhY2YtYmNkYS1lZTdkMjBlYzI2MDM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "415 Green Street",
+                "name_preferred": "415 Green Street",
+                "place_formatted": "Louisville, Georgia 30434, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.39702,
+                    32.995266
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWI2MjhkMDAtNWNhOS00YTVmLTk1ZjgtNzdmODNhODQ3OTBi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpzU2Jz",
+                        "name": "Jefferson County",
+                        "wikidata_id": "Q486386"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNExvN0E",
+                        "name": "Louisville",
+                        "wikidata_id": "Q2931901"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjd1N0E",
+                        "name": "30434"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWI2MjhkMDAtNWNhOS00YTVmLTk1ZjgtNzdmODNhODQ3OTBi",
+                        "name": "Brooks Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.995266,
+                    "longitude": -82.39702
+                },
+                "feature_type": "street",
+                "full_address": "Brooks Street, Louisville, Georgia 30434, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWI2MjhkMDAtNWNhOS00YTVmLTk1ZjgtNzdmODNhODQ3OTBi",
+                "name": "St",
+                "name_preferred": "Brooks Street",
+                "place_formatted": "Louisville, Georgia 30434, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.502205,
+                    38.769272
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ERTFJaXdpYzNSeVpXVjBJam9pUjFKRlJVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSk1UMVZKVTFaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TkRNMElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "415",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ERTFJaXdpYzNSeVpXVjBJam9pUjFKRlJVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSk1UMVZKVTFaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TkRNMElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                        "name": "415 South Green Street",
+                        "street_name": "South Green Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSS2Jz",
+                        "name": "Clay County",
+                        "wikidata_id": "Q110417"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNEpJN0E",
+                        "name": "Louisville",
+                        "wikidata_id": "Q1787261"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUEVPN0E",
+                        "name": "62858"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpST3c",
+                        "name": "Illinois",
+                        "region_code": "IL",
+                        "region_code_full": "US-IL",
+                        "wikidata_id": "Q1204"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOREUxSWl3aWMzUnlaV1YwSWpvaVIxSkZSVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpNVDFWSlUxWkpURXhGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05ETTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+                        "name": "South Green Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 38.769272,
+                    "longitude": -88.502205,
+                    "routable_points": [
+                        {
+                            "latitude": 38.769272,
+                            "longitude": -88.502205,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "415 South Green Street, Louisville, Illinois 62858, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ERTFJaXdpYzNSeVpXVjBJam9pUjFKRlJVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSk1UMVZKVTFaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TkRNMElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "415 South Green Street",
+                "name_preferred": "415 South Green Street",
+                "place_formatted": "Louisville, Illinois 62858, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.52349,
+                    33.194237
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzA5MTg5MDctZjkyMy00MWVkLTk3NjQtMzIzNGIzYTBjY2E0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpzU2Jz",
+                        "name": "Jefferson County",
+                        "wikidata_id": "Q486386"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2K2pz",
+                        "name": "Avera"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGF1N0E",
+                        "name": "30803"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzA5MTg5MDctZjkyMy00MWVkLTk3NjQtMzIzNGIzYTBjY2E0",
+                        "name": "South Green Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.194237,
+                    "longitude": -82.52349
+                },
+                "feature_type": "street",
+                "full_address": "South Green Street, Avera, Georgia 30803, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzA5MTg5MDctZjkyMy00MWVkLTk3NjQtMzIzNGIzYTBjY2E0",
+                "name": "South Green Street",
+                "name_preferred": "South Green Street",
+                "place_formatted": "Avera, Georgia 30803, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.630137,
+                    34.270748
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4YTQ0NjE5ZS1lNTc5LTRmZjEtOTY2MC1jYWI1ZjNlNDE4YmE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "415",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4YTQ0NjE5ZS1lNTc5LTRmZjEtOTY2MC1jYWI1ZjNlNDE4YmE",
+                        "name": "415 Green Street",
+                        "street_name": "Green Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUUdHN0E",
+                        "name": "Newberry County",
+                        "wikidata_id": "Q515177"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEYW9JN0E",
+                        "name": "Newberry",
+                        "wikidata_id": "Q2610042"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCWnN1N0E",
+                        "name": "29108"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGE0NDYxOWUtZTU3OS00ZmYxLTk2NjAtY2FiNWYzZTQxOGJh",
+                        "name": "Green Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.270748,
+                    "longitude": -81.630137,
+                    "routable_points": [
+                        {
+                            "latitude": 34.270675,
+                            "longitude": -81.62995,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "415 Green Street, Newberry, South Carolina 29108, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4YTQ0NjE5ZS1lNTc5LTRmZjEtOTY2MC1jYWI1ZjNlNDE4YmE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "415 Green Street",
+                "name_preferred": "415 Green Street",
+                "place_formatted": "Newberry, South Carolina 29108, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

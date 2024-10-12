@@ -1,0 +1,427 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.108086,
+                    33.336998
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjYjQwYTA5Yy1jN2I4LTRkZWQtYTNmNC1iN2RiOTM3YTkzYjk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "115",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjYjQwYTA5Yy1jN2I4LTRkZWQtYTNmNC1iN2RiOTM3YTkzYjk",
+                        "name": "115 Martin Luther King Jr Boulevard",
+                        "street_name": "Martin Luther King Jr Boulevard"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDMVlJN0E",
+                        "name": "Locust Grove",
+                        "wikidata_id": "Q2721225"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTVPN0E",
+                        "name": "30248"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2I0MGEwOWMtYzdiOC00ZGVkLWEzZjQtYjdkYjkzN2E5M2I5",
+                        "name": "Martin Luther King Jr Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.336998,
+                    "longitude": -84.108086,
+                    "routable_points": [
+                        {
+                            "latitude": 33.336978,
+                            "longitude": -84.1078,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "115 Martin Luther King Jr Boulevard, Locust Grove, Georgia 30248, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjYjQwYTA5Yy1jN2I4LTRkZWQtYTNmNC1iN2RiOTM3YTkzYjk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "115 MLK Jr Boulevard",
+                "name_preferred": "115 Martin Luther King Jr Boulevard",
+                "place_formatted": "Locust Grove, Georgia 30248, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.097804,
+                    32.07965
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiNjBiZmU0NC0yYzNlLTRlODgtOTVkMC1mY2QyZGRkYzgxN2Y",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "115",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiNjBiZmU0NC0yYzNlLTRlODgtOTVkMC1mY2QyZGRkYzgxN2Y",
+                        "name": "115 Martin Luther King Jr Boulevard",
+                        "street_name": "Martin Luther King Jr Boulevard"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDa25zN0E",
+                            "name": "Downtown Savannah"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpMQ0dzN0E",
+                        "name": "Yamacraw Village"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTZ1N0E",
+                        "name": "31401"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjYwYmZlNDQtMmMzZS00ZTg4LTk1ZDAtZmNkMmRkZGM4MTdm",
+                        "name": "Martin Luther King Jr Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 32.07965,
+                    "longitude": -81.097804,
+                    "routable_points": [
+                        {
+                            "latitude": 32.079587,
+                            "longitude": -81.097568,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "115 Martin Luther King Jr Boulevard, Savannah, Georgia 31401, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiNjBiZmU0NC0yYzNlLTRlODgtOTVkMC1mY2QyZGRkYzgxN2Y",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "115 MLK Jr Boulevard",
+                "name_preferred": "115 Martin Luther King Jr Boulevard",
+                "place_formatted": "Savannah, Georgia 31401, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.428385,
+                    31.371769
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URTFJaXdpYzNSeVpXVjBJam9pVFV4TElFcFNJRUpNVmtRaUxDSndiR0ZqWlNJNklreFBRMVZUVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ESTBPQ0F3TURBd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "115",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URTFJaXdpYzNSeVpXVjBJam9pVFV4TElFcFNJRUpNVmtRaUxDSndiR0ZqWlNJNklreFBRMVZUVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ESTBPQ0F3TURBd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                        "name": "115 Martin Luther King Jr Boulevard",
+                        "street_name": "Martin Luther King Jr Boulevard"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2R2Jz",
+                        "name": "McIntosh County",
+                        "wikidata_id": "Q492652"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBa0NzN0E",
+                        "name": "Bel-Air"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTXdJN0E",
+                        "name": "Darien",
+                        "wikidata_id": "Q1165884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXZPN0E",
+                        "name": "31305"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEUxSWl3aWMzUnlaV1YwSWpvaVRVeExJRXBTSUVKTVZrUWlMQ0p3YkdGalpTSTZJa3hQUTFWVFZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNREkwT0NBd01EQXdJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+                        "name": "Martin Luther King Jr Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.371769,
+                    "longitude": -81.428385,
+                    "routable_points": [
+                        {
+                            "latitude": 31.371769,
+                            "longitude": -81.428385,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "115 Martin Luther King Jr Boulevard, Darien, Georgia 31305, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URTFJaXdpYzNSeVpXVjBJam9pVFV4TElFcFNJRUpNVmtRaUxDSndiR0ZqWlNJNklreFBRMVZUVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ESTBPQ0F3TURBd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "115 MLK Jr Boulevard",
+                "name_preferred": "115 Martin Luther King Jr Boulevard",
+                "place_formatted": "Darien, Georgia 31305, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.63568,
+                    32.08464
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozNmRiYWJkNi1iZmFlLTQ1MzMtYTBiMi1hZWViZGZjNzU4YTQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "115",
+                        "mapbox_id": "dXJuOm1ieGFkcjozNmRiYWJkNi1iZmFlLTQ1MzMtYTBiMi1hZWViZGZjNzU4YTQ",
+                        "name": "115 Martin Luther King Jr",
+                        "street_name": "Martin Luther King Jr"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWGpHN0E",
+                        "name": "Webster County",
+                        "wikidata_id": "Q491514"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJMGpLN0E",
+                        "name": "Webster County"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFSDJJN0E",
+                        "name": "Richland",
+                        "wikidata_id": "Q1912978"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1hPN0E",
+                        "name": "31825"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzZkYmFiZDYtYmZhZS00NTMzLWEwYjItYWVlYmRmYzc1OGE0",
+                        "name": "Martin Luther King Jr"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 32.08464,
+                    "longitude": -84.63568,
+                    "routable_points": [
+                        {
+                            "latitude": 32.084639,
+                            "longitude": -84.636209,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "115 Martin Luther King Jr, Richland, Georgia 31825, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozNmRiYWJkNi1iZmFlLTQ1MzMtYTBiMi1hZWViZGZjNzU4YTQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "115 MLK Jr",
+                "name_preferred": "115 Martin Luther King Jr",
+                "place_formatted": "Richland, Georgia 31825, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.954074,
+                    33.283169
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URTFJaXdpYzNSeVpXVjBJam9pVFV4TElFcFNJRUpNVmtRaUxDSndiR0ZqWlNJNklreFBRMVZUVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ESTBPQ0F3TURBd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "115",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URTFJaXdpYzNSeVpXVjBJam9pVFV4TElFcFNJRUpNVmtRaUxDSndiR0ZqWlNJNklreFBRMVZUVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ESTBPQ0F3TURBd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+                        "name": "115 Martin Luther King Jr",
+                        "street_name": "Martin Luther King Jr"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprMmJz",
+                        "name": "Hancock County",
+                        "wikidata_id": "Q493112"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbnFJN0E",
+                        "name": "Sparta",
+                        "wikidata_id": "Q2670509"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVV1N0E",
+                        "name": "31087"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEUxSWl3aWMzUnlaV1YwSWpvaVRVeExJRXBTSUVKTVZrUWlMQ0p3YkdGalpTSTZJa3hQUTFWVFZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNREkwT0NBd01EQXdJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+                        "name": "Martin Luther King Jr"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.283169,
+                    "longitude": -82.954074,
+                    "routable_points": [
+                        {
+                            "latitude": 33.283169,
+                            "longitude": -82.954074,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "115 Martin Luther King Jr, Sparta, Georgia 31087, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URTFJaXdpYzNSeVpXVjBJam9pVFV4TElFcFNJRUpNVmtRaUxDSndiR0ZqWlNJNklreFBRMVZUVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ESTBPQ0F3TURBd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "115 MLK Jr",
+                "name_preferred": "115 Martin Luther King Jr",
+                "place_formatted": "Sparta, Georgia 31087, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

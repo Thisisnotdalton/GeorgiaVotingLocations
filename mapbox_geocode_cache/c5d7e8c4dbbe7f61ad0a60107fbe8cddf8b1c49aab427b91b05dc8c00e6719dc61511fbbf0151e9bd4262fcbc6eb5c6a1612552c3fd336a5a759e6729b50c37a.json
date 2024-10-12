@@ -1,0 +1,373 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.461678,
+                    33.705715
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3YzkyNDcxMy01YWRiLTRlZWUtOWYzMS03OTM0Mjk3Zjk3OTQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2231",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3YzkyNDcxMy01YWRiLTRlZWUtOWYzMS03OTM0Mjk3Zjk3OTQ",
+                        "name": "2231 Campbellton Road Southwest",
+                        "street_name": "Campbellton Road Southwest"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKQ3pz",
+                        "name": "Adams Park",
+                        "wikidata_id": "Q34806362"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFbDVJN0E",
+                            "name": "South Fulton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlN1N0E",
+                        "name": "30311"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2M5MjQ3MTMtNWFkYi00ZWVlLTlmMzEtNzkzNDI5N2Y5Nzk0",
+                        "name": "Campbellton Road Southwest"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.705715,
+                    "longitude": -84.461678,
+                    "routable_points": [
+                        {
+                            "latitude": 33.705847,
+                            "longitude": -84.461393,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2231 Campbellton Road Southwest, Atlanta, Georgia 30311, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3YzkyNDcxMy01YWRiLTRlZWUtOWYzMS03OTM0Mjk3Zjk3OTQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2231 Campbellton Road Southwest",
+                "name_preferred": "2231 Campbellton Road Southwest",
+                "place_formatted": "Atlanta, Georgia 30311, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.46497,
+                    33.69784
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MmY2OTg1MzgtNTMzMy00NWFhLWE0ZjktMmM1NjBiMTViNjBj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCUnRNN0E",
+                        "name": "Campbellton Road"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFbDVJN0E",
+                            "name": "South Fulton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlN1N0E",
+                        "name": "30311"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmY2OTg1MzgtNTMzMy00NWFhLWE0ZjktMmM1NjBiMTViNjBj",
+                        "name": "Campbellton Road SW"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.69784,
+                    "longitude": -84.46497
+                },
+                "feature_type": "street",
+                "full_address": "Campbellton Road SW, Atlanta, Georgia 30311, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmY2OTg1MzgtNTMzMy00NWFhLWE0ZjktMmM1NjBiMTViNjBj",
+                "name": "Campbellton Road SW",
+                "name_preferred": "Campbellton Road SW",
+                "place_formatted": "Atlanta, Georgia 30311, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.37231,
+                    33.841495
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Mjg3MjZjODItNzVlMi00M2QyLWFlOWQtM2QxYzY4NGViYTE3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCSTJNN0E",
+                            "name": "Buckhead Triangle",
+                            "wikidata_id": "Q2333137"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCSTJzN0E",
+                        "name": "Buckhead Village"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlN1N0E",
+                        "name": "30311"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Mjg3MjZjODItNzVlMi00M2QyLWFlOWQtM2QxYzY4NGViYTE3",
+                        "name": "Campbellton Rd SW"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.841495,
+                    "longitude": -84.37231
+                },
+                "feature_type": "street",
+                "full_address": "Campbellton Rd SW, Atlanta, Georgia 30311, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Mjg3MjZjODItNzVlMi00M2QyLWFlOWQtM2QxYzY4NGViYTE3",
+                "name": "Campbellton Rd SW",
+                "name_preferred": "Campbellton Rd SW",
+                "place_formatted": "Atlanta, Georgia 30311, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.439136,
+                    33.712812
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MmJiMjg5NDgtNDU2OS00YmRiLTkyY2YtZThkMzFkYjU2NTk1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLRXBNN0E",
+                        "name": "Venetian Hills",
+                        "wikidata_id": "Q18217604"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFbDVJN0E",
+                            "name": "South Fulton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlN1N0E",
+                        "name": "30311"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmJiMjg5NDgtNDU2OS00YmRiLTkyY2YtZThkMzFkYjU2NTk1",
+                        "name": "Campbellton Road Southwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.712812,
+                    "longitude": -84.439136
+                },
+                "feature_type": "street",
+                "full_address": "Campbellton Road Southwest, Atlanta, Georgia 30311, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmJiMjg5NDgtNDU2OS00YmRiLTkyY2YtZThkMzFkYjU2NTk1",
+                "name": "Campbellton Road Southwest",
+                "name_preferred": "Campbellton Road Southwest",
+                "place_formatted": "Atlanta, Georgia 30311, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.589525,
+                    33.693574
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSXpNU0lzSW5OMGNtVmxkQ0k2SWtOQlRWQkNSVXhNVkU5T0lGSlBRVVFnVTFjaUxDSndiR0ZqWlNJNklrRlVURUZPVkVFaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXpNVEVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6NA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2231",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSXpNU0lzSW5OMGNtVmxkQ0k2SWtOQlRWQkNSVXhNVkU5T0lGSlBRVVFnVTFjaUxDSndiR0ZqWlNJNklrRlVURUZPVkVFaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXpNVEVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6NA",
+                        "name": "2231 Campbellton Road",
+                        "street_name": "Campbellton Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                        "name": "Atlanta"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmJ1N0E",
+                        "name": "30331"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakl6TVNJc0luTjBjbVZsZENJNklrTkJUVkJDUlV4TVZFOU9JRkpQUVVRZ1UxY2lMQ0p3YkdGalpTSTZJa0ZVVEVGT1ZFRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF6TVRFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjQ",
+                        "name": "Campbellton Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.693574,
+                    "longitude": -84.589525,
+                    "routable_points": [
+                        {
+                            "latitude": 33.693574,
+                            "longitude": -84.589525,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2231 Campbellton Road, Atlanta, Georgia 30331, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSXpNU0lzSW5OMGNtVmxkQ0k2SWtOQlRWQkNSVXhNVkU5T0lGSlBRVVFnVTFjaUxDSndiR0ZqWlNJNklrRlVURUZPVkVFaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXpNVEVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6NA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2231 Campbellton Road",
+                "name_preferred": "2231 Campbellton Road",
+                "place_formatted": "Atlanta, Georgia 30331, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

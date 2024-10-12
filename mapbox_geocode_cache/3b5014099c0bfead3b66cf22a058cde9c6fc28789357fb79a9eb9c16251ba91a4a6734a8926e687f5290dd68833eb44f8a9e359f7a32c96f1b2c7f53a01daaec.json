@@ -1,0 +1,344 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.92886,
+                    33.727644
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkODllODEyZi0wYzRkLTRkMDYtOGE0ZS02MTExMDA1NzEwMjk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "524",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkODllODEyZi0wYzRkLTRkMDYtOGE0ZS02MTExMDA1NzEwMjk",
+                        "name": "524 Leslie Drive",
+                        "street_name": "Leslie Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpNZ2Jz",
+                        "name": "Carroll County",
+                        "wikidata_id": "Q493088"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGRUlJN0E",
+                        "name": "Villa Rica",
+                        "wikidata_id": "Q2014975"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXBPN0E",
+                        "name": "30180"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDg5ZTgxMmYtMGM0ZC00ZDA2LThhNGUtNjExMTAwNTcxMDI5",
+                        "name": "Leslie Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.727644,
+                    "longitude": -84.92886,
+                    "routable_points": [
+                        {
+                            "latitude": 33.727667,
+                            "longitude": -84.929215,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "524 Leslie Drive, Villa Rica, Georgia 30180, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkODllODEyZi0wYzRkLTRkMDYtOGE0ZS02MTExMDA1NzEwMjk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "medium",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "524 Leslie Drive",
+                "name_preferred": "524 Leslie Drive",
+                "place_formatted": "Villa Rica, Georgia 30180, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.081474,
+                    32.396352
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5USTBJaXdpYzNSeVpXVjBJam9pVEVWVFRFbEZJRVJTSWl3aWNHeGhZMlVpT2lKV1NVeE1RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURFNE1DMHlOREExSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "524",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5USTBJaXdpYzNSeVpXVjBJam9pVEVWVFRFbEZJRVJTSWl3aWNHeGhZMlVpT2lKV1NVeE1RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURFNE1DMHlOREExSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+                        "name": "524 Leslie Street",
+                        "street_name": "Leslie Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMNGJz",
+                        "name": "Candler County",
+                        "wikidata_id": "Q488224"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpESTBvN0E",
+                        "name": "Metter",
+                        "wikidata_id": "Q2797227"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjlPN0E",
+                        "name": "30439"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVEkwSWl3aWMzUnlaV1YwSWpvaVRFVlRURWxGSUVSU0lpd2ljR3hoWTJVaU9pSldTVXhNUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ERTRNQzB5TkRBMUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTox",
+                        "name": "Leslie Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.396352,
+                    "longitude": -82.081474,
+                    "routable_points": [
+                        {
+                            "latitude": 32.396352,
+                            "longitude": -82.081474,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "524 Leslie Street, Metter, Georgia 30439, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5USTBJaXdpYzNSeVpXVjBJam9pVEVWVFRFbEZJRVJTSWl3aWNHeGhZMlVpT2lKV1NVeE1RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURFNE1DMHlOREExSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "524 Leslie Rd",
+                "name_preferred": "524 Leslie Street",
+                "place_formatted": "Metter, Georgia 30439, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.1135,
+                    31.422246
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmFiZDYxOTktNGYyYy00NDM0LWE5NmMtMTAzODU3N2VkYmQ4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUm9tN0E",
+                        "name": "Pierce County",
+                        "wikidata_id": "Q486800"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHQ3BLN0E",
+                        "name": "Offerman",
+                        "wikidata_id": "Q2677412"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeFdvN0E",
+                        "name": "Patterson",
+                        "wikidata_id": "Q2477847"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalhPN0E",
+                        "name": "31557"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmFiZDYxOTktNGYyYy00NDM0LWE5NmMtMTAzODU3N2VkYmQ4",
+                        "name": "Leslie Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.422246,
+                    "longitude": -82.1135
+                },
+                "feature_type": "street",
+                "full_address": "Leslie Dr, Patterson, Georgia 31557, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmFiZDYxOTktNGYyYy00NDM0LWE5NmMtMTAzODU3N2VkYmQ4",
+                "name": "Leslie Dr",
+                "name_preferred": "Leslie Dr",
+                "place_formatted": "Patterson, Georgia 31557, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.248346,
+                    31.207228
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDYyNjM2MzItNWRhMS00MzQ0LWI0MjQtZTExM2U5N2Y1M2Yy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJTWJz",
+                        "name": "Brantley County",
+                        "wikidata_id": "Q156650"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTHJJN0E",
+                        "name": "Waycross",
+                        "wikidata_id": "Q615027"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakZPN0E",
+                        "name": "31503"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDYyNjM2MzItNWRhMS00MzQ0LWI0MjQtZTExM2U5N2Y1M2Yy",
+                        "name": "Leslie Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.207228,
+                    "longitude": -82.248346
+                },
+                "feature_type": "street",
+                "full_address": "Leslie Drive, Waycross, Georgia 31503, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDYyNjM2MzItNWRhMS00MzQ0LWI0MjQtZTExM2U5N2Y1M2Yy",
+                "name": "Leslie Drive",
+                "name_preferred": "Leslie Drive",
+                "place_formatted": "Waycross, Georgia 31503, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.684464,
+                    32.546377
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzkyMzY1NGUtMGVjMy00YjRhLWE5ZTctZTgzMmI0ZDA3NTJh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpvcWJz",
+                        "name": "Houston County",
+                        "wikidata_id": "Q486362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZnNJN0E",
+                        "name": "Kathleen",
+                        "wikidata_id": "Q6376645"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUR1N0E",
+                        "name": "31047"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzkyMzY1NGUtMGVjMy00YjRhLWE5ZTctZTgzMmI0ZDA3NTJh",
+                        "name": "Leslie Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.546377,
+                    "longitude": -83.684464
+                },
+                "feature_type": "street",
+                "full_address": "Leslie Drive, Kathleen, Georgia 31047, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzkyMzY1NGUtMGVjMy00YjRhLWE5ZTctZTgzMmI0ZDA3NTJh",
+                "name": "Leslie Drive",
+                "name_preferred": "Leslie Drive",
+                "place_formatted": "Kathleen, Georgia 31047, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

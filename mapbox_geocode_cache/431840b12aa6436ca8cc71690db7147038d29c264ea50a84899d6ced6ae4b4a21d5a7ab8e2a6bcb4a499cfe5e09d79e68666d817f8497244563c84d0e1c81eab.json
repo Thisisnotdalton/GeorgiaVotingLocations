@@ -1,0 +1,355 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.657658,
+                    34.049487
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0M2Q5NWNiMy01YWZiLTQ3YjctYTJmNS1iYmUyNDMwMmFkZmE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3900",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0M2Q5NWNiMy01YWZiLTQ3YjctYTJmNS1iYmUyNDMwMmFkZmE",
+                        "name": "3900 South Main Street",
+                        "street_name": "South Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMWXNNN0E",
+                        "name": "Lakeview Heights"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                        "name": "Kennesaw",
+                        "wikidata_id": "Q1001316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUhPN0E",
+                        "name": "30101"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDNkOTVjYjMtNWFmYi00N2I3LWEyZjUtYmJlMjQzMDJhZGZh",
+                        "name": "South Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.049487,
+                    "longitude": -84.657658,
+                    "routable_points": [
+                        {
+                            "latitude": 34.049819,
+                            "longitude": -84.657793,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3900 South Main Street, Kennesaw, Georgia 30101, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0M2Q5NWNiMy01YWZiLTQ3YjctYTJmNS1iYmUyNDMwMmFkZmE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3900 South Main Street",
+                "name_preferred": "3900 South Main Street",
+                "place_formatted": "Kennesaw, Georgia 30101, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.626983,
+                    34.066357
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTMwNzNjZDQtY2NhMC00YmJmLWIwZjktNDQ4N2Y4ZDYzNWUx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpLNVhzN0E",
+                            "name": "Woodcreek"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWTFzN0E",
+                        "name": "Baker Ridge"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpES2pz",
+                        "name": "Acworth",
+                        "wikidata_id": "Q344933"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUhPN0E",
+                        "name": "30101"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTMwNzNjZDQtY2NhMC00YmJmLWIwZjktNDQ4N2Y4ZDYzNWUx",
+                        "name": "S Main St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.066357,
+                    "longitude": -84.626983
+                },
+                "feature_type": "street",
+                "full_address": "S Main St, Acworth, Georgia 30101, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTMwNzNjZDQtY2NhMC00YmJmLWIwZjktNDQ4N2Y4ZDYzNWUx",
+                "name": "S Main St",
+                "name_preferred": "S Main St",
+                "place_formatted": "Acworth, Georgia 30101, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.672287,
+                    34.032375
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NThiM2Y5OGQtZjJhMC00MzMzLWE0MTAtYTllNDMwMzk5NTY2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCUHBzN0E",
+                        "name": "Calumet Woods"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                        "name": "Kennesaw",
+                        "wikidata_id": "Q1001316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUhPN0E",
+                        "name": "30101"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NThiM2Y5OGQtZjJhMC00MzMzLWE0MTAtYTllNDMwMzk5NTY2",
+                        "name": "S Main St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.032375,
+                    "longitude": -84.672287
+                },
+                "feature_type": "street",
+                "full_address": "S Main St, Kennesaw, Georgia 30101, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NThiM2Y5OGQtZjJhMC00MzMzLWE0MTAtYTllNDMwMzk5NTY2",
+                "name": "S Main St",
+                "name_preferred": "S Main St",
+                "place_formatted": "Kennesaw, Georgia 30101, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.929551,
+                    31.934749
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16a3dNQ0lzSW5OMGNtVmxkQ0k2SWxNdUlFMUJTVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpCUTFkUFVsUklJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TVRBeElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3900",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16a3dNQ0lzSW5OMGNtVmxkQ0k2SWxNdUlFMUJTVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpCUTFkUFVsUklJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TVRBeElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+                        "name": "3900 South Main Street",
+                        "street_name": "South Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmxtN0E",
+                        "name": "Tattnall County",
+                        "wikidata_id": "Q505310"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCNDZJN0E",
+                        "name": "Glennville",
+                        "wikidata_id": "Q956735"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjZPN0E",
+                        "name": "30427"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNemt3TUNJc0luTjBjbVZsZENJNklsTXVJRTFCU1U0Z1UxUlNSVVZVSWl3aWNHeGhZMlVpT2lKQlExZFBVbFJJSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01UQXhJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+                        "name": "South Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.934749,
+                    "longitude": -81.929551,
+                    "routable_points": [
+                        {
+                            "latitude": 31.934749,
+                            "longitude": -81.929551,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3900 South Main Street, Glennville, Georgia 30427, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16a3dNQ0lzSW5OMGNtVmxkQ0k2SWxNdUlFMUJTVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpCUTFkUFVsUklJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TVRBeElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3900 South Main Street",
+                "name_preferred": "3900 South Main Street",
+                "place_formatted": "Glennville, Georgia 30427, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.609705,
+                    34.016562
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTVhZWRkMzItMDQxYS00MzEzLThmNGUtZDlkMjIzZTcyMTVl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                        "name": "Kennesaw",
+                        "wikidata_id": "Q1001316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWF1N0E",
+                        "name": "30144"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTVhZWRkMzItMDQxYS00MzEzLThmNGUtZDlkMjIzZTcyMTVl",
+                        "name": "South Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.016562,
+                    "longitude": -84.609705
+                },
+                "feature_type": "street",
+                "full_address": "South Main Street, Kennesaw, Georgia 30144, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTVhZWRkMzItMDQxYS00MzEzLThmNGUtZDlkMjIzZTcyMTVl",
+                "name": "South Main Street",
+                "name_preferred": "South Main Street",
+                "place_formatted": "Kennesaw, Georgia 30144, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,315 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "dXJuOm1ieGFkcjo5Mzg4MmYzMC00ZjkxLTRkZmMtOTA0MS0wNTg3ODVmMjFmNjg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.344919,
+          31.775971
+        ]
+      },
+      "properties": {
+        "mapbox_id": "dXJuOm1ieGFkcjo5Mzg4MmYzMC00ZjkxLTRkZmMtOTA0MS0wNTg3ODVmMjFmNjg",
+        "feature_type": "address",
+        "full_address": "83 Oak Street, Baxley, Georgia 31513, United States",
+        "name": "83 S Oak St",
+        "name_preferred": "83 Oak Street",
+        "coordinates": {
+          "longitude": -82.344919,
+          "latitude": 31.775971,
+          "accuracy": "parcel",
+          "routable_points": [
+            {
+              "name": "default",
+              "latitude": 31.776278,
+              "longitude": -82.34481
+            }
+          ]
+        },
+        "place_formatted": "Baxley, Georgia 31513, United States",
+        "match_code": {
+          "address_number": "matched",
+          "street": "matched",
+          "postcode": "matched",
+          "place": "matched",
+          "region": "matched",
+          "locality": "not_applicable",
+          "country": "inferred",
+          "confidence": "high"
+        },
+        "context": {
+          "address": {
+            "mapbox_id": "dXJuOm1ieGFkcjo5Mzg4MmYzMC00ZjkxLTRkZmMtOTA0MS0wNTg3ODVmMjFmNjg",
+            "address_number": "83",
+            "street_name": "Oak Street",
+            "name": "83 Oak Street"
+          },
+          "street": {
+            "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTM4ODJmMzAtNGY5MS00ZGZjLTkwNDEtMDU4Nzg1ZjIxZjY4",
+            "name": "Oak Street"
+          },
+          "postcode": {
+            "mapbox_id": "dXJuOm1ieHBsYzpCakd1N0E",
+            "name": "31513"
+          },
+          "place": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBVFJJN0E",
+            "name": "Baxley",
+            "wikidata_id": "Q2038428"
+          },
+          "district": {
+            "mapbox_id": "dXJuOm1ieHBsYzpDWWJz",
+            "name": "Appling County",
+            "wikidata_id": "Q488186"
+          },
+          "region": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+            "name": "Georgia",
+            "wikidata_id": "Q1428",
+            "region_code": "GA",
+            "region_code_full": "US-GA"
+          },
+          "country": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+            "name": "United States",
+            "wikidata_id": "Q30",
+            "country_code": "US",
+            "country_code_alpha_3": "USA"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dXJuOm1ieHBsYzpCakd1N0E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34861,
+          31.778441
+        ]
+      },
+      "properties": {
+        "mapbox_id": "dXJuOm1ieHBsYzpCakd1N0E",
+        "feature_type": "postcode",
+        "full_address": "Baxley, Georgia 31513, United States",
+        "name": "31513",
+        "name_preferred": "31513",
+        "coordinates": {
+          "longitude": -82.34861,
+          "latitude": 31.778441
+        },
+        "place_formatted": "Baxley, Georgia, United States",
+        "bbox": [
+          -82.522555,
+          31.554944,
+          -82.164986,
+          31.966182
+        ],
+        "context": {
+          "place": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBVFJJN0E",
+            "name": "Baxley",
+            "wikidata_id": "Q2038428"
+          },
+          "district": {
+            "mapbox_id": "dXJuOm1ieHBsYzpDWWJz",
+            "name": "Appling County",
+            "wikidata_id": "Q488186"
+          },
+          "region": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+            "name": "Georgia",
+            "wikidata_id": "Q1428",
+            "region_code": "GA",
+            "region_code_full": "US-GA"
+          },
+          "country": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+            "name": "United States",
+            "wikidata_id": "Q30",
+            "country_code": "US",
+            "country_code_alpha_3": "USA"
+          },
+          "postcode": {
+            "mapbox_id": "dXJuOm1ieHBsYzpCakd1N0E",
+            "name": "31513"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dXJuOm1ieHBsYzpHQWtLN0E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.331873,
+          33.84569
+        ]
+      },
+      "properties": {
+        "mapbox_id": "dXJuOm1ieHBsYzpHQWtLN0E",
+        "feature_type": "locality",
+        "full_address": "Oak Point, Georgia, United States",
+        "name": "Oak Point",
+        "name_preferred": "Oak Point",
+        "coordinates": {
+          "longitude": -83.331873,
+          "latitude": 33.84569
+        },
+        "place_formatted": "Georgia, United States",
+        "bbox": [
+          -83.337666,
+          33.837864,
+          -83.328157,
+          33.846788
+        ],
+        "context": {
+          "place": {
+            "mapbox_id": "dXJuOm1ieHBsYzpGS3VvN0E",
+            "name": "Watkinsville",
+            "wikidata_id": "Q426428"
+          },
+          "district": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+            "name": "Oconee County",
+            "wikidata_id": "Q492026"
+          },
+          "region": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+            "name": "Georgia",
+            "wikidata_id": "Q1428",
+            "region_code": "GA",
+            "region_code_full": "US-GA"
+          },
+          "country": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+            "name": "United States",
+            "wikidata_id": "Q30",
+            "country_code": "US",
+            "country_code_alpha_3": "USA"
+          },
+          "locality": {
+            "mapbox_id": "dXJuOm1ieHBsYzpHQWtLN0E",
+            "name": "Oak Point"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dXJuOm1ieHBsYzpBVFJJN0E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34861,
+          31.77844
+        ]
+      },
+      "properties": {
+        "mapbox_id": "dXJuOm1ieHBsYzpBVFJJN0E",
+        "feature_type": "place",
+        "full_address": "Baxley, Georgia, United States",
+        "name": "Baxley",
+        "name_preferred": "Baxley",
+        "coordinates": {
+          "longitude": -82.34861,
+          "latitude": 31.77844
+        },
+        "place_formatted": "Georgia, United States",
+        "bbox": [
+          -82.522555,
+          31.554944,
+          -82.164986,
+          31.966182
+        ],
+        "context": {
+          "district": {
+            "mapbox_id": "dXJuOm1ieHBsYzpDWWJz",
+            "name": "Appling County",
+            "wikidata_id": "Q488186"
+          },
+          "region": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+            "name": "Georgia",
+            "wikidata_id": "Q1428",
+            "region_code": "GA",
+            "region_code_full": "US-GA"
+          },
+          "country": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+            "name": "United States",
+            "wikidata_id": "Q30",
+            "country_code": "US",
+            "country_code_alpha_3": "USA"
+          },
+          "place": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBVFJJN0E",
+            "name": "Baxley",
+            "wikidata_id": "Q2038428"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dXJuOm1ieHBsYzpBVzJJT2c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.393512,
+          52.525051
+        ]
+      },
+      "properties": {
+        "mapbox_id": "dXJuOm1ieHBsYzpBVzJJT2c",
+        "feature_type": "place",
+        "full_address": "Gardelegen, Kreis Altmarkkreis Salzwedel, Saxony-Anhalt, Germany",
+        "name": "GA",
+        "name_preferred": "Gardelegen",
+        "coordinates": {
+          "longitude": 11.393512,
+          "latitude": 52.525051
+        },
+        "place_formatted": "Kreis Altmarkkreis Salzwedel, Saxony-Anhalt, Germany",
+        "bbox": [
+          11.051181,
+          52.386717,
+          11.605322,
+          52.63854
+        ],
+        "context": {
+          "district": {
+            "mapbox_id": "dXJuOm1ieHBsYzp4am8",
+            "name": "Kreis Altmarkkreis Salzwedel",
+            "wikidata_id": "Q6061"
+          },
+          "region": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBV1E2",
+            "name": "Saxony-Anhalt",
+            "wikidata_id": "Q1206",
+            "region_code": "ST",
+            "region_code_full": "DE-ST"
+          },
+          "country": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJam8",
+            "name": "Germany",
+            "wikidata_id": "Q183",
+            "country_code": "DE",
+            "country_code_alpha_3": "DEU"
+          },
+          "place": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBVzJJT2c",
+            "name": "Gardelegen",
+            "wikidata_id": "Q492374"
+          }
+        }
+      }
+    }
+  ],
+  "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)"
+}

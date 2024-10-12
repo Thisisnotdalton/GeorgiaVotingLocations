@@ -1,0 +1,318 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.657978,
+                    33.67084
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4NjUyOTUxMi01MGQ2LTQwNjYtYWJhZC1iYzhhMjJkZWVjNTA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5000",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4NjUyOTUxMi01MGQ2LTQwNjYtYWJhZC1iYzhhMjJkZWVjNTA",
+                        "name": "5000 Georgia Highway 166",
+                        "street_name": "Georgia Highway 166"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVd1N0E",
+                        "name": "30135"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODY1Mjk1MTItNTBkNi00MDY2LWFiYWQtYmM4YTIyZGVlYzUw",
+                        "name": "Georgia Highway 166"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.67084,
+                    "longitude": -84.657978,
+                    "routable_points": [
+                        {
+                            "latitude": 33.670529,
+                            "longitude": -84.656671,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5000 Georgia Highway 166, Douglasville, Georgia 30135, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4NjUyOTUxMi01MGQ2LTQwNjYtYWJhZC1iYzhhMjJkZWVjNTA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5000 Georgia Highway 92",
+                "name_preferred": "5000 Georgia Highway 166",
+                "place_formatted": "Douglasville, Georgia 30135, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.615437,
+                    33.619037
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjMjczYmQzNi1hOTVlLTQ0MzUtYjI2Ni02OWZjMDZiNGEwMDU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5000",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjMjczYmQzNi1hOTVlLTQ0MzUtYjI2Ni02OWZjMDZiNGEwMDU",
+                        "name": "5000 Campbellton Fairburn Road",
+                        "street_name": "Campbellton Fairburn Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFKzVJN0E",
+                            "name": "Union City"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbDVvN0E",
+                        "name": "South Fulton",
+                        "wikidata_id": "Q7567323"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.3812902625997800",
+                        "name": "30213"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzI3M2JkMzYtYTk1ZS00NDM1LWIyNjYtNjlmYzA2YjRhMDA1",
+                        "name": "Campbellton Fairburn Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.619037,
+                    "longitude": -84.615437,
+                    "routable_points": [
+                        {
+                            "latitude": 33.618796,
+                            "longitude": -84.615979,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5000 Campbellton Fairburn Road, South Fulton, Georgia 30213, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjMjczYmQzNi1hOTVlLTQ0MzUtYjI2Ni02OWZjMDZiNGEwMDU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "5000 Georgia Highway 92",
+                "name_preferred": "5000 Campbellton Fairburn Road",
+                "place_formatted": "South Fulton, Georgia 30213, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.657589,
+                    33.692998
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDk0MWExYWEtOGU0ZS00OGZhLWE5YjItZDg4ZTc4NzFhYmU5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVmZzN0E",
+                        "name": "Hilderbrand"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVd1N0E",
+                        "name": "30135"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDk0MWExYWEtOGU0ZS00OGZhLWE5YjItZDg4ZTc4NzFhYmU5",
+                        "name": "Highway 92"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.692998,
+                    "longitude": -84.657589
+                },
+                "feature_type": "street",
+                "full_address": "Highway 92, Douglasville, Georgia 30135, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDk0MWExYWEtOGU0ZS00OGZhLWE5YjItZDg4ZTc4NzFhYmU5",
+                "name": "Highway 92",
+                "name_preferred": "Highway 92",
+                "place_formatted": "Douglasville, Georgia 30135, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.619895,
+                    33.808352
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQXdNQ0lzSW5OMGNtVmxkQ0k2SWtkRlQxSkhTVUVnU0VsSFNGZEJXU0E1TWlJc0luQnNZV05sSWpvaVJFOVZSMHhCVTFaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TVRNMUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5000",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQXdNQ0lzSW5OMGNtVmxkQ0k2SWtkRlQxSkhTVUVnU0VsSFNGZEJXU0E1TWlJc0luQnNZV05sSWpvaVJFOVZSMHhCVTFaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TVRNMUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+                        "name": "5000 Maxham Road",
+                        "street_name": "Maxham Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCcjdzN0E",
+                        "name": "Cheyenne Estates"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo1VWpz",
+                        "name": "Austell",
+                        "wikidata_id": "Q2688463"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWp1N0E",
+                        "name": "30168"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVEF3TUNJc0luTjBjbVZsZENJNklrZEZUMUpIU1VFZ1NFbEhTRmRCV1NBNU1pSXNJbkJzWVdObElqb2lSRTlWUjB4QlUxWkpURXhGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01UTTFJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+                        "name": "Maxham Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.808352,
+                    "longitude": -84.619895,
+                    "routable_points": [
+                        {
+                            "latitude": 33.808352,
+                            "longitude": -84.619895,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5000 Maxham Road, Austell, Georgia 30168, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQXdNQ0lzSW5OMGNtVmxkQ0k2SWtkRlQxSkhTVUVnU0VsSFNGZEJXU0E1TWlJc0luQnNZV05sSWpvaVJFOVZSMHhCVTFaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TVRNMUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "5000 Georgia Highway 5",
+                "name_preferred": "5000 Maxham Road",
+                "place_formatted": "Austell, Georgia 30168, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

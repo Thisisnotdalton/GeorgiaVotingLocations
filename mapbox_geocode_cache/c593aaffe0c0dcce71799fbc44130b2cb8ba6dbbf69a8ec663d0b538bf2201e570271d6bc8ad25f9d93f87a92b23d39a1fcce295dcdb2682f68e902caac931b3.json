@@ -1,0 +1,346 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.782732,
+                    32.149121
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjMDk0MGRkOC1iYzM4LTQxNGQtOTU4Ni05MjMxYTVkZjJiMjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "16",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjMDk0MGRkOC1iYzM4LTQxNGQtOTU4Ni05MjMxYTVkZjJiMjI",
+                        "name": "16 Forest Avenue",
+                        "street_name": "Forest Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHRtN0E",
+                        "name": "Wheeler County",
+                        "wikidata_id": "Q498332"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKZ2pz",
+                        "name": "Alamo",
+                        "wikidata_id": "Q1027763"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjBPN0E",
+                        "name": "30411"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzA5NDBkZDgtYmMzOC00MTRkLTk1ODYtOTIzMWE1ZGYyYjIy",
+                        "name": "Forest Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.149121,
+                    "longitude": -82.782732,
+                    "routable_points": [
+                        {
+                            "latitude": 32.148997,
+                            "longitude": -82.782572,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "16 Forest Avenue, Alamo, Georgia 30411, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjMDk0MGRkOC1iYzM4LTQxNGQtOTU4Ni05MjMxYTVkZjJiMjI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "16 W Forest Ave",
+                "name_preferred": "16 Forest Avenue",
+                "place_formatted": "Alamo, Georgia 30411, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.78263,
+                    32.09174
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDZiZmYyMjYtMTdmOC00YTE1LWJhYWQtM2E2ZDY0YzY4NGI0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHRtN0E",
+                        "name": "Wheeler County",
+                        "wikidata_id": "Q498332"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKZ2pz",
+                        "name": "Alamo",
+                        "wikidata_id": "Q1027763"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjBPN0E",
+                        "name": "30411"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDZiZmYyMjYtMTdmOC00YTE1LWJhYWQtM2E2ZDY0YzY4NGI0",
+                        "name": "East Forest Ave."
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.09174,
+                    "longitude": -82.78263
+                },
+                "feature_type": "street",
+                "full_address": "East Forest Ave., Alamo, Georgia 30411, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDZiZmYyMjYtMTdmOC00YTE1LWJhYWQtM2E2ZDY0YzY4NGI0",
+                "name": "East Forest Ave.",
+                "name_preferred": "East Forest Ave.",
+                "place_formatted": "Alamo, Georgia 30411, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.746383,
+                    31.034891
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWWlMQ0p6ZEhKbFpYUWlPaUpYSUVaUFVrVlRWQ0JCVmtVaUxDSndiR0ZqWlNJNklrRk1RVTFQSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05ERXhJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "16",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWWlMQ0p6ZEhKbFpYUWlPaUpYSUVaUFVrVlRWQ0JCVmtVaUxDSndiR0ZqWlNJNklrRk1RVTFQSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05ERXhJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+                        "name": "16 West Forest Avenue",
+                        "street_name": "West Forest Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSMGJz",
+                        "name": "Clinch County",
+                        "wikidata_id": "Q486167"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUmtvN0E",
+                        "name": "Homerville"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCam11N0E",
+                        "name": "31634"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFlpTENKemRISmxaWFFpT2lKWElFWlBVa1ZUVkNCQlZrVWlMQ0p3YkdGalpTSTZJa0ZNUVUxUElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOREV4SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                        "name": "West Forest Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.034891,
+                    "longitude": -82.746383,
+                    "routable_points": [
+                        {
+                            "latitude": 31.034891,
+                            "longitude": -82.746383,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "16 West Forest Avenue, Homerville, Georgia 31634, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWWlMQ0p6ZEhKbFpYUWlPaUpYSUVaUFVrVlRWQ0JCVmtVaUxDSndiR0ZqWlNJNklrRk1RVTFQSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05ERXhJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "16 West Forest Avenue",
+                "name_preferred": "16 West Forest Avenue",
+                "place_formatted": "Homerville, Georgia 31634, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.446639,
+                    33.685341
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTA0YTBkMTQtNDBkYS00ZmY1LTg1MmItNmJjODgxOTlhNjM0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYTBJN0E",
+                        "name": "East Point",
+                        "wikidata_id": "Q2933940"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmh1N0E",
+                        "name": "30344"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTA0YTBkMTQtNDBkYS00ZmY1LTg1MmItNmJjODgxOTlhNjM0",
+                        "name": "West Forrest Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.685341,
+                    "longitude": -84.446639
+                },
+                "feature_type": "street",
+                "full_address": "West Forrest Avenue, East Point, Georgia 30344, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTA0YTBkMTQtNDBkYS00ZmY1LTg1MmItNmJjODgxOTlhNjM0",
+                "name": "West Forrest Avenue",
+                "name_preferred": "West Forrest Avenue",
+                "place_formatted": "East Point, Georgia 30344, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.26138,
+                    34.948876
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTJhYjU0YmQtNWVkMy00NWY0LWJjODctZWZhNjIxNmU2OTFm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpOZ2Jz",
+                        "name": "Catoosa County",
+                        "wikidata_id": "Q260871"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFUFdJN0E",
+                            "name": "Rossville"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdHlvN0E",
+                        "name": "Fort Oglethorpe",
+                        "wikidata_id": "Q3263751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFZPN0E",
+                        "name": "30742"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTJhYjU0YmQtNWVkMy00NWY0LWJjODctZWZhNjIxNmU2OTFm",
+                        "name": "West Forrest Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.948876,
+                    "longitude": -85.26138
+                },
+                "feature_type": "street",
+                "full_address": "West Forrest Avenue, Fort Oglethorpe, Georgia 30742, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTJhYjU0YmQtNWVkMy00NWY0LWJjODctZWZhNjIxNmU2OTFm",
+                "name": "West Forrest Avenue",
+                "name_preferred": "West Forrest Avenue",
+                "place_formatted": "Fort Oglethorpe, Georgia 30742, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,335 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.456925,
+                    33.446018
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2NTYwOGY0YS1lMWM0LTRlODMtYmZiZC04ZjE5ZjQyNDU5ODE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1821",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2NTYwOGY0YS1lMWM0LTRlODMtYmZiZC04ZjE5ZjQyNDU5ODE",
+                        "name": "1821 Heritage Park Way",
+                        "street_name": "Heritage Park Way"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCb09vN0E",
+                        "name": "Fayetteville",
+                        "wikidata_id": "Q782494"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZ1N0E",
+                        "name": "30214"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjU2MDhmNGEtZTFjNC00ZTgzLWJmYmQtOGYxOWY0MjQ1OTgx",
+                        "name": "Heritage Park Way"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.446018,
+                    "longitude": -84.456925,
+                    "routable_points": [
+                        {
+                            "latitude": 33.446027,
+                            "longitude": -84.457351,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1821 Heritage Park Way, Fayetteville, Georgia 30214, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2NTYwOGY0YS1lMWM0LTRlODMtYmZiZC04ZjE5ZjQyNDU5ODE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1821 Heritage Park Way",
+                "name_preferred": "1821 Heritage Park Way",
+                "place_formatted": "Fayetteville, Georgia 30214, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.455084,
+                    33.448627
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZXZ1N0E",
+            "properties": {
+                "bbox": [
+                    -84.578572,
+                    33.429067,
+                    -84.381718,
+                    33.550933
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCb09vN0E",
+                        "name": "Fayetteville",
+                        "wikidata_id": "Q782494"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZ1N0E",
+                        "name": "30214"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.448627,
+                    "longitude": -84.455084
+                },
+                "feature_type": "postcode",
+                "full_address": "Fayetteville, Georgia 30214, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZXZ1N0E",
+                "name": "30214",
+                "name_preferred": "30214",
+                "place_formatted": "Fayetteville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.452358,
+                    33.434553
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTMzNWM2YmMtNDE0MC00ZTU3LWIxY2EtYjdlN2JlZmI4OWI4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCb09vN0E",
+                        "name": "Fayetteville",
+                        "wikidata_id": "Q782494"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZ1N0E",
+                        "name": "30214"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTMzNWM2YmMtNDE0MC00ZTU3LWIxY2EtYjdlN2JlZmI4OWI4",
+                        "name": "James W Dixon Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.434553,
+                    "longitude": -84.452358
+                },
+                "feature_type": "street",
+                "full_address": "James W Dixon Drive, Fayetteville, Georgia 30214, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTMzNWM2YmMtNDE0MC00ZTU3LWIxY2EtYjdlN2JlZmI4OWI4",
+                "name": "Fayetteville",
+                "name_preferred": "James W Dixon Drive",
+                "place_formatted": "Fayetteville, Georgia 30214, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.386259,
+                    31.135777
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWU3ODMwYjItMzRiYi00YTg2LTliYzQtYjg5NGNjYTM5OTM2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJQ1NLN0E",
+                        "name": "St. Simons",
+                        "wikidata_id": "Q1523372"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpGbDJvN0E",
+                            "name": "Brunswick"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVW1vN0E",
+                        "name": "Saint Simons Island",
+                        "wikidata_id": "Q1523372"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaktPN0E",
+                        "name": "31522"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWU3ODMwYjItMzRiYi00YTg2LTliYzQtYjg5NGNjYTM5OTM2",
+                        "name": "Park Way"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.135777,
+                    "longitude": -81.386259
+                },
+                "feature_type": "street",
+                "full_address": "Park Way, Saint Simons Island, Georgia 31522, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWU3ODMwYjItMzRiYi00YTg2LTliYzQtYjg5NGNjYTM5OTM2",
+                "name": "Park Way",
+                "name_preferred": "Park Way",
+                "place_formatted": "Saint Simons Island, Georgia 31522, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.510732,
+                    31.209916
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2NkZTU4NTYtNGEyNi00YzZjLThiNzMtNTIzMmQyMzNlMDQx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDTUFxN0E",
+                        "name": "Dock Junction",
+                        "wikidata_id": "Q2668503"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEcjhNN0E",
+                        "name": "Glenwood Estates"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBblhvN0E",
+                        "name": "Brunswick",
+                        "wikidata_id": "Q994144"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakpPN0E",
+                        "name": "31520"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2NkZTU4NTYtNGEyNi00YzZjLThiNzMtNTIzMmQyMzNlMDQx",
+                        "name": "Park Way"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.209916,
+                    "longitude": -81.510732
+                },
+                "feature_type": "street",
+                "full_address": "Park Way, Brunswick, Georgia 31520, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2NkZTU4NTYtNGEyNi00YzZjLThiNzMtNTIzMmQyMzNlMDQx",
+                "name": "Park Way",
+                "name_preferred": "Park Way",
+                "place_formatted": "Brunswick, Georgia 31520, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

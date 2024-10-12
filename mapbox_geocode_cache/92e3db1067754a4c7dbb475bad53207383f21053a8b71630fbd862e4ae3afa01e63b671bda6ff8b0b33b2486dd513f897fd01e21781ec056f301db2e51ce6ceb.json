@@ -1,0 +1,367 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.517216,
+                    32.323633
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkYWMzNGEzNS1iZGY1LTQzNTUtYTE1Yi0xZTQ3ZmU4ZTAwZWU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "100",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkYWMzNGEzNS1iZGY1LTQzNTUtYTE1Yi0xZTQ3ZmU4ZTAwZWU",
+                        "name": "100 Burkhalter Avenue",
+                        "street_name": "Burkhalter Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo0V2Jz",
+                        "name": "Marion County",
+                        "wikidata_id": "Q486344"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBb2JvN0E",
+                        "name": "Buena Vista",
+                        "wikidata_id": "Q2612151"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa091N0E",
+                        "name": "31803"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGFjMzRhMzUtYmRmNS00MzU1LWExNWItMWU0N2ZlOGUwMGVl",
+                        "name": "Burkhalter Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.323633,
+                    "longitude": -84.517216,
+                    "routable_points": [
+                        {
+                            "latitude": 32.323632,
+                            "longitude": -84.51707,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "100 Burkhalter Avenue, Buena Vista, Georgia 31803, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkYWMzNGEzNS1iZGY1LTQzNTUtYTE1Yi0xZTQ3ZmU4ZTAwZWU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "medium",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "100 E Burkhalter Ave",
+                "name_preferred": "100 Burkhalter Avenue",
+                "place_formatted": "Buena Vista, Georgia 31803, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.388942,
+                    34.88532
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXdJaXdpYzNSeVpXVjBJam9pUlNCQ1ZWSkxTRUZNVkVWU0lFRldJaXdpY0d4aFkyVWlPaUpDVlVWT1FTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVGd3TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "100",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXdJaXdpYzNSeVpXVjBJam9pUlNCQ1ZWSkxTRUZNVkVWU0lFRldJaXdpY0d4aFkyVWlPaUpDVlVWT1FTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVGd3TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                        "name": "100 Estate Drive",
+                        "street_name": "Estate Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU2htN0E",
+                        "name": "Rabun County",
+                        "wikidata_id": "Q503546"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBOERJN0E",
+                        "name": "Clayton",
+                        "wikidata_id": "Q2600941"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1Z1N0E",
+                        "name": "30525"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEF3SWl3aWMzUnlaV1YwSWpvaVJTQkNWVkpMU0VGTVZFVlNJRUZXSWl3aWNHeGhZMlVpT2lKQ1ZVVk9RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRnd015SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjE",
+                        "name": "Estate Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.88532,
+                    "longitude": -83.388942,
+                    "routable_points": [
+                        {
+                            "latitude": 34.88532,
+                            "longitude": -83.388942,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "100 Estate Drive, Clayton, Georgia 30525, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXdJaXdpYzNSeVpXVjBJam9pUlNCQ1ZWSkxTRUZNVkVWU0lFRldJaXdpY0d4aFkyVWlPaUpDVlVWT1FTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVGd3TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "100 Estate Drive",
+                "name_preferred": "100 Estate Drive",
+                "place_formatted": "Clayton, Georgia 30525, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.620971,
+                    32.137035
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXdJaXdpYzNSeVpXVjBJam9pUlNCQ1ZWSkxTRUZNVkVWU0lFRldJaXdpY0d4aFkyVWlPaUpDVlVWT1FTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVGd3TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "100",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXdJaXdpYzNSeVpXVjBJam9pUlNCQ1ZWSkxTRUZNVkVWU0lFRldJaXdpY0d4aFkyVWlPaUpDVlVWT1FTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVGd3TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+                        "name": "100 East Burkhalter Street",
+                        "street_name": "East Burkhalter Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKU2Jz",
+                        "name": "Bryan County",
+                        "wikidata_id": "Q486848"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEYUFvN0E",
+                            "name": "Nevils"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpEekhvN0E",
+                        "name": "Pembroke",
+                        "wikidata_id": "Q958219"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTF1N0E",
+                        "name": "31321"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEF3SWl3aWMzUnlaV1YwSWpvaVJTQkNWVkpMU0VGTVZFVlNJRUZXSWl3aWNHeGhZMlVpT2lKQ1ZVVk9RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRnd015SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjI",
+                        "name": "East Burkhalter Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.137035,
+                    "longitude": -81.620971,
+                    "routable_points": [
+                        {
+                            "latitude": 32.137035,
+                            "longitude": -81.620971,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "100 East Burkhalter Street, Pembroke, Georgia 31321, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXdJaXdpYzNSeVpXVjBJam9pUlNCQ1ZWSkxTRUZNVkVWU0lFRldJaXdpY0d4aFkyVWlPaUpDVlVWT1FTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVGd3TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "100 East Burkhalter Street",
+                "name_preferred": "100 East Burkhalter Street",
+                "place_formatted": "Pembroke, Georgia 31321, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.827547,
+                    32.187846
+                ],
+                "type": "Point"
+            },
+            "id": "address.2722607916376810",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjQWJz",
+                        "name": "Evans County",
+                        "wikidata_id": "Q493044"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBN3JJN0E",
+                        "name": "Claxton",
+                        "wikidata_id": "Q2052424"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjJ1N0E",
+                        "name": "30417"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.2722607916376810",
+                        "name": "Burkhalter Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.187846,
+                    "longitude": -81.827547
+                },
+                "feature_type": "street",
+                "full_address": "Burkhalter Drive, Claxton, Georgia 30417, United States",
+                "mapbox_id": "address.2722607916376810",
+                "name": "Burkhalter Drive",
+                "name_preferred": "Burkhalter Drive",
+                "place_formatted": "Claxton, Georgia 30417, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.61764,
+                    34.416313
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTdiM2IxNmItMzMwNC00OWMwLThlNGMtZDg0YmJjZTg4ZDEw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEK2Jz",
+                        "name": "Banks County",
+                        "wikidata_id": "Q488201"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpXc2pz",
+                        "name": "Alto",
+                        "wikidata_id": "Q1843926"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ091N0E",
+                        "name": "30510"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTdiM2IxNmItMzMwNC00OWMwLThlNGMtZDg0YmJjZTg4ZDEw",
+                        "name": "Burkhalter Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.416313,
+                    "longitude": -83.61764
+                },
+                "feature_type": "street",
+                "full_address": "Burkhalter Drive, Alto, Georgia 30510, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTdiM2IxNmItMzMwNC00OWMwLThlNGMtZDg0YmJjZTg4ZDEw",
+                "name": "Burkhalter Drive",
+                "name_preferred": "Burkhalter Drive",
+                "place_formatted": "Alto, Georgia 30510, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,353 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.388195,
+                    33.75721
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyZDBlN2YzZi1kYjRiLTQ0ZGYtYWYzMy05ZWM2MjU5NTk1Y2E",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "130",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyZDBlN2YzZi1kYjRiLTQ0ZGYtYWYzMy05ZWM2MjU5NTk1Y2E",
+                        "name": "130 Peachtree Street Northeast",
+                        "street_name": "Peachtree Street Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETzFzN0E",
+                        "name": "Five Points",
+                        "wikidata_id": "Q5456090"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZk91N0E",
+                        "name": "30303"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmQwZTdmM2YtZGI0Yi00NGRmLWFmMzMtOWVjNjI1OTU5NWNh",
+                        "name": "Peachtree Street Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.75721,
+                    "longitude": -84.388195,
+                    "routable_points": [
+                        {
+                            "latitude": 33.757105,
+                            "longitude": -84.388298,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "130 Peachtree Street Northeast, Atlanta, Georgia 30303, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyZDBlN2YzZi1kYjRiLTQ0ZGYtYWYzMy05ZWM2MjU5NTk1Y2E",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "130 Peachtree Street Northeast",
+                "name_preferred": "130 Peachtree Street Northeast",
+                "place_formatted": "Atlanta, Georgia 30303, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.39312,
+                    33.76813
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDkzYTU0NjItNzI3Zi00ZmExLWE3MGEtMGZlMDA0M2Q5NDBj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZk91N0E",
+                        "name": "30303"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDkzYTU0NjItNzI3Zi00ZmExLWE3MGEtMGZlMDA0M2Q5NDBj",
+                        "name": "Peachtree St NE"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.76813,
+                    "longitude": -84.39312
+                },
+                "feature_type": "street",
+                "full_address": "Peachtree St NE, Atlanta, Georgia 30303, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDkzYTU0NjItNzI3Zi00ZmExLWE3MGEtMGZlMDA0M2Q5NDBj",
+                "name": "Peachtree St NE",
+                "name_preferred": "Peachtree St NE",
+                "place_formatted": "Atlanta, Georgia 30303, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.39383,
+                    33.74954
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGYyNWI3NTctZWQ4MC00YmI1LWJmM2EtNjk0NWQ4MzA2OWU4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZk91N0E",
+                        "name": "30303"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGYyNWI3NTctZWQ4MC00YmI1LWJmM2EtNjk0NWQ4MzA2OWU4",
+                        "name": "Peachtree St NW"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.74954,
+                    "longitude": -84.39383
+                },
+                "feature_type": "street",
+                "full_address": "Peachtree St NW, Atlanta, Georgia 30303, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGYyNWI3NTctZWQ4MC00YmI1LWJmM2EtNjk0NWQ4MzA2OWU4",
+                "name": "Peachtree St NW",
+                "name_preferred": "Peachtree St NW",
+                "place_formatted": "Atlanta, Georgia 30303, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.384552,
+                    33.780773
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTXdJaXdpYzNSeVpXVjBJam9pVUVWQlEwaFVVa1ZGSUZOVVVrVkZWQ0JPUlNJc0luQnNZV05sSWpvaVFWUk1RVTVVUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ETXdNeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "130",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTXdJaXdpYzNSeVpXVjBJam9pVUVWQlEwaFVVa1ZGSUZOVVVrVkZWQ0JPUlNJc0luQnNZV05sSWpvaVFWUk1RVTVVUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ETXdNeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+                        "name": "130 Peachtree Place Northeast",
+                        "street_name": "Peachtree Place Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHQlNNN0E",
+                        "name": "Midtown"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlJ1N0E",
+                        "name": "30309"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVE13SWl3aWMzUnlaV1YwSWpvaVVFVkJRMGhVVWtWRklGTlVVa1ZGVkNCT1JTSXNJbkJzWVdObElqb2lRVlJNUVU1VVFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRE13TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                        "name": "Peachtree Place Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.780773,
+                    "longitude": -84.384552,
+                    "routable_points": [
+                        {
+                            "latitude": 33.780773,
+                            "longitude": -84.384552,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "130 Peachtree Place Northeast, Atlanta, Georgia 30309, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTXdJaXdpYzNSeVpXVjBJam9pVUVWQlEwaFVVa1ZGSUZOVVVrVkZWQ0JPUlNJc0luQnNZV05sSWpvaVFWUk1RVTVVUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ETXdNeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "130 Peachtree Street NE",
+                "name_preferred": "130 Peachtree Place Northeast",
+                "place_formatted": "Atlanta, Georgia 30309, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.391778,
+                    33.756799
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGIxMjZiMDktZDI2ZS00OTdiLWI1ZmQtY2ExZWE4Y2MyN2Nl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETzFzN0E",
+                        "name": "Five Points",
+                        "wikidata_id": "Q5456090"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZk91N0E",
+                        "name": "30303"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGIxMjZiMDktZDI2ZS00OTdiLWI1ZmQtY2ExZWE4Y2MyN2Nl",
+                        "name": "Peachtree St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.756799,
+                    "longitude": -84.391778
+                },
+                "feature_type": "street",
+                "full_address": "Peachtree St, Atlanta, Georgia 30303, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGIxMjZiMDktZDI2ZS00OTdiLWI1ZmQtY2ExZWE4Y2MyN2Nl",
+                "name": "Peachtree St",
+                "name_preferred": "Peachtree St",
+                "place_formatted": "Atlanta, Georgia 30303, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

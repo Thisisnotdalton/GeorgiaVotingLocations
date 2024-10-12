@@ -1,0 +1,331 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.421442,
+                    34.170408
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozZGI3ODA4YS0xNDE1LTQ4OWYtODZjNS0xMzYwODllZWQ0ZTM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2740",
+                        "mapbox_id": "dXJuOm1ieGFkcjozZGI3ODA4YS0xNDE1LTQ4OWYtODZjNS0xMzYwODllZWQ0ZTM",
+                        "name": "2740 East Cherokee Drive",
+                        "street_name": "East Cherokee Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFT1pzN0E",
+                        "name": "Hickory Flat"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEVDdJN0E",
+                            "name": "Mountain Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpGYmlJN0E",
+                        "name": "canton",
+                        "wikidata_id": "Q2797172"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU9PN0E",
+                        "name": "30115"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2RiNzgwOGEtMTQxNS00ODlmLTg2YzUtMTM2MDg5ZWVkNGUz",
+                        "name": "East Cherokee Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.170408,
+                    "longitude": -84.421442,
+                    "routable_points": [
+                        {
+                            "latitude": 34.170216,
+                            "longitude": -84.421444,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2740 East Cherokee Drive, Woodstock, Georgia 30115, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozZGI3ODA4YS0xNDE1LTQ4OWYtODZjNS0xMzYwODllZWQ0ZTM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2740 East Cherokee Drive",
+                "name_preferred": "2740 East Cherokee Drive",
+                "place_formatted": "Woodstock, Georgia 30115, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.3763,
+                    34.21796
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDBhNDJjZjUtMzgyMi00MzM5LWE0YjAtNzNiNzY3MzUyYmZm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdXlvN0E",
+                        "name": "Canton",
+                        "wikidata_id": "Q2207351"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU9PN0E",
+                        "name": "30115"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDBhNDJjZjUtMzgyMi00MzM5LWE0YjAtNzNiNzY3MzUyYmZm",
+                        "name": "East Cherokee Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.21796,
+                    "longitude": -84.3763
+                },
+                "feature_type": "street",
+                "full_address": "East Cherokee Dr, Canton, Georgia 30115, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDBhNDJjZjUtMzgyMi00MzM5LWE0YjAtNzNiNzY3MzUyYmZm",
+                "name": "East Cherokee Dr",
+                "name_preferred": "East Cherokee Dr",
+                "place_formatted": "Canton, Georgia 30115, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.393647,
+                    34.27345
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZGMwOWI2NjEtZTY3MC00NzUyLTgxZjUtNjg0ZTk4Yjc1ODJi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdXlvN0E",
+                        "name": "Canton",
+                        "wikidata_id": "Q2207351"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUtPN0E",
+                        "name": "30107"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGMwOWI2NjEtZTY3MC00NzUyLTgxZjUtNjg0ZTk4Yjc1ODJi",
+                        "name": "E Cherokee Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.27345,
+                    "longitude": -84.393647
+                },
+                "feature_type": "street",
+                "full_address": "E Cherokee Dr, Canton, Georgia 30107, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGMwOWI2NjEtZTY3MC00NzUyLTgxZjUtNjg0ZTk4Yjc1ODJi",
+                "name": "E Cherokee Dr",
+                "name_preferred": "E Cherokee Dr",
+                "place_formatted": "Canton, Georgia 30107, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.366211,
+                    34.220521
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YWRkYzIxNmQtMjc5NC00NmM2LTk5N2YtNjI5MGE1NjI2YzJl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdXlvN0E",
+                        "name": "Canton",
+                        "wikidata_id": "Q2207351"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU9PN0E",
+                        "name": "30115"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWRkYzIxNmQtMjc5NC00NmM2LTk5N2YtNjI5MGE1NjI2YzJl",
+                        "name": "E Cherokee Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.220521,
+                    "longitude": -84.366211
+                },
+                "feature_type": "street",
+                "full_address": "E Cherokee Dr, Canton, Georgia 30115, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWRkYzIxNmQtMjc5NC00NmM2LTk5N2YtNjI5MGE1NjI2YzJl",
+                "name": "E Cherokee Dr",
+                "name_preferred": "E Cherokee Dr",
+                "place_formatted": "Canton, Georgia 30115, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.541441,
+                    34.089718
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDNjMDY0NTMtYWVjZC00Y2ViLWE1MWItYWJiMDY0Y2QwNzQ4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFL1VzN0E",
+                            "name": "Kingston Square"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFOTVNN0E",
+                        "name": "Kingridge Estates"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGYmlJN0E",
+                        "name": "Woodstock",
+                        "wikidata_id": "Q2797172"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXN1N0E",
+                        "name": "30189"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDNjMDY0NTMtYWVjZC00Y2ViLWE1MWItYWJiMDY0Y2QwNzQ4",
+                        "name": "Cherokee Trail"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.089718,
+                    "longitude": -84.541441
+                },
+                "feature_type": "street",
+                "full_address": "Cherokee Trail, Woodstock, Georgia 30189, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDNjMDY0NTMtYWVjZC00Y2ViLWE1MWItYWJiMDY0Y2QwNzQ4",
+                "name": "Cherokee Trail",
+                "name_preferred": "Cherokee Trail",
+                "place_formatted": "Woodstock, Georgia 30189, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

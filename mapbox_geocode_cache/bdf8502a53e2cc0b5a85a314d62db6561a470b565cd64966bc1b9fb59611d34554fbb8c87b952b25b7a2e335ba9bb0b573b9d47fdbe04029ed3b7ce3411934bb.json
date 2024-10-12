@@ -1,0 +1,343 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.583174,
+                    33.566857
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjNjQwMWJhOC1lYWIzLTQyYmMtOWMwZi0yOGExODc0ZWRhOWU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "40",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjNjQwMWJhOC1lYWIzLTQyYmMtOWMwZi0yOGExODc0ZWRhOWU",
+                        "name": "40 Washington Street",
+                        "street_name": "Washington Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCbFlvN0E",
+                        "name": "Fairburn",
+                        "wikidata_id": "Q3261359"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZPN0E",
+                        "name": "30213"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzY0MDFiYTgtZWFiMy00MmJjLTljMGYtMjhhMTg3NGVkYTll",
+                        "name": "Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.566857,
+                    "longitude": -84.583174,
+                    "routable_points": [
+                        {
+                            "latitude": 33.567001,
+                            "longitude": -84.583095,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "40 Washington Street, Fairburn, Georgia 30213, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjNjQwMWJhOC1lYWIzLTQyYmMtOWMwZi0yOGExODc0ZWRhOWU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "40 Washington Street",
+                "name_preferred": "40 Washington Street",
+                "place_formatted": "Fairburn, Georgia 30213, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.553041,
+                    33.582083
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjNmZWEzMDMtOTA0Ni00MDkzLTk2ZjctZDNiNmQ0NmNhNmZm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFKzRvN0E",
+                        "name": "Union City",
+                        "wikidata_id": "Q3261692"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkp1N0E",
+                        "name": "30291"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjNmZWEzMDMtOTA0Ni00MDkzLTk2ZjctZDNiNmQ0NmNhNmZm",
+                        "name": "Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.582083,
+                    "longitude": -84.553041
+                },
+                "feature_type": "street",
+                "full_address": "Washington Street, Union City, Georgia 30291, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjNmZWEzMDMtOTA0Ni00MDkzLTk2ZjctZDNiNmQ0NmNhNmZm",
+                "name": "Washington Street",
+                "name_preferred": "Washington Street",
+                "place_formatted": "Union City, Georgia 30291, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.652507,
+                    33.716439
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDZlMzMxNTctZGY3YS00OTMzLTg1OTEtNjc2ZDNlMTczYjAx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVd1N0E",
+                        "name": "30135"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDZlMzMxNTctZGY3YS00OTMzLTg1OTEtNjc2ZDNlMTczYjAx",
+                        "name": "Washington Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.716439,
+                    "longitude": -84.652507
+                },
+                "feature_type": "street",
+                "full_address": "Washington Drive, Douglasville, Georgia 30135, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDZlMzMxNTctZGY3YS00OTMzLTg1OTEtNjc2ZDNlMTczYjAx",
+                "name": "Washington Drive",
+                "name_preferred": "Washington Drive",
+                "place_formatted": "Douglasville, Georgia 30135, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.479531,
+                    33.568813
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWQ5NzM5OWEtODc4My00ZDQwLThiNjYtMjI5ZTRhYjEzN2I2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCQVJJN0E",
+                            "name": "College Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbDVvN0E",
+                        "name": "South Fulton",
+                        "wikidata_id": "Q7567323"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmp1N0E",
+                        "name": "30349"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWQ5NzM5OWEtODc4My00ZDQwLThiNjYtMjI5ZTRhYjEzN2I2",
+                        "name": "Ashington Court"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.568813,
+                    "longitude": -84.479531
+                },
+                "feature_type": "street",
+                "full_address": "Ashington Court, South Fulton, Georgia 30349, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWQ5NzM5OWEtODc4My00ZDQwLThiNjYtMjI5ZTRhYjEzN2I2",
+                "name": "Ashington Court",
+                "name_preferred": "Ashington Court",
+                "place_formatted": "South Fulton, Georgia 30349, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.017038,
+                    33.098485
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EQWlMQ0p6ZEhKbFpYUWlPaUpYUVZOSVNVNUhWRTlPSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUmtGSlVrSlZVazRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU1UTWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "40",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EQWlMQ0p6ZEhKbFpYUWlPaUpYUVZOSVNVNUhWRTlPSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUmtGSlVrSlZVazRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU1UTWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+                        "name": "40 Washington Street",
+                        "street_name": "Washington Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpENmJz",
+                        "name": "Bamberg County",
+                        "wikidata_id": "Q497890"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZFVJN0E",
+                        "name": "Ehrhardt",
+                        "wikidata_id": "Q2786047"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCWnBPN0E",
+                        "name": "29081"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOREFpTENKemRISmxaWFFpT2lKWFFWTklTVTVIVkU5T0lGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVJrRkpVa0pWVWs0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXlNVE1pTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6NA",
+                        "name": "Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.098485,
+                    "longitude": -81.017038,
+                    "routable_points": [
+                        {
+                            "latitude": 33.098485,
+                            "longitude": -81.017038,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "40 Washington Street, Ehrhardt, South Carolina 29081, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EQWlMQ0p6ZEhKbFpYUWlPaUpYUVZOSVNVNUhWRTlPSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUmtGSlVrSlZVazRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU1UTWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "40 Washington Street",
+                "name_preferred": "40 Washington Street",
+                "place_formatted": "Ehrhardt, South Carolina 29081, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

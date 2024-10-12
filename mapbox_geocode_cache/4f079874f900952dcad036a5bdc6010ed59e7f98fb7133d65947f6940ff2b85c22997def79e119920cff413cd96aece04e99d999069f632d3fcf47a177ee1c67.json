@@ -1,0 +1,338 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.326922,
+                    34.864232
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozZDYyYTMzNS04NGFiLTRmODctOWNjNi1hZjdiYTQwZmFmNDY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "400",
+                        "mapbox_id": "dXJuOm1ieGFkcjozZDYyYTMzNS04NGFiLTRmODctOWNjNi1hZjdiYTQwZmFmNDY",
+                        "name": "400 West Main Street",
+                        "street_name": "West Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjWWJz",
+                        "name": "Fannin County",
+                        "wikidata_id": "Q493079"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZUhJN0E",
+                        "name": "Blue Ridge",
+                        "wikidata_id": "Q2035614"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1FPN0E",
+                        "name": "30513"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2Q2MmEzMzUtODRhYi00Zjg3LTljYzYtYWY3YmE0MGZhZjQ2",
+                        "name": "West Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.864232,
+                    "longitude": -84.326922,
+                    "routable_points": [
+                        {
+                            "latitude": 34.864028,
+                            "longitude": -84.326583,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "400 West Main Street, Blue Ridge, Georgia 30513, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozZDYyYTMzNS04NGFiLTRmODctOWNjNi1hZjdiYTQwZmFmNDY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "400 West Main Street",
+                "name_preferred": "400 West Main Street",
+                "place_formatted": "Blue Ridge, Georgia 30513, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.32111,
+                    34.869234
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EQXdJaXdpYzNSeVpXVjBJam9pVjBWVFZDQk5RVWxPSUZOVUxpQlRWVWxVUlNBek1ERWlMQ0p3YkdGalpTSTZJa0pNVlVVZ1VrbEVSMFVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBMU1UTWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "400",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EQXdJaXdpYzNSeVpXVjBJam9pVjBWVFZDQk5RVWxPSUZOVUxpQlRWVWxVUlNBek1ERWlMQ0p3YkdGalpTSTZJa0pNVlVVZ1VrbEVSMFVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBMU1UTWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDox",
+                        "name": "400 East Main Street",
+                        "street_name": "East Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjWWJz",
+                        "name": "Fannin County",
+                        "wikidata_id": "Q493079"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZUhJN0E",
+                        "name": "Blue Ridge",
+                        "wikidata_id": "Q2035614"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1FPN0E",
+                        "name": "30513"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOREF3SWl3aWMzUnlaV1YwSWpvaVYwVlRWQ0JOUVVsT0lGTlVMaUJUVlVsVVJTQXpNREVpTENKd2JHRmpaU0k2SWtKTVZVVWdVa2xFUjBVaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QTFNVE1pTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6MQ",
+                        "name": "East Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.869234,
+                    "longitude": -84.32111,
+                    "routable_points": [
+                        {
+                            "latitude": 34.869234,
+                            "longitude": -84.32111,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "400 East Main Street, Blue Ridge, Georgia 30513, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EQXdJaXdpYzNSeVpXVjBJam9pVjBWVFZDQk5RVWxPSUZOVUxpQlRWVWxVUlNBek1ERWlMQ0p3YkdGalpTSTZJa0pNVlVVZ1VrbEVSMFVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBMU1UTWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "400 East Main Street",
+                "name_preferred": "400 East Main Street",
+                "place_formatted": "Blue Ridge, Georgia 30513, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.323349,
+                    34.87374
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjczZTg3ODQtYzkxZC00ZjUyLWE4YzItOWMxODQ2NDZkYTll",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjWWJz",
+                        "name": "Fannin County",
+                        "wikidata_id": "Q493079"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZUhJN0E",
+                        "name": "Blue Ridge",
+                        "wikidata_id": "Q2035614"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1FPN0E",
+                        "name": "30513"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjczZTg3ODQtYzkxZC00ZjUyLWE4YzItOWMxODQ2NDZkYTll",
+                        "name": "West Fain Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.87374,
+                    "longitude": -84.323349
+                },
+                "feature_type": "street",
+                "full_address": "West Fain Street, Blue Ridge, Georgia 30513, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjczZTg3ODQtYzkxZC00ZjUyLWE4YzItOWMxODQ2NDZkYTll",
+                "name": "West Fain Street",
+                "name_preferred": "West Fain Street",
+                "place_formatted": "Blue Ridge, Georgia 30513, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.248468,
+                    34.885541
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjBlNTEwMzItZmQxNy00NTZkLTkwNDgtYzMzODg3MDMyMDNm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjWWJz",
+                        "name": "Fannin County",
+                        "wikidata_id": "Q493079"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEU0NJN0E",
+                        "name": "Morganton",
+                        "wikidata_id": "Q613415"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2tPN0E",
+                        "name": "30560"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjBlNTEwMzItZmQxNy00NTZkLTkwNDgtYzMzODg3MDMyMDNm",
+                        "name": "Fain Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.885541,
+                    "longitude": -84.248468
+                },
+                "feature_type": "street",
+                "full_address": "Fain Street, Morganton, Georgia 30560, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjBlNTEwMzItZmQxNy00NTZkLTkwNDgtYzMzODg3MDMyMDNm",
+                "name": "Fain Street",
+                "name_preferred": "Fain Street",
+                "place_formatted": "Morganton, Georgia 30560, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.367412,
+                    34.988056
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjliOWIxMzMtMmVhNi00ZDMzLThlNTEtOWUyMjAyYzU3ZTZj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjWWJz",
+                        "name": "Fannin County",
+                        "wikidata_id": "Q493079"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERU9vN0E",
+                        "name": "McCaysville"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCM3pPN0E",
+                        "name": "37317"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBMFRz",
+                        "name": "Tennessee",
+                        "region_code": "TN",
+                        "region_code_full": "US-TN",
+                        "wikidata_id": "Q1509"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjliOWIxMzMtMmVhNi00ZDMzLThlNTEtOWUyMjAyYzU3ZTZj",
+                        "name": "Stevenson Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.988056,
+                    "longitude": -84.367412
+                },
+                "feature_type": "street",
+                "full_address": "Stevenson Street, McCaysville, Tennessee 37317, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjliOWIxMzMtMmVhNi00ZDMzLThlNTEtOWUyMjAyYzU3ZTZj",
+                "name": "Main St",
+                "name_preferred": "Stevenson Street",
+                "place_formatted": "McCaysville, Tennessee 37317, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

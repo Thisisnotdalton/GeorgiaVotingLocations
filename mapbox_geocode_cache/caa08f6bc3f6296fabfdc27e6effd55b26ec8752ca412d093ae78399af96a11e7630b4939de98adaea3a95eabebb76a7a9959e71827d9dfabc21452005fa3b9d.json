@@ -1,0 +1,221 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.114424,
+                    33.532812
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmOWQ5MDJiZS1kNmQ4LTQzZDMtYmI0NC1mYThkMGNmMzY5YTc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4395",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmOWQ5MDJiZS1kNmQ4LTQzZDMtYmI0NC1mYThkMGNmMzY5YTc",
+                        "name": "4395 Riverwatch Parkway",
+                        "street_name": "Riverwatch Parkway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUR2Jz",
+                        "name": "Columbia County",
+                        "wikidata_id": "Q115307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2NvN0E",
+                        "name": "Evans",
+                        "wikidata_id": "Q2437337"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGRPN0E",
+                        "name": "30809"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjlkOTAyYmUtZDZkOC00M2QzLWJiNDQtZmE4ZDBjZjM2OWE3",
+                        "name": "Riverwatch Parkway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.532812,
+                    "longitude": -82.114424,
+                    "routable_points": [
+                        {
+                            "latitude": 33.533404,
+                            "longitude": -82.114059,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4395 Riverwatch Parkway, Evans, Georgia 30809, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmOWQ5MDJiZS1kNmQ4LTQzZDMtYmI0NC1mYThkMGNmMzY5YTc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "4395 River Watch Pkwy",
+                "name_preferred": "4395 Riverwatch Parkway",
+                "place_formatted": "Evans, Georgia 30809, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.018662,
+                    33.52154
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NWE3ZDM0MTUtZWNhYy00MTc1LWI2ZmMtNjY3M2NjNjNiNjI2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpGenNNN0E",
+                            "name": "Masters Glen"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpLWjNNN0E",
+                        "name": "West Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHB1N0E",
+                        "name": "30909"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWE3ZDM0MTUtZWNhYy00MTc1LWI2ZmMtNjY3M2NjNjNiNjI2",
+                        "name": "River Watch Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.52154,
+                    "longitude": -82.018662
+                },
+                "feature_type": "street",
+                "full_address": "River Watch Parkway, Augusta, Georgia 30909, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWE3ZDM0MTUtZWNhYy00MTc1LWI2ZmMtNjY3M2NjNjNiNjI2",
+                "name": "River Watch Parkway",
+                "name_preferred": "River Watch Parkway",
+                "place_formatted": "Augusta, Georgia 30909, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.044919,
+                    33.524935
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGYwYWNiNTYtZmYwZC00MGJiLWIzMzUtNDdhYzJlOWFmY2E5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpLZnlNN0E",
+                            "name": "West Hills"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpLWjNNN0E",
+                        "name": "West Augusta"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEQm9vN0E",
+                            "name": "Martinez"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHBPN0E",
+                        "name": "30907"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGYwYWNiNTYtZmYwZC00MGJiLWIzMzUtNDdhYzJlOWFmY2E5",
+                        "name": "River Watch Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.524935,
+                    "longitude": -82.044919
+                },
+                "feature_type": "street",
+                "full_address": "River Watch Parkway, Augusta, Georgia 30907, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGYwYWNiNTYtZmYwZC00MGJiLWIzMzUtNDdhYzJlOWFmY2E5",
+                "name": "River Watch Parkway",
+                "name_preferred": "River Watch Parkway",
+                "place_formatted": "Augusta, Georgia 30907, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

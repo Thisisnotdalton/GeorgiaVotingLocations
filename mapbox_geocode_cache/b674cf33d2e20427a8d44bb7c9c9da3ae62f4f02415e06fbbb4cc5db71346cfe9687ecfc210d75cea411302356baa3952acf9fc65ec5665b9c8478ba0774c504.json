@@ -1,0 +1,362 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.826832,
+                    34.311118
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiOTVhMDYzMS0wM2M1LTQ3MGItYTFmOC1lNjc4Yjk4OThmMTU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "830",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiOTVhMDYzMS0wM2M1LTQ3MGItYTFmOC1lNjc4Yjk4OThmMTU",
+                        "name": "830 Green Street Northeast",
+                        "street_name": "Green Street Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprS2Jz",
+                        "name": "Hall County",
+                        "wikidata_id": "Q492012"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCeXBJN0E",
+                        "name": "Gainesville",
+                        "wikidata_id": "Q651051"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0x1N0E",
+                        "name": "30501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Yjk1YTA2MzEtMDNjNS00NzBiLWExZjgtZTY3OGI5ODk4ZjE1",
+                        "name": "Green Street Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.311118,
+                    "longitude": -83.826832,
+                    "routable_points": [
+                        {
+                            "latitude": 34.311241,
+                            "longitude": -83.826529,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "830 Green Street Northeast, Gainesville, Georgia 30501, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiOTVhMDYzMS0wM2M1LTQ3MGItYTFmOC1lNjc4Yjk4OThmMTU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "830 Green Street Northeast",
+                "name_preferred": "830 Green Street Northeast",
+                "place_formatted": "Gainesville, Georgia 30501, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.824131,
+                    34.297976
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTM2MGFlY2QtY2FjOS00MGMyLTlmOWMtYzJhYjNjNzA2ZTJm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprS2Jz",
+                        "name": "Hall County",
+                        "wikidata_id": "Q492012"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCeXBJN0E",
+                        "name": "Gainesville",
+                        "wikidata_id": "Q651051"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0x1N0E",
+                        "name": "30501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTM2MGFlY2QtY2FjOS00MGMyLTlmOWMtYzJhYjNjNzA2ZTJm",
+                        "name": "Green Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.297976,
+                    "longitude": -83.824131
+                },
+                "feature_type": "street",
+                "full_address": "Green Street, Gainesville, Georgia 30501, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTM2MGFlY2QtY2FjOS00MGMyLTlmOWMtYzJhYjNjNzA2ZTJm",
+                "name": "Green Street",
+                "name_preferred": "Green Street",
+                "place_formatted": "Gainesville, Georgia 30501, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.326978,
+                    29.691062
+                ],
+                "type": "Point"
+            },
+            "id": "address.7864489754460404",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd2Jz",
+                        "name": "Alachua County",
+                        "wikidata_id": "Q488826"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCeWxvN0E",
+                        "name": "Gainesville",
+                        "wikidata_id": "Q487999"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCblRPN0E",
+                        "name": "32609"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVRz",
+                        "name": "Florida",
+                        "region_code": "FL",
+                        "region_code_full": "US-FL",
+                        "wikidata_id": "Q812"
+                    },
+                    "street": {
+                        "mapbox_id": "address.7864489754460404",
+                        "name": "Green Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 29.691062,
+                    "longitude": -82.326978
+                },
+                "feature_type": "street",
+                "full_address": "Green Street, Gainesville, Florida 32609, United States",
+                "mapbox_id": "address.7864489754460404",
+                "name": "Green Street",
+                "name_preferred": "Green Street",
+                "place_formatted": "Gainesville, Florida 32609, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.206708,
+                    33.099084
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETXdJaXdpYzNSeVpXVjBJam9pUjFKRlJVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSkhRVWxPUlZOV1NVeE1SU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURVd01TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "830",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETXdJaXdpYzNSeVpXVjBJam9pUjFKRlJVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSkhRVWxPUlZOV1NVeE1SU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURVd01TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+                        "name": "830 Green Street",
+                        "street_name": "Green Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCbWJz",
+                        "name": "Allendale County",
+                        "wikidata_id": "Q497824"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFK1NvN0E",
+                        "name": "Ulmer"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZERPN0E",
+                        "name": "29849"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPRE13SWl3aWMzUnlaV1YwSWpvaVIxSkZSVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpIUVVsT1JWTldTVXhNUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EVXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+                        "name": "Green Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.099084,
+                    "longitude": -81.206708,
+                    "routable_points": [
+                        {
+                            "latitude": 33.099084,
+                            "longitude": -81.206708,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "830 Green Street, Ulmer, South Carolina 29849, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETXdJaXdpYzNSeVpXVjBJam9pUjFKRlJVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSkhRVWxPUlZOV1NVeE1SU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURVd01TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "830 Green Street",
+                "name_preferred": "830 Green Street",
+                "place_formatted": "Ulmer, South Carolina 29849, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.628173,
+                    34.273659
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETXdJaXdpYzNSeVpXVjBJam9pUjFKRlJVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSkhRVWxPUlZOV1NVeE1SU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURVd01TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "830",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETXdJaXdpYzNSeVpXVjBJam9pUjFKRlJVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSkhRVWxPUlZOV1NVeE1SU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURVd01TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjQ",
+                        "name": "830 Green Street",
+                        "street_name": "Green Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUUdHN0E",
+                        "name": "Newberry County",
+                        "wikidata_id": "Q515177"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEYW9JN0E",
+                        "name": "Newberry",
+                        "wikidata_id": "Q2610042"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCWnN1N0E",
+                        "name": "29108"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPRE13SWl3aWMzUnlaV1YwSWpvaVIxSkZSVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpIUVVsT1JWTldTVXhNUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EVXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+                        "name": "Green Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.273659,
+                    "longitude": -81.628173,
+                    "routable_points": [
+                        {
+                            "latitude": 34.273659,
+                            "longitude": -81.628173,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "830 Green Street, Newberry, South Carolina 29108, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9ETXdJaXdpYzNSeVpXVjBJam9pUjFKRlJVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSkhRVWxPUlZOV1NVeE1SU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURVd01TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "830 Green Street",
+                "name_preferred": "830 Green Street",
+                "place_formatted": "Newberry, South Carolina 29108, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

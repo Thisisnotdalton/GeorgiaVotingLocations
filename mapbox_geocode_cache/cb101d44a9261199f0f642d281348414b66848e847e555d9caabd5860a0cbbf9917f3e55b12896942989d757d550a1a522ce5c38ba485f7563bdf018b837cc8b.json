@@ -1,0 +1,333 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.377642,
+                    33.929084
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3OWIxZDEyNi03ZWIyLTQ5YjEtYTc1NS0wNGU3ZTU0YzJlMGI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "6500",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3OWIxZDEyNi03ZWIyLTQ5YjEtYTc1NS0wNGU3ZTU0YzJlMGI",
+                        "name": "6500 Vernon Woods Drive Northeast",
+                        "street_name": "Vernon Woods Drive Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFV3BJN0E",
+                        "name": "Sandy Springs",
+                        "wikidata_id": "Q914884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmF1N0E",
+                        "name": "30328"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzliMWQxMjYtN2ViMi00OWIxLWE3NTUtMDRlN2U1NGMyZTBi",
+                        "name": "Vernon Woods Drive Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.929084,
+                    "longitude": -84.377642,
+                    "routable_points": [
+                        {
+                            "latitude": 33.929058,
+                            "longitude": -84.377642,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "6500 Vernon Woods Drive Northeast, Sandy Springs, Georgia 30328, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3OWIxZDEyNi03ZWIyLTQ5YjEtYTc1NS0wNGU3ZTU0YzJlMGI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "6500 Vernon Woods Drive Northeast",
+                "name_preferred": "6500 Vernon Woods Drive Northeast",
+                "place_formatted": "Sandy Springs, Georgia 30328, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.379119,
+                    33.921597
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZmF1N0E",
+            "properties": {
+                "bbox": [
+                    -84.447536,
+                    33.901543,
+                    -84.347625,
+                    33.963344
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFV3BJN0E",
+                        "name": "Sandy Springs",
+                        "wikidata_id": "Q914884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmF1N0E",
+                        "name": "30328"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.921597,
+                    "longitude": -84.379119
+                },
+                "feature_type": "postcode",
+                "full_address": "Sandy Springs, Georgia 30328, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZmF1N0E",
+                "name": "30328",
+                "name_preferred": "30328",
+                "place_formatted": "Sandy Springs, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.065198,
+                    33.035807
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODNhYzdiMjgtODk1Zi00ZGE0LTk3ZWUtOWFlNzU0MzRiZDY4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0dtN0E",
+                        "name": "Troup County",
+                        "wikidata_id": "Q498295"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbS9JN0E",
+                        "name": "Lagrange",
+                        "wikidata_id": "Q593529"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTRPN0E",
+                        "name": "30240"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODNhYzdiMjgtODk1Zi00ZGE0LTk3ZWUtOWFlNzU0MzRiZDY4",
+                        "name": "Vernon Woods Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.035807,
+                    "longitude": -85.065198
+                },
+                "feature_type": "street",
+                "full_address": "Vernon Woods Drive, Lagrange, Georgia 30240, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODNhYzdiMjgtODk1Zi00ZGE0LTk3ZWUtOWFlNzU0MzRiZDY4",
+                "name": "Vernon Woods Drive",
+                "name_preferred": "Vernon Woods Drive",
+                "place_formatted": "Lagrange, Georgia 30240, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.382998,
+                    33.91649
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODdkZmM4MGMtNjEwNS00NmZkLWJlZWYtYjVhZDMwZWE3MmUw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzowQ2pz",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFV3BJN0E",
+                        "name": "Sandy Springs",
+                        "wikidata_id": "Q914884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmF1N0E",
+                        "name": "30328"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODdkZmM4MGMtNjEwNS00NmZkLWJlZWYtYjVhZDMwZWE3MmUw",
+                        "name": "Sandy Springs W Loop Northeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.91649,
+                    "longitude": -84.382998
+                },
+                "feature_type": "street",
+                "full_address": "Sandy Springs W Loop Northeast, Sandy Springs, Georgia 30328, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODdkZmM4MGMtNjEwNS00NmZkLWJlZWYtYjVhZDMwZWE3MmUw",
+                "name": "Sandy Springs Cir",
+                "name_preferred": "Sandy Springs W Loop Northeast",
+                "place_formatted": "Sandy Springs, Georgia 30328, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.397796,
+                    33.963769
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmVlODQzYjMtZDRmYS00YTg5LTkyZTMtODZmNTQxYTRiNWMz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCbitzN0E",
+                        "name": "Chattahoochee Heights"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDLzdvN0E",
+                        "name": "Marietta",
+                        "wikidata_id": "Q852684"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDRPN0E",
+                        "name": "30068"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmVlODQzYjMtZDRmYS00YTg5LTkyZTMtODZmNTQxYTRiNWMz",
+                        "name": "Woods Trail"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.963769,
+                    "longitude": -84.397796
+                },
+                "feature_type": "street",
+                "full_address": "Woods Trail, Marietta, Georgia 30068, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmVlODQzYjMtZDRmYS00YTg5LTkyZTMtODZmNTQxYTRiNWMz",
+                "name": "Woods Trail",
+                "name_preferred": "Woods Trail",
+                "place_formatted": "Marietta, Georgia 30068, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

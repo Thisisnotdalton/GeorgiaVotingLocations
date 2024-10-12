@@ -1,0 +1,370 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.85562,
+                    33.58598
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zbWE6NTEzMyUyMGphY2tzb24lMjBod3klMjBzdyUyMGNvdmluZ3RvbiUyMGdhJTIwMzAwMTQtMzU4OA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5133",
+                        "mapbox_id": "dXJuOm1ieGFkci1zbWE6NTEzMyUyMGphY2tzb24lMjBod3klMjBzdyUyMGNvdmluZ3RvbiUyMGdhJTIwMzAwMTQtMzU4OA",
+                        "name": "5133 Jackson Hwy SW",
+                        "street_name": "Jackson Hwy SW"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUU1tN0E",
+                        "name": "Newton County",
+                        "wikidata_id": "Q501101"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCR2RvN0E",
+                        "name": "Covington",
+                        "wikidata_id": "Q1193960"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGd1N0E",
+                        "name": "30014"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItc21hOjUxMzMlMjBqYWNrc29uJTIwaHd5JTIwc3clMjBjb3Zpbmd0b24lMjBnYSUyMDMwMDE0LTM1ODg",
+                        "name": "Jackson Hwy SW"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 33.58598,
+                    "longitude": -83.85562
+                },
+                "feature_type": "address",
+                "full_address": "5133 Jackson Hwy SW, Covington, Georgia 30014, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zbWE6NTEzMyUyMGphY2tzb24lMjBod3klMjBzdyUyMGNvdmluZ3RvbiUyMGdhJTIwMzAwMTQtMzU4OA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "5133 Jackson Hwy SW",
+                "name_preferred": "5133 Jackson Hwy SW",
+                "place_formatted": "Covington, Georgia 30014, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.851901,
+                    33.576457
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MmM3ZWE2MmYtM2Q4Ny00OTVhLTlkMTctYzZhODVlYzBmZGNm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUU1tN0E",
+                        "name": "Newton County",
+                        "wikidata_id": "Q501101"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEODNJN0E",
+                            "name": "Porterdale"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCR2RvN0E",
+                        "name": "Covington",
+                        "wikidata_id": "Q1193960"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGd1N0E",
+                        "name": "30014"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmM3ZWE2MmYtM2Q4Ny00OTVhLTlkMTctYzZhODVlYzBmZGNm",
+                        "name": "Jackson Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.576457,
+                    "longitude": -83.851901
+                },
+                "feature_type": "street",
+                "full_address": "Jackson Highway, Covington, Georgia 30014, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmM3ZWE2MmYtM2Q4Ny00OTVhLTlkMTctYzZhODVlYzBmZGNm",
+                "name": "Jackson Highway",
+                "name_preferred": "Jackson Highway",
+                "place_formatted": "Covington, Georgia 30014, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.859412,
+                    33.596847
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZGd1N0E",
+            "properties": {
+                "bbox": [
+                    -83.948592,
+                    33.367239,
+                    -83.736055,
+                    33.761438
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUU1tN0E",
+                        "name": "Newton County",
+                        "wikidata_id": "Q501101"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEODNJN0E",
+                            "name": "Porterdale"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCR2RvN0E",
+                        "name": "Covington",
+                        "wikidata_id": "Q1193960"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGd1N0E",
+                        "name": "30014"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.596847,
+                    "longitude": -83.859412
+                },
+                "feature_type": "postcode",
+                "full_address": "Covington, Georgia 30014, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZGd1N0E",
+                "name": "30014",
+                "name_preferred": "30014",
+                "place_formatted": "Covington, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.001509,
+                    40.459178
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5URXpNeUlzSW5OMGNtVmxkQ0k2SWtwQlEwdFRUMDRnU0VsSFNGZEJXU0lzSW5Cc1lXTmxJam9pUTA5V1NVNUhWRTlPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01ERTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5133",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5URXpNeUlzSW5OMGNtVmxkQ0k2SWtwQlEwdFRUMDRnU0VsSFNGZEJXU0lzSW5Cc1lXTmxJam9pUTA5V1NVNUhWRTlPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01ERTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+                        "name": "5133 Jackson Highway",
+                        "street_name": "Jackson Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVjNtN0E",
+                        "name": "Tippecanoe County",
+                        "wikidata_id": "Q507365"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDbXhvN0E",
+                            "name": "Lafayette"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpGUUhJN0E",
+                        "name": "West Lafayette",
+                        "wikidata_id": "Q166481"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYVFPN0E",
+                        "name": "47906"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBb1Rz",
+                        "name": "Indiana",
+                        "region_code": "IN",
+                        "region_code_full": "US-IN",
+                        "wikidata_id": "Q1415"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVEV6TXlJc0luTjBjbVZsZENJNklrcEJRMHRUVDA0Z1NFbEhTRmRCV1NJc0luQnNZV05sSWpvaVEwOVdTVTVIVkU5T0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNREUwSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjM",
+                        "name": "Jackson Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 40.459178,
+                    "longitude": -87.001509,
+                    "routable_points": [
+                        {
+                            "latitude": 40.459178,
+                            "longitude": -87.001509,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5133 Jackson Highway, West Lafayette, Indiana 47906, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5URXpNeUlzSW5OMGNtVmxkQ0k2SWtwQlEwdFRUMDRnU0VsSFNGZEJXU0lzSW5Cc1lXTmxJam9pUTA5V1NVNUhWRTlPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01ERTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "5133 Jackson Highway",
+                "name_preferred": "5133 Jackson Highway",
+                "place_formatted": "West Lafayette, Indiana 47906, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.896471,
+                    37.062868
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5URXpNeUlzSW5OMGNtVmxkQ0k2SWtwQlEwdFRUMDRnU0VsSFNGZEJXU0lzSW5Cc1lXTmxJam9pUTA5V1NVNUhWRTlPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01ERTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5133",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5URXpNeUlzSW5OMGNtVmxkQ0k2SWtwQlEwdFRUMDRnU0VsSFNGZEJXU0lzSW5Cc1lXTmxJam9pUTA5V1NVNUhWRTlPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01ERTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+                        "name": "5133 North Jackson Highway",
+                        "street_name": "North Jackson Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFU2Jz",
+                        "name": "Barren County",
+                        "wikidata_id": "Q486081"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeTdJN0E",
+                        "name": "Cave City",
+                        "wikidata_id": "Q2559676"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDR3BPN0E",
+                        "name": "42127"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCR1Rz",
+                        "name": "Kentucky",
+                        "region_code": "KY",
+                        "region_code_full": "US-KY",
+                        "wikidata_id": "Q1603"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVEV6TXlJc0luTjBjbVZsZENJNklrcEJRMHRUVDA0Z1NFbEhTRmRCV1NJc0luQnNZV05sSWpvaVEwOVdTVTVIVkU5T0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNREUwSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjQ",
+                        "name": "North Jackson Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 37.062868,
+                    "longitude": -85.896471,
+                    "routable_points": [
+                        {
+                            "latitude": 37.062868,
+                            "longitude": -85.896471,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5133 North Jackson Highway, Cave City, Kentucky 42127, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5URXpNeUlzSW5OMGNtVmxkQ0k2SWtwQlEwdFRUMDRnU0VsSFNGZEJXU0lzSW5Cc1lXTmxJam9pUTA5V1NVNUhWRTlPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01ERTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "5133 North Jackson Highway",
+                "name_preferred": "5133 North Jackson Highway",
+                "place_formatted": "Cave City, Kentucky 42127, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,334 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.616234,
+                    32.832468
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4MGVmMzQ2NC04NjEzLTQzYzItYmJlMC05YTgxZjZiMjJmY2I",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "132",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4MGVmMzQ2NC04NjEzLTQzYzItYmJlMC05YTgxZjZiMjJmY2I",
+                        "name": "132 Willie Smokie Glover Drive",
+                        "street_name": "Willie Smokie Glover Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaWpPN0E",
+                        "name": "31201"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODBlZjM0NjQtODYxMy00M2MyLWJiZTAtOWE4MWY2YjIyZmNi",
+                        "name": "Willie Smokie Glover Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 32.832468,
+                    "longitude": -83.616234,
+                    "routable_points": [
+                        {
+                            "latitude": 32.83262,
+                            "longitude": -83.616046,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "132 Willie Smokie Glover Drive, Macon, Georgia 31201, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4MGVmMzQ2NC04NjEzLTQzYzItYmJlMC05YTgxZjZiMjJmY2I",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "132 Willie Smokie Glover Drive",
+                "name_preferred": "132 Willie Smokie Glover Drive",
+                "place_formatted": "Macon, Georgia 31201, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.558305,
+                    32.834557
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6M2VmZDVlNGUtZDVhMC00MzU0LWJkMzUtZDQ0NWJiMDQyYjFl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDdXdzN0E",
+                        "name": "East Macon"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXB1N0E",
+                        "name": "31217"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2VmZDVlNGUtZDVhMC00MzU0LWJkMzUtZDQ0NWJiMDQyYjFl",
+                        "name": "Glover Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.834557,
+                    "longitude": -83.558305
+                },
+                "feature_type": "street",
+                "full_address": "Glover Drive, Macon, Georgia 31217, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2VmZDVlNGUtZDVhMC00MzU0LWJkMzUtZDQ0NWJiMDQyYjFl",
+                "name": "Glover Drive",
+                "name_preferred": "Glover Drive",
+                "place_formatted": "Macon, Georgia 31217, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.707062,
+                    32.705948
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjVhY2JjZDYtNGExMC00Y2QzLWE0ZjItNDczZjFhMjViOTQ1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEdVBNN0E",
+                        "name": "Goodall Estates"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXBPN0E",
+                        "name": "31216"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjVhY2JjZDYtNGExMC00Y2QzLWE0ZjItNDczZjFhMjViOTQ1",
+                        "name": "Grover Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.705948,
+                    "longitude": -83.707062
+                },
+                "feature_type": "street",
+                "full_address": "Grover Drive, Macon, Georgia 31216, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjVhY2JjZDYtNGExMC00Y2QzLWE0ZjItNDczZjFhMjViOTQ1",
+                "name": "Grover Drive",
+                "name_preferred": "Grover Drive",
+                "place_formatted": "Macon, Georgia 31216, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.62782,
+                    32.838003
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaWpPN0E",
+            "properties": {
+                "bbox": [
+                    -83.655269,
+                    32.784587,
+                    -83.580444,
+                    32.855291
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaWpPN0E",
+                        "name": "31201"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.838003,
+                    "longitude": -83.62782
+                },
+                "feature_type": "postcode",
+                "full_address": "Macon, Georgia 31201, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaWpPN0E",
+                "name": "31201",
+                "name_preferred": "31201",
+                "place_formatted": "Macon, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.504967,
+                    31.226613
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjVhMGE5ZjQtNWFkMC00MDdhLTgxZjQtMThjYzFkM2NhOTkw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDTUFxN0E",
+                        "name": "Dock Junction",
+                        "wikidata_id": "Q2668503"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIUHlzN0E",
+                        "name": "Parkwood"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBblhvN0E",
+                        "name": "Brunswick",
+                        "wikidata_id": "Q994144"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakpPN0E",
+                        "name": "31520"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjVhMGE5ZjQtNWFkMC00MDdhLTgxZjQtMThjYzFkM2NhOTkw",
+                        "name": "Glover Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.226613,
+                    "longitude": -81.504967
+                },
+                "feature_type": "street",
+                "full_address": "Glover Drive, Brunswick, Georgia 31520, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjVhMGE5ZjQtNWFkMC00MDdhLTgxZjQtMThjYzFkM2NhOTkw",
+                "name": "Glover Drive",
+                "name_preferred": "Glover Drive",
+                "place_formatted": "Brunswick, Georgia 31520, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

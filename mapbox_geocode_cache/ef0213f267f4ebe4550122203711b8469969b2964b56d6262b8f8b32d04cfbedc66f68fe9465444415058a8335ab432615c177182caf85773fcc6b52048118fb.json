@@ -1,0 +1,314 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.04846,
+                    31.605468
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplYWE3ZWUwOC1lZmZmLTRkMzgtODg4OC0zODdjZjRlM2ZhNWQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "210",
+                        "mapbox_id": "dXJuOm1ieGFkcjplYWE3ZWUwOC1lZmZmLTRkMzgtODg4OC0zODdjZjRlM2ZhNWQ",
+                        "name": "210 Washington Street",
+                        "street_name": "Washington Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRNmJz",
+                        "name": "Clay County",
+                        "wikidata_id": "Q156580"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdElJN0E",
+                        "name": "Fort Gaines",
+                        "wikidata_id": "Q2361460"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXhPN0E",
+                        "name": "39851"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWFhN2VlMDgtZWZmZi00ZDM4LTg4ODgtMzg3Y2Y0ZTNmYTVk",
+                        "name": "Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 31.605468,
+                    "longitude": -85.04846,
+                    "routable_points": [
+                        {
+                            "latitude": 31.605473,
+                            "longitude": -85.048874,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "210 Washington Street, Fort Gaines, Georgia 39851, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplYWE3ZWUwOC1lZmZmLTRkMzgtODg4OC0zODdjZjRlM2ZhNWQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "210 South Washington Street",
+                "name_preferred": "210 Washington Street",
+                "place_formatted": "Fort Gaines, Georgia 39851, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.047522,
+                    31.600319
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTRjMDhiOGEtNzI2MS00ODA0LWI2YjgtNDU4ZWMxYjg3ZmQ1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRNmJz",
+                        "name": "Clay County",
+                        "wikidata_id": "Q156580"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdElJN0E",
+                        "name": "Fort Gaines",
+                        "wikidata_id": "Q2361460"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXhPN0E",
+                        "name": "39851"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTRjMDhiOGEtNzI2MS00ODA0LWI2YjgtNDU4ZWMxYjg3ZmQ1",
+                        "name": "Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.600319,
+                    "longitude": -85.047522
+                },
+                "feature_type": "street",
+                "full_address": "Washington Street, Fort Gaines, Georgia 39851, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTRjMDhiOGEtNzI2MS00ODA0LWI2YjgtNDU4ZWMxYjg3ZmQ1",
+                "name": "South Washington Street",
+                "name_preferred": "Washington Street",
+                "place_formatted": "Fort Gaines, Georgia 39851, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.049864,
+                    31.605673
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDQXhPN0E",
+            "properties": {
+                "bbox": [
+                    -85.14113,
+                    31.485871,
+                    -84.888497,
+                    31.780463
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRNmJz",
+                        "name": "Clay County",
+                        "wikidata_id": "Q156580"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdElJN0E",
+                        "name": "Fort Gaines",
+                        "wikidata_id": "Q2361460"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXhPN0E",
+                        "name": "39851"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.605673,
+                    "longitude": -85.049864
+                },
+                "feature_type": "postcode",
+                "full_address": "Fort Gaines, Georgia 39851, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDQXhPN0E",
+                "name": "39851",
+                "name_preferred": "39851",
+                "place_formatted": "Fort Gaines, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.049866,
+                    31.605673
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCdElJN0E",
+            "properties": {
+                "bbox": [
+                    -85.14113,
+                    31.485871,
+                    -84.888497,
+                    31.780463
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRNmJz",
+                        "name": "Clay County",
+                        "wikidata_id": "Q156580"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdElJN0E",
+                        "name": "Fort Gaines",
+                        "wikidata_id": "Q2361460"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.605673,
+                    "longitude": -85.049866
+                },
+                "feature_type": "place",
+                "full_address": "Fort Gaines, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCdElJN0E",
+                "name": "Fort Gaines",
+                "name_preferred": "Fort Gaines",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.08644,
+                    38.621245
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjY0ODBmN2QtMDBkYy00YjQ3LWJmMmItYmM2Y2ZjMzdjYzc4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpXd2Jz",
+                        "name": "Daviess County",
+                        "wikidata_id": "Q220005"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSmVvN0E",
+                        "name": "Washington"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDWTN1N0E",
+                        "name": "47501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBb1Rz",
+                        "name": "Indiana",
+                        "region_code": "IN",
+                        "region_code_full": "US-IN",
+                        "wikidata_id": "Q1415"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjY0ODBmN2QtMDBkYy00YjQ3LWJmMmItYmM2Y2ZjMzdjYzc4",
+                        "name": "South"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 38.621245,
+                    "longitude": -87.08644
+                },
+                "feature_type": "street",
+                "full_address": "South, Washington, Indiana 47501, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjY0ODBmN2QtMDBkYy00YjQ3LWJmMmItYmM2Y2ZjMzdjYzc4",
+                "name": "South",
+                "name_preferred": "South",
+                "place_formatted": "Washington, Indiana 47501, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

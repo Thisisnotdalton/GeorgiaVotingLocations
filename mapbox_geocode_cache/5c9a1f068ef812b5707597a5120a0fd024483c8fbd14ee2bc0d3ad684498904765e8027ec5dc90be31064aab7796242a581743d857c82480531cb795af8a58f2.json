@@ -1,0 +1,336 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.483462,
+                    34.695082
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4YjYwMGMzZi05NGI1LTQ1ZWQtYjg2Zi0wZmRiM2RhYzhjOGM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4YjYwMGMzZi05NGI1LTQ1ZWQtYjg2Zi0wZmRiM2RhYzhjOGM",
+                        "name": "1 Broad Street",
+                        "street_name": "Broad Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnb2Jz",
+                        "name": "Gilmer County",
+                        "wikidata_id": "Q493054"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCWmtJN0E",
+                            "name": "East Ellijay"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmtJN0E",
+                        "name": "Ellijay",
+                        "wikidata_id": "Q1814374"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2NPN0E",
+                        "name": "30540"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGI2MDBjM2YtOTRiNS00NWVkLWI4NmYtMGZkYjNkYWM4Yzhj",
+                        "name": "Broad Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.695082,
+                    "longitude": -84.483462,
+                    "routable_points": [
+                        {
+                            "latitude": 34.695196,
+                            "longitude": -84.483698,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1 Broad Street, Ellijay, Georgia 30540, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4YjYwMGMzZi05NGI1LTQ1ZWQtYjg2Zi0wZmRiM2RhYzhjOGM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1 Broad Street",
+                "name_preferred": "1 Broad Street",
+                "place_formatted": "Ellijay, Georgia 30540, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.538098,
+                    34.673305
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2RlNWUzNGItMTQ4Zi00YmYyLTgxMjgtZTljNTM2ZjZlZTA3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnb2Jz",
+                        "name": "Gilmer County",
+                        "wikidata_id": "Q493054"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCWmtJN0E",
+                            "name": "East Ellijay"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmtJN0E",
+                        "name": "Ellijay",
+                        "wikidata_id": "Q1814374"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2NPN0E",
+                        "name": "30540"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2RlNWUzNGItMTQ4Zi00YmYyLTgxMjgtZTljNTM2ZjZlZTA3",
+                        "name": "Rd St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.673305,
+                    "longitude": -84.538098
+                },
+                "feature_type": "street",
+                "full_address": "Rd St, Ellijay, Georgia 30540, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2RlNWUzNGItMTQ4Zi00YmYyLTgxMjgtZTljNTM2ZjZlZTA3",
+                "name": "Rd St",
+                "name_preferred": "Rd St",
+                "place_formatted": "Ellijay, Georgia 30540, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.530998,
+                    34.678051
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWYyZjAzNzEtY2VkNy00ZWFjLWIyZjItODIyMTk2ZjliNGVk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnb2Jz",
+                        "name": "Gilmer County",
+                        "wikidata_id": "Q493054"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCWmtJN0E",
+                            "name": "East Ellijay"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmtJN0E",
+                        "name": "Ellijay",
+                        "wikidata_id": "Q1814374"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2NPN0E",
+                        "name": "30540"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWYyZjAzNzEtY2VkNy00ZWFjLWIyZjItODIyMTk2ZjliNGVk",
+                        "name": "22nd Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.678051,
+                    "longitude": -84.530998
+                },
+                "feature_type": "street",
+                "full_address": "22nd Street, Ellijay, Georgia 30540, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWYyZjAzNzEtY2VkNy00ZWFjLWIyZjItODIyMTk2ZjliNGVk",
+                "name": "St",
+                "name_preferred": "22nd Street",
+                "place_formatted": "Ellijay, Georgia 30540, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.482552,
+                    34.694944
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ2NPN0E",
+            "properties": {
+                "bbox": [
+                    -84.665065,
+                    34.557672,
+                    -84.392052,
+                    34.85556
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnb2Jz",
+                        "name": "Gilmer County",
+                        "wikidata_id": "Q493054"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCWmtJN0E",
+                            "name": "East Ellijay"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmtJN0E",
+                        "name": "Ellijay",
+                        "wikidata_id": "Q1814374"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2NPN0E",
+                        "name": "30540"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.694944,
+                    "longitude": -84.482552
+                },
+                "feature_type": "postcode",
+                "full_address": "Ellijay, Georgia 30540, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ2NPN0E",
+                "name": "30540",
+                "name_preferred": "30540",
+                "place_formatted": "Ellijay, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.476194,
+                    34.67967
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDZiMjUzM2MtOTUzMi00N2UwLThjZWYtNjMyNDg1ODRlZGQ4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnb2Jz",
+                        "name": "Gilmer County",
+                        "wikidata_id": "Q493054"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCZmpvN0E",
+                            "name": "Ellijay"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCWmtvN0E",
+                        "name": "East Ellijay"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2NPN0E",
+                        "name": "30540"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDZiMjUzM2MtOTUzMi00N2UwLThjZWYtNjMyNDg1ODRlZGQ4",
+                        "name": "Craig Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.67967,
+                    "longitude": -84.476194
+                },
+                "feature_type": "street",
+                "full_address": "Craig Street, East Ellijay, Georgia 30540, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDZiMjUzM2MtOTUzMi00N2UwLThjZWYtNjMyNDg1ODRlZGQ4",
+                "name": "St",
+                "name_preferred": "Craig Street",
+                "place_formatted": "East Ellijay, Georgia 30540, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

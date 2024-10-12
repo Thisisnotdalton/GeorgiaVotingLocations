@@ -1,0 +1,87 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.701818,
+                    32.464959
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0OTVhYmM3MS1jOTY3LTQ4NTYtODE2ZC1mOWFhOGM1ZjhiNjc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2030",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0OTVhYmM3MS1jOTY3LTQ4NTYtODE2ZC1mOWFhOGM1ZjhiNjc",
+                        "name": "2030 Kings Chapel Road",
+                        "street_name": "Kings Chapel Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpvcWJz",
+                        "name": "Houston County",
+                        "wikidata_id": "Q486362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEMGlJN0E",
+                        "name": "Perry",
+                        "wikidata_id": "Q668422"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaU5PN0E",
+                        "name": "31069"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDk1YWJjNzEtYzk2Ny00ODU2LTgxNmQtZjlhYThjNWY4YjY3",
+                        "name": "Kings Chapel Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 32.464959,
+                    "longitude": -83.701818,
+                    "routable_points": [
+                        {
+                            "latitude": 32.465856,
+                            "longitude": -83.701815,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2030 Kings Chapel Road, Perry, Georgia 31069, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0OTVhYmM3MS1jOTY3LTQ4NTYtODE2ZC1mOWFhOGM1ZjhiNjc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2030 Kings Chapel Road",
+                "name_preferred": "2030 Kings Chapel Road",
+                "place_formatted": "Perry, Georgia 31069, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

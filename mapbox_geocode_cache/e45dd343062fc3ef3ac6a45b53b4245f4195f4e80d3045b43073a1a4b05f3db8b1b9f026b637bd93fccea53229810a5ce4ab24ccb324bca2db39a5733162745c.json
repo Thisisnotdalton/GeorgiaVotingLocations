@@ -1,0 +1,337 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.455685,
+                    31.94243
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmZTgwZTdmMy00MTJiLTRiNTItOGU5Yi0xYjI3OTQ0ZDQ3MDA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "239",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmZTgwZTdmMy00MTJiLTRiNTItOGU5Yi0xYjI3OTQ0ZDQ3MDA",
+                        "name": "239 Gordon Street",
+                        "street_name": "Gordon Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDJHN0E",
+                        "name": "Wilcox County",
+                        "wikidata_id": "Q486791"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTGZJN0E",
+                        "name": "Rochelle"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVJPN0E",
+                        "name": "31079"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmU4MGU3ZjMtNDEyYi00YjUyLThlOWItMWIyNzk0NGQ0NzAw",
+                        "name": "Gordon Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 31.94243,
+                    "longitude": -83.455685,
+                    "routable_points": [
+                        {
+                            "latitude": 31.942464,
+                            "longitude": -83.455114,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "239 Gordon Street, Rochelle, Georgia 31079, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmZTgwZTdmMy00MTJiLTRiNTItOGU5Yi0xYjI3OTQ0ZDQ3MDA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "239 Gordon Street",
+                "name_preferred": "239 Gordon Street",
+                "place_formatted": "Rochelle, Georgia 31079, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.48243,
+                    32.015113
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDdiYjFmZWQtMjdmNC00N2RhLTkzZjktMGMwYTVlM2JmZjBi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDJHN0E",
+                        "name": "Wilcox County",
+                        "wikidata_id": "Q486791"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTGZJN0E",
+                        "name": "Rochelle"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVJPN0E",
+                        "name": "31079"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDdiYjFmZWQtMjdmNC00N2RhLTkzZjktMGMwYTVlM2JmZjBi",
+                        "name": "Gordon Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.015113,
+                    "longitude": -83.48243
+                },
+                "feature_type": "street",
+                "full_address": "Gordon Rd, Rochelle, Georgia 31079, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDdiYjFmZWQtMjdmNC00N2RhLTkzZjktMGMwYTVlM2JmZjBi",
+                "name": "Gordon Rd",
+                "name_preferred": "Gordon Rd",
+                "place_formatted": "Rochelle, Georgia 31079, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.391515,
+                    32.340685
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTTVJaXdpYzNSeVpXVjBJam9pUjA5U1JFOU9JRk5VSWl3aWNHeGhZMlVpT2lKU1QwTklSVXhNUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQTNPU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "239",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTTVJaXdpYzNSeVpXVjBJam9pUjA5U1JFOU9JRk5VSWl3aWNHeGhZMlVpT2lKU1QwTklSVXhNUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQTNPU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToy",
+                        "name": "239 Gordon Avenue",
+                        "street_name": "Gordon Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWJz",
+                        "name": "Effingham County",
+                        "wikidata_id": "Q156637"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQ2VvN0E",
+                        "name": "Guyton",
+                        "wikidata_id": "Q2611100"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXh1N0E",
+                        "name": "31312"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNak01SWl3aWMzUnlaV1YwSWpvaVIwOVNSRTlPSUZOVUlpd2ljR3hoWTJVaU9pSlNUME5JUlV4TVJTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVEEzT1NJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+                        "name": "Gordon Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.340685,
+                    "longitude": -81.391515,
+                    "routable_points": [
+                        {
+                            "latitude": 32.340685,
+                            "longitude": -81.391515,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "239 Gordon Avenue, Guyton, Georgia 31312, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTTVJaXdpYzNSeVpXVjBJam9pUjA5U1JFOU9JRk5VSWl3aWNHeGhZMlVpT2lKU1QwTklSVXhNUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQTNPU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "239 Gordon St",
+                "name_preferred": "239 Gordon Avenue",
+                "place_formatted": "Guyton, Georgia 31312, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.46233,
+                    32.02026
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTI4NGE5YTMtNWI4Yy00YWFjLTljOTUtMDljYWFhMzBjMmNi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDJHN0E",
+                        "name": "Wilcox County",
+                        "wikidata_id": "Q486791"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT3c",
+                        "name": "Abbeville",
+                        "wikidata_id": "Q306318"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVJPN0E",
+                        "name": "31079"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTI4NGE5YTMtNWI4Yy00YWFjLTljOTUtMDljYWFhMzBjMmNi",
+                        "name": "Gordon Phinney Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.02026,
+                    "longitude": -83.46233
+                },
+                "feature_type": "street",
+                "full_address": "Gordon Phinney Road, Abbeville, Georgia 31079, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTI4NGE5YTMtNWI4Yy00YWFjLTljOTUtMDljYWFhMzBjMmNi",
+                "name": "Gordon Rd",
+                "name_preferred": "Gordon Phinney Road",
+                "place_formatted": "Abbeville, Georgia 31079, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.43645,
+                    32.01455
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NmRkZDllZjYtMTQ2Ni00YjNjLWFlNzctOTYxYzE0ZWZmNjFk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDJHN0E",
+                        "name": "Wilcox County",
+                        "wikidata_id": "Q486791"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT3c",
+                        "name": "Abbeville",
+                        "wikidata_id": "Q306318"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHRPN0E",
+                        "name": "31001"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmRkZDllZjYtMTQ2Ni00YjNjLWFlNzctOTYxYzE0ZWZmNjFk",
+                        "name": "Gordon Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.01455,
+                    "longitude": -83.43645
+                },
+                "feature_type": "street",
+                "full_address": "Gordon Rd, Abbeville, Georgia 31001, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmRkZDllZjYtMTQ2Ni00YjNjLWFlNzctOTYxYzE0ZWZmNjFk",
+                "name": "Gordon Rd",
+                "name_preferred": "Gordon Rd",
+                "place_formatted": "Abbeville, Georgia 31001, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
