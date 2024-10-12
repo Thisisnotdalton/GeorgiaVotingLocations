@@ -101,7 +101,6 @@ export async function Start() {
     }
 
     // Load county polling places (or state if no county selected)
-
     scenarios.appendCallSelectionChangedCallback(onSelectionChanged);
     await scenarios.initialize();
     // Load all county boundaries into layer.
@@ -109,11 +108,12 @@ export async function Start() {
         'county_boundaries', await scenarios.getCountyBoundaries());
     map.displayLayer('county_boundaries',
         {
-            'type': 'fill',
+            'type': 'line',
             'layout': {},
             'paint': {
-                'fill-color': '#088',
-                'fill-opacity': 0.8
+                'line-color': '#333',
+                'line-opacity': 0.8,
+                'line-width': 1,
             }
         });
 }
