@@ -39,24 +39,23 @@ class ScenarioSelector {
     }
 
     async selectCounty(countyName) {
-        let counties = await this.#data.getCounties();
-        countyName = counties.normalize(countyName);
+        countyName = (await this.#data.getCounties()).normalize(countyName);
         if (countyName !== this.#selectedCounty) {
             this.#selectedCounty = countyName;
             this.#selectionChangedCallback();
         }
     }
 
-    selectScenarioName(scenarioName) {
-        scenarioName = this.#data.getScenarioNames().normalize(scenarioName);
+    async selectScenarioName(scenarioName) {
+        scenarioName = (await this.#data.getScenarioNames()).normalize(scenarioName);
         if (scenarioName !== this.#selectedScenarioName) {
             this.#selectedScenarioName = scenarioName;
-            this.selectScenarioDate(this.#selectedDate);
+            this.selectDate(this.#selectedDate);
         }
     }
 
-    selectDate(scenarioDate) {
-        scenarioDate = this.#data.getScenarioDates(this.#selectedScenarioName).normalize(scenarioDate);
+    async selectDate(scenarioDate) {
+        scenarioDate = (await this.#data.getScenarioDates(this.#selectedScenarioName)).normalize(scenarioDate);
         if (scenarioDate !== this.#selectedDate) {
             this.#selectedDate = scenarioDate;
             this.#selectionChangedCallback();
@@ -141,6 +140,14 @@ export async function Start() {
     const county = urlParams.get('county')
     if (county) {
         await scenarios.selectCounty(county);
+    }
+    const scenario = urlParams.get('scenario')
+    if (county) {
+        await scenarios.selectScenarioName(scenario);
+    }
+    const date = urlParams.get('date')
+    if (county) {
+        await scenarios.selectDate(date);
     }
 }
 
