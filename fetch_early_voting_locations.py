@@ -209,7 +209,7 @@ def fetch_early_voting_locations(
     return locations
 
 
-address_re = re.compile(r'(?P<address_number>[\da-zA-Z]*)\s+(?P<street>[^,]+)((,[^,]+,)|,)\s*(?P<place>[A-Za-z\s]+)$')
+address_re = re.compile(r'(?P<address_number>[\da-zA-Z]*)\s+(?P<street>[^,]+)((,[^,]+,)|,)\s*(?P<place>[A-Za-z\s.]+)$')
 postcode_re = re.compile(r'\s+(\d+[- ]?\d*)$')
 
 
@@ -520,8 +520,9 @@ def spatially_check_polling_places(output_directory: str = 'data', state: str = 
         all_errors = gpd.GeoDataFrame(all_errors)
         all_errors.to_file(errors_file_path)
         print(f'There were {len(all_errors)} polling places which did not intersect with their county bounds!')
-    elif os.path.isdir(errors_file_path):
-        os.remove(errors_file_path)
+    else:
+        if os.path.isfile(errors_file_path):
+            os.remove(errors_file_path)
         print('All polling places intersect their county bounds.')
 
 
