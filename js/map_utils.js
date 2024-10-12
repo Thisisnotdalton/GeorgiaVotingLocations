@@ -1,5 +1,6 @@
 class Map {
     #layers = {};
+    #layerClickResponses = {};
     #map = null;
     #zoom = null;
 
@@ -43,6 +44,7 @@ class Map {
         if (layerName in this.#layers) {
             this.#map.removeLayer(layerName);
             this.#map.removeSource(layerName);
+            this.clickResponse(layerName, null);
             delete this.#layers[layerName];
         }
     }
@@ -59,6 +61,30 @@ class Map {
             this.#map.addLayer(layer);
         } else if (this.#layers[layerName]) {
             this.#map.removeLayer(layerName);
+        }
+    }
+
+    clickResponse(layerName, handler, hoverPointer = true) {
+        if (handler) {
+            let handlers = {
+                'click': handler
+            };
+            if (hoverPointer) {
+                handlers['mouseenter'] = () => {
+                    this.#map.getCanvas().style.cursor = 'pointer';
+                };
+                handlers['mouseleave'] = () => {
+                    this.#map.getCanvas().style.cursor = '';
+                };
+            }
+            this.#layerClickResponses[layerName] = handlers;
+            for (let [key, value] of Object.entries(handlers)) {
+                this.#map.on(key, layerName, value);
+            }
+        } else if (layerName in this.#layerClickResponses) {
+            for (let [key, value] of Object.entries(this.#layerClickResponses[layerName])) {
+                this.#map.off(key, value);
+            }
         }
     }
 }

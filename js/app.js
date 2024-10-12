@@ -116,6 +116,9 @@ export async function Start() {
                     'circle-stroke-color': '#333'
                 }
             });
+        map.clickResponse(pollingLocationLayerID, (x) => {
+            console.log(x['features'][0]['properties']);
+        });
     }
 
     scenarios.appendCallSelectionChangedCallback(onSelectionChanged);
@@ -135,7 +138,6 @@ export async function Start() {
         });
 
     const queryString = window.location.search;
-    console.log(queryString);
     const urlParams = new URLSearchParams(queryString);
     const county = urlParams.get('county')
     if (county) {
