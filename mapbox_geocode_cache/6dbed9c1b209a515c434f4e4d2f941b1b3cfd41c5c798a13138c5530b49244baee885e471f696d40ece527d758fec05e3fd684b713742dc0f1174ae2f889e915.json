@@ -1,0 +1,331 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.150183,
+                    31.573914
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0MTU0Y2VkNy01YThiLTQ5YjctYmEzZC0xZTc4M2RmNDEwYjA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "100",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0MTU0Y2VkNy01YThiLTQ5YjctYmEzZC0xZTc4M2RmNDEwYjA",
+                        "name": "100 West Oglethorpe Boulevard",
+                        "street_name": "West Oglethorpe Boulevard"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaT2Jz",
+                        "name": "Dougherty County",
+                        "wikidata_id": "Q176480"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLQ2pz",
+                        "name": "Albany",
+                        "wikidata_id": "Q285599"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanV1N0E",
+                        "name": "31701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDE1NGNlZDctNWE4Yi00OWI3LWJhM2QtMWU3ODNkZjQxMGIw",
+                        "name": "West Oglethorpe Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.573914,
+                    "longitude": -84.150183,
+                    "routable_points": [
+                        {
+                            "latitude": 31.574443,
+                            "longitude": -84.150183,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "100 West Oglethorpe Boulevard, Albany, Georgia 31701, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0MTU0Y2VkNy01YThiLTQ5YjctYmEzZC0xZTc4M2RmNDEwYjA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "100 West Oglethorpe Boulevard",
+                "name_preferred": "100 West Oglethorpe Boulevard",
+                "place_formatted": "Albany, Georgia 31701, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.194065,
+                    32.678517
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTViOWQwMjctZGExNS00YjYxLWE5Y2UtY2MzODhmNDM1MmM5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDVHN0E",
+                        "name": "Wilkinson County",
+                        "wikidata_id": "Q486317"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpScWpz",
+                            "name": "Allentown"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTWpJN0E",
+                        "name": "Danville",
+                        "wikidata_id": "Q1906737"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDFPN0E",
+                        "name": "31017"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTViOWQwMjctZGExNS00YjYxLWE5Y2UtY2MzODhmNDM1MmM5",
+                        "name": "W Oglethorpe Blvd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.678517,
+                    "longitude": -83.194065
+                },
+                "feature_type": "street",
+                "full_address": "W Oglethorpe Blvd, Danville, Georgia 31017, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTViOWQwMjctZGExNS00YjYxLWE5Y2UtY2MzODhmNDM1MmM5",
+                "name": "W Oglethorpe Blvd",
+                "name_preferred": "W Oglethorpe Blvd",
+                "place_formatted": "Danville, Georgia 31017, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.397286,
+                    30.867281
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTA4NWM1YzMtYjQzNi00ZGE2LTg0YjgtZTRjZDI2MjM4MmJh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJd2Jz",
+                        "name": "Brooks County",
+                        "wikidata_id": "Q488175"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGQW1JN0E",
+                        "name": "Valdosta",
+                        "wikidata_id": "Q1010240"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamV1N0E",
+                        "name": "31602"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTA4NWM1YzMtYjQzNi00ZGE2LTg0YjgtZTRjZDI2MjM4MmJh",
+                        "name": "W Oglethorpe Blvd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.867281,
+                    "longitude": -83.397286
+                },
+                "feature_type": "street",
+                "full_address": "W Oglethorpe Blvd, Valdosta, Georgia 31602, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTA4NWM1YzMtYjQzNi00ZGE2LTg0YjgtZTRjZDI2MjM4MmJh",
+                "name": "W Oglethorpe Blvd",
+                "name_preferred": "W Oglethorpe Blvd",
+                "place_formatted": "Valdosta, Georgia 31602, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.11815,
+                    31.572513
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTdiMzg3ZDItYzM5Zi00YTE4LThkYWUtZGI0NDIyY2I3YWVi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaT2Jz",
+                        "name": "Dougherty County",
+                        "wikidata_id": "Q176480"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFdDRNN0E",
+                        "name": "Isabella Heights"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBamxvN0E",
+                            "name": "Bridgeboro"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpLQ2pz",
+                        "name": "Albany",
+                        "wikidata_id": "Q285599"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCand1N0E",
+                        "name": "31705"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTdiMzg3ZDItYzM5Zi00YTE4LThkYWUtZGI0NDIyY2I3YWVi",
+                        "name": "East Oglethorpe Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.572513,
+                    "longitude": -84.11815
+                },
+                "feature_type": "street",
+                "full_address": "East Oglethorpe Boulevard, Albany, Georgia 31705, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTdiMzg3ZDItYzM5Zi00YTE4LThkYWUtZGI0NDIyY2I3YWVi",
+                "name": "East Oglethorpe Boulevard",
+                "name_preferred": "East Oglethorpe Boulevard",
+                "place_formatted": "Albany, Georgia 31705, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.179848,
+                    31.575685
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjIzZDdmMmYtYmM3MS00MjQ3LWJjMzEtN2Y2ODQwNmUwNjVh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaT2Jz",
+                        "name": "Dougherty County",
+                        "wikidata_id": "Q176480"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUzJNN0E",
+                        "name": "Highland Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLQ2pz",
+                        "name": "Albany",
+                        "wikidata_id": "Q285599"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanh1N0E",
+                        "name": "31707"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjIzZDdmMmYtYmM3MS00MjQ3LWJjMzEtN2Y2ODQwNmUwNjVh",
+                        "name": "Oglethorpe Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.575685,
+                    "longitude": -84.179848
+                },
+                "feature_type": "street",
+                "full_address": "Oglethorpe Avenue, Albany, Georgia 31707, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjIzZDdmMmYtYmM3MS00MjQ3LWJjMzEtN2Y2ODQwNmUwNjVh",
+                "name": "W Oglethorpe Ave",
+                "name_preferred": "Oglethorpe Avenue",
+                "place_formatted": "Albany, Georgia 31707, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

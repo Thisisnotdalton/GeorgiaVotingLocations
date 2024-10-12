@@ -1,0 +1,201 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.021095,
+                    32.714528
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4NDZiNmIzNS1jYzA2LTQ1ODktYmNkOS01YTY0NDI1NzlmNWI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "640",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4NDZiNmIzNS1jYzA2LTQ1ODktYmNkOS01YTY0NDI1NzlmNWI",
+                        "name": "640 Georgia Highway 128",
+                        "street_name": "Georgia Highway 128"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpVdWJz",
+                        "name": "Crawford County",
+                        "wikidata_id": "Q486401"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTExvN0E",
+                        "name": "Roberta",
+                        "wikidata_id": "Q2106907"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVF1N0E",
+                        "name": "31078"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODQ2YjZiMzUtY2MwNi00NTg5LWJjZDktNWE2NDQyNTc5ZjVi",
+                        "name": "Georgia Highway 128"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.714528,
+                    "longitude": -84.021095,
+                    "routable_points": [
+                        {
+                            "latitude": 32.714393,
+                            "longitude": -84.020851,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "640 Georgia Highway 128, Roberta, Georgia 31078, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4NDZiNmIzNS1jYzA2LTQ1ODktYmNkOS01YTY0NDI1NzlmNWI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "640 Ga Highway 128",
+                "name_preferred": "640 Georgia Highway 128",
+                "place_formatted": "Roberta, Georgia 31078, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.014798,
+                    32.717296
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjNiZmYyMjMtZGQ5ZS00NTdjLThmZTAtMmI1M2QwOWRmZmYz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpVdWJz",
+                        "name": "Crawford County",
+                        "wikidata_id": "Q486401"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTExvN0E",
+                        "name": "Roberta",
+                        "wikidata_id": "Q2106907"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVF1N0E",
+                        "name": "31078"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjNiZmYyMjMtZGQ5ZS00NTdjLThmZTAtMmI1M2QwOWRmZmYz",
+                        "name": "West Agency Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.717296,
+                    "longitude": -84.014798
+                },
+                "feature_type": "street",
+                "full_address": "West Agency Street, Roberta, Georgia 31078, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjNiZmYyMjMtZGQ5ZS00NTdjLThmZTAtMmI1M2QwOWRmZmYz",
+                "name": "Highway 128",
+                "name_preferred": "West Agency Street",
+                "place_formatted": "Roberta, Georgia 31078, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.933758,
+                    32.568069
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDgwYzg1ZDQtMDVmOS00OTA5LTlhYjYtZTZlZTIxMGYzMmEz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUlJtN0E",
+                        "name": "Peach County",
+                        "wikidata_id": "Q491553"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdVFvN0E",
+                        "name": "Fort Valley",
+                        "wikidata_id": "Q260197"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDd1N0E",
+                        "name": "31030"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDgwYzg1ZDQtMDVmOS00OTA5LTlhYjYtZTZlZTIxMGYzMmEz",
+                        "name": "Fall Line Freeway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.568069,
+                    "longitude": -83.933758
+                },
+                "feature_type": "street",
+                "full_address": "Fall Line Freeway, Fort Valley, Georgia 31030, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDgwYzg1ZDQtMDVmOS00OTA5LTlhYjYtZTZlZTIxMGYzMmEz",
+                "name": "Ga Hwy",
+                "name_preferred": "Fall Line Freeway",
+                "place_formatted": "Fort Valley, Georgia 31030, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

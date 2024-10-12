@@ -1,0 +1,321 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.503313,
+                    34.603967
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjY2ZjMGE5Zi1hOWYwLTQzZGMtODBiZS00M2I0Yjc2NWM2MDY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "120",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjY2ZjMGE5Zi1hOWYwLTQzZGMtODBiZS00M2I0Yjc2NWM2MDY",
+                        "name": "120 Paul Franklin Road",
+                        "street_name": "Paul Franklin Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqNmJz",
+                        "name": "Habersham County",
+                        "wikidata_id": "Q501096"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBN0FvN0E",
+                        "name": "Clarkesville",
+                        "wikidata_id": "Q2546427"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1ZPN0E",
+                        "name": "30523"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2NmYzBhOWYtYTlmMC00M2RjLTgwYmUtNDNiNGI3NjVjNjA2",
+                        "name": "Paul Franklin Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.603967,
+                    "longitude": -83.503313,
+                    "routable_points": [
+                        {
+                            "latitude": 34.604524,
+                            "longitude": -83.501811,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "120 Paul Franklin Road, Clarkesville, Georgia 30523, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjY2ZjMGE5Zi1hOWYwLTQzZGMtODBiZS00M2I0Yjc2NWM2MDY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "120 Paul Franklin Road",
+                "name_preferred": "120 Paul Franklin Road",
+                "place_formatted": "Clarkesville, Georgia 30523, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.526744,
+                    34.615582
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ1ZPN0E",
+            "properties": {
+                "bbox": [
+                    -83.681696,
+                    34.588912,
+                    -83.347573,
+                    34.866854
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqNmJz",
+                        "name": "Habersham County",
+                        "wikidata_id": "Q501096"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBN0FvN0E",
+                        "name": "Clarkesville",
+                        "wikidata_id": "Q2546427"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1ZPN0E",
+                        "name": "30523"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.615582,
+                    "longitude": -83.526744
+                },
+                "feature_type": "postcode",
+                "full_address": "Clarkesville, Georgia 30523, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ1ZPN0E",
+                "name": "30523",
+                "name_preferred": "30523",
+                "place_formatted": "Clarkesville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.40687,
+                    31.40655
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjVkOGNlOGUtYThkMS00NDNhLWFhYjktYjBjMmU4NmNhZDYx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2R2Jz",
+                        "name": "McIntosh County",
+                        "wikidata_id": "Q492652"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIL0RzN0E",
+                        "name": "Ridgeville"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTXdJN0E",
+                        "name": "Darien",
+                        "wikidata_id": "Q1165884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXZPN0E",
+                        "name": "31305"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjVkOGNlOGUtYThkMS00NDNhLWFhYjktYjBjMmU4NmNhZDYx",
+                        "name": "Franklin Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.40655,
+                    "longitude": -81.40687
+                },
+                "feature_type": "street",
+                "full_address": "Franklin Street, Darien, Georgia 31305, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjVkOGNlOGUtYThkMS00NDNhLWFhYjktYjBjMmU4NmNhZDYx",
+                "name": "Franklin Road",
+                "name_preferred": "Franklin Street",
+                "place_formatted": "Darien, Georgia 31305, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.475302,
+                    34.60345
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MzU3M2Y2ZGYtZGJhYS00MmFkLTlhNzItMmY4ZTNjZmIxM2Nm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqNmJz",
+                        "name": "Habersham County",
+                        "wikidata_id": "Q501096"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEVUpvN0E",
+                        "name": "Mount Airy",
+                        "wikidata_id": "Q3262095"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2xPN0E",
+                        "name": "30563"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzU3M2Y2ZGYtZGJhYS00MmFkLTlhNzItMmY4ZTNjZmIxM2Nm",
+                        "name": "Franklin Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.60345,
+                    "longitude": -83.475302
+                },
+                "feature_type": "street",
+                "full_address": "Franklin Road, Mount Airy, Georgia 30563, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzU3M2Y2ZGYtZGJhYS00MmFkLTlhNzItMmY4ZTNjZmIxM2Nm",
+                "name": "Franklin Road",
+                "name_preferred": "Franklin Road",
+                "place_formatted": "Mount Airy, Georgia 30563, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.53705,
+                    34.6365
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDVkZmUxMWItNTBkZi00MjFmLWE0NWYtNmJhMmIxZWQ0YjM5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqNmJz",
+                        "name": "Habersham County",
+                        "wikidata_id": "Q501096"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBN0FvN0E",
+                        "name": "Clarkesville",
+                        "wikidata_id": "Q2546427"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1ZPN0E",
+                        "name": "30523"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDVkZmUxMWItNTBkZi00MjFmLWE0NWYtNmJhMmIxZWQ0YjM5",
+                        "name": "Clarkesville Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.6365,
+                    "longitude": -83.53705
+                },
+                "feature_type": "street",
+                "full_address": "Clarkesville Dr, Clarkesville, Georgia 30523, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDVkZmUxMWItNTBkZi00MjFmLWE0NWYtNmJhMmIxZWQ0YjM5",
+                "name": "Clarkesville Dr",
+                "name_preferred": "Clarkesville Dr",
+                "place_formatted": "Clarkesville, Georgia 30523, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

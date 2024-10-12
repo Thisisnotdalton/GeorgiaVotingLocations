@@ -1,0 +1,391 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.096865,
+                    32.076817
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2ODRiODI3YS1iODBmLTQzM2EtYmJlZi05NDMyMTE5YzY1Yzc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "301",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2ODRiODI3YS1iODBmLTQzM2EtYmJlZi05NDMyMTE5YzY1Yzc",
+                        "name": "301 West Oglethorpe Avenue",
+                        "street_name": "West Oglethorpe Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDa25zN0E",
+                            "name": "Downtown Savannah"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpHcE5NN0E",
+                        "name": "North Historic District"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTZ1N0E",
+                        "name": "31401"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Njg0YjgyN2EtYjgwZi00MzNhLWJiZWYtOTQzMjExOWM2NWM3",
+                        "name": "West Oglethorpe Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.076817,
+                    "longitude": -81.096865,
+                    "routable_points": [
+                        {
+                            "latitude": 32.076971,
+                            "longitude": -81.096379,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "301 West Oglethorpe Avenue, Savannah, Georgia 31401, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2ODRiODI3YS1iODBmLTQzM2EtYmJlZi05NDMyMTE5YzY1Yzc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "301 West Oglethorpe Avenue",
+                "name_preferred": "301 West Oglethorpe Avenue",
+                "place_formatted": "Savannah, Georgia 31401, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.116943,
+                    32.001938
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzZmM2JkZDgtNTliYi00YjczLWI5YjMtMTMyYjY4NzIxYzFj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCcy9zN0E",
+                            "name": "Chippewa Terrace"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0JzN0E",
+                        "name": "Avalon"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTZ1N0E",
+                        "name": "31401"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzZmM2JkZDgtNTliYi00YjczLWI5YjMtMTMyYjY4NzIxYzFj",
+                        "name": "E Oglethorpe Ave"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.001938,
+                    "longitude": -81.116943
+                },
+                "feature_type": "street",
+                "full_address": "E Oglethorpe Ave, Savannah, Georgia 31401, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzZmM2JkZDgtNTliYi00YjczLWI5YjMtMTMyYjY4NzIxYzFj",
+                "name": "E Oglethorpe Ave",
+                "name_preferred": "E Oglethorpe Ave",
+                "place_formatted": "Savannah, Georgia 31401, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.127261,
+                    32.047675
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YWY1ZDdhODYtOTFjZi00ZTNlLWI3M2YtMGJmMWM1ZDExZmNk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpJOXNzN0E",
+                            "name": "Southover"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpGWUdNN0E",
+                        "name": "Liberty City"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCenZvN0E",
+                            "name": "Garden City"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTh1N0E",
+                        "name": "31405"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWY1ZDdhODYtOTFjZi00ZTNlLWI3M2YtMGJmMWM1ZDExZmNk",
+                        "name": "Oglethorpe Ave"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.047675,
+                    "longitude": -81.127261
+                },
+                "feature_type": "street",
+                "full_address": "Oglethorpe Ave, Savannah, Georgia 31405, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWY1ZDdhODYtOTFjZi00ZTNlLWI3M2YtMGJmMWM1ZDExZmNk",
+                "name": "Oglethorpe Ave",
+                "name_preferred": "Oglethorpe Ave",
+                "place_formatted": "Savannah, Georgia 31405, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.226121,
+                    32.073452
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16QXhJaXdpYzNSeVpXVjBJam9pVDBkTVJWUklUMUpRUlNCQlZrVWlMQ0p3YkdGalpTSTZJbE5CVmtGT1RrRklJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TkRBeElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "301",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16QXhJaXdpYzNSeVpXVjBJam9pVDBkTVJWUklUMUpRUlNCQlZrVWlMQ0p3YkdGalpTSTZJbE5CVmtGT1RrRklJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TkRBeElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+                        "name": "301 Oglethorpe Avenue",
+                        "street_name": "Oglethorpe Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                        "name": "Sumter County",
+                        "wikidata_id": "Q503076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWpz",
+                        "name": "Americus",
+                        "wikidata_id": "Q123067"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanl1N0E",
+                        "name": "31709"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNekF4SWl3aWMzUnlaV1YwSWpvaVQwZE1SVlJJVDFKUVJTQkJWa1VpTENKd2JHRmpaU0k2SWxOQlZrRk9Ua0ZJSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE5EQXhJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+                        "name": "Oglethorpe Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.073452,
+                    "longitude": -84.226121,
+                    "routable_points": [
+                        {
+                            "latitude": 32.073452,
+                            "longitude": -84.226121,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "301 Oglethorpe Avenue, Americus, Georgia 31709, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16QXhJaXdpYzNSeVpXVjBJam9pVDBkTVJWUklUMUpRUlNCQlZrVWlMQ0p3YkdGalpTSTZJbE5CVmtGT1RrRklJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TkRBeElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "301 Oglethorpe Avenue",
+                "name_preferred": "301 Oglethorpe Avenue",
+                "place_formatted": "Americus, Georgia 31709, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.724083,
+                    32.720847
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16QXhJaXdpYzNSeVpXVjBJam9pVDBkTVJWUklUMUpRUlNCQlZrVWlMQ0p3YkdGalpTSTZJbE5CVmtGT1RrRklJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TkRBeElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "301",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16QXhJaXdpYzNSeVpXVjBJam9pVDBkTVJWUklUMUpRUlNCQlZrVWlMQ0p3YkdGalpTSTZJbE5CVmtGT1RrRklJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TkRBeElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+                        "name": "301 Oglethorpe Avenue",
+                        "street_name": "Oglethorpe Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp0T2Jz",
+                        "name": "Johnson County",
+                        "wikidata_id": "Q163529"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGY2pvN0E",
+                        "name": "Wrightsville",
+                        "wikidata_id": "Q1282919"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVpPN0E",
+                        "name": "31096"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNekF4SWl3aWMzUnlaV1YwSWpvaVQwZE1SVlJJVDFKUVJTQkJWa1VpTENKd2JHRmpaU0k2SWxOQlZrRk9Ua0ZJSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE5EQXhJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+                        "name": "Oglethorpe Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.720847,
+                    "longitude": -82.724083,
+                    "routable_points": [
+                        {
+                            "latitude": 32.720847,
+                            "longitude": -82.724083,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "301 Oglethorpe Avenue, Wrightsville, Georgia 31096, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16QXhJaXdpYzNSeVpXVjBJam9pVDBkTVJWUklUMUpRUlNCQlZrVWlMQ0p3YkdGalpTSTZJbE5CVmtGT1RrRklJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TkRBeElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "301 Oglethorpe Avenue",
+                "name_preferred": "301 Oglethorpe Avenue",
+                "place_formatted": "Wrightsville, Georgia 31096, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,371 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.171771,
+                    33.738653
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1vc206MjI3MzQ4OTcy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2201",
+                        "mapbox_id": "dXJuOm1ieGFkci1vc206MjI3MzQ4OTcy",
+                        "name": "2201 Young Road",
+                        "street_name": "Young Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHM1pxN0E",
+                        "name": "Redan",
+                        "wikidata_id": "Q2111226"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFdE9vN0E",
+                        "name": "Stone Mountain",
+                        "wikidata_id": "Q2073622"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUJ1N0E",
+                        "name": "30088"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItb3NtOjIyNzM0ODk3Mg",
+                        "name": "Young Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 33.738653,
+                    "longitude": -84.171771,
+                    "routable_points": [
+                        {
+                            "latitude": 33.738553,
+                            "longitude": -84.172163,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2201 Young Road, Stone Mountain, Georgia 30088, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1vc206MjI3MzQ4OTcy",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2201 Young Road",
+                "name_preferred": "2201 Young Road",
+                "place_formatted": "Stone Mountain, Georgia 30088, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.600148,
+                    31.61055
+                ],
+                "type": "Point"
+            },
+            "id": "address.7510412258841162",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxZWJz",
+                        "name": "Long County",
+                        "wikidata_id": "Q493033"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNWhJN0E",
+                        "name": "Ludowici",
+                        "wikidata_id": "Q2734987"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXp1N0E",
+                        "name": "31316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.7510412258841162",
+                        "name": "Young Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.61055,
+                    "longitude": -81.600148
+                },
+                "feature_type": "street",
+                "full_address": "Young Road, Ludowici, Georgia 31316, United States",
+                "mapbox_id": "address.7510412258841162",
+                "name": "Young Road",
+                "name_preferred": "Young Road",
+                "place_formatted": "Ludowici, Georgia 31316, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.023114,
+                    31.512001
+                ],
+                "type": "Point"
+            },
+            "id": "address.4862512770425396",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTYWJz",
+                        "name": "Coffee County",
+                        "wikidata_id": "Q156503"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzphS2pz",
+                        "name": "Ambrose",
+                        "wikidata_id": "Q2751462"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakdPN0E",
+                        "name": "31512"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.4862512770425396",
+                        "name": "Younge Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.512001,
+                    "longitude": -83.023114
+                },
+                "feature_type": "street",
+                "full_address": "Younge Road, Ambrose, Georgia 31512, United States",
+                "mapbox_id": "address.4862512770425396",
+                "name": "Younge Road",
+                "name_preferred": "Younge Road",
+                "place_formatted": "Ambrose, Georgia 31512, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.893088,
+                    41.530126
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSXdNU0lzSW5OMGNtVmxkQ0k2SWxsUFZVNUhJRkpQUVVRaUxDSndiR0ZqWlNJNklsTlVUMDVGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EZzRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2201",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSXdNU0lzSW5OMGNtVmxkQ0k2SWxsUFZVNUhJRkpQUVVRaUxDSndiR0ZqWlNJNklsTlVUMDVGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EZzRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+                        "name": "2201 Richardson Hill Road",
+                        "street_name": "Richardson Hill Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUUltN0E",
+                        "name": "New London County",
+                        "wikidata_id": "Q54240"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDenBJN0E",
+                            "name": "Lisbon"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQkRJN0E",
+                        "name": "Griswold"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovczdz",
+                        "name": "06351"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCWVRz",
+                        "name": "Connecticut",
+                        "region_code": "CT",
+                        "region_code_full": "US-CT",
+                        "wikidata_id": "Q779"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakl3TVNJc0luTjBjbVZsZENJNklsbFBWVTVISUZKUFFVUWlMQ0p3YkdGalpTSTZJbE5VVDA1Rklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNRGc0SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjM",
+                        "name": "Richardson Hill Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 41.530126,
+                    "longitude": -71.893088,
+                    "routable_points": [
+                        {
+                            "latitude": 41.530126,
+                            "longitude": -71.893088,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2201 Richardson Hill Road, Griswold, Connecticut 06351, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSXdNU0lzSW5OMGNtVmxkQ0k2SWxsUFZVNUhJRkpQUVVRaUxDSndiR0ZqWlNJNklsTlVUMDVGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EZzRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "2201 Youngs Road",
+                "name_preferred": "2201 Richardson Hill Road",
+                "place_formatted": "Griswold, Connecticut 06351, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.304307,
+                    41.148624
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSXdNU0lzSW5OMGNtVmxkQ0k2SWxsUFZVNUhJRkpQUVVRaUxDSndiR0ZqWlNJNklsTlVUMDVGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EZzRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2201",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSXdNU0lzSW5OMGNtVmxkQ0k2SWxsUFZVNUhJRkpQUVVRaUxDSndiR0ZqWlNJNklsTlVUMDVGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EZzRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+                        "name": "2201 Youngs Road",
+                        "street_name": "Youngs Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVk9HN0E",
+                        "name": "Suffolk County",
+                        "wikidata_id": "Q54065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEcWxJN0E",
+                        "name": "Orient",
+                        "wikidata_id": "Q3461988"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBY2V1N0E",
+                        "name": "11957"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBYVRz",
+                        "name": "New York",
+                        "region_code": "NY",
+                        "region_code_full": "US-NY",
+                        "wikidata_id": "Q1384"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakl3TVNJc0luTjBjbVZsZENJNklsbFBWVTVISUZKUFFVUWlMQ0p3YkdGalpTSTZJbE5VVDA1Rklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNRGc0SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjQ",
+                        "name": "Youngs Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 41.148624,
+                    "longitude": -72.304307,
+                    "routable_points": [
+                        {
+                            "latitude": 41.148624,
+                            "longitude": -72.304307,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2201 Youngs Road, Orient, New York 11957, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qSXdNU0lzSW5OMGNtVmxkQ0k2SWxsUFZVNUhJRkpQUVVRaUxDSndiR0ZqWlNJNklsTlVUMDVGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EZzRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "2201 Youngs Road",
+                "name_preferred": "2201 Youngs Road",
+                "place_formatted": "Orient, New York 11957, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

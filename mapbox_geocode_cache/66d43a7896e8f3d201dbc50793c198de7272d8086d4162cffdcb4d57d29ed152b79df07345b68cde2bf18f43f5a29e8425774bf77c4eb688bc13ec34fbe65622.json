@@ -1,0 +1,205 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.630481,
+                    33.814292
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1MmY0NWIxMy01YmZjLTQ1OTUtYmE3NC0xNDk2NDQwZmZkYzc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2625",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1MmY0NWIxMy01YmZjLTQ1OTUtYmE3NC0xNDk2NDQwZmZkYzc",
+                        "name": "2625 Joe Jerkins Boulevard",
+                        "street_name": "Joe Jerkins Boulevard"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo1VWpz",
+                        "name": "Austell",
+                        "wikidata_id": "Q2688463"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUp1N0E",
+                        "name": "30106"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTJmNDViMTMtNWJmYy00NTk1LWJhNzQtMTQ5NjQ0MGZmZGM3",
+                        "name": "Joe Jerkins Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.814292,
+                    "longitude": -84.630481,
+                    "routable_points": [
+                        {
+                            "latitude": 33.814083,
+                            "longitude": -84.630475,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2625 Joe Jerkins Boulevard, Austell, Georgia 30106, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1MmY0NWIxMy01YmZjLTQ1OTUtYmE3NC0xNDk2NDQwZmZkYzc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2625 Joe Jerkins Boulevard",
+                "name_preferred": "2625 Joe Jerkins Boulevard",
+                "place_formatted": "Austell, Georgia 30106, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.648149,
+                    33.812816
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZWJjZWU0OWItNTFlOC00NTMxLWFjMTktODg3OGE5NzY2MDFl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo1VWpz",
+                        "name": "Austell",
+                        "wikidata_id": "Q2688463"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUp1N0E",
+                        "name": "30106"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWJjZWU0OWItNTFlOC00NTMxLWFjMTktODg3OGE5NzY2MDFl",
+                        "name": "Joe Jerkins Blvd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.812816,
+                    "longitude": -84.648149
+                },
+                "feature_type": "street",
+                "full_address": "Joe Jerkins Blvd, Austell, Georgia 30106, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWJjZWU0OWItNTFlOC00NTMxLWFjMTktODg3OGE5NzY2MDFl",
+                "name": "Joe Jerkins Blvd",
+                "name_preferred": "Joe Jerkins Blvd",
+                "place_formatted": "Austell, Georgia 30106, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.61097,
+                    33.81173
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjZhNDI0MDYtMTYxYi00Yjc0LTk0NDAtZWExMjAwMTFmNTMx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBOHFzN0E",
+                        "name": "Brenda View"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo1VWpz",
+                        "name": "Austell",
+                        "wikidata_id": "Q2688463"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWp1N0E",
+                        "name": "30168"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjZhNDI0MDYtMTYxYi00Yjc0LTk0NDAtZWExMjAwMTFmNTMx",
+                        "name": "Joe Jerkins Blvd SW"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.81173,
+                    "longitude": -84.61097
+                },
+                "feature_type": "street",
+                "full_address": "Joe Jerkins Blvd SW, Austell, Georgia 30168, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjZhNDI0MDYtMTYxYi00Yjc0LTk0NDAtZWExMjAwMTFmNTMx",
+                "name": "Joe Jerkins Blvd SW",
+                "name_preferred": "Joe Jerkins Blvd SW",
+                "place_formatted": "Austell, Georgia 30168, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

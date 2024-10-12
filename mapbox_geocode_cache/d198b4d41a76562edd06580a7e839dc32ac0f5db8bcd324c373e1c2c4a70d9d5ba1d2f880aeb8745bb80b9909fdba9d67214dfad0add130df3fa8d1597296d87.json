@@ -1,0 +1,367 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.705069,
+                    33.785518
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiMjZmNjI2Ny0zN2MwLTQzMjctOTQxZC1mZjcwMDhmYjJjMDM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "725",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiMjZmNjI2Ny0zN2MwLTQzMjctOTQxZC1mZjcwMDhmYjJjMDM",
+                        "name": "725 South Madison Avenue",
+                        "street_name": "South Madison Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzFtN0E",
+                        "name": "Walton County",
+                        "wikidata_id": "Q498312"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUFJJN0E",
+                        "name": "Monroe",
+                        "wikidata_id": "Q1150751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy91N0E",
+                        "name": "30655"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjI2ZjYyNjctMzdjMC00MzI3LTk0MWQtZmY3MDA4ZmIyYzAz",
+                        "name": "South Madison Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.785518,
+                    "longitude": -83.705069,
+                    "routable_points": [
+                        {
+                            "latitude": 33.785736,
+                            "longitude": -83.705142,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "725 South Madison Avenue, Monroe, Georgia 30655, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiMjZmNjI2Ny0zN2MwLTQzMjctOTQxZC1mZjcwMDhmYjJjMDM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "725 South Madison Avenue",
+                "name_preferred": "725 South Madison Avenue",
+                "place_formatted": "Monroe, Georgia 30655, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.711542,
+                    33.799068
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MzY2MDA1ODAtMTAyNS00N2FkLWI1NTgtNjI5MGYwOWY2ZWJk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzFtN0E",
+                        "name": "Walton County",
+                        "wikidata_id": "Q498312"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUFJJN0E",
+                        "name": "Monroe",
+                        "wikidata_id": "Q1150751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy91N0E",
+                        "name": "30655"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzY2MDA1ODAtMTAyNS00N2FkLWI1NTgtNjI5MGYwOWY2ZWJk",
+                        "name": "North Madison Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.799068,
+                    "longitude": -83.711542
+                },
+                "feature_type": "street",
+                "full_address": "North Madison Avenue, Monroe, Georgia 30655, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzY2MDA1ODAtMTAyNS00N2FkLWI1NTgtNjI5MGYwOWY2ZWJk",
+                "name": "North Madison Avenue",
+                "name_preferred": "North Madison Avenue",
+                "place_formatted": "Monroe, Georgia 30655, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.849697,
+                    31.500007
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU56STFJaXdpYzNSeVpXVjBJam9pVXlCTlFVUkpVMDlPSUVGV1JTSXNJbkJzWVdObElqb2lUVTlPVWs5Rklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOalUxSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "725",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU56STFJaXdpYzNSeVpXVjBJam9pVXlCTlFVUkpVMDlPSUVGV1JTSXNJbkJzWVdObElqb2lUVTlPVWs5Rklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOalUxSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                        "name": "725 South Madison Avenue",
+                        "street_name": "South Madison Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTYWJz",
+                        "name": "Coffee County",
+                        "wikidata_id": "Q156503"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVWNvN0E",
+                        "name": "Douglas",
+                        "wikidata_id": "Q1004791"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCak5PN0E",
+                        "name": "31533"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOekkxSWl3aWMzUnlaV1YwSWpvaVV5Qk5RVVJKVTA5T0lFRldSU0lzSW5Cc1lXTmxJam9pVFU5T1VrOUZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TmpVMUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                        "name": "South Madison Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.500007,
+                    "longitude": -82.849697,
+                    "routable_points": [
+                        {
+                            "latitude": 31.500007,
+                            "longitude": -82.849697,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "725 South Madison Avenue, Douglas, Georgia 31533, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU56STFJaXdpYzNSeVpXVjBJam9pVXlCTlFVUkpVMDlPSUVGV1JTSXNJbkJzWVdObElqb2lUVTlPVWs5Rklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOalUxSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "725 South Madison Avenue",
+                "name_preferred": "725 South Madison Avenue",
+                "place_formatted": "Douglas, Georgia 31533, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.388695,
+                    33.324118
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmU1ZDY5MmEtYTgwMy00ODFlLWE0NGQtMTZkZGEzYmQwYWRk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU2NtN0E",
+                        "name": "Putnam County",
+                        "wikidata_id": "Q498341"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYmJvN0E",
+                        "name": "Eatonton",
+                        "wikidata_id": "Q1010015"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDR1N0E",
+                        "name": "31024"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmU1ZDY5MmEtYTgwMy00ODFlLWE0NGQtMTZkZGEzYmQwYWRk",
+                        "name": "South Madison Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.324118,
+                    "longitude": -83.388695
+                },
+                "feature_type": "street",
+                "full_address": "South Madison Avenue, Eatonton, Georgia 31024, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmU1ZDY5MmEtYTgwMy00ODFlLWE0NGQtMTZkZGEzYmQwYWRk",
+                "name": "South Madison Avenue",
+                "name_preferred": "South Madison Avenue",
+                "place_formatted": "Eatonton, Georgia 31024, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.88537,
+                    43.58318
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkNzhlNjdlMC0xYmViLTQwNjAtODI0NC1kZDFmYmRiMjNkN2M",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "725",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkNzhlNjdlMC0xYmViLTQwNjAtODI0NC1kZDFmYmRiMjNkN2M",
+                        "name": "725 South Madison Avenue",
+                        "street_name": "South Madison Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFd2Jz",
+                        "name": "Bay County",
+                        "wikidata_id": "Q74704"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCOFNNN0E",
+                        "name": "Columbus Avenue"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVGVJN0E",
+                        "name": "Bay City",
+                        "wikidata_id": "Q746820"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZUh1N0E",
+                        "name": "48708"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKT3c",
+                        "name": "Michigan",
+                        "region_code": "MI",
+                        "region_code_full": "US-MI",
+                        "wikidata_id": "Q1166"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDc4ZTY3ZTAtMWJlYi00MDYwLTgyNDQtZGQxZmJkYjIzZDdj",
+                        "name": "South Madison Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 43.58318,
+                    "longitude": -83.88537,
+                    "routable_points": [
+                        {
+                            "latitude": 43.583179,
+                            "longitude": -83.885713,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "725 South Madison Avenue, Bay City, Michigan 48708, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkNzhlNjdlMC0xYmViLTQwNjAtODI0NC1kZDFmYmRiMjNkN2M",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "725 South Madison Avenue",
+                "name_preferred": "725 South Madison Avenue",
+                "place_formatted": "Bay City, Michigan 48708, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

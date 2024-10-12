@@ -43,6 +43,7 @@ STRUCTURED_ADDRESS_KWARGS = [
     'locality', 'neighborhood', 'country'
 ]
 
+
 def mapbox_geocode_parameters_hasher(*args, **kwargs):
     assert len(args) == 0, f'Only kwargs are supported! Received unnamed args: {args}!'
     filtered_kwargs = {
@@ -55,6 +56,7 @@ def mapbox_geocode_parameters_hasher(*args, **kwargs):
 
 
 _next_request_time = datetime.now()
+
 
 @FileCachedFunction.decorate('./mapbox_geocode_cache/', parameter_hasher=mapbox_geocode_parameters_hasher)
 def mapbox_geocode(access_token: str = None, query: str = None, address_number: str = None, street: str = None,
@@ -95,9 +97,42 @@ def mapbox_geocode(access_token: str = None, query: str = None, address_number: 
         return result
 
 
+@FileCachedFunction.decorate('./manual_address_selections_cache/')
+def manually_choose_geocode(address: str, results: list, comment: str = '') -> list:
+    while len(results) > 1:
+        print(f'Unable to determine single match for location at address: {address}.')
+        if isinstance(comment, str) and len(comment) > 0:
+            print(comment)
+        for i, result in enumerate(results):
+            position = result['geometry']['coordinates']
+            url = f"https://www.latlong.net/c/?lat={position[1]}&long={position[0]}"
+            match_code = result['properties'].get('match_code', {})
+            match_str = ''
+            if match_code:
+                match_str = f"\tConfidence: {match_code.get('confidence', 'N/A')}. Matches: "
+                matching_keys = []
+                for key in sorted(match_code.keys()):
+                    if match_code[key] == 'matched':
+                        matching_keys.append(key)
+                match_str += ','.join(matching_keys)
+            full_address = result['properties'].get('full_address', 'MISSING!')
+            print(f'{i}:\t{full_address}{match_str}:\t{url}')
+        chosen = input(' Please pick an option as numbered:')
+        try:
+            chosen = int(chosen)
+            results = [results[chosen]]
+        except:
+            pass
+    return results
+
 def geocode_address(address: typing.Union[str, dict], comment: str = None, interactive: bool = False) -> typing.Tuple[
     float, float]:
     if isinstance(address, dict):
+        address = dict(address)
+        if isinstance(address.get('postcode'), str):
+            address['postcode'] = address['postcode'].replace(' ', '-')
+            if len(address['postcode']) > 5 and address['postcode'].endswith('-0000'):
+                address['postcode'] = address['postcode'][:-5]
         kwargs = {
             k: address.get(k) for k in set(address.keys()).intersection(STRUCTURED_ADDRESS_KWARGS)
         }
@@ -109,32 +144,40 @@ def geocode_address(address: typing.Union[str, dict], comment: str = None, inter
     assert isinstance(response, dict) and isinstance(response.get('features'),
                                                      list), f'Could not determine features from response: {response}'
     results = list(response['features'])
-    for result in results:
-        if result['properties'].get('match_code', {}).get('confidence', 'low') != 'exact':
-            results = [result]
-            break
+    assert len(results) > 0, f'Failed to find results for {address}.'
     if len(results) > 1:
-        print('Dropping low confidence matches.')
-        results = list(
+        only_exact_results = list(
+            filter(lambda _x: _x['properties'].get('match_code', {}).get('confidence', 'low') == 'exact', results))
+        if 0 < len(only_exact_results) < len(results):
+            print('Dropping non exact matches.')
+            results = only_exact_results
+    if len(results) > 1:
+        dropped_low_confidence_results = list(
             filter(lambda _x: _x['properties'].get('match_code', {}).get('confidence', 'low') != 'low', results))
-    while len(results) > 1 and interactive:
-        print(f'Unable to determine single match for location at address: {address}.')
-        if isinstance(comment, str) and len(comment) > 0:
-            print(comment)
-        for i, result in enumerate(results):
-            position = result['geometry']['coordinates']
-            url = f"https://www.latlong.net/c/?lat={position[1]}&long={position[0]}"
-            match_code = result['properties'].get('match_code', {})
-            full_address = result['properties'].get('full_address', 'MISSING!')
-            print(f'{i}:{full_address}\t{match_code}:\t{url}')
-        chosen = input(' Please pick an option as numbered:')
-        try:
-            chosen = int(chosen)
-            results = [results[chosen]]
-        except:
-            pass
-
-    assert len(results) == 1
+        if 0 < len(dropped_low_confidence_results) < len(results):
+            print('Dropping low confidence matches.')
+            results = dropped_low_confidence_results
+    if len(results) > 1:
+        keep_only_postcode_results = list(
+            filter(lambda _x: _x['properties'].get('match_code', {}).get('postcode') == 'matched', results))
+        if 0 < len(keep_only_postcode_results) < len(results):
+            print('Dropping matches with postcode mismatch.')
+            results = keep_only_postcode_results
+    if len(results) > 1:
+        keep_only_high_results = list(
+            filter(lambda _x: _x['properties'].get('match_code', {}).get('confidence') != 'high', results))
+        if 0 < len(keep_only_high_results) < len(results):
+            print('Dropping matches with less than high confidence.')
+            results = keep_only_high_results
+    if interactive and len(results) > 1:
+        if isinstance(address, dict):
+            address_str = ''
+            for k in sorted(address.keys()):
+                address_str += f'{k}={address[k]},'
+        else:
+            address_str = str(address)
+        results = manually_choose_geocode(address_str, results, comment)
+    assert len(results) == 1, f'Failed to reduce results to 1 for {address}.'
     return results[0]
 
 

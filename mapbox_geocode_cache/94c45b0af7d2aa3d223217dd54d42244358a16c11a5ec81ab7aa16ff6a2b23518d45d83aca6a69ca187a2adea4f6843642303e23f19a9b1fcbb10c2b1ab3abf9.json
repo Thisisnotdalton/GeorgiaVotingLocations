@@ -1,0 +1,347 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.23462,
+                    33.654956
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxMzZlOWJmZC04MmMwLTQ1YjAtOGM5MC0yMjA1YmFjZDRiNTU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4331",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxMzZlOWJmZC04MmMwLTQ1YjAtOGM5MC0yMjA1YmFjZDRiNTU",
+                        "name": "4331 River Road",
+                        "street_name": "River Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCcVlNN0E",
+                        "name": "Cherrywood"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmZvN0E",
+                        "name": "Ellenwood",
+                        "wikidata_id": "Q19986592"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkxPN0E",
+                        "name": "30294"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTM2ZTliZmQtODJjMC00NWIwLThjOTAtMjIwNWJhY2Q0YjU1",
+                        "name": "River Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 33.654956,
+                    "longitude": -84.23462,
+                    "routable_points": [
+                        {
+                            "latitude": 33.654961,
+                            "longitude": -84.234613,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4331 River Road, Ellenwood, Georgia 30294, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxMzZlOWJmZC04MmMwLTQ1YjAtOGM5MC0yMjA1YmFjZDRiNTU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "4331 River Road",
+                "name_preferred": "4331 River Road",
+                "place_formatted": "Ellenwood, Georgia 30294, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.2855,
+                    33.6827
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NTUxNDhkYTQtYzE4Zi00ZDY3LWJhNDktYzk2ZWMwNWRmOTg0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmZvN0E",
+                        "name": "Ellenwood",
+                        "wikidata_id": "Q19986592"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkxPN0E",
+                        "name": "30294"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTUxNDhkYTQtYzE4Zi00ZDY3LWJhNDktYzk2ZWMwNWRmOTg0",
+                        "name": "River Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.6827,
+                    "longitude": -84.2855
+                },
+                "feature_type": "street",
+                "full_address": "River Rd, Ellenwood, Georgia 30294, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTUxNDhkYTQtYzE4Zi00ZDY3LWJhNDktYzk2ZWMwNWRmOTg0",
+                "name": "River Rd",
+                "name_preferred": "River Rd",
+                "place_formatted": "Ellenwood, Georgia 30294, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.211568,
+                    33.648576
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ETXpNU0lzSW5OMGNtVmxkQ0k2SWxKSlZrVlNJRkpFTGlJc0luQnNZV05sSWpvaVJVeE1SVTVYVDA5RUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamswSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4331",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ETXpNU0lzSW5OMGNtVmxkQ0k2SWxKSlZrVlNJRkpFTGlJc0luQnNZV05sSWpvaVJVeE1SVTVYVDA5RUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamswSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                        "name": "4331 River Ridge Circle",
+                        "street_name": "River Ridge Circle"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmZvN0E",
+                        "name": "Ellenwood",
+                        "wikidata_id": "Q19986592"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkxPN0E",
+                        "name": "30294"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORE16TVNJc0luTjBjbVZsZENJNklsSkpWa1ZTSUZKRUxpSXNJbkJzWVdObElqb2lSVXhNUlU1WFQwOUVJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWprMElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                        "name": "River Ridge Circle"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.648576,
+                    "longitude": -84.211568,
+                    "routable_points": [
+                        {
+                            "latitude": 33.648576,
+                            "longitude": -84.211568,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4331 River Ridge Circle, Ellenwood, Georgia 30294, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ETXpNU0lzSW5OMGNtVmxkQ0k2SWxKSlZrVlNJRkpFTGlJc0luQnNZV05sSWpvaVJVeE1SVTVYVDA5RUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamswSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "4331 River Ridge Circle",
+                "name_preferred": "4331 River Ridge Circle",
+                "place_formatted": "Ellenwood, Georgia 30294, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.25551,
+                    33.66571
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODdhMDIzYjktZmFkMi00Nzg4LWJhYmYtMTU4OGVhNWYwMmQ4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmZvN0E",
+                        "name": "Ellenwood",
+                        "wikidata_id": "Q19986592"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHB1N0E",
+                        "name": "30034"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODdhMDIzYjktZmFkMi00Nzg4LWJhYmYtMTU4OGVhNWYwMmQ4",
+                        "name": "River Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.66571,
+                    "longitude": -84.25551
+                },
+                "feature_type": "street",
+                "full_address": "River Road, Ellenwood, Georgia 30034, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODdhMDIzYjktZmFkMi00Nzg4LWJhYmYtMTU4OGVhNWYwMmQ4",
+                "name": "River Road",
+                "name_preferred": "River Road",
+                "place_formatted": "Ellenwood, Georgia 30034, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.28238,
+                    33.68304
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzQ1Mjk2MjItODgwMi00NmU0LWE2OGMtN2YxODY1OTIzMDlm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJUmhNN0E",
+                        "name": "Rovena Acres"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT1VvN0E",
+                        "name": "Decatur",
+                        "wikidata_id": "Q986200"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkxPN0E",
+                        "name": "30294"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzQ1Mjk2MjItODgwMi00NmU0LWE2OGMtN2YxODY1OTIzMDlm",
+                        "name": "River Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.68304,
+                    "longitude": -84.28238
+                },
+                "feature_type": "street",
+                "full_address": "River Road, Decatur, Georgia 30294, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzQ1Mjk2MjItODgwMi00NmU0LWE2OGMtN2YxODY1OTIzMDlm",
+                "name": "River Road",
+                "name_preferred": "River Road",
+                "place_formatted": "Decatur, Georgia 30294, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

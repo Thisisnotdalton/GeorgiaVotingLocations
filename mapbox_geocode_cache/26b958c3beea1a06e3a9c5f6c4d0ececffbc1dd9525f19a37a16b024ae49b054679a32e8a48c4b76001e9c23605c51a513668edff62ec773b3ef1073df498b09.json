@@ -1,0 +1,338 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.453901,
+                    34.198507
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3ZWM0MmVjZi0zNDJiLTRkOGEtOWEyZi00ZGUwYWJiYTgxYTQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1345",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3ZWM0MmVjZi0zNDJiLTRkOGEtOWEyZi00ZGUwYWJiYTgxYTQ",
+                        "name": "1345 South Elm Street",
+                        "street_name": "South Elm Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQjRJN0E",
+                        "name": "Commerce",
+                        "wikidata_id": "Q2689380"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1hPN0E",
+                        "name": "30529"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2VjNDJlY2YtMzQyYi00ZDhhLTlhMmYtNGRlMGFiYmE4MWE0",
+                        "name": "South Elm Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.198507,
+                    "longitude": -83.453901,
+                    "routable_points": [
+                        {
+                            "latitude": 34.198291,
+                            "longitude": -83.453725,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1345 South Elm Street, Commerce, Georgia 30529, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3ZWM0MmVjZi0zNDJiLTRkOGEtOWEyZi00ZGUwYWJiYTgxYTQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1345 South Elm Street",
+                "name_preferred": "1345 South Elm Street",
+                "place_formatted": "Commerce, Georgia 30529, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.47171,
+                    34.20793
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjUwNzFhYTItZDQzZS00OWIzLTg4N2QtZDJiOTRkMDM1ZGM4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQjRJN0E",
+                        "name": "Commerce",
+                        "wikidata_id": "Q2689380"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1hPN0E",
+                        "name": "30529"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjUwNzFhYTItZDQzZS00OWIzLTg4N2QtZDJiOTRkMDM1ZGM4",
+                        "name": "N Elm St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.20793,
+                    "longitude": -83.47171
+                },
+                "feature_type": "street",
+                "full_address": "N Elm St, Commerce, Georgia 30529, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjUwNzFhYTItZDQzZS00OWIzLTg4N2QtZDJiOTRkMDM1ZGM4",
+                "name": "N Elm St",
+                "name_preferred": "N Elm St",
+                "place_formatted": "Commerce, Georgia 30529, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.436866,
+                    31.12178
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTTBOU0lzSW5OMGNtVmxkQ0k2SWxNZ1JVeE5JRk5VSWl3aWNHeGhZMlVpT2lKRFQwMU5SVkpEUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EVXlPU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1345",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTTBOU0lzSW5OMGNtVmxkQ0k2SWxNZ1JVeE5JRk5VSWl3aWNHeGhZMlVpT2lKRFQwMU5SVkpEUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EVXlPU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToy",
+                        "name": "1345 South Elm Street",
+                        "street_name": "South Elm Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUcWJz",
+                        "name": "Cook County",
+                        "wikidata_id": "Q156431"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGUWpz",
+                        "name": "Adel"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamhPN0E",
+                        "name": "31620"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVE0wTlNJc0luTjBjbVZsZENJNklsTWdSVXhOSUZOVUlpd2ljR3hoWTJVaU9pSkRUMDFOUlZKRFJTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV5T1NJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+                        "name": "South Elm Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.12178,
+                    "longitude": -83.436866,
+                    "routable_points": [
+                        {
+                            "latitude": 31.12178,
+                            "longitude": -83.436866,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1345 South Elm Street, Adel, Georgia 31620, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTTBOU0lzSW5OMGNtVmxkQ0k2SWxNZ1JVeE5JRk5VSWl3aWNHeGhZMlVpT2lKRFQwMU5SVkpEUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EVXlPU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1345 South Elm Street",
+                "name_preferred": "1345 South Elm Street",
+                "place_formatted": "Adel, Georgia 31620, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.428912,
+                    34.170754
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MzUxMGExNzQtMWM0Yy00Y2Y4LWI0NWQtNzc5MzhhMGVkZmVi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQjRJN0E",
+                        "name": "Commerce",
+                        "wikidata_id": "Q2689380"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1h1N0E",
+                        "name": "30530"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzUxMGExNzQtMWM0Yy00Y2Y4LWI0NWQtNzc5MzhhMGVkZmVi",
+                        "name": "Elm Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.170754,
+                    "longitude": -83.428912
+                },
+                "feature_type": "street",
+                "full_address": "Elm Street, Commerce, Georgia 30530, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzUxMGExNzQtMWM0Yy00Y2Y4LWI0NWQtNzc5MzhhMGVkZmVi",
+                "name": "Elm Street",
+                "name_preferred": "Elm Street",
+                "place_formatted": "Commerce, Georgia 30530, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.868369,
+                    36.931082
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGM2OGIzNDktZThiYy00ZDgxLWJmNjUtNzNlOTVjMzhiMWVj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUThtN0E",
+                        "name": "Ottawa County",
+                        "wikidata_id": "Q495564"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQjJvN0E",
+                        "name": "Commerce",
+                        "wikidata_id": "Q2005257"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeXdPN0E",
+                        "name": "74339"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS1Rz",
+                        "name": "Oklahoma",
+                        "region_code": "OK",
+                        "region_code_full": "US-OK",
+                        "wikidata_id": "Q1649"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGM2OGIzNDktZThiYy00ZDgxLWJmNjUtNzNlOTVjMzhiMWVj",
+                        "name": "South Elm Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 36.931082,
+                    "longitude": -94.868369
+                },
+                "feature_type": "street",
+                "full_address": "South Elm Street, Commerce, Oklahoma 74339, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGM2OGIzNDktZThiYy00ZDgxLWJmNjUtNzNlOTVjMzhiMWVj",
+                "name": "South Elm Street",
+                "name_preferred": "South Elm Street",
+                "place_formatted": "Commerce, Oklahoma 74339, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

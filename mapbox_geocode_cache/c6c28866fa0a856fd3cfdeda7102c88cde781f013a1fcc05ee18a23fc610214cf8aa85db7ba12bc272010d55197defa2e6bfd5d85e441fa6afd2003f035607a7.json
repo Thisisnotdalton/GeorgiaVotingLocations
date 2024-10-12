@@ -1,0 +1,152 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.939081,
+                    32.804318
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplMDdmNTFmNS0zODM5LTQ0ZWEtYjhkZi00NDE0MGE1NjQ0MTc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "611",
+                        "mapbox_id": "dXJuOm1ieGFkcjplMDdmNTFmNS0zODM5LTQ0ZWEtYjhkZi00NDE0MGE1NjQ0MTc",
+                        "name": "611 East Winthrope Avenue",
+                        "street_name": "East Winthrope Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpzbWJz",
+                        "name": "Jenkins County",
+                        "wikidata_id": "Q389551"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEMFRvN0E",
+                            "name": "Perkins"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpETFhvN0E",
+                        "name": "Millen",
+                        "wikidata_id": "Q2885747"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZitPN0E",
+                        "name": "30442"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTA3ZjUxZjUtMzgzOS00NGVhLWI4ZGYtNDQxNDBhNTY0NDE3",
+                        "name": "East Winthrope Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.804318,
+                    "longitude": -81.939081,
+                    "routable_points": [
+                        {
+                            "latitude": 32.803687,
+                            "longitude": -81.939086,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "611 East Winthrope Avenue, Millen, Georgia 30442, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplMDdmNTFmNS0zODM5LTQ0ZWEtYjhkZi00NDE0MGE1NjQ0MTc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "611 East Winthrope Avenue",
+                "name_preferred": "611 East Winthrope Avenue",
+                "place_formatted": "Millen, Georgia 30442, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.907789,
+                    32.840471
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjNkY2E4YWItNmM5ZS00OWMyLTk1NGYtMzRmZjVhZGM5OThh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpzbWJz",
+                        "name": "Jenkins County",
+                        "wikidata_id": "Q389551"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEMFRvN0E",
+                            "name": "Perkins"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpETFhvN0E",
+                        "name": "Millen",
+                        "wikidata_id": "Q2885747"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZitPN0E",
+                        "name": "30442"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjNkY2E4YWItNmM5ZS00OWMyLTk1NGYtMzRmZjVhZGM5OThh",
+                        "name": "E Winthrope Ave"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.840471,
+                    "longitude": -81.907789
+                },
+                "feature_type": "street",
+                "full_address": "E Winthrope Ave, Millen, Georgia 30442, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjNkY2E4YWItNmM5ZS00OWMyLTk1NGYtMzRmZjVhZGM5OThh",
+                "name": "E Winthrope Ave",
+                "name_preferred": "E Winthrope Ave",
+                "place_formatted": "Millen, Georgia 30442, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

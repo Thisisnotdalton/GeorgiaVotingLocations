@@ -1,0 +1,345 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.38658,
+                    31.157212
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1vc206NjYyMDcwNjcz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1929",
+                        "mapbox_id": "dXJuOm1ieGFkci1vc206NjYyMDcwNjcz",
+                        "name": "1929 Demere Road",
+                        "street_name": "Demere Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJQ1NLN0E",
+                        "name": "St. Simons",
+                        "wikidata_id": "Q1523372"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVzBzN0E",
+                        "name": "Saint Simons Heights"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpGbDJvN0E",
+                            "name": "Brunswick"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVW1vN0E",
+                        "name": "Saint Simons Island",
+                        "wikidata_id": "Q1523372"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaktPN0E",
+                        "name": "31522"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItb3NtOjY2MjA3MDY3Mw",
+                        "name": "Demere Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 31.157212,
+                    "longitude": -81.38658,
+                    "routable_points": [
+                        {
+                            "latitude": 31.157229,
+                            "longitude": -81.386595,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1929 Demere Road, Saint Simons Island, Georgia 31522, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1vc206NjYyMDcwNjcz",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1929 Demere Road",
+                "name_preferred": "1929 Demere Road",
+                "place_formatted": "Saint Simons Island, Georgia 31522, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.389363,
+                    31.136728
+                ],
+                "type": "Point"
+            },
+            "id": "address.244875338192494",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJQ1NLN0E",
+                        "name": "St. Simons",
+                        "wikidata_id": "Q1523372"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpGbDJvN0E",
+                            "name": "Brunswick"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVW1vN0E",
+                        "name": "Saint Simons Island",
+                        "wikidata_id": "Q1523372"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaktPN0E",
+                        "name": "31522"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.244875338192494",
+                        "name": "Demere Way"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.136728,
+                    "longitude": -81.389363
+                },
+                "feature_type": "street",
+                "full_address": "Demere Way, Saint Simons Island, Georgia 31522, United States",
+                "mapbox_id": "address.244875338192494",
+                "name": "Demere Way",
+                "name_preferred": "Demere Way",
+                "place_formatted": "Saint Simons Island, Georgia 31522, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.49947,
+                    34.623241
+                ],
+                "type": "Point"
+            },
+            "id": "address.6704852486833248",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqNmJz",
+                        "name": "Habersham County",
+                        "wikidata_id": "Q501096"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDTHBxN0E",
+                        "name": "Dixon Crossroads"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBN0FvN0E",
+                        "name": "Clarkesville",
+                        "wikidata_id": "Q2546427"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1ZPN0E",
+                        "name": "30523"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.6704852486833248",
+                        "name": "Demore Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.623241,
+                    "longitude": -83.49947
+                },
+                "feature_type": "street",
+                "full_address": "Demore Road, Clarkesville, Georgia 30523, United States",
+                "mapbox_id": "address.6704852486833248",
+                "name": "Demore Road",
+                "name_preferred": "Demore Road",
+                "place_formatted": "Clarkesville, Georgia 30523, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.186724,
+                    33.813869
+                ],
+                "type": "Point"
+            },
+            "id": "address.6504194926265036",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFdE9vN0E",
+                        "name": "Stone Mountain",
+                        "wikidata_id": "Q2073622"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZC9PN0E",
+                        "name": "30083"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.6504194926265036",
+                        "name": "Demere Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.813869,
+                    "longitude": -84.186724
+                },
+                "feature_type": "street",
+                "full_address": "Demere Drive, Stone Mountain, Georgia 30083, United States",
+                "mapbox_id": "address.6504194926265036",
+                "name": "Demere Drive",
+                "name_preferred": "Demere Drive",
+                "place_formatted": "Stone Mountain, Georgia 30083, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.316617,
+                    33.574548
+                ],
+                "type": "Point"
+            },
+            "id": "address.2403861947623526",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDbjVJN0E",
+                            "name": "Lake City"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUzJvN0E",
+                        "name": "Morrow",
+                        "wikidata_id": "Q3261046"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTl1N0E",
+                        "name": "30260"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.2403861947623526",
+                        "name": "Demere Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.574548,
+                    "longitude": -84.316617
+                },
+                "feature_type": "street",
+                "full_address": "Demere Drive, Morrow, Georgia 30260, United States",
+                "mapbox_id": "address.2403861947623526",
+                "name": "Demere Drive",
+                "name_preferred": "Demere Drive",
+                "place_formatted": "Morrow, Georgia 30260, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,353 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.24745,
+                    34.809028
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjY2ZhNGIyYi04YTk4LTQ0OGMtYWZhNC00Nzg1YjU4ZTVkZTU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "265",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjY2ZhNGIyYi04YTk4LTQ0OGMtYWZhNC00Nzg1YjU4ZTVkZTU",
+                        "name": "265 Bicentennial Trail",
+                        "street_name": "Bicentennial Trail"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTWxJN0E",
+                        "name": "Rock Spring",
+                        "wikidata_id": "Q3710657"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFR1N0E",
+                        "name": "30739"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2NmYTRiMmItOGE5OC00NDhjLWFmYTQtNDc4NWI1OGU1ZGU1",
+                        "name": "Bicentennial Trail"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 34.809028,
+                    "longitude": -85.24745,
+                    "routable_points": [
+                        {
+                            "latitude": 34.808127,
+                            "longitude": -85.247414,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "265 Bicentennial Trail, Rock Spring, Georgia 30739, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjY2ZhNGIyYi04YTk4LTQ0OGMtYWZhNC00Nzg1YjU4ZTVkZTU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "265 Bicentennial Trail",
+                "name_preferred": "265 Bicentennial Trail",
+                "place_formatted": "Rock Spring, Georgia 30739, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.244094,
+                    34.825118
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaFR1N0E",
+            "properties": {
+                "bbox": [
+                    -85.279313,
+                    34.750773,
+                    -85.137451,
+                    34.865805
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTWxJN0E",
+                        "name": "Rock Spring",
+                        "wikidata_id": "Q3710657"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFR1N0E",
+                        "name": "30739"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.825118,
+                    "longitude": -85.244094
+                },
+                "feature_type": "postcode",
+                "full_address": "Rock Spring, Georgia 30739, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaFR1N0E",
+                "name": "30739",
+                "name_preferred": "30739",
+                "place_formatted": "Rock Spring, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.470822,
+                    33.900126
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGM5ODA4M2UtY2I2Yy00ZjRjLTk3ZGMtMjhkZmQyMDU2MTlm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q492026"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDWkxNN0E",
+                        "name": "Den Court"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGS3VvN0E",
+                        "name": "Watkinsville",
+                        "wikidata_id": "Q426428"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEdPN0E",
+                        "name": "30677"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGM5ODA4M2UtY2I2Yy00ZjRjLTk3ZGMtMjhkZmQyMDU2MTlm",
+                        "name": "Echo Brook Trail"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.900126,
+                    "longitude": -83.470822
+                },
+                "feature_type": "street",
+                "full_address": "Echo Brook Trail, Watkinsville, Georgia 30677, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGM5ODA4M2UtY2I2Yy00ZjRjLTk3ZGMtMjhkZmQyMDU2MTlm",
+                "name": "Trail",
+                "name_preferred": "Echo Brook Trail",
+                "place_formatted": "Watkinsville, Georgia 30677, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.27645,
+                    34.29955
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzYwOTIzNzUtMjM5YS00MGZhLThiN2EtZTE2NWVhYjRhMjU4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkWWJz",
+                        "name": "Floyd County",
+                        "wikidata_id": "Q486389"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTjFvN0E",
+                        "name": "Rome",
+                        "wikidata_id": "Q6580"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWpPN0E",
+                        "name": "30165"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzYwOTIzNzUtMjM5YS00MGZhLThiN2EtZTE2NWVhYjRhMjU4",
+                        "name": "Tr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.29955,
+                    "longitude": -85.27645
+                },
+                "feature_type": "street",
+                "full_address": "Tr, Rome, Georgia 30165, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzYwOTIzNzUtMjM5YS00MGZhLThiN2EtZTE2NWVhYjRhMjU4",
+                "name": "Tr",
+                "name_preferred": "Tr",
+                "place_formatted": "Rome, Georgia 30165, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.308283,
+                    41.094415
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qWTFJaXdpYzNSeVpXVjBJam9pUWtsRFJVNVVSVTVPU1VGTUlGUlNRVWxNSWl3aWNHeGhZMlVpT2lKU1QwTkxJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TnpNNUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "30739",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qWTFJaXdpYzNSeVpXVjBJam9pUWtsRFJVNVVSVTVPU1VGTUlGUlNRVWxNSWl3aWNHeGhZMlVpT2lKU1QwTkxJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TnpNNUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+                        "name": "30739 Rich Lane",
+                        "street_name": "Rich Lane"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSK2Jz",
+                        "name": "Clinton County",
+                        "wikidata_id": "Q494093"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJenlxN0E",
+                        "name": "Wayne Township"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCcWRJN0E",
+                            "name": "Flemington"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDMUlvN0E",
+                        "name": "Lock Haven",
+                        "wikidata_id": "Q1187817"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeWpPN0E",
+                        "name": "17745"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBa1Rz",
+                        "name": "Pennsylvania",
+                        "region_code": "PA",
+                        "region_code_full": "US-PA",
+                        "wikidata_id": "Q1400"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNalkxSWl3aWMzUnlaV1YwSWpvaVFrbERSVTVVUlU1T1NVRk1JRlJTUVVsTUlpd2ljR3hoWTJVaU9pSlNUME5MSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd056TTVJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+                        "name": "Rich Lane"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 41.094415,
+                    "longitude": -77.308283,
+                    "routable_points": [
+                        {
+                            "latitude": 41.094415,
+                            "longitude": -77.308283,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "30739 Rich Lane, Lock Haven, Pennsylvania 17745, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qWTFJaXdpYzNSeVpXVjBJam9pUWtsRFJVNVVSVTVPU1VGTUlGUlNRVWxNSWl3aWNHeGhZMlVpT2lKU1QwTkxJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TnpNNUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+                "match_code": {
+                    "address_number": "unmatched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "30739 Rock Ln",
+                "name_preferred": "30739 Rich Lane",
+                "place_formatted": "Lock Haven, Pennsylvania 17745, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

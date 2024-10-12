@@ -1,0 +1,365 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.123042,
+                    34.420195
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyYjE0Mjc2Mi04NWQ2LTRjMDYtYjVlMi01MGU0MjJiMjJjYWU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "96",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyYjE0Mjc2Mi04NWQ2LTRjMDYtYjVlMi01MGU0MjJiMjJjYWU",
+                        "name": "96 Academy Avenue",
+                        "street_name": "Academy Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYQWJz",
+                        "name": "Dawson County",
+                        "wikidata_id": "Q492032"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGdkZvN0E",
+                        "name": "Dawsonville",
+                        "wikidata_id": "Q1178896"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1pPN0E",
+                        "name": "30534"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmIxNDI3NjItODVkNi00YzA2LWI1ZTItNTBlNDIyYjIyY2Fl",
+                        "name": "Academy Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.420195,
+                    "longitude": -84.123042,
+                    "routable_points": [
+                        {
+                            "latitude": 34.420105,
+                            "longitude": -84.123163,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "96 Academy Avenue, Dawsonville, Georgia 30534, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyYjE0Mjc2Mi04NWQ2LTRjMDYtYjVlMi01MGU0MjJiMjJjYWU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "96 Academy Avenue",
+                "name_preferred": "96 Academy Avenue",
+                "place_formatted": "Dawsonville, Georgia 30534, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.118756,
+                    34.421179
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ1pPN0E",
+            "properties": {
+                "bbox": [
+                    -84.329689,
+                    34.305464,
+                    -83.947883,
+                    34.597496
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYQWJz",
+                        "name": "Dawson County",
+                        "wikidata_id": "Q492032"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGdkZvN0E",
+                        "name": "Dawsonville",
+                        "wikidata_id": "Q1178896"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1pPN0E",
+                        "name": "30534"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.421179,
+                    "longitude": -84.118756
+                },
+                "feature_type": "postcode",
+                "full_address": "Dawsonville, Georgia 30534, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ1pPN0E",
+                "name": "30534",
+                "name_preferred": "30534",
+                "place_formatted": "Dawsonville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.015459,
+                    33.08596
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UWWlMQ0p6ZEhKbFpYUWlPaUpCUTBGRVJVMVpJRUZXUlU1VlJTSXNJbkJzWVdObElqb2lSRUZYVTA5T1ZrbE1URVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBMU16UWdNREF3TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "96",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UWWlMQ0p6ZEhKbFpYUWlPaUpCUTBGRVJVMVpJRUZXUlU1VlJTSXNJbkJzWVdObElqb2lSRUZYVTA5T1ZrbE1URVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBMU16UWdNREF3TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+                        "name": "96 Academy Avenue",
+                        "street_name": "Academy Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKMmJz",
+                        "name": "Burke County",
+                        "wikidata_id": "Q211360"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTDRvN0E",
+                        "name": "Waynesboro",
+                        "wikidata_id": "Q1282929"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGx1N0E",
+                        "name": "30830"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVFlpTENKemRISmxaWFFpT2lKQlEwRkVSVTFaSUVGV1JVNVZSU0lzSW5Cc1lXTmxJam9pUkVGWFUwOU9Wa2xNVEVVaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QTFNelFnTURBd01DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjI",
+                        "name": "Academy Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.08596,
+                    "longitude": -82.015459,
+                    "routable_points": [
+                        {
+                            "latitude": 33.08596,
+                            "longitude": -82.015459,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "96 Academy Avenue, Waynesboro, Georgia 30830, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UWWlMQ0p6ZEhKbFpYUWlPaUpCUTBGRVJVMVpJRUZXUlU1VlJTSXNJbkJzWVdObElqb2lSRUZYVTA5T1ZrbE1URVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBMU16UWdNREF3TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "96 Academy Avenue",
+                "name_preferred": "96 Academy Avenue",
+                "place_formatted": "Waynesboro, Georgia 30830, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.632776,
+                    31.670504
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UWWlMQ0p6ZEhKbFpYUWlPaUpCUTBGRVJVMVpJRUZXUlU1VlJTSXNJbkJzWVdObElqb2lSRUZYVTA5T1ZrbE1URVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBMU16UWdNREF3TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "96",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UWWlMQ0p6ZEhKbFpYUWlPaUpCUTBGRVJVMVpJRUZXUlU1VlJTSXNJbkJzWVdObElqb2lSRUZYVTA5T1ZrbE1URVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBMU16UWdNREF3TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                        "name": "96 Academy Avenue",
+                        "street_name": "Academy Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0ttN0E",
+                        "name": "Turner County",
+                        "wikidata_id": "Q498336"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeW1vN0E",
+                        "name": "Sycamore",
+                        "wikidata_id": "Q2932218"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0p1N0E",
+                        "name": "31790"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVFlpTENKemRISmxaWFFpT2lKQlEwRkVSVTFaSUVGV1JVNVZSU0lzSW5Cc1lXTmxJam9pUkVGWFUwOU9Wa2xNVEVVaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QTFNelFnTURBd01DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+                        "name": "Academy Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.670504,
+                    "longitude": -83.632776,
+                    "routable_points": [
+                        {
+                            "latitude": 31.670504,
+                            "longitude": -83.632776,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "96 Academy Avenue, Sycamore, Georgia 31790, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UWWlMQ0p6ZEhKbFpYUWlPaUpCUTBGRVJVMVpJRUZXUlU1VlJTSXNJbkJzWVdObElqb2lSRUZYVTA5T1ZrbE1URVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBMU16UWdNREF3TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "96 Academy Avenue",
+                "name_preferred": "96 Academy Avenue",
+                "place_formatted": "Sycamore, Georgia 31790, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.11904,
+                    34.421281
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NWJmOWJkNjktMmM3ZC00YWI3LTkxMmItYzU3MzQ3NWQ3YTc1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYQWJz",
+                        "name": "Dawson County",
+                        "wikidata_id": "Q492032"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGdkZvN0E",
+                        "name": "Dawsonville",
+                        "wikidata_id": "Q1178896"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1pPN0E",
+                        "name": "30534"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWJmOWJkNjktMmM3ZC00YWI3LTkxMmItYzU3MzQ3NWQ3YTc1",
+                        "name": "Dawsonville"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.421281,
+                    "longitude": -84.11904
+                },
+                "feature_type": "street",
+                "full_address": "Dawsonville, Dawsonville, Georgia 30534, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWJmOWJkNjktMmM3ZC00YWI3LTkxMmItYzU3MzQ3NWQ3YTc1",
+                "name": "Dawsonville",
+                "name_preferred": "Dawsonville",
+                "place_formatted": "Dawsonville, Georgia 30534, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

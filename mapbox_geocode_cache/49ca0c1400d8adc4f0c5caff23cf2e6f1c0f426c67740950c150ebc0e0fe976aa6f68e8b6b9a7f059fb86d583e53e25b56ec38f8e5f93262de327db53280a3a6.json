@@ -1,0 +1,339 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.0979,
+                    33.27921
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5NzU0YTk0OS1mZTNkLTQ5MWUtOWFhNi05NmJiMDliNmM0MDM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "215",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5NzU0YTk0OS1mZTNkLTQ5MWUtOWFhNi05NmJiMDliNmM0MDM",
+                        "name": "215 South River Road",
+                        "street_name": "South River Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptbWJz",
+                        "name": "Heard County",
+                        "wikidata_id": "Q486348"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdnBvN0E",
+                        "name": "Franklin",
+                        "wikidata_id": "Q775102"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXhPN0E",
+                        "name": "30217"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTc1NGE5NDktZmUzZC00OTFlLTlhYTYtOTZiYjA5YjZjNDAz",
+                        "name": "South River Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.27921,
+                    "longitude": -85.0979,
+                    "routable_points": [
+                        {
+                            "latitude": 33.279213,
+                            "longitude": -85.097686,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "215 South River Road, Franklin, Georgia 30217, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5NzU0YTk0OS1mZTNkLTQ5MWUtOWFhNi05NmJiMDliNmM0MDM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "215 East Court Sq",
+                "name_preferred": "215 South River Road",
+                "place_formatted": "Franklin, Georgia 30217, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.098089,
+                    33.279953
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmVhMWU4NDktODU2ZS00ZDhjLWFkOGMtZTE2YTYyMjNhNTVj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptbWJz",
+                        "name": "Heard County",
+                        "wikidata_id": "Q486348"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdnBvN0E",
+                        "name": "Franklin",
+                        "wikidata_id": "Q775102"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXhPN0E",
+                        "name": "30217"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmVhMWU4NDktODU2ZS00ZDhjLWFkOGMtZTE2YTYyMjNhNTVj",
+                        "name": "E Court Sq"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.279953,
+                    "longitude": -85.098089
+                },
+                "feature_type": "street",
+                "full_address": "E Court Sq, Franklin, Georgia 30217, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmVhMWU4NDktODU2ZS00ZDhjLWFkOGMtZTE2YTYyMjNhNTVj",
+                "name": "E Court Sq",
+                "name_preferred": "E Court Sq",
+                "place_formatted": "Franklin, Georgia 30217, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.086321,
+                    33.235404
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjNmYWVkMTItMDI3MC00NTkwLTk5NWMtNzUyNWM1ZjAwMTU0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptbWJz",
+                        "name": "Heard County",
+                        "wikidata_id": "Q486348"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdnBvN0E",
+                        "name": "Franklin",
+                        "wikidata_id": "Q775102"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXhPN0E",
+                        "name": "30217"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjNmYWVkMTItMDI3MC00NTkwLTk5NWMtNzUyNWM1ZjAwMTU0",
+                        "name": "South River Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.235404,
+                    "longitude": -85.086321
+                },
+                "feature_type": "street",
+                "full_address": "South River Road, Franklin, Georgia 30217, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjNmYWVkMTItMDI3MC00NTkwLTk5NWMtNzUyNWM1ZjAwMTU0",
+                "name": "East Court Sq",
+                "name_preferred": "South River Road",
+                "place_formatted": "Franklin, Georgia 30217, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.098627,
+                    33.279187
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjJiYmM2YjQtYzkwMC00M2Q1LTk3YmYtZjNlYmY4YjJlY2M4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptbWJz",
+                        "name": "Heard County",
+                        "wikidata_id": "Q486348"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdnBvN0E",
+                        "name": "Franklin",
+                        "wikidata_id": "Q775102"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXhPN0E",
+                        "name": "30217"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjJiYmM2YjQtYzkwMC00M2Q1LTk3YmYtZjNlYmY4YjJlY2M4",
+                        "name": "S Court Sq"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.279187,
+                    "longitude": -85.098627
+                },
+                "feature_type": "street",
+                "full_address": "S Court Sq, Franklin, Georgia 30217, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjJiYmM2YjQtYzkwMC00M2Q1LTk3YmYtZjNlYmY4YjJlY2M4",
+                "name": "S Court Sq",
+                "name_preferred": "S Court Sq",
+                "place_formatted": "Franklin, Georgia 30217, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.800508,
+                    33.37446
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRTFJaXdpYzNSeVpXVjBJam9pUlNCRFQxVlNWQ0JUVVZWQlVrVWlMQ0p3YkdGalpTSTZJa1pTUVU1TFRFbE9JaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWpFM0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "215",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRTFJaXdpYzNSeVpXVjBJam9pUlNCRFQxVlNWQ0JUVVZWQlVrVWlMQ0p3YkdGalpTSTZJa1pTUVU1TFRFbE9JaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWpFM0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+                        "name": "215 South Court Square",
+                        "street_name": "South Court Square"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpVVWJz",
+                        "name": "Coweta County",
+                        "wikidata_id": "Q111928"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZFNJN0E",
+                        "name": "Newnan",
+                        "wikidata_id": "Q988123"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZSt1N0E",
+                        "name": "30263"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakUxSWl3aWMzUnlaV1YwSWpvaVJTQkRUMVZTVkNCVFVWVkJVa1VpTENKd2JHRmpaU0k2SWtaU1FVNUxURWxPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01qRTNJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6NA",
+                        "name": "South Court Square"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.37446,
+                    "longitude": -84.800508,
+                    "routable_points": [
+                        {
+                            "latitude": 33.37446,
+                            "longitude": -84.800508,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "215 South Court Square, Newnan, Georgia 30263, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRTFJaXdpYzNSeVpXVjBJam9pUlNCRFQxVlNWQ0JUVVZWQlVrVWlMQ0p3YkdGalpTSTZJa1pTUVU1TFRFbE9JaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWpFM0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "215 South Court Square",
+                "name_preferred": "215 South Court Square",
+                "place_formatted": "Newnan, Georgia 30263, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

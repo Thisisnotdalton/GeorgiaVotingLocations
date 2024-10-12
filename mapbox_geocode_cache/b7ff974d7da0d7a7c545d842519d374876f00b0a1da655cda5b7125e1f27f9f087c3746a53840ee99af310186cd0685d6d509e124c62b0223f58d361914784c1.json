@@ -1,0 +1,375 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.473425,
+                    33.945715
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1Y2YwZTJhZS1kMjU2LTRhZWItOTZkYS0wODY1YTZiNTU2OWQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "275",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1Y2YwZTJhZS1kMjU2LTRhZWItOTZkYS0wODY1YTZiNTU2OWQ",
+                        "name": "275 Cleveland Road",
+                        "street_name": "Cleveland Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZXpJN0E",
+                        "name": "Bogart",
+                        "wikidata_id": "Q2251342"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzB1N0E",
+                        "name": "30622"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWNmMGUyYWUtZDI1Ni00YWViLTk2ZGEtMDg2NWE2YjU1Njlk",
+                        "name": "Cleveland Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.945715,
+                    "longitude": -83.473425,
+                    "routable_points": [
+                        {
+                            "latitude": 33.945498,
+                            "longitude": -83.473537,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "275 Cleveland Road, Bogart, Georgia 30622, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1Y2YwZTJhZS1kMjU2LTRhZWItOTZkYS0wODY1YTZiNTU2OWQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "275 Cleveland Road",
+                "name_preferred": "275 Cleveland Road",
+                "place_formatted": "Bogart, Georgia 30622, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.508826,
+                    33.949008
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qYzFJaXdpYzNSeVpXVjBJam9pUTB4RlZrVk1RVTVFSUZKUFFVUWlMQ0p3YkdGalpTSTZJa0pQUjBGU1ZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFl5TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "275",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qYzFJaXdpYzNSeVpXVjBJam9pUTB4RlZrVk1RVTVFSUZKUFFVUWlMQ0p3YkdGalpTSTZJa0pQUjBGU1ZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFl5TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                        "name": "275 Old Cleveland Road",
+                        "street_name": "Old Cleveland Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCekNzN0E",
+                        "name": "Cleveland Station"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZXpJN0E",
+                        "name": "Bogart",
+                        "wikidata_id": "Q2251342"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzB1N0E",
+                        "name": "30622"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNamMxSWl3aWMzUnlaV1YwSWpvaVEweEZWa1ZNUVU1RUlGSlBRVVFpTENKd2JHRmpaU0k2SWtKUFIwRlNWQ0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURZeU1pSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjE",
+                        "name": "Old Cleveland Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.949008,
+                    "longitude": -83.508826,
+                    "routable_points": [
+                        {
+                            "latitude": 33.949008,
+                            "longitude": -83.508826,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "275 Old Cleveland Road, Bogart, Georgia 30622, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qYzFJaXdpYzNSeVpXVjBJam9pUTB4RlZrVk1RVTVFSUZKUFFVUWlMQ0p3YkdGalpTSTZJa0pQUjBGU1ZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFl5TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "275 Old Cleveland Road",
+                "name_preferred": "275 Old Cleveland Road",
+                "place_formatted": "Bogart, Georgia 30622, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.46211,
+                    33.97264
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Yjc1Y2U2NjgtZTI3Ny00MTRjLWJhNTMtNDg3MWMzZDYwODk1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFc3VNN0E",
+                        "name": "Inverness Farms"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZXpJN0E",
+                        "name": "Bogart",
+                        "wikidata_id": "Q2251342"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzB1N0E",
+                        "name": "30622"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Yjc1Y2U2NjgtZTI3Ny00MTRjLWJhNTMtNDg3MWMzZDYwODk1",
+                        "name": "Cleveland Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.97264,
+                    "longitude": -83.46211
+                },
+                "feature_type": "street",
+                "full_address": "Cleveland Rd, Bogart, Georgia 30622, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Yjc1Y2U2NjgtZTI3Ny00MTRjLWJhNTMtNDg3MWMzZDYwODk1",
+                "name": "Cleveland Rd",
+                "name_preferred": "Cleveland Rd",
+                "place_formatted": "Bogart, Georgia 30622, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.447232,
+                    33.883227
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZGI3NGYyYTYtZjMyNi00YjM2LTg0ZjEtNzc0NjQ3NDk5ODhk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q492026"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLOExzN0E",
+                        "name": "Woodlands"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGS3VvN0E",
+                        "name": "Watkinsville",
+                        "wikidata_id": "Q426428"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEdPN0E",
+                        "name": "30677"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGI3NGYyYTYtZjMyNi00YjM2LTg0ZjEtNzc0NjQ3NDk5ODhk",
+                        "name": "Cliff Dawson Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.883227,
+                    "longitude": -83.447232
+                },
+                "feature_type": "street",
+                "full_address": "Cliff Dawson Road, Watkinsville, Georgia 30677, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGI3NGYyYTYtZjMyNi00YjM2LTg0ZjEtNzc0NjQ3NDk5ODhk",
+                "name": "Road",
+                "name_preferred": "Cliff Dawson Road",
+                "place_formatted": "Watkinsville, Georgia 30677, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.794459,
+                    35.36845
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qYzFJaXdpYzNSeVpXVjBJam9pUTB4RlZrVk1RVTVFSUZKUFFVUWlMQ0p3YkdGalpTSTZJa0pQUjBGU1ZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFl5TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "275",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qYzFJaXdpYzNSeVpXVjBJam9pUTB4RlZrVk1RVTVFSUZKUFFVUWlMQ0p3YkdGalpTSTZJa0pQUjBGU1ZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFl5TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+                        "name": "275 Cleveland Road",
+                        "street_name": "Cleveland Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVFlHN0E",
+                        "name": "Rutherford County",
+                        "wikidata_id": "Q508254"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZllvN0E",
+                        "name": "Ellenboro",
+                        "wikidata_id": "Q2024230"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXp1N0E",
+                        "name": "28040"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdVRz",
+                        "name": "North Carolina",
+                        "region_code": "NC",
+                        "region_code_full": "US-NC",
+                        "wikidata_id": "Q1454"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNamMxSWl3aWMzUnlaV1YwSWpvaVEweEZWa1ZNUVU1RUlGSlBRVVFpTENKd2JHRmpaU0k2SWtKUFIwRlNWQ0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURZeU1pSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjQ",
+                        "name": "Cleveland Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 35.36845,
+                    "longitude": -81.794459,
+                    "routable_points": [
+                        {
+                            "latitude": 35.36845,
+                            "longitude": -81.794459,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "275 Cleveland Road, Ellenboro, North Carolina 28040, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qYzFJaXdpYzNSeVpXVjBJam9pUTB4RlZrVk1RVTVFSUZKUFFVUWlMQ0p3YkdGalpTSTZJa0pQUjBGU1ZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFl5TWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "275 Cleveland Road",
+                "name_preferred": "275 Cleveland Road",
+                "place_formatted": "Ellenboro, North Carolina 28040, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

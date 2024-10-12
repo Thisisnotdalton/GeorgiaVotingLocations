@@ -1,0 +1,144 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.892986,
+                    33.996099
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3YTA0NDBiNS0yYTZkLTQ0YzUtYmQzOS1lYzllZDE3YjViZGY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2735",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3YTA0NDBiNS0yYTZkLTQ0YzUtYmQzOS1lYzllZDE3YjViZGY",
+                        "name": "2735 Auburn Avenue",
+                        "street_name": "Auburn Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTEdJN0E",
+                        "name": "Dacula",
+                        "wikidata_id": "Q2380846"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGpPN0E",
+                        "name": "30019"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2EwNDQwYjUtMmE2ZC00NGM1LWJkMzktZWM5ZWQxN2I1YmRm",
+                        "name": "Auburn Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.996099,
+                    "longitude": -83.892986,
+                    "routable_points": [
+                        {
+                            "latitude": 33.995816,
+                            "longitude": -83.893001,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2735 Auburn Avenue, Dacula, Georgia 30019, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3YTA0NDBiNS0yYTZkLTQ0YzUtYmQzOS1lYzllZDE3YjViZGY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "2735 Old Auburn Road",
+                "name_preferred": "2735 Auburn Avenue",
+                "place_formatted": "Dacula, Georgia 30019, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.894199,
+                    34.034051
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjFhMjBlZTktODM0Zi00YzY3LWE0NjUtYzVmNmMyN2ZjZTRi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTEdJN0E",
+                        "name": "Dacula",
+                        "wikidata_id": "Q2380846"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.3103151310601884",
+                        "name": "30011"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjFhMjBlZTktODM0Zi00YzY3LWE0NjUtYzVmNmMyN2ZjZTRi",
+                        "name": "Auburn Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.034051,
+                    "longitude": -83.894199
+                },
+                "feature_type": "street",
+                "full_address": "Auburn Road, Dacula, Georgia 30011, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjFhMjBlZTktODM0Zi00YzY3LWE0NjUtYzVmNmMyN2ZjZTRi",
+                "name": "Auburn Road",
+                "name_preferred": "Auburn Road",
+                "place_formatted": "Dacula, Georgia 30011, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

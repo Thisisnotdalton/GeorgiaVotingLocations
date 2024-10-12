@@ -1,0 +1,87 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.36069,
+                    31.21116
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0YmU0ZDEwYS0yZjY5LTRkMjEtYTkyMi01ZjZlZjY5ZjYxOGE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "408",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0YmU0ZDEwYS0yZjY5LTRkMjEtYTkyMi01ZjZlZjY5ZjYxOGE",
+                        "name": "408 Tebeau Street",
+                        "street_name": "Tebeau Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzRtN0E",
+                        "name": "Ware County",
+                        "wikidata_id": "Q498353"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTHJJN0E",
+                        "name": "Waycross",
+                        "wikidata_id": "Q615027"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakVPN0E",
+                        "name": "31501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGJlNGQxMGEtMmY2OS00ZDIxLWE5MjItNWY2ZWY2OWY2MThh",
+                        "name": "Tebeau Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.21116,
+                    "longitude": -82.36069,
+                    "routable_points": [
+                        {
+                            "latitude": 31.211173,
+                            "longitude": -82.361007,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "408 Tebeau Street, Waycross, Georgia 31501, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0YmU0ZDEwYS0yZjY5LTRkMjEtYTkyMi01ZjZlZjY5ZjYxOGE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "408 Tebeau Street",
+                "name_preferred": "408 Tebeau Street",
+                "place_formatted": "Waycross, Georgia 31501, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

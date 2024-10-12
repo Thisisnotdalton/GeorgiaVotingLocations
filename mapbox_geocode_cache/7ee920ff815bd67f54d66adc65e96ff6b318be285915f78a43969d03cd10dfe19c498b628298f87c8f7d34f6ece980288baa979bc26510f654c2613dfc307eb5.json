@@ -1,0 +1,363 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.464564,
+                    31.5414
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowOWMyNGI2ZC05NzgxLTRjMjctOWI0OS1iYzllMTRkMGRjYzc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "232",
+                        "mapbox_id": "dXJuOm1ieGFkcjowOWMyNGI2ZC05NzgxLTRjMjctOWI0OS1iYzllMTRkMGRjYzc",
+                        "name": "232 West 12th Street",
+                        "street_name": "West 12th Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEbWJz",
+                        "name": "Bacon County",
+                        "wikidata_id": "Q488219"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUQWpz",
+                        "name": "Alma",
+                        "wikidata_id": "Q2478924"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakZ1N0E",
+                        "name": "31510"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDljMjRiNmQtOTc4MS00YzI3LTliNDktYmM5ZTE0ZDBkY2M3",
+                        "name": "West 12th Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 31.5414,
+                    "longitude": -82.464564,
+                    "routable_points": [
+                        {
+                            "latitude": 31.541595,
+                            "longitude": -82.464537,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "232 West 12th Street, Alma, Georgia 31510, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowOWMyNGI2ZC05NzgxLTRjMjctOWI0OS1iYzllMTRkMGRjYzc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "232 West 12th Street",
+                "name_preferred": "232 West 12th Street",
+                "place_formatted": "Alma, Georgia 31510, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.459271,
+                    31.54106
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTXlJaXdpYzNSeVpXVjBJam9pVjBWVFZDQXhNbFJJSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUVV4TlFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFV4TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "232",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTXlJaXdpYzNSeVpXVjBJam9pVjBWVFZDQXhNbFJJSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUVV4TlFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFV4TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                        "name": "232 East 12th Street",
+                        "street_name": "East 12th Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEbWJz",
+                        "name": "Bacon County",
+                        "wikidata_id": "Q488219"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUQWpz",
+                        "name": "Alma",
+                        "wikidata_id": "Q2478924"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakZ1N0E",
+                        "name": "31510"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNak15SWl3aWMzUnlaV1YwSWpvaVYwVlRWQ0F4TWxSSUlGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVFVeE5RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRVeE1DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjE",
+                        "name": "East 12th Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.54106,
+                    "longitude": -82.459271,
+                    "routable_points": [
+                        {
+                            "latitude": 31.54106,
+                            "longitude": -82.459271,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "232 East 12th Street, Alma, Georgia 31510, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTXlJaXdpYzNSeVpXVjBJam9pVjBWVFZDQXhNbFJJSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUVV4TlFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFV4TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "medium",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "232 East 12th Street",
+                "name_preferred": "232 East 12th Street",
+                "place_formatted": "Alma, Georgia 31510, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.494425,
+                    31.54347
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NWQ2N2EzZjItOWQ3MC00ZWJjLTkyYmItODMyZTY3YjQxZjAz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEbWJz",
+                        "name": "Bacon County",
+                        "wikidata_id": "Q488219"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUQWpz",
+                        "name": "Alma",
+                        "wikidata_id": "Q2478924"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakZ1N0E",
+                        "name": "31510"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWQ2N2EzZjItOWQ3MC00ZWJjLTkyYmItODMyZTY3YjQxZjAz",
+                        "name": "West 12th Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.54347,
+                    "longitude": -82.494425
+                },
+                "feature_type": "street",
+                "full_address": "West 12th Street, Alma, Georgia 31510, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWQ2N2EzZjItOWQ3MC00ZWJjLTkyYmItODMyZTY3YjQxZjAz",
+                "name": "West 12th Street",
+                "name_preferred": "West 12th Street",
+                "place_formatted": "Alma, Georgia 31510, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.45771,
+                    31.5381
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MzAxNDdiNjAtNGE2OC00YWM2LTg5NGMtOTE4ZWJmZjFlNjVh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEbWJz",
+                        "name": "Bacon County",
+                        "wikidata_id": "Q488219"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUQWpz",
+                        "name": "Alma",
+                        "wikidata_id": "Q2478924"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakZ1N0E",
+                        "name": "31510"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzAxNDdiNjAtNGE2OC00YWM2LTg5NGMtOTE4ZWJmZjFlNjVh",
+                        "name": "E 12th St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.5381,
+                    "longitude": -82.45771
+                },
+                "feature_type": "street",
+                "full_address": "E 12th St, Alma, Georgia 31510, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzAxNDdiNjAtNGE2OC00YWM2LTg5NGMtOTE4ZWJmZjFlNjVh",
+                "name": "E 12th St",
+                "name_preferred": "E 12th St",
+                "place_formatted": "Alma, Georgia 31510, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.343032,
+                    31.188341
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTXlJaXdpYzNSeVpXVjBJam9pVjBWVFZDQXhNbFJJSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUVV4TlFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFV4TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "232",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTXlJaXdpYzNSeVpXVjBJam9pVjBWVFZDQXhNbFJJSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUVV4TlFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFV4TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+                        "name": "232 West 12th Street",
+                        "street_name": "West 12th Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFYStJN0E",
+                        "name": "Sea Island",
+                        "wikidata_id": "Q2261880"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCall1N0E",
+                        "name": "31561"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNak15SWl3aWMzUnlaV1YwSWpvaVYwVlRWQ0F4TWxSSUlGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVFVeE5RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRVeE1DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjQ",
+                        "name": "West 12th Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.188341,
+                    "longitude": -81.343032,
+                    "routable_points": [
+                        {
+                            "latitude": 31.188341,
+                            "longitude": -81.343032,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "232 West 12th Street, Sea Island, Georgia 31561, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTXlJaXdpYzNSeVpXVjBJam9pVjBWVFZDQXhNbFJJSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUVV4TlFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFV4TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "232 West 12th Street",
+                "name_preferred": "232 West 12th Street",
+                "place_formatted": "Sea Island, Georgia 31561, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

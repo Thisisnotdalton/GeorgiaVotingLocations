@@ -1,0 +1,372 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.355107,
+                    33.774154
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowYjNhYzI4Mi1iNjY0LTQzOTUtYThiMi0wYzMxYTNlN2QzZTc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "980",
+                        "mapbox_id": "dXJuOm1ieGFkcjowYjNhYzI4Mi1iNjY0LTQzOTUtYThiMi0wYzMxYTNlN2QzZTc",
+                        "name": "980 Ponce De Leon Avenue Northeast",
+                        "street_name": "Ponce De Leon Avenue Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpMWmlNN0E",
+                            "name": "Linwood"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpLS3dNN0E",
+                        "name": "Virginia Highland"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlFPN0E",
+                        "name": "30306"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGIzYWMyODItYjY2NC00Mzk1LWE4YjItMGMzMWEzZTdkM2U3",
+                        "name": "Ponce De Leon Avenue Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.774154,
+                    "longitude": -84.355107,
+                    "routable_points": [
+                        {
+                            "latitude": 33.774351,
+                            "longitude": -84.355106,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "980 Ponce De Leon Avenue Northeast, Atlanta, Georgia 30306, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowYjNhYzI4Mi1iNjY0LTQzOTUtYThiMi0wYzMxYTNlN2QzZTc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "980 Ponce De Leon Avenue Northeast",
+                "name_preferred": "980 Ponce De Leon Avenue Northeast",
+                "place_formatted": "Atlanta, Georgia 30306, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.394195,
+                    33.73701
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDZhOWU0YzAtZWU2YS00ZGI4LThkNWEtMTcxMWU3MGQ5NGFi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGN2FNN0E",
+                        "name": "Mechanicsville",
+                        "wikidata_id": "Q14686716"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlJPN0E",
+                        "name": "30308"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDZhOWU0YzAtZWU2YS00ZGI4LThkNWEtMTcxMWU3MGQ5NGFi",
+                        "name": "Ponce De Leon Ave NE"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.73701,
+                    "longitude": -84.394195
+                },
+                "feature_type": "street",
+                "full_address": "Ponce De Leon Ave NE, Atlanta, Georgia 30308, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDZhOWU0YzAtZWU2YS00ZGI4LThkNWEtMTcxMWU3MGQ5NGFi",
+                "name": "Ponce De Leon Ave NE",
+                "name_preferred": "Ponce De Leon Ave NE",
+                "place_formatted": "Atlanta, Georgia 30308, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.387675,
+                    33.772343
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDc4MWEyZjYtY2ZlOC00ZGZmLWE5OGMtN2Q5NWZlOTEzN2I5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCZ1BzN0E",
+                            "name": "Centennial Place"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpHQlNNN0E",
+                        "name": "Midtown"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlJPN0E",
+                        "name": "30308"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDc4MWEyZjYtY2ZlOC00ZGZmLWE5OGMtN2Q5NWZlOTEzN2I5",
+                        "name": "Ponce De Leon Avenue Northwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.772343,
+                    "longitude": -84.387675
+                },
+                "feature_type": "street",
+                "full_address": "Ponce De Leon Avenue Northwest, Atlanta, Georgia 30308, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDc4MWEyZjYtY2ZlOC00ZGZmLWE5OGMtN2Q5NWZlOTEzN2I5",
+                "name": "Ponce De Leon Avenue Northwest",
+                "name_preferred": "Ponce De Leon Avenue Northwest",
+                "place_formatted": "Atlanta, Georgia 30308, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.34048,
+                    33.76705
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzlmMmYzMzYtMjVlYy00NjZjLWExMGYtNmZjMDVkYTY4ZjEy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVEtNN0E",
+                        "name": "Candler Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlF1N0E",
+                        "name": "30307"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzlmMmYzMzYtMjVlYy00NjZjLWExMGYtNmZjMDVkYTY4ZjEy",
+                        "name": "North Ponce De Leon Avenue NE"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.76705,
+                    "longitude": -84.34048
+                },
+                "feature_type": "street",
+                "full_address": "North Ponce De Leon Avenue NE, Atlanta, Georgia 30307, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzlmMmYzMzYtMjVlYy00NjZjLWExMGYtNmZjMDVkYTY4ZjEy",
+                "name": "North Ponce De Leon Avenue NE",
+                "name_preferred": "North Ponce De Leon Avenue NE",
+                "place_formatted": "Atlanta, Georgia 30307, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.311361,
+                    33.773169
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UZ3dJaXdpYzNSeVpXVjBJam9pVUU5T1EwVWdSRVVnVEVWUFRpQkJWa1ZPVlVVZ1RrVWlMQ0p3YkdGalpTSTZJa0ZVVEVGT1ZFRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF6TURZaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "980",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UZ3dJaXdpYzNSeVpXVjBJam9pVUU5T1EwVWdSRVVnVEVWUFRpQkJWa1ZPVlVVZ1RrVWlMQ0p3YkdGalpTSTZJa0ZVVEVGT1ZFRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF6TURZaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjQ",
+                        "name": "980 West Ponce De Leon Avenue",
+                        "street_name": "West Ponce De Leon Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCb1ZzN0E",
+                            "name": "Chelsea"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpGV0RzN0E",
+                        "name": "Lenox Place"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT1VvN0E",
+                        "name": "Decatur",
+                        "wikidata_id": "Q986200"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZG51N0E",
+                        "name": "30030"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVGd3SWl3aWMzUnlaV1YwSWpvaVVFOU9RMFVnUkVVZ1RFVlBUaUJCVmtWT1ZVVWdUa1VpTENKd2JHRmpaU0k2SWtGVVRFRk9WRUVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBek1EWWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+                        "name": "West Ponce De Leon Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.773169,
+                    "longitude": -84.311361,
+                    "routable_points": [
+                        {
+                            "latitude": 33.773169,
+                            "longitude": -84.311361,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "980 West Ponce De Leon Avenue, Decatur, Georgia 30030, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UZ3dJaXdpYzNSeVpXVjBJam9pVUU5T1EwVWdSRVVnVEVWUFRpQkJWa1ZPVlVVZ1RrVWlMQ0p3YkdGalpTSTZJa0ZVVEVGT1ZFRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF6TURZaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "980 West Ponce De Leon Avenue Northeast",
+                "name_preferred": "980 West Ponce De Leon Avenue",
+                "place_formatted": "Decatur, Georgia 30030, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,396 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.786865,
+                    31.76672
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmOWE3MmQ3ZC1lMGMwLTQ0NDQtYTdlNy1mZGQ5YWE1MjY1ZGI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "93",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmOWE3MmQ3ZC1lMGMwLTQ0NDQtYTdlNy1mZGQ5YWE1MjY1ZGI",
+                        "name": "93 Front Street",
+                        "street_name": "Front Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU21HN0E",
+                        "name": "Randolph County",
+                        "wikidata_id": "Q498307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS3NvN0E",
+                        "name": "Cuthbert",
+                        "wikidata_id": "Q2369328"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXV1N0E",
+                        "name": "39840"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjlhNzJkN2QtZTBjMC00NDQ0LWE3ZTctZmRkOWFhNTI2NWRi",
+                        "name": "Front Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.76672,
+                    "longitude": -84.786865,
+                    "routable_points": [
+                        {
+                            "latitude": 31.76738,
+                            "longitude": -84.786856,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "93 Front Street, Cuthbert, Georgia 39840, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmOWE3MmQ3ZC1lMGMwLTQ0NDQtYTdlNy1mZGQ5YWE1MjY1ZGI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "93 Front Street",
+                "name_preferred": "93 Front Street",
+                "place_formatted": "Cuthbert, Georgia 39840, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.79792,
+                    31.762222
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTk3MjI2ZTUtOTNiNS00ZGM2LWIzYWUtM2Y5MmEwNDJkN2Q1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU21HN0E",
+                        "name": "Randolph County",
+                        "wikidata_id": "Q498307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS3NvN0E",
+                        "name": "Cuthbert",
+                        "wikidata_id": "Q2369328"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXV1N0E",
+                        "name": "39840"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTk3MjI2ZTUtOTNiNS00ZGM2LWIzYWUtM2Y5MmEwNDJkN2Q1",
+                        "name": "Seaboard Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.762222,
+                    "longitude": -84.79792
+                },
+                "feature_type": "street",
+                "full_address": "Seaboard Street, Cuthbert, Georgia 39840, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTk3MjI2ZTUtOTNiNS00ZGM2LWIzYWUtM2Y5MmEwNDJkN2Q1",
+                "name": "St",
+                "name_preferred": "Seaboard Street",
+                "place_formatted": "Cuthbert, Georgia 39840, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.16579,
+                    29.54422
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5ZmU2OTBjZC03OTZmLTQ2NjktOTk4Ni02ZTc2OTQ1NzhlMzU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "93",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5ZmU2OTBjZC03OTZmLTQ2NjktOTk4Ni02ZTc2OTQ1NzhlMzU",
+                        "name": "93 Front Street",
+                        "street_name": "Front Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkR2Jz",
+                        "name": "Flagler County",
+                        "wikidata_id": "Q386885"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEdVpJN0E",
+                        "name": "Palm Coast",
+                        "wikidata_id": "Q610463"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCbE9PN0E",
+                        "name": "32137"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVRz",
+                        "name": "Florida",
+                        "region_code": "FL",
+                        "region_code_full": "US-FL",
+                        "wikidata_id": "Q812"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWZlNjkwY2QtNzk2Zi00NjY5LTk5ODYtNmU3Njk0NTc4ZTM1",
+                        "name": "Front Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 29.54422,
+                    "longitude": -81.16579,
+                    "routable_points": [
+                        {
+                            "latitude": 29.544139,
+                            "longitude": -81.166013,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "93 Front Street, Palm Coast, Florida 32137, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5ZmU2OTBjZC03OTZmLTQ2NjktOTk4Ni02ZTc2OTQ1NzhlMzU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "93 Front Street",
+                "name_preferred": "93 Front Street",
+                "place_formatted": "Palm Coast, Florida 32137, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.643515,
+                    32.331781
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UTWlMQ0p6ZEhKbFpYUWlPaUpHVWs5T1ZDQlRWQ0lzSW5Cc1lXTmxJam9pUTFWVVNFSkZVbFFpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXprNE5EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "93",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UTWlMQ0p6ZEhKbFpYUWlPaUpHVWs5T1ZDQlRWQ0lzSW5Cc1lXTmxJam9pUTFWVVNFSkZVbFFpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXprNE5EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoz",
+                        "name": "93 Front Street",
+                        "street_name": "Front Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFNmJz",
+                        "name": "Beaufort County",
+                        "wikidata_id": "Q495682"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCeGtJN0E",
+                            "name": "Fripp Island"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVGpJN0E",
+                        "name": "Saint Helena Island",
+                        "wikidata_id": "Q2884518"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZFBPN0E",
+                        "name": "29920"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVE1pTENKemRISmxaWFFpT2lKR1VrOU9WQ0JUVkNJc0luQnNZV05sSWpvaVExVlVTRUpGVWxRaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16azROREFpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mw",
+                        "name": "Front Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.331781,
+                    "longitude": -80.643515,
+                    "routable_points": [
+                        {
+                            "latitude": 32.331781,
+                            "longitude": -80.643515,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "93 Front Street, Saint Helena Island, South Carolina 29920, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UTWlMQ0p6ZEhKbFpYUWlPaUpHVWs5T1ZDQlRWQ0lzSW5Cc1lXTmxJam9pUTFWVVNFSkZVbFFpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXprNE5EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "93 Front Street",
+                "name_preferred": "93 Front Street",
+                "place_formatted": "Saint Helena Island, South Carolina 29920, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.970279,
+                    34.95759
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UTWlMQ0p6ZEhKbFpYUWlPaUpHVWs5T1ZDQlRWQ0lzSW5Cc1lXTmxJam9pUTFWVVNFSkZVbFFpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXprNE5EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "93",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UTWlMQ0p6ZEhKbFpYUWlPaUpHVWs5T1ZDQlRWQ0lzSW5Cc1lXTmxJam9pUTFWVVNFSkZVbFFpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXprNE5EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+                        "name": "93 Front Street",
+                        "street_name": "Front Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVXBHN0E",
+                        "name": "Spartanburg County",
+                        "wikidata_id": "Q507488"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIWTVLN0E",
+                        "name": "Saxon",
+                        "wikidata_id": "Q2693075"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbnVJN0E",
+                        "name": "Spartanburg",
+                        "wikidata_id": "Q773325"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYVZ1N0E",
+                        "name": "29301"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVE1pTENKemRISmxaWFFpT2lKR1VrOU9WQ0JUVkNJc0luQnNZV05sSWpvaVExVlVTRUpGVWxRaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16azROREFpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6NA",
+                        "name": "Front Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.95759,
+                    "longitude": -81.970279,
+                    "routable_points": [
+                        {
+                            "latitude": 34.95759,
+                            "longitude": -81.970279,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "93 Front Street, Spartanburg, South Carolina 29301, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UTWlMQ0p6ZEhKbFpYUWlPaUpHVWs5T1ZDQlRWQ0lzSW5Cc1lXTmxJam9pUTFWVVNFSkZVbFFpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXprNE5EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "93 Front Street",
+                "name_preferred": "93 Front Street",
+                "place_formatted": "Spartanburg, South Carolina 29301, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

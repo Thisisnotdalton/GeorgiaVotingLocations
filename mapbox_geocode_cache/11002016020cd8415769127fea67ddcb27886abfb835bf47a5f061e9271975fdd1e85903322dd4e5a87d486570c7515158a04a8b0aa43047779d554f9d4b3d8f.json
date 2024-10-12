@@ -1,0 +1,371 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.786865,
+                    31.76672
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmOWE3MmQ3ZC1lMGMwLTQ0NDQtYTdlNy1mZGQ5YWE1MjY1ZGI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "93",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmOWE3MmQ3ZC1lMGMwLTQ0NDQtYTdlNy1mZGQ5YWE1MjY1ZGI",
+                        "name": "93 Front Street",
+                        "street_name": "Front Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU21HN0E",
+                        "name": "Randolph County",
+                        "wikidata_id": "Q498307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS3NvN0E",
+                        "name": "Cuthbert",
+                        "wikidata_id": "Q2369328"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXV1N0E",
+                        "name": "39840"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjlhNzJkN2QtZTBjMC00NDQ0LWE3ZTctZmRkOWFhNTI2NWRi",
+                        "name": "Front Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.76672,
+                    "longitude": -84.786865,
+                    "routable_points": [
+                        {
+                            "latitude": 31.76738,
+                            "longitude": -84.786856,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "93 Front Street, Cuthbert, Georgia 39840, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmOWE3MmQ3ZC1lMGMwLTQ0NDQtYTdlNy1mZGQ5YWE1MjY1ZGI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "93 Front Street",
+                "name_preferred": "93 Front Street",
+                "place_formatted": "Cuthbert, Georgia 39840, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.79792,
+                    31.762222
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTk3MjI2ZTUtOTNiNS00ZGM2LWIzYWUtM2Y5MmEwNDJkN2Q1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU21HN0E",
+                        "name": "Randolph County",
+                        "wikidata_id": "Q498307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS3NvN0E",
+                        "name": "Cuthbert",
+                        "wikidata_id": "Q2369328"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXV1N0E",
+                        "name": "39840"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTk3MjI2ZTUtOTNiNS00ZGM2LWIzYWUtM2Y5MmEwNDJkN2Q1",
+                        "name": "Seaboard Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.762222,
+                    "longitude": -84.79792
+                },
+                "feature_type": "street",
+                "full_address": "Seaboard Street, Cuthbert, Georgia 39840, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTk3MjI2ZTUtOTNiNS00ZGM2LWIzYWUtM2Y5MmEwNDJkN2Q1",
+                "name": "St",
+                "name_preferred": "Seaboard Street",
+                "place_formatted": "Cuthbert, Georgia 39840, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.259286,
+                    33.387329
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UTWlMQ0p6ZEhKbFpYUWlPaUpHVWs5T1ZDQlRWQ0lzSW5Cc1lXTmxJam9pUTFWVVNFSkZVbFFpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXprNE5EQWdNREF3TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "93",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UTWlMQ0p6ZEhKbFpYUWlPaUpHVWs5T1ZDQlRWQ0lzSW5Cc1lXTmxJam9pUTFWVVNFSkZVbFFpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXprNE5EQWdNREF3TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+                        "name": "93 Frost Street",
+                        "street_name": "Frost Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptbWJz",
+                        "name": "Heard County",
+                        "wikidata_id": "Q486348"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbTRxN0E",
+                        "name": "Ephesus"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdnBvN0E",
+                        "name": "Franklin",
+                        "wikidata_id": "Q775102"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXhPN0E",
+                        "name": "30217"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVE1pTENKemRISmxaWFFpT2lKR1VrOU9WQ0JUVkNJc0luQnNZV05sSWpvaVExVlVTRUpGVWxRaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16azROREFnTURBd01DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjI",
+                        "name": "Frost Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.387329,
+                    "longitude": -85.259286,
+                    "routable_points": [
+                        {
+                            "latitude": 33.387329,
+                            "longitude": -85.259286,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "93 Frost Street, Franklin, Georgia 30217, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UTWlMQ0p6ZEhKbFpYUWlPaUpHVWs5T1ZDQlRWQ0lzSW5Cc1lXTmxJam9pUTFWVVNFSkZVbFFpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXprNE5EQWdNREF3TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "93 Frost Street",
+                "name_preferred": "93 Frost Street",
+                "place_formatted": "Franklin, Georgia 30217, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.665684,
+                    32.550702
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UTWlMQ0p6ZEhKbFpYUWlPaUpHVWs5T1ZDQlRWQ0lzSW5Cc1lXTmxJam9pUTFWVVNFSkZVbFFpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXprNE5EQWdNREF3TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "93",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UTWlMQ0p6ZEhKbFpYUWlPaUpHVWs5T1ZDQlRWQ0lzSW5Cc1lXTmxJam9pUTFWVVNFSkZVbFFpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXprNE5EQWdNREF3TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                        "name": "93 Smith Street",
+                        "street_name": "Smith Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp0T2Jz",
+                        "name": "Johnson County",
+                        "wikidata_id": "Q163529"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYTlLN0E",
+                        "name": "Scott"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHQ2pz",
+                        "name": "Adrian",
+                        "wikidata_id": "Q372266"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHR1N0E",
+                        "name": "31002"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVE1pTENKemRISmxaWFFpT2lKR1VrOU9WQ0JUVkNJc0luQnNZV05sSWpvaVExVlVTRUpGVWxRaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16azROREFnTURBd01DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+                        "name": "Smith Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.550702,
+                    "longitude": -82.665684,
+                    "routable_points": [
+                        {
+                            "latitude": 32.550702,
+                            "longitude": -82.665684,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "93 Smith Street, Adrian, Georgia 31002, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UTWlMQ0p6ZEhKbFpYUWlPaUpHVWs5T1ZDQlRWQ0lzSW5Cc1lXTmxJam9pUTFWVVNFSkZVbFFpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXprNE5EQWdNREF3TUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "93 Frost St",
+                "name_preferred": "93 Smith Street",
+                "place_formatted": "Adrian, Georgia 31002, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.797367,
+                    31.737265
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NTE4OGZkNzgtMzUxMy00MDlkLTg4ZjQtNjc3ODIxNDUyYTEw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU21HN0E",
+                        "name": "Randolph County",
+                        "wikidata_id": "Q498307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS3NvN0E",
+                        "name": "Cuthbert",
+                        "wikidata_id": "Q2369328"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXV1N0E",
+                        "name": "39840"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTE4OGZkNzgtMzUxMy00MDlkLTg4ZjQtNjc3ODIxNDUyYTEw",
+                        "name": "US Route 27"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.737265,
+                    "longitude": -84.797367
+                },
+                "feature_type": "street",
+                "full_address": "US Route 27, Cuthbert, Georgia 39840, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTE4OGZkNzgtMzUxMy00MDlkLTg4ZjQtNjc3ODIxNDUyYTEw",
+                "name": "Ga",
+                "name_preferred": "US Route 27",
+                "place_formatted": "Cuthbert, Georgia 39840, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

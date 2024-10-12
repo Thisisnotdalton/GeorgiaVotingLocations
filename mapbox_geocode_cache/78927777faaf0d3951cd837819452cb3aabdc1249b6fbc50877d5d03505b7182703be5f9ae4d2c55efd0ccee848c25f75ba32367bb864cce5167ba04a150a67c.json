@@ -1,0 +1,91 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.694061,
+                    32.818036
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4MjJlYzVhOC1jNTk1LTQ2YzktYTk4NS0wMzZkYTRiMTYwODI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3661",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4MjJlYzVhOC1jNTk1LTQ2YzktYTk4NS0wMzZkYTRiMTYwODI",
+                        "name": "3661 Eisenhower Parkway",
+                        "street_name": "Eisenhower Parkway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDTExNN0E",
+                        "name": "Crestfield"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaWx1N0E",
+                        "name": "31206"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODIyZWM1YTgtYzU5NS00NmM5LWE5ODUtMDM2ZGE0YjE2MDgy",
+                        "name": "Eisenhower Parkway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.818036,
+                    "longitude": -83.694061,
+                    "routable_points": [
+                        {
+                            "latitude": 32.8174,
+                            "longitude": -83.694142,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3661 Eisenhower Parkway, Macon, Georgia 31206, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4MjJlYzVhOC1jNTk1LTQ2YzktYTk4NS0wMzZkYTRiMTYwODI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3661 Eisenhower Parkway",
+                "name_preferred": "3661 Eisenhower Parkway",
+                "place_formatted": "Macon, Georgia 31206, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

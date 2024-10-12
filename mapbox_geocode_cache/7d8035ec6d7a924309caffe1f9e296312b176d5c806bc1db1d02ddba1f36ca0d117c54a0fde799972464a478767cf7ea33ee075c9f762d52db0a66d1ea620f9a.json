@@ -1,0 +1,363 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.762161,
+                    34.1078
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3NzA5ZGEzOC03ZDY5LTQwNDEtOGZhNy1jZTNjMzExYmY0OGE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5040",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3NzA5ZGEzOC03ZDY5LTQwNDEtOGZhNy1jZTNjMzExYmY0OGE",
+                        "name": "5040 Washington Street",
+                        "street_name": "Washington Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBaWpJN0E",
+                        "name": "hoschton",
+                        "wikidata_id": "Q899020"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1NPN0E",
+                        "name": "30517"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzcwOWRhMzgtN2Q2OS00MDQxLThmYTctY2UzYzMxMWJmNDhh",
+                        "name": "Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.1078,
+                    "longitude": -83.762161,
+                    "routable_points": [
+                        {
+                            "latitude": 34.107753,
+                            "longitude": -83.762586,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5040 Washington Street, Braselton, Georgia 30517, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3NzA5ZGEzOC03ZDY5LTQwNDEtOGZhNy1jZTNjMzExYmY0OGE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "5040 Highway 53",
+                "name_preferred": "5040 Washington Street",
+                "place_formatted": "Braselton, Georgia 30517, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.827058,
+                    34.162667
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTBNQ0lzSW5OMGNtVmxkQ0k2SWtoSlIwaFhRVmtnTlRNaUxDSndiR0ZqWlNJNklrSlNRVk5GVEZSUFRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV4TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5040",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTBNQ0lzSW5OMGNtVmxkQ0k2SWtoSlIwaFhRVmtnTlRNaUxDSndiR0ZqWlNJNklrSlNRVk5GVEZSUFRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV4TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MA",
+                        "name": "5040 Winder Highway",
+                        "street_name": "Winder Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprS2Jz",
+                        "name": "Hall County",
+                        "wikidata_id": "Q492012"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBaWpJN0E",
+                        "name": "Braselton",
+                        "wikidata_id": "Q899020"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.6668450587911152",
+                        "name": "30542"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVEEwTUNJc0luTjBjbVZsZENJNklraEpSMGhYUVZrZ05UTWlMQ0p3YkdGalpTSTZJa0pTUVZORlRGUlBUaUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURVeE55SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjA",
+                        "name": "Winder Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.162667,
+                    "longitude": -83.827058,
+                    "routable_points": [
+                        {
+                            "latitude": 34.162667,
+                            "longitude": -83.827058,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5040 Winder Highway, Braselton, Georgia 30542, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTBNQ0lzSW5OMGNtVmxkQ0k2SWtoSlIwaFhRVmtnTlRNaUxDSndiR0ZqWlNJNklrSlNRVk5GVEZSUFRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV4TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "5040 Georgia Highway 53",
+                "name_preferred": "5040 Winder Highway",
+                "place_formatted": "Braselton, Georgia 30542, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.77945,
+                    34.13514
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Nzc2ODc2NDYtZTliZi00ZDQzLTg4NDMtM2ZiNjFkOGMzMWZl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBaWpJN0E",
+                        "name": "Braselton",
+                        "wikidata_id": "Q899020"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1NPN0E",
+                        "name": "30517"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Nzc2ODc2NDYtZTliZi00ZDQzLTg4NDMtM2ZiNjFkOGMzMWZl",
+                        "name": "Georgia Highway 53"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.13514,
+                    "longitude": -83.77945
+                },
+                "feature_type": "street",
+                "full_address": "Georgia Highway 53, Braselton, Georgia 30517, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Nzc2ODc2NDYtZTliZi00ZDQzLTg4NDMtM2ZiNjFkOGMzMWZl",
+                "name": "Georgia Highway 53",
+                "name_preferred": "Georgia Highway 53",
+                "place_formatted": "Braselton, Georgia 30517, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.761931,
+                    34.101096
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTBNQ0lzSW5OMGNtVmxkQ0k2SWtoSlIwaFhRVmtnTlRNaUxDSndiR0ZqWlNJNklrSlNRVk5GVEZSUFRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV4TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5040",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTBNQ0lzSW5OMGNtVmxkQ0k2SWtoSlIwaFhRVmtnTlRNaUxDSndiR0ZqWlNJNklrSlNRVk5GVEZSUFRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV4TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                        "name": "5040 Georgia Highway 53",
+                        "street_name": "Georgia Highway 53"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDVEdJN0E",
+                        "name": "Hoschton",
+                        "wikidata_id": "Q2025847"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2Z1N0E",
+                        "name": "30548"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVEEwTUNJc0luTjBjbVZsZENJNklraEpSMGhYUVZrZ05UTWlMQ0p3YkdGalpTSTZJa0pTUVZORlRGUlBUaUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURVeE55SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+                        "name": "Georgia Highway 53"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.101096,
+                    "longitude": -83.761931,
+                    "routable_points": [
+                        {
+                            "latitude": 34.101096,
+                            "longitude": -83.761931,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5040 Georgia Highway 53, Hoschton, Georgia 30548, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTBNQ0lzSW5OMGNtVmxkQ0k2SWtoSlIwaFhRVmtnTlRNaUxDSndiR0ZqWlNJNklrSlNRVk5GVEZSUFRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV4TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "5040 Georgia Highway 53",
+                "name_preferred": "5040 Georgia Highway 53",
+                "place_formatted": "Hoschton, Georgia 30548, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.765855,
+                    34.103111
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDBjOTYyNzAtYWQ3OS00NWMwLThlNzUtZjM4NzlmN2YxMDE5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDVEdJN0E",
+                        "name": "Hoschton",
+                        "wikidata_id": "Q2025847"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1NPN0E",
+                        "name": "30517"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDBjOTYyNzAtYWQ3OS00NWMwLThlNzUtZjM4NzlmN2YxMDE5",
+                        "name": "Highway 53"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.103111,
+                    "longitude": -83.765855
+                },
+                "feature_type": "street",
+                "full_address": "Highway 53, Hoschton, Georgia 30517, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDBjOTYyNzAtYWQ3OS00NWMwLThlNzUtZjM4NzlmN2YxMDE5",
+                "name": "Highway 53",
+                "name_preferred": "Highway 53",
+                "place_formatted": "Hoschton, Georgia 30517, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

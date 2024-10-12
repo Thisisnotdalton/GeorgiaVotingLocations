@@ -1,0 +1,87 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.702141,
+                    33.998968
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0OTg5NTI4Zi01YTdkLTRkYjgtYjU5ZC0xOTQwN2ZlODBjOGE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1750",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0OTg5NTI4Zi01YTdkLTRkYjgtYjU5ZC0xOTQwN2ZlODBjOGE",
+                        "name": "1750 Dennis Kemp Lane",
+                        "street_name": "Dennis Kemp Lane"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpES2pz",
+                        "name": "Acworth",
+                        "wikidata_id": "Q344933"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.1389945945031754",
+                        "name": "30152"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDk4OTUyOGYtNWE3ZC00ZGI4LWI1OWQtMTk0MDdmZTgwYzhh",
+                        "name": "Dennis Kemp Lane"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.998968,
+                    "longitude": -84.702141,
+                    "routable_points": [
+                        {
+                            "latitude": 33.999138,
+                            "longitude": -84.701921,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1750 Dennis Kemp Lane, Acworth, Georgia 30152, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0OTg5NTI4Zi01YTdkLTRkYjgtYjU5ZC0xOTQwN2ZlODBjOGE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1750 Dennis Kemp Ln NW",
+                "name_preferred": "1750 Dennis Kemp Lane",
+                "place_formatted": "Acworth, Georgia 30152, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,355 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.009386,
+                    33.539575
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyNjZmYTUyYi0wNzZhLTQ2MDAtYTk2OC0yZDA2YmNlNWI5NzI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "6752",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyNjZmYTUyYi0wNzZhLTQ2MDAtYTk2OC0yZDA2YmNlNWI5NzI",
+                        "name": "6752 Georgia Highway 212",
+                        "street_name": "Georgia Highway 212"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUU1tN0E",
+                        "name": "Newton County",
+                        "wikidata_id": "Q501101"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHMXlzN0E",
+                        "name": "Oak Hill"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEODNJN0E",
+                            "name": "Porterdale"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCR2RvN0E",
+                        "name": "Covington",
+                        "wikidata_id": "Q1193960"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGh1N0E",
+                        "name": "30016"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjY2ZmE1MmItMDc2YS00NjAwLWE5NjgtMmQwNmJjZTViOTcy",
+                        "name": "Georgia Highway 212"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.539575,
+                    "longitude": -84.009386,
+                    "routable_points": [
+                        {
+                            "latitude": 33.539657,
+                            "longitude": -84.009631,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "6752 Georgia Highway 212, Covington, Georgia 30016, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyNjZmYTUyYi0wNzZhLTQ2MDAtYTk2OC0yZDA2YmNlNWI5NzI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "6752 Georgia Highway 212",
+                "name_preferred": "6752 Georgia Highway 212",
+                "place_formatted": "Covington, Georgia 30016, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.839622,
+                    33.407254
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2YzZTQzYmItMjlmYy00ODk1LTk4NTItZWEwZTg5MzcyNDEw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUU1tN0E",
+                        "name": "Newton County",
+                        "wikidata_id": "Q501101"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEODNJN0E",
+                            "name": "Porterdale"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCR2RvN0E",
+                        "name": "Covington",
+                        "wikidata_id": "Q1193960"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGd1N0E",
+                        "name": "30014"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2YzZTQzYmItMjlmYy00ODk1LTk4NTItZWEwZTg5MzcyNDEw",
+                        "name": "Georgia Highway 212"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.407254,
+                    "longitude": -83.839622
+                },
+                "feature_type": "street",
+                "full_address": "Georgia Highway 212, Covington, Georgia 30014, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2YzZTQzYmItMjlmYy00ODk1LTk4NTItZWEwZTg5MzcyNDEw",
+                "name": "Highway 212",
+                "name_preferred": "Georgia Highway 212",
+                "place_formatted": "Covington, Georgia 30014, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.788011,
+                    33.358058
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qYzFNaUlzSW5OMGNtVmxkQ0k2SWtoSlIwaFhRVmtnTWpFeUlpd2ljR3hoWTJVaU9pSkRUMVpKVGtkVVQwNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF3TVRZaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "6752",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qYzFNaUlzSW5OMGNtVmxkQ0k2SWtoSlIwaFhRVmtnTWpFeUlpd2ljR3hoWTJVaU9pSkRUMVpKVGtkVVQwNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF3TVRZaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+                        "name": "6752 Georgia Highway 212",
+                        "street_name": "Georgia Highway 212"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyZ2Jz",
+                        "name": "Jasper County",
+                        "wikidata_id": "Q224910"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUWVvN0E",
+                        "name": "Monticello",
+                        "wikidata_id": "Q2132523"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUt1N0E",
+                        "name": "31064"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOamMxTWlJc0luTjBjbVZsZENJNklraEpSMGhYUVZrZ01qRXlJaXdpY0d4aFkyVWlPaUpEVDFaSlRrZFVUMDRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBd01UWWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+                        "name": "Georgia Highway 212"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.358058,
+                    "longitude": -83.788011,
+                    "routable_points": [
+                        {
+                            "latitude": 33.358058,
+                            "longitude": -83.788011,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "6752 Georgia Highway 212, Monticello, Georgia 31064, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qYzFNaUlzSW5OMGNtVmxkQ0k2SWtoSlIwaFhRVmtnTWpFeUlpd2ljR3hoWTJVaU9pSkRUMVpKVGtkVVQwNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF3TVRZaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "6752 Georgia Highway 212",
+                "name_preferred": "6752 Georgia Highway 212",
+                "place_formatted": "Monticello, Georgia 31064, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.838853,
+                    33.399624
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGViOThiY2ItMGQ2MS00OWQ4LWJjZDktZmVlYTlkNTVhZDVl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyZ2Jz",
+                        "name": "Jasper County",
+                        "wikidata_id": "Q224910"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUWVvN0E",
+                        "name": "Monticello",
+                        "wikidata_id": "Q2132523"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUt1N0E",
+                        "name": "31064"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGViOThiY2ItMGQ2MS00OWQ4LWJjZDktZmVlYTlkNTVhZDVl",
+                        "name": "Georgia Highway 212"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.399624,
+                    "longitude": -83.838853
+                },
+                "feature_type": "street",
+                "full_address": "Georgia Highway 212, Monticello, Georgia 31064, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGViOThiY2ItMGQ2MS00OWQ4LWJjZDktZmVlYTlkNTVhZDVl",
+                "name": "Highway 212",
+                "name_preferred": "Georgia Highway 212",
+                "place_formatted": "Monticello, Georgia 31064, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.832227,
+                    33.393887
+                ],
+                "type": "Point"
+            },
+            "id": "address.5649583819692562",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUU1tN0E",
+                        "name": "Newton County",
+                        "wikidata_id": "Q501101"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpVT3Jz",
+                        "name": "Alcovy Shores"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUWVvN0E",
+                        "name": "Monticello",
+                        "wikidata_id": "Q2132523"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUt1N0E",
+                        "name": "31064"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.5649583819692562",
+                        "name": "Waters Bridge"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.393887,
+                    "longitude": -83.832227
+                },
+                "feature_type": "street",
+                "full_address": "Waters Bridge, Monticello, Georgia 31064, United States",
+                "mapbox_id": "address.5649583819692562",
+                "name": "State Highway 212",
+                "name_preferred": "Waters Bridge",
+                "place_formatted": "Monticello, Georgia 31064, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

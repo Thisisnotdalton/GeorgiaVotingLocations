@@ -1,0 +1,318 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.25255,
+                    31.70892
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowNTU0ODk3Ny0wYWQ1LTQyY2QtOWQ5OS03MzI1YWIyNTJkOWQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "602",
+                        "mapbox_id": "dXJuOm1ieGFkcjowNTU0ODk3Ny0wYWQ1LTQyY2QtOWQ5OS03MzI1YWIyNTJkOWQ",
+                        "name": "602 South Grant Street",
+                        "street_name": "South Grant Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGZ2Jz",
+                        "name": "Ben Hill County",
+                        "wikidata_id": "Q111867"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCcCtvN0E",
+                        "name": "Fitzgerald",
+                        "wikidata_id": "Q654046"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajhPN0E",
+                        "name": "31750"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDU1NDg5NzctMGFkNS00MmNkLTlkOTktNzMyNWFiMjUyZDlk",
+                        "name": "South Grant Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.70892,
+                    "longitude": -83.25255,
+                    "routable_points": [
+                        {
+                            "latitude": 31.708917,
+                            "longitude": -83.252875,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "602 South Grant Street, Fitzgerald, Georgia 31750, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowNTU0ODk3Ny0wYWQ1LTQyY2QtOWQ5OS03MzI1YWIyNTJkOWQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "602 South Grant Street",
+                "name_preferred": "602 South Grant Street",
+                "place_formatted": "Fitzgerald, Georgia 31750, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.244459,
+                    31.724166
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Njc5MzQ2M2YtMjVlMS00YjFhLTg0ZGUtYTY5NTA2ZTlhYzhj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGZ2Jz",
+                        "name": "Ben Hill County",
+                        "wikidata_id": "Q111867"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCcCtvN0E",
+                        "name": "Fitzgerald",
+                        "wikidata_id": "Q654046"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajhPN0E",
+                        "name": "31750"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Njc5MzQ2M2YtMjVlMS00YjFhLTg0ZGUtYTY5NTA2ZTlhYzhj",
+                        "name": "S Grant St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.724166,
+                    "longitude": -83.244459
+                },
+                "feature_type": "street",
+                "full_address": "S Grant St, Fitzgerald, Georgia 31750, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Njc5MzQ2M2YtMjVlMS00YjFhLTg0ZGUtYTY5NTA2ZTlhYzhj",
+                "name": "S Grant St",
+                "name_preferred": "S Grant St",
+                "place_formatted": "Fitzgerald, Georgia 31750, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.253024,
+                    31.720419
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGRlMDI4ZWYtNWUxYy00MTA1LWE1OWUtNTE4NWJiYmNiYTEz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGZ2Jz",
+                        "name": "Ben Hill County",
+                        "wikidata_id": "Q111867"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCcCtvN0E",
+                        "name": "Fitzgerald",
+                        "wikidata_id": "Q654046"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajhPN0E",
+                        "name": "31750"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGRlMDI4ZWYtNWUxYy00MTA1LWE1OWUtNTE4NWJiYmNiYTEz",
+                        "name": "North Grant Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.720419,
+                    "longitude": -83.253024
+                },
+                "feature_type": "street",
+                "full_address": "North Grant Street, Fitzgerald, Georgia 31750, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGRlMDI4ZWYtNWUxYy00MTA1LWE1OWUtNTE4NWJiYmNiYTEz",
+                "name": "North Grant Street",
+                "name_preferred": "North Grant Street",
+                "place_formatted": "Fitzgerald, Georgia 31750, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.149511,
+                    31.93543
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWFmNzU5OTYtNzE2NC00NDliLThkODgtMDkyMjI2N2E2YzNk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCMm5NN0E",
+                        "name": "Coffee Bluff"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakN1N0E",
+                        "name": "31419"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWFmNzU5OTYtNzE2NC00NDliLThkODgtMDkyMjI2N2E2YzNk",
+                        "name": "Grant Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.93543,
+                    "longitude": -81.149511
+                },
+                "feature_type": "street",
+                "full_address": "Grant Street, Savannah, Georgia 31419, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWFmNzU5OTYtNzE2NC00NDliLThkODgtMDkyMjI2N2E2YzNk",
+                "name": "S Grant St",
+                "name_preferred": "Grant Street",
+                "place_formatted": "Savannah, Georgia 31419, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.486592,
+                    31.81103
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzlkYzIxMjItZTg3Mi00NTllLWI0NzQtYjg1OTA0NzMxOGRl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0ttN0E",
+                        "name": "Turner County",
+                        "wikidata_id": "Q498336"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFRXhJN0E",
+                        "name": "Rebecca"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0hPN0E",
+                        "name": "31783"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzlkYzIxMjItZTg3Mi00NTllLWI0NzQtYjg1OTA0NzMxOGRl",
+                        "name": "South Grant Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.81103,
+                    "longitude": -83.486592
+                },
+                "feature_type": "street",
+                "full_address": "South Grant Street, Rebecca, Georgia 31783, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzlkYzIxMjItZTg3Mi00NTllLWI0NzQtYjg1OTA0NzMxOGRl",
+                "name": "South Grant Street",
+                "name_preferred": "South Grant Street",
+                "place_formatted": "Rebecca, Georgia 31783, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

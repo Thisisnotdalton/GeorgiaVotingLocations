@@ -1,0 +1,363 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.234012,
+                    31.303642
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphY2NiMTM2My03MjhkLTQwNTYtOTU3ZS0xYTA4MTViOTZjNDQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "312",
+                        "mapbox_id": "dXJuOm1ieGFkcjphY2NiMTM2My03MjhkLTQwNTYtOTU3ZS0xYTA4MTViOTZjNDQ",
+                        "name": "312 Nichols Street",
+                        "street_name": "Nichols Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUm9tN0E",
+                        "name": "Pierce County",
+                        "wikidata_id": "Q486800"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBY09JN0E",
+                        "name": "Blackshear",
+                        "wikidata_id": "Q670594"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakh1N0E",
+                        "name": "31516"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWNjYjEzNjMtNzI4ZC00MDU2LTk1N2UtMWEwODE1Yjk2YzQ0",
+                        "name": "Nichols Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.303642,
+                    "longitude": -82.234012,
+                    "routable_points": [
+                        {
+                            "latitude": 31.303928,
+                            "longitude": -82.234315,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "312 Nichols Street, Blackshear, Georgia 31516, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphY2NiMTM2My03MjhkLTQwNTYtOTU3ZS0xYTA4MTViOTZjNDQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "312 Nichols Street",
+                "name_preferred": "312 Nichols Street",
+                "place_formatted": "Blackshear, Georgia 31516, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.247807,
+                    31.299965
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTE4ZWQ1ZjktOWRhNS00ZjhmLThhZWQtM2VmZGZhNjJmMzg0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUm9tN0E",
+                        "name": "Pierce County",
+                        "wikidata_id": "Q486800"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBY09JN0E",
+                        "name": "Blackshear",
+                        "wikidata_id": "Q670594"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakh1N0E",
+                        "name": "31516"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTE4ZWQ1ZjktOWRhNS00ZjhmLThhZWQtM2VmZGZhNjJmMzg0",
+                        "name": "Nichols St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.299965,
+                    "longitude": -82.247807
+                },
+                "feature_type": "street",
+                "full_address": "Nichols St, Blackshear, Georgia 31516, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTE4ZWQ1ZjktOWRhNS00ZjhmLThhZWQtM2VmZGZhNjJmMzg0",
+                "name": "Nichols St",
+                "name_preferred": "Nichols St",
+                "place_formatted": "Blackshear, Georgia 31516, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.366493,
+                    31.206305
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiYjQ4YjFjYS04OTNjLTQ1NTAtYjlkZi01N2JmY2U4ZGU4NGQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "312",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiYjQ4YjFjYS04OTNjLTQ1NTAtYjlkZi01N2JmY2U4ZGU4NGQ",
+                        "name": "312 North Nicholls Street",
+                        "street_name": "North Nicholls Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzRtN0E",
+                        "name": "Ware County",
+                        "wikidata_id": "Q498353"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTHJJN0E",
+                        "name": "Waycross",
+                        "wikidata_id": "Q615027"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakZPN0E",
+                        "name": "31503"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmI0OGIxY2EtODkzYy00NTUwLWI5ZGYtNTdiZmNlOGRlODRk",
+                        "name": "North Nicholls Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 31.206305,
+                    "longitude": -82.366493,
+                    "routable_points": [
+                        {
+                            "latitude": 31.207996,
+                            "longitude": -82.366016,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "312 North Nicholls Street, Waycross, Georgia 31503, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiYjQ4YjFjYS04OTNjLTQ1NTAtYjlkZi01N2JmY2U4ZGU4NGQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "312 North Nicholls Street",
+                "name_preferred": "312 North Nicholls Street",
+                "place_formatted": "Waycross, Georgia 31503, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.87261,
+                    30.992983
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16RXlJaXdpYzNSeVpXVjBJam9pVGtsRFNFOU1VeUJUVkNJc0luQnNZV05sSWpvaVFreEJRMHRUU0VWQlVpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFV4TmlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "312",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16RXlJaXdpYzNSeVpXVjBJam9pVGtsRFNFOU1VeUJUVkNJc0luQnNZV05sSWpvaVFreEJRMHRUU0VWQlVpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFV4TmlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                        "name": "312 Nichol Street",
+                        "street_name": "Nichol Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSMGJz",
+                        "name": "Clinch County",
+                        "wikidata_id": "Q486167"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCWGhvN0E",
+                        "name": "Du Pont",
+                        "wikidata_id": "Q2615495"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamxPN0E",
+                        "name": "31630"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNekV5SWl3aWMzUnlaV1YwSWpvaVRrbERTRTlNVXlCVFZDSXNJbkJzWVdObElqb2lRa3hCUTB0VFNFVkJVaUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRVeE5pSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjM",
+                        "name": "Nichol Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 30.992983,
+                    "longitude": -82.87261,
+                    "routable_points": [
+                        {
+                            "latitude": 30.992983,
+                            "longitude": -82.87261,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "312 Nichol Street, Du Pont, Georgia 31630, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16RXlJaXdpYzNSeVpXVjBJam9pVGtsRFNFOU1VeUJUVkNJc0luQnNZV05sSWpvaVFreEJRMHRUU0VWQlVpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFV4TmlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "312 Nichols St",
+                "name_preferred": "312 Nichol Street",
+                "place_formatted": "Du Pont, Georgia 31630, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.360433,
+                    31.235799
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjFhZWY3MjEtMjFiZC00ZDhkLWI3MzQtZWExNjgyZmM2Y2Ey",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzRtN0E",
+                        "name": "Ware County",
+                        "wikidata_id": "Q498353"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTHJJN0E",
+                        "name": "Waycross",
+                        "wikidata_id": "Q615027"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakVPN0E",
+                        "name": "31501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFhZWY3MjEtMjFiZC00ZDhkLWI3MzQtZWExNjgyZmM2Y2Ey",
+                        "name": "East Blackshear Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.235799,
+                    "longitude": -82.360433
+                },
+                "feature_type": "street",
+                "full_address": "East Blackshear Avenue, Waycross, Georgia 31501, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFhZWY3MjEtMjFiZC00ZDhkLWI3MzQtZWExNjgyZmM2Y2Ey",
+                "name": "East Blackshear Avenue",
+                "name_preferred": "East Blackshear Avenue",
+                "place_formatted": "Waycross, Georgia 31501, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

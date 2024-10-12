@@ -1,0 +1,323 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.670677,
+                    33.385803
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplM2Q3ZDFlZi1mYWQ5LTQxMDctYTM2ZC1lNmM2YWU0OTdlMTc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "65",
+                        "mapbox_id": "dXJuOm1ieGFkcjplM2Q3ZDFlZi1mYWQ5LTQxMDctYTM2ZC1lNmM2YWU0OTdlMTc",
+                        "name": "65 Literary Lane",
+                        "street_name": "Literary Lane"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpVVWJz",
+                        "name": "Coweta County",
+                        "wikidata_id": "Q111928"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLS0dNN0E",
+                        "name": "Vineyard Crossroads"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZFNJN0E",
+                        "name": "Newnan",
+                        "wikidata_id": "Q988123"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZS91N0E",
+                        "name": "30265"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTNkN2QxZWYtZmFkOS00MTA3LWEzNmQtZTZjNmFlNDk3ZTE3",
+                        "name": "Literary Lane"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.385803,
+                    "longitude": -84.670677,
+                    "routable_points": [
+                        {
+                            "latitude": 33.385804,
+                            "longitude": -84.670863,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "65 Literary Lane, Newnan, Georgia 30265, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplM2Q3ZDFlZi1mYWQ5LTQxMDctYTM2ZC1lNmM2YWU0OTdlMTc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "65 Literary Lane",
+                "name_preferred": "65 Literary Lane",
+                "place_formatted": "Newnan, Georgia 30265, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.742916,
+                    33.396943
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZS91N0E",
+            "properties": {
+                "bbox": [
+                    -84.767158,
+                    33.334136,
+                    -84.645066,
+                    33.499198
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpVVWJz",
+                        "name": "Coweta County",
+                        "wikidata_id": "Q111928"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZFNJN0E",
+                        "name": "Newnan",
+                        "wikidata_id": "Q988123"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZS91N0E",
+                        "name": "30265"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.396943,
+                    "longitude": -84.742916
+                },
+                "feature_type": "postcode",
+                "full_address": "Newnan, Georgia 30265, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZS91N0E",
+                "name": "30265",
+                "name_preferred": "30265",
+                "place_formatted": "Newnan, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.799545,
+                    33.375153
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpEZFNJN0E",
+            "properties": {
+                "bbox": [
+                    -85.015358,
+                    33.247774,
+                    -84.645099,
+                    33.511457
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpVVWJz",
+                        "name": "Coweta County",
+                        "wikidata_id": "Q111928"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZFNJN0E",
+                        "name": "Newnan",
+                        "wikidata_id": "Q988123"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.375153,
+                    "longitude": -84.799545
+                },
+                "feature_type": "place",
+                "full_address": "Newnan, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpEZFNJN0E",
+                "name": "Newnan",
+                "name_preferred": "Newnan",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.321715,
+                    33.777523
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGRlYTUwZGEtOWZkMy00MjQxLWEzNTEtYTY5MjM3NGNhZGY1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q492026"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGS3VvN0E",
+                        "name": "Watkinsville",
+                        "wikidata_id": "Q426428"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEdPN0E",
+                        "name": "30677"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGRlYTUwZGEtOWZkMy00MjQxLWEzNTEtYTY5MjM3NGNhZGY1",
+                        "name": "Piney Wood Lane"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.777523,
+                    "longitude": -83.321715
+                },
+                "feature_type": "street",
+                "full_address": "Piney Wood Lane, Watkinsville, Georgia 30677, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGRlYTUwZGEtOWZkMy00MjQxLWEzNTEtYTY5MjM3NGNhZGY1",
+                "name": "Lane",
+                "name_preferred": "Piney Wood Lane",
+                "place_formatted": "Watkinsville, Georgia 30677, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.464579,
+                    33.60541
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODZjMDFiNzYtMzFhMy00NWJiLTg5OWQtOTQ0NDIxMjRlZDcy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorNGJz",
+                        "name": "Morgan County",
+                        "wikidata_id": "Q493083"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCU3RNN0E",
+                        "name": "Canaan"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNzVvN0E",
+                        "name": "Madison",
+                        "wikidata_id": "Q580412"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy9PN0E",
+                        "name": "30650"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODZjMDFiNzYtMzFhMy00NWJiLTg5OWQtOTQ0NDIxMjRlZDcy",
+                        "name": "Newnan Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.60541,
+                    "longitude": -83.464579
+                },
+                "feature_type": "street",
+                "full_address": "Newnan Drive, Madison, Georgia 30650, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODZjMDFiNzYtMzFhMy00NWJiLTg5OWQtOTQ0NDIxMjRlZDcy",
+                "name": "Newnan Drive",
+                "name_preferred": "Newnan Drive",
+                "place_formatted": "Madison, Georgia 30650, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,262 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.638908,
+                    32.636522
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkNGYwYWYxNi0wNDY1LTQ2MjUtYTQyOS0xMTY3YTJjMWFhNDI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "900",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkNGYwYWYxNi0wNDY1LTQ2MjUtYTQyOS0xMTY3YTJjMWFhNDI",
+                        "name": "900 North Houston Road",
+                        "street_name": "North Houston Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpvcWJz",
+                        "name": "Houston County",
+                        "wikidata_id": "Q486362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSWVvN0E",
+                        "name": "Warner Robins",
+                        "wikidata_id": "Q2003323"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVh1N0E",
+                        "name": "31093"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDRmMGFmMTYtMDQ2NS00NjI1LWE0MjktMTE2N2EyYzFhYTQy",
+                        "name": "North Houston Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 32.636522,
+                    "longitude": -83.638908,
+                    "routable_points": [
+                        {
+                            "latitude": 32.636375,
+                            "longitude": -83.63918,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "900 North Houston Road, Warner Robins, Georgia 31093, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkNGYwYWYxNi0wNDY1LTQ2MjUtYTQyOS0xMTY3YTJjMWFhNDI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "900 North Houston Road",
+                "name_preferred": "900 North Houston Road",
+                "place_formatted": "Warner Robins, Georgia 31093, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.684597,
+                    32.724873
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGZlMGZhNzItYjUwNS00N2NjLTk1ZTQtZTAyYTk2YmE1NmRh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGWXZNN0E",
+                        "name": "Liberty View"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXBPN0E",
+                        "name": "31216"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGZlMGZhNzItYjUwNS00N2NjLTk1ZTQtZTAyYTk2YmE1NmRh",
+                        "name": "Houston Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.724873,
+                    "longitude": -83.684597
+                },
+                "feature_type": "street",
+                "full_address": "Houston Road, Macon, Georgia 31216, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGZlMGZhNzItYjUwNS00N2NjLTk1ZTQtZTAyYTk2YmE1NmRh",
+                "name": "Houston Road",
+                "name_preferred": "Houston Road",
+                "place_formatted": "Macon, Georgia 31216, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.706574,
+                    32.677185
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NTY5Njg4MzEtY2RmNy00ZGMxLWEwZDUtMGE0Yjc0MDA1OWI0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUlJtN0E",
+                        "name": "Peach County",
+                        "wikidata_id": "Q491553"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBclFJN0E",
+                        "name": "Byron",
+                        "wikidata_id": "Q1923402"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHd1N0E",
+                        "name": "31008"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTY5Njg4MzEtY2RmNy00ZGMxLWEwZDUtMGE0Yjc0MDA1OWI0",
+                        "name": "Houston Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.677185,
+                    "longitude": -83.706574
+                },
+                "feature_type": "street",
+                "full_address": "Houston Rd, Byron, Georgia 31008, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTY5Njg4MzEtY2RmNy00ZGMxLWEwZDUtMGE0Yjc0MDA1OWI0",
+                "name": "Houston Rd",
+                "name_preferred": "Houston Rd",
+                "place_formatted": "Byron, Georgia 31008, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.507985,
+                    32.67828
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjJhNjg1MGEtNjA0Mi00YjlmLThiMDAtNzJlZjM1ZDY1NmZl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV05HN0E",
+                        "name": "Twiggs County",
+                        "wikidata_id": "Q503551"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVjBvN0E",
+                        "name": "Dry Branch",
+                        "wikidata_id": "Q17514787"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDJ1N0E",
+                        "name": "31020"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjJhNjg1MGEtNjA0Mi00YjlmLThiMDAtNzJlZjM1ZDY1NmZl",
+                        "name": "Huston Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.67828,
+                    "longitude": -83.507985
+                },
+                "feature_type": "street",
+                "full_address": "Huston Rd, Dry Branch, Georgia 31020, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjJhNjg1MGEtNjA0Mi00YjlmLThiMDAtNzJlZjM1ZDY1NmZl",
+                "name": "Huston Rd",
+                "name_preferred": "Huston Rd",
+                "place_formatted": "Dry Branch, Georgia 31020, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

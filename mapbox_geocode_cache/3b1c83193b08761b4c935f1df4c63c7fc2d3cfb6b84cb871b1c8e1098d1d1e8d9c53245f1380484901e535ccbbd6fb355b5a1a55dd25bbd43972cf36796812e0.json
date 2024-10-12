@@ -1,0 +1,344 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.342274,
+                    31.317846
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0Nzk2NjE0Yy04Mzc1LTQzNzEtYjY1Ni04ZDY5ZDRiYjYwMWE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "167",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0Nzk2NjE0Yy04Mzc1LTQzNzEtYjY1Ni04ZDY5ZDRiYjYwMWE",
+                        "name": "167 Baker Place",
+                        "street_name": "Baker Place"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEc2Jz",
+                        "name": "Baker County",
+                        "wikidata_id": "Q376990"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZVBJN0E",
+                        "name": "Newton",
+                        "wikidata_id": "Q2372254"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQTFPN0E",
+                        "name": "39870"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDc5NjYxNGMtODM3NS00MzcxLWI2NTYtOGQ2OWQ0YmI2MDFh",
+                        "name": "Baker Place"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.317846,
+                    "longitude": -84.342274,
+                    "routable_points": [
+                        {
+                            "latitude": 31.317823,
+                            "longitude": -84.341809,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "167 Baker Place, Newton, Georgia 39870, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0Nzk2NjE0Yy04Mzc1LTQzNzEtYjY1Ni04ZDY5ZDRiYjYwMWE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "167 Baker Place",
+                "name_preferred": "167 Baker Place",
+                "place_formatted": "Newton, Georgia 39870, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.341562,
+                    31.317398
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDQTFPN0E",
+            "properties": {
+                "bbox": [
+                    -84.577523,
+                    31.166143,
+                    -84.140868,
+                    31.440404
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEc2Jz",
+                        "name": "Baker County",
+                        "wikidata_id": "Q376990"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZVBJN0E",
+                        "name": "Newton",
+                        "wikidata_id": "Q2372254"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQTFPN0E",
+                        "name": "39870"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.317398,
+                    "longitude": -84.341562
+                },
+                "feature_type": "postcode",
+                "full_address": "Newton, Georgia 39870, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDQTFPN0E",
+                "name": "39870",
+                "name_preferred": "39870",
+                "place_formatted": "Newton, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.195334,
+                    31.233829
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDY4YTk5ZjAtNTczMC00NDcxLWFlYzctMmE5ZWZlNTA0YTQ2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo4cWJz",
+                        "name": "Mitchell County",
+                        "wikidata_id": "Q493102"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdGpJN0E",
+                        "name": "Camilla",
+                        "wikidata_id": "Q2872512"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajN1N0E",
+                        "name": "31730"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDY4YTk5ZjAtNTczMC00NDcxLWFlYzctMmE5ZWZlNTA0YTQ2",
+                        "name": "Baker Place"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.233829,
+                    "longitude": -84.195334
+                },
+                "feature_type": "street",
+                "full_address": "Baker Place, Camilla, Georgia 31730, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDY4YTk5ZjAtNTczMC00NDcxLWFlYzctMmE5ZWZlNTA0YTQ2",
+                "name": "Baker Place",
+                "name_preferred": "Baker Place",
+                "place_formatted": "Camilla, Georgia 31730, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.261254,
+                    42.327711
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWTNJaXdpYzNSeVpXVjBJam9pUWtGTFJWSWdVRXhCUTBVaUxDSndiR0ZqWlNJNklrNUZWMVJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek9UZzNNQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "167",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWTNJaXdpYzNSeVpXVjBJam9pUWtGTFJWSWdVRXhCUTBVaUxDSndiR0ZqWlNJNklrNUZWMVJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek9UZzNNQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+                        "name": "167 Baker Place",
+                        "street_name": "Baker Place"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo3NGJz",
+                        "name": "Middlesex County",
+                        "wikidata_id": "Q54073"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZWNJN0E",
+                        "name": "Newton Lower Falls"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSazdz",
+                        "name": "02462"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV1Rz",
+                        "name": "Massachusetts",
+                        "region_code": "MA",
+                        "region_code_full": "US-MA",
+                        "wikidata_id": "Q771"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFkzSWl3aWMzUnlaV1YwSWpvaVFrRkxSVklnVUV4QlEwVWlMQ0p3YkdGalpTSTZJazVGVjFSUFRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpPVGczTUNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                        "name": "Baker Place"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 42.327711,
+                    "longitude": -71.261254,
+                    "routable_points": [
+                        {
+                            "latitude": 42.327711,
+                            "longitude": -71.261254,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "167 Baker Place, Newton Lower Falls, Massachusetts 02462, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWTNJaXdpYzNSeVpXVjBJam9pUWtGTFJWSWdVRXhCUTBVaUxDSndiR0ZqWlNJNklrNUZWMVJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek9UZzNNQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "167 Baker Place",
+                "name_preferred": "167 Baker Place",
+                "place_formatted": "Newton Lower Falls, Massachusetts 02462, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.169194,
+                    42.281152
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjEyNGM1OTctODhhNi00Y2UyLTk5Y2EtMWU5Y2RhZWNjOTU4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVk9tN0E",
+                        "name": "Suffolk County",
+                        "wikidata_id": "Q54072"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBZ1dJN0E",
+                            "name": "Boston"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpGUnlJN0E",
+                        "name": "West Roxbury",
+                        "wikidata_id": "Q2516663"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpONjdz",
+                        "name": "02132"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV1Rz",
+                        "name": "Massachusetts",
+                        "region_code": "MA",
+                        "region_code_full": "US-MA",
+                        "wikidata_id": "Q771"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjEyNGM1OTctODhhNi00Y2UyLTk5Y2EtMWU5Y2RhZWNjOTU4",
+                        "name": "Baker Place"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 42.281152,
+                    "longitude": -71.169194
+                },
+                "feature_type": "street",
+                "full_address": "Baker Place, West Roxbury, Massachusetts 02132, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjEyNGM1OTctODhhNi00Y2UyLTk5Y2EtMWU5Y2RhZWNjOTU4",
+                "name": "Baker Place",
+                "name_preferred": "Baker Place",
+                "place_formatted": "West Roxbury, Massachusetts 02132, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

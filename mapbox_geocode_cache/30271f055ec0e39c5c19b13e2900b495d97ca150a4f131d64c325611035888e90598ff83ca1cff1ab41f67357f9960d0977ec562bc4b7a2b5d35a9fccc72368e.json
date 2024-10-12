@@ -1,0 +1,388 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.376412,
+                    33.964377
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphYjMwMDFjZS1hYzNmLTQ3NjAtYTZhNS1jMGVkZGQwZDhiYWI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "211",
+                        "mapbox_id": "dXJuOm1ieGFkcjphYjMwMDFjZS1hYzNmLTQ3NjAtYTZhNS1jMGVkZGQwZDhiYWI",
+                        "name": "211 Hoyt Street",
+                        "street_name": "Hoyt Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3VPN0E",
+                        "name": "30601"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWIzMDAxY2UtYWMzZi00NzYwLWE2YTUtYzBlZGRkMGQ4YmFi",
+                        "name": "Hoyt Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.964377,
+                    "longitude": -83.376412,
+                    "routable_points": [
+                        {
+                            "latitude": 33.964244,
+                            "longitude": -83.376791,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "211 Hoyt Street, Athens, Georgia 30601, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphYjMwMDFjZS1hYzNmLTQ3NjAtYTZhNS1jMGVkZGQwZDhiYWI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "211 Hoyt Street",
+                "name_preferred": "211 Hoyt Street",
+                "place_formatted": "Athens, Georgia 30601, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.329887,
+                    31.406916
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRXhJaXdpYzNSeVpXVjBJam9pU0U5WlZDQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "211",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRXhJaXdpYzNSeVpXVjBJam9pU0U5WlZDQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+                        "name": "211 Smith Street",
+                        "street_name": "Smith Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHS2Jz",
+                        "name": "Berrien County",
+                        "wikidata_id": "Q488868"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVFJN0E",
+                        "name": "Enigma",
+                        "wikidata_id": "Q2103595"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajd1N0E",
+                        "name": "31749"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakV4SWl3aWMzUnlaV1YwSWpvaVNFOVpWQ0JUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa0ZVU0VWT1V5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFl3TVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                        "name": "Smith Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.406916,
+                    "longitude": -83.329887,
+                    "routable_points": [
+                        {
+                            "latitude": 31.406916,
+                            "longitude": -83.329887,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "211 Smith Street, Enigma, Georgia 31749, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRXhJaXdpYzNSeVpXVjBJam9pU0U5WlZDQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "211 Hoyt St",
+                "name_preferred": "211 Smith Street",
+                "place_formatted": "Enigma, Georgia 31749, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.529508,
+                    34.505627
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRXhJaXdpYzNSeVpXVjBJam9pU0U5WlZDQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "211",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRXhJaXdpYzNSeVpXVjBJam9pU0U5WlZDQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToy",
+                        "name": "211 Hoyt Street South",
+                        "street_name": "Hoyt Street South"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqNmJz",
+                        "name": "Habersham County",
+                        "wikidata_id": "Q501096"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCRWpJN0E",
+                        "name": "Cornelia"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1lPN0E",
+                        "name": "30531"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakV4SWl3aWMzUnlaV1YwSWpvaVNFOVpWQ0JUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa0ZVU0VWT1V5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFl3TVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mg",
+                        "name": "Hoyt Street South"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.505627,
+                    "longitude": -83.529508,
+                    "routable_points": [
+                        {
+                            "latitude": 34.505627,
+                            "longitude": -83.529508,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "211 Hoyt Street South, Cornelia, Georgia 30531, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRXhJaXdpYzNSeVpXVjBJam9pU0U5WlZDQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "211 Hoyt Street South",
+                "name_preferred": "211 Hoyt Street South",
+                "place_formatted": "Cornelia, Georgia 30531, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.501859,
+                    33.470615
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozNzQzYTNiOC1mZmExLTQyZjMtYjc2NS1iOTU3MTM3NGJjZWE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "211",
+                        "mapbox_id": "dXJuOm1ieGFkcjozNzQzYTNiOC1mZmExLTQyZjMtYjc2NS1iOTU3MTM3NGJjZWE",
+                        "name": "211 Holt Street",
+                        "street_name": "Holt Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2QWJz",
+                        "name": "McDuffie County",
+                        "wikidata_id": "Q492066"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMjdJN0E",
+                        "name": "Thomson",
+                        "wikidata_id": "Q2784008"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGt1N0E",
+                        "name": "30824"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Mzc0M2EzYjgtZmZhMS00MmYzLWI3NjUtYjk1NzEzNzRiY2Vh",
+                        "name": "Holt Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 33.470615,
+                    "longitude": -82.501859,
+                    "routable_points": [
+                        {
+                            "latitude": 33.470848,
+                            "longitude": -82.501787,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "211 Holt Street, Thomson, Georgia 30824, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozNzQzYTNiOC1mZmExLTQyZjMtYjc2NS1iOTU3MTM3NGJjZWE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "medium",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "211 Holt Street",
+                "name_preferred": "211 Holt Street",
+                "place_formatted": "Thomson, Georgia 30824, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.37524,
+                    33.957715
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ3VPN0E",
+            "properties": {
+                "bbox": [
+                    -83.408191,
+                    33.946831,
+                    -83.288878,
+                    34.056496
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3VPN0E",
+                        "name": "30601"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.957715,
+                    "longitude": -83.37524
+                },
+                "feature_type": "postcode",
+                "full_address": "Athens, Georgia 30601, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ3VPN0E",
+                "name": "30601",
+                "name_preferred": "30601",
+                "place_formatted": "Athens, Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

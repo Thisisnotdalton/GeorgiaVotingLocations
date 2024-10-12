@@ -1,0 +1,88 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -84.087057,
+                33.695207
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjpkMDVlY2Q1NS05ZTYxLTRjMzEtYWJjZi0wNTNhNTkxMmNmZGU",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "2994",
+                    "mapbox_id": "dXJuOm1ieGFkcjpkMDVlY2Q1NS05ZTYxLTRjMzEtYWJjZi0wNTNhNTkxMmNmZGU",
+                    "name": "2994 Turner Hill Road",
+                    "street_name": "Turner Hill Road"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                    "name": "DeKalb County",
+                    "wikidata_id": "Q486398"
+                },
+                "locality": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpILzBxN0E",
+                    "name": "Stonecrest",
+                    "wikidata_id": "Q28456847"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpDejlvN0E",
+                    "name": "Lithonia",
+                    "wikidata_id": "Q2409037"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZHJ1N0E",
+                    "name": "30038"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDA1ZWNkNTUtOWU2MS00YzMxLWFiY2YtMDUzYTU5MTJjZmRl",
+                    "name": "Turner Hill Road"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 33.695207,
+                "longitude": -84.087057,
+                "routable_points": [
+                    {
+                        "latitude": 33.695582,
+                        "longitude": -84.08704,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "2994 Turner Hill Road, Lithonia, Georgia 30038, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjpkMDVlY2Q1NS05ZTYxLTRjMzEtYWJjZi0wNTNhNTkxMmNmZGU",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "high",
+                "country": "matched",
+                "locality": "not_applicable",
+                "place": "unmatched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "2994 Turner Hill Road",
+            "name_preferred": "2994 Turner Hill Road",
+            "place_formatted": "Lithonia, Georgia 30038, United States"
+        },
+        "type": "Feature"
+    }
+]

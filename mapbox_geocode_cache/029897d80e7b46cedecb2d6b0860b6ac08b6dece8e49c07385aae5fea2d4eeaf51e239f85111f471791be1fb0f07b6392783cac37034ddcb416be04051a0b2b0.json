@@ -1,0 +1,319 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.175328,
+                    32.201067
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxMTE0MWFiNS1lMTc4LTQ4MmQtOWI4OS0wOTUwZGY5YTBlOWM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5016",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxMTE0MWFiNS1lMTc4LTQ4MmQtOWI4OS0wOTUwZGY5YTBlOWM",
+                        "name": "5016 Courthouse Circle",
+                        "street_name": "Courthouse Circle"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpZNGJz",
+                        "name": "Dodge County",
+                        "wikidata_id": "Q115272"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYVFJN0E",
+                        "name": "Eastman",
+                        "wikidata_id": "Q1278280"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDRPN0E",
+                        "name": "31023"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTExNDFhYjUtZTE3OC00ODJkLTliODktMDk1MGRmOWEwZTlj",
+                        "name": "Courthouse Circle"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 32.201067,
+                    "longitude": -83.175328,
+                    "routable_points": [
+                        {
+                            "latitude": 32.201083,
+                            "longitude": -83.175391,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5016 Courthouse Circle, Eastman, Georgia 31023, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxMTE0MWFiNS1lMTc4LTQ4MmQtOWI4OS0wOTUwZGY5YTBlOWM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5016 Courthouse Circle",
+                "name_preferred": "5016 Courthouse Circle",
+                "place_formatted": "Eastman, Georgia 31023, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.176539,
+                    32.199039
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaDRPN0E",
+            "properties": {
+                "bbox": [
+                    -83.373931,
+                    32.001603,
+                    -83.025743,
+                    32.343209
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpZNGJz",
+                        "name": "Dodge County",
+                        "wikidata_id": "Q115272"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYVFJN0E",
+                        "name": "Eastman",
+                        "wikidata_id": "Q1278280"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDRPN0E",
+                        "name": "31023"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.199039,
+                    "longitude": -83.176539
+                },
+                "feature_type": "postcode",
+                "full_address": "Eastman, Georgia 31023, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaDRPN0E",
+                "name": "31023",
+                "name_preferred": "31023",
+                "place_formatted": "Eastman, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.17654,
+                    32.19904
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCYVFJN0E",
+            "properties": {
+                "bbox": [
+                    -83.373931,
+                    32.001603,
+                    -83.02576,
+                    32.343209
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpZNGJz",
+                        "name": "Dodge County",
+                        "wikidata_id": "Q115272"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYVFJN0E",
+                        "name": "Eastman",
+                        "wikidata_id": "Q1278280"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.19904,
+                    "longitude": -83.17654
+                },
+                "feature_type": "place",
+                "full_address": "Eastman, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCYVFJN0E",
+                "name": "Eastman",
+                "name_preferred": "Eastman",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.870212,
+                    30.544854
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTRkMDg1OTQtY2I4OC00ODRjLWJmNGMtYzg0ZGJmMzk3MmU0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpydWJz",
+                        "name": "Jefferson County",
+                        "wikidata_id": "Q488859"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUVpvN0E",
+                        "name": "Monticello",
+                        "wikidata_id": "Q2157263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCbU91N0E",
+                        "name": "32344"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVRz",
+                        "name": "Florida",
+                        "region_code": "FL",
+                        "region_code_full": "US-FL",
+                        "wikidata_id": "Q812"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTRkMDg1OTQtY2I4OC00ODRjLWJmNGMtYzg0ZGJmMzk3MmU0",
+                        "name": "Courthouse Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.544854,
+                    "longitude": -83.870212
+                },
+                "feature_type": "street",
+                "full_address": "Courthouse Circle, Monticello, Florida 32344, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTRkMDg1OTQtY2I4OC00ODRjLWJmNGMtYzg0ZGJmMzk3MmU0",
+                "name": "Courthouse Circle",
+                "name_preferred": "Courthouse Circle",
+                "place_formatted": "Monticello, Florida 32344, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.197398,
+                    34.830082
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmQ1OTA5NWItODkyMy00NjBlLWJlNDktN2EzOTA3MWZmMDE1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqT2Jz",
+                        "name": "Greenville County",
+                        "wikidata_id": "Q502273"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCVzNJN0E",
+                            "name": "Duncan"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQWdJN0E",
+                        "name": "Greer",
+                        "wikidata_id": "Q647464"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCY01PN0E",
+                        "name": "29651"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmQ1OTA5NWItODkyMy00NjBlLWJlNDktN2EzOTA3MWZmMDE1",
+                        "name": "Ford Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.830082,
+                    "longitude": -82.197398
+                },
+                "feature_type": "street",
+                "full_address": "Ford Circle, Greer, South Carolina 29651, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmQ1OTA5NWItODkyMy00NjBlLWJlNDktN2EzOTA3MWZmMDE1",
+                "name": "Circle",
+                "name_preferred": "Ford Circle",
+                "place_formatted": "Greer, South Carolina 29651, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

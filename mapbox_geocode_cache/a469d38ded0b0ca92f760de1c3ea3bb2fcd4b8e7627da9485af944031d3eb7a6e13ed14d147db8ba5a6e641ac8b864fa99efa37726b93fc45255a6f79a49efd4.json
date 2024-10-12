@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.87754,
+                    31.604644
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozMWU0ZTZlOS02YjM5LTRmNzQtOWI1ZS0xOTE1OWUxOTYwNjk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "306",
+                        "mapbox_id": "dXJuOm1ieGFkcjozMWU0ZTZlOS02YjM5LTRmNzQtOWI1ZS0xOTE1OWUxOTYwNjk",
+                        "name": "306 East Pine Street",
+                        "street_name": "East Pine Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWFdtN0E",
+                        "name": "Wayne County",
+                        "wikidata_id": "Q491762"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYzhJN0E",
+                        "name": "Jesup",
+                        "wikidata_id": "Q3177730"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalJ1N0E",
+                        "name": "31546"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzFlNGU2ZTktNmIzOS00Zjc0LTliNWUtMTkxNTllMTk2MDY5",
+                        "name": "East Pine Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 31.604644,
+                    "longitude": -81.87754,
+                    "routable_points": [
+                        {
+                            "latitude": 31.604705,
+                            "longitude": -81.877471,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "306 East Pine Street, Jesup, Georgia 31546, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozMWU0ZTZlOS02YjM5LTRmNzQtOWI1ZS0xOTE1OWUxOTYwNjk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "306 East Pine Street",
+                "name_preferred": "306 East Pine Street",
+                "place_formatted": "Jesup, Georgia 31546, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.919709,
+                    31.464918
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDMyYTk1ZGEtZWM5Zi00MjJiLWE4ZTgtNTA1MDZjN2E3MDk5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWFdtN0E",
+                        "name": "Wayne County",
+                        "wikidata_id": "Q491762"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYzhJN0E",
+                        "name": "Jesup",
+                        "wikidata_id": "Q3177730"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalJ1N0E",
+                        "name": "31546"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDMyYTk1ZGEtZWM5Zi00MjJiLWE4ZTgtNTA1MDZjN2E3MDk5",
+                        "name": "Pine Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.464918,
+                    "longitude": -81.919709
+                },
+                "feature_type": "street",
+                "full_address": "Pine Street, Jesup, Georgia 31546, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDMyYTk1ZGEtZWM5Zi00MjJiLWE4ZTgtNTA1MDZjN2E3MDk5",
+                "name": "Pine Street",
+                "name_preferred": "Pine Street",
+                "place_formatted": "Jesup, Georgia 31546, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.880655,
+                    31.590669
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTE0MWE5NDgtYjMzNS00MjI1LWI5MTctMGYwYjc0ZTI0ODUz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWFdtN0E",
+                        "name": "Wayne County",
+                        "wikidata_id": "Q491762"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYzhJN0E",
+                        "name": "Jesup",
+                        "wikidata_id": "Q3177730"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalJ1N0E",
+                        "name": "31546"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTE0MWE5NDgtYjMzNS00MjI1LWI5MTctMGYwYjc0ZTI0ODUz",
+                        "name": "Park Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.590669,
+                    "longitude": -81.880655
+                },
+                "feature_type": "street",
+                "full_address": "Park Street, Jesup, Georgia 31546, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTE0MWE5NDgtYjMzNS00MjI1LWI5MTctMGYwYjc0ZTI0ODUz",
+                "name": "Park Street",
+                "name_preferred": "Park Street",
+                "place_formatted": "Jesup, Georgia 31546, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.88696,
+                    31.6129
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Zjc3MDYzMjEtNjA0Mi00ZTJiLTkyNDQtMDYxOTUxZWEyNGVi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWFdtN0E",
+                        "name": "Wayne County",
+                        "wikidata_id": "Q491762"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYzhJN0E",
+                        "name": "Jesup",
+                        "wikidata_id": "Q3177730"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalJPN0E",
+                        "name": "31545"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Zjc3MDYzMjEtNjA0Mi00ZTJiLTkyNDQtMDYxOTUxZWEyNGVi",
+                        "name": "E Pine St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.6129,
+                    "longitude": -81.88696
+                },
+                "feature_type": "street",
+                "full_address": "E Pine St, Jesup, Georgia 31545, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Zjc3MDYzMjEtNjA0Mi00ZTJiLTkyNDQtMDYxOTUxZWEyNGVi",
+                "name": "E Pine St",
+                "name_preferred": "E Pine St",
+                "place_formatted": "Jesup, Georgia 31545, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.872662,
+                    31.601727
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjU2NDgwZGEtZDNiZi00NjExLWFlN2EtZDkzN2M2YzRhYzIz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWFdtN0E",
+                        "name": "Wayne County",
+                        "wikidata_id": "Q491762"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYzhJN0E",
+                        "name": "Jesup",
+                        "wikidata_id": "Q3177730"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalJ1N0E",
+                        "name": "31546"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjU2NDgwZGEtZDNiZi00NjExLWFlN2EtZDkzN2M2YzRhYzIz",
+                        "name": "East Pine Lane"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.601727,
+                    "longitude": -81.872662
+                },
+                "feature_type": "street",
+                "full_address": "East Pine Lane, Jesup, Georgia 31546, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjU2NDgwZGEtZDNiZi00NjExLWFlN2EtZDkzN2M2YzRhYzIz",
+                "name": "East Pine Lane",
+                "name_preferred": "East Pine Lane",
+                "place_formatted": "Jesup, Georgia 31546, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

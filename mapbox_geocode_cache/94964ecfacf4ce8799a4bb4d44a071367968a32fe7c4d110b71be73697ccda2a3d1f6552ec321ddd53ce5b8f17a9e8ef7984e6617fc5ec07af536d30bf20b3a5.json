@@ -1,0 +1,258 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.348568,
+                    34.480142
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiOTE3OWEzMS0yMTU3LTQ4YmYtODJlMi1mNGY2MmU2ZTA5ZmE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "10017",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiOTE3OWEzMS0yMTU3LTQ4YmYtODJlMi1mNGY2MmU2ZTA5ZmE",
+                        "name": "10017 Commerce Street",
+                        "street_name": "Commerce Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPZWJz",
+                        "name": "Chattooga County",
+                        "wikidata_id": "Q486179"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFd0hvN0E",
+                        "name": "Summerville",
+                        "wikidata_id": "Q2454815"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFdPN0E",
+                        "name": "30747"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjkxNzlhMzEtMjE1Ny00OGJmLTgyZTItZjRmNjJlNmUwOWZh",
+                        "name": "Commerce Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.480142,
+                    "longitude": -85.348568,
+                    "routable_points": [
+                        {
+                            "latitude": 34.479998,
+                            "longitude": -85.348271,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "10017 Commerce Street, Summerville, Georgia 30747, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiOTE3OWEzMS0yMTU3LTQ4YmYtODJlMi1mNGY2MmU2ZTA5ZmE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "10017 Commerce Street",
+                "name_preferred": "10017 Commerce Street",
+                "place_formatted": "Summerville, Georgia 30747, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.35197,
+                    34.47572
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZWJiYjA0Y2EtMWIyMS00NzA0LTk1M2MtNGY4ODZiOWM0ZDgz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPZWJz",
+                        "name": "Chattooga County",
+                        "wikidata_id": "Q486179"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFd0hvN0E",
+                        "name": "Summerville",
+                        "wikidata_id": "Q2454815"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFdPN0E",
+                        "name": "30747"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWJiYjA0Y2EtMWIyMS00NzA0LTk1M2MtNGY4ODZiOWM0ZDgz",
+                        "name": "S Commerce St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.47572,
+                    "longitude": -85.35197
+                },
+                "feature_type": "street",
+                "full_address": "S Commerce St, Summerville, Georgia 30747, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWJiYjA0Y2EtMWIyMS00NzA0LTk1M2MtNGY4ODZiOWM0ZDgz",
+                "name": "S Commerce St",
+                "name_preferred": "S Commerce St",
+                "place_formatted": "Summerville, Georgia 30747, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.337148,
+                    34.481458
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTFmZTdhNDYtOTZkNi00ZjJhLTk3YjUtN2Q5MGI2ZmIzNDM0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPZWJz",
+                        "name": "Chattooga County",
+                        "wikidata_id": "Q486179"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFd0hvN0E",
+                        "name": "Summerville",
+                        "wikidata_id": "Q2454815"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFdPN0E",
+                        "name": "30747"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTFmZTdhNDYtOTZkNi00ZjJhLTk3YjUtN2Q5MGI2ZmIzNDM0",
+                        "name": "River Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.481458,
+                    "longitude": -85.337148
+                },
+                "feature_type": "street",
+                "full_address": "River Street, Summerville, Georgia 30747, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTFmZTdhNDYtOTZkNi00ZjJhLTk3YjUtN2Q5MGI2ZmIzNDM0",
+                "name": "St",
+                "name_preferred": "River Street",
+                "place_formatted": "Summerville, Georgia 30747, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.30911,
+                    34.54665
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6M2MwMzczYjEtOGRlZS00ODI5LTg2YzktODM3Nzk4OWY5NmNh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPZWJz",
+                        "name": "Chattooga County",
+                        "wikidata_id": "Q486179"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFN2ZJN0E",
+                        "name": "Trion",
+                        "wikidata_id": "Q3021168"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFlPN0E",
+                        "name": "30753"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2MwMzczYjEtOGRlZS00ODI5LTg2YzktODM3Nzk4OWY5NmNh",
+                        "name": "St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.54665,
+                    "longitude": -85.30911
+                },
+                "feature_type": "street",
+                "full_address": "St, Trion, Georgia 30753, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2MwMzczYjEtOGRlZS00ODI5LTg2YzktODM3Nzk4OWY5NmNh",
+                "name": "St",
+                "name_preferred": "St",
+                "place_formatted": "Trion, Georgia 30753, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

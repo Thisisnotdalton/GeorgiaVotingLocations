@@ -1,0 +1,96 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.379359,
+                    33.83764
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4YWI3NzViOC1jZjhmLTQwZWEtYmUyZi04YzI0YjhkNWEwNDY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "269",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4YWI3NzViOC1jZjhmLTQwZWEtYmUyZi04YzI0YjhkNWEwNDY",
+                        "name": "269 Buckhead Avenue Northeast",
+                        "street_name": "Buckhead Avenue Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCSTJNN0E",
+                            "name": "Buckhead Triangle",
+                            "wikidata_id": "Q2333137"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCSTJzN0E",
+                        "name": "Buckhead Village"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlB1N0E",
+                        "name": "30305"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGFiNzc1YjgtY2Y4Zi00MGVhLWJlMmYtOGMyNGI4ZDVhMDQ2",
+                        "name": "Buckhead Avenue Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.83764,
+                    "longitude": -84.379359,
+                    "routable_points": [
+                        {
+                            "latitude": 33.837541,
+                            "longitude": -84.379163,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "269 Buckhead Avenue Northeast, Atlanta, Georgia 30305, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4YWI3NzViOC1jZjhmLTQwZWEtYmUyZi04YzI0YjhkNWEwNDY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "269 Buckhead Avenue Northeast",
+                "name_preferred": "269 Buckhead Avenue Northeast",
+                "place_formatted": "Atlanta, Georgia 30305, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

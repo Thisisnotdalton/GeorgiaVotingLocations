@@ -1,0 +1,361 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.181737,
+                    33.802009
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxM2M3NjEyZC00NWM2LTQzYzctODI2NC00MDdiOTE1ZmQyZGQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4485",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxM2M3NjEyZC00NWM2LTQzYzctODI2NC00MDdiOTE1ZmQyZGQ",
+                        "name": "4485 Georgia Highway 120",
+                        "street_name": "Georgia Highway 120"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsS2Jz",
+                        "name": "Haralson County",
+                        "wikidata_id": "Q544539"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbnpvN0E",
+                        "name": "Buchanan",
+                        "wikidata_id": "Q2854542"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU5PN0E",
+                        "name": "30113"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTNjNzYxMmQtNDVjNi00M2M3LTgyNjQtNDA3YjkxNWZkMmRk",
+                        "name": "Georgia Highway 120"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.802009,
+                    "longitude": -85.181737,
+                    "routable_points": [
+                        {
+                            "latitude": 33.801963,
+                            "longitude": -85.182023,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4485 Georgia Highway 120, Buchanan, Georgia 30113, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxM2M3NjEyZC00NWM2LTQzYzctODI2NC00MDdiOTE1ZmQyZGQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "4485 Georgia Highway 120",
+                "name_preferred": "4485 Georgia Highway 120",
+                "place_formatted": "Buchanan, Georgia 30113, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.117013,
+                    33.816383
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EUTROU0lzSW5OMGNtVmxkQ0k2SWtkRlQxSkhTVUVnU0VsSFNGZEJXU0F4TWpBaUxDSndiR0ZqWlNJNklrSlZRMGhCVGtGT0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVEV6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4485",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EUTROU0lzSW5OMGNtVmxkQ0k2SWtkRlQxSkhTVUVnU0VsSFNGZEJXU0F4TWpBaUxDSndiR0ZqWlNJNklrSlZRMGhCVGtGT0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVEV6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+                        "name": "4485 Georgia Highway 120",
+                        "street_name": "Georgia Highway 120"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsS2Jz",
+                        "name": "Haralson County",
+                        "wikidata_id": "Q544539"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBakNvN0E",
+                        "name": "Bremen"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUx1N0E",
+                        "name": "30110"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORFE0TlNJc0luTjBjbVZsZENJNklrZEZUMUpIU1VFZ1NFbEhTRmRCV1NBeE1qQWlMQ0p3YkdGalpTSTZJa0pWUTBoQlRrRk9JaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TVRFeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTox",
+                        "name": "Georgia Highway 120"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.816383,
+                    "longitude": -85.117013,
+                    "routable_points": [
+                        {
+                            "latitude": 33.816383,
+                            "longitude": -85.117013,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4485 Georgia Highway 120, Bremen, Georgia 30110, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EUTROU0lzSW5OMGNtVmxkQ0k2SWtkRlQxSkhTVUVnU0VsSFNGZEJXU0F4TWpBaUxDSndiR0ZqWlNJNklrSlZRMGhCVGtGT0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVEV6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "4485 Georgia Highway 120",
+                "name_preferred": "4485 Georgia Highway 120",
+                "place_formatted": "Bremen, Georgia 30110, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.895145,
+                    33.866209
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EUTROU0lzSW5OMGNtVmxkQ0k2SWtkRlQxSkhTVUVnU0VsSFNGZEJXU0F4TWpBaUxDSndiR0ZqWlNJNklrSlZRMGhCVGtGT0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVEV6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4485",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EUTROU0lzSW5OMGNtVmxkQ0k2SWtkRlQxSkhTVUVnU0VsSFNGZEJXU0F4TWpBaUxDSndiR0ZqWlNJNklrSlZRMGhCVGtGT0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVEV6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                        "name": "4485 Buchanan Highway",
+                        "street_name": "Buchanan Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUk9HN0E",
+                        "name": "Paulding County",
+                        "wikidata_id": "Q501140"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTGhvN0E",
+                        "name": "Dallas",
+                        "wikidata_id": "Q1003667"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWd1N0E",
+                        "name": "30157"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORFE0TlNJc0luTjBjbVZsZENJNklrZEZUMUpIU1VFZ1NFbEhTRmRCV1NBeE1qQWlMQ0p3YkdGalpTSTZJa0pWUTBoQlRrRk9JaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TVRFeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                        "name": "Buchanan Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.866209,
+                    "longitude": -84.895145,
+                    "routable_points": [
+                        {
+                            "latitude": 33.866209,
+                            "longitude": -84.895145,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4485 Buchanan Highway, Dallas, Georgia 30157, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EUTROU0lzSW5OMGNtVmxkQ0k2SWtkRlQxSkhTVUVnU0VsSFNGZEJXU0F4TWpBaUxDSndiR0ZqWlNJNklrSlZRMGhCVGtGT0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVEV6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "4485 Georgia Highway 120",
+                "name_preferred": "4485 Buchanan Highway",
+                "place_formatted": "Dallas, Georgia 30157, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.110652,
+                    33.816279
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODVhMGZmZjgtNmUzNS00YWEwLWIwNGUtOTRhZTQzYTBiNThi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsS2Jz",
+                        "name": "Haralson County",
+                        "wikidata_id": "Q544539"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBakNvN0E",
+                        "name": "Bremen"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUx1N0E",
+                        "name": "30110"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODVhMGZmZjgtNmUzNS00YWEwLWIwNGUtOTRhZTQzYTBiNThi",
+                        "name": "Georgia Highway 120"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.816279,
+                    "longitude": -85.110652
+                },
+                "feature_type": "street",
+                "full_address": "Georgia Highway 120, Bremen, Georgia 30110, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODVhMGZmZjgtNmUzNS00YWEwLWIwNGUtOTRhZTQzYTBiNThi",
+                "name": "Georgia Highway 120",
+                "name_preferred": "Georgia Highway 120",
+                "place_formatted": "Bremen, Georgia 30110, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.07272,
+                    33.824135
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZWUyZDUyNWItZDA0Yy00M2QzLTlhMjAtMjMwZWI2MzBiZTE1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsS2Jz",
+                        "name": "Haralson County",
+                        "wikidata_id": "Q544539"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbnpvN0E",
+                        "name": "Buchanan",
+                        "wikidata_id": "Q2854542"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU5PN0E",
+                        "name": "30113"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWUyZDUyNWItZDA0Yy00M2QzLTlhMjAtMjMwZWI2MzBiZTE1",
+                        "name": "Georgia Highway 120"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.824135,
+                    "longitude": -85.07272
+                },
+                "feature_type": "street",
+                "full_address": "Georgia Highway 120, Buchanan, Georgia 30113, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWUyZDUyNWItZDA0Yy00M2QzLTlhMjAtMjMwZWI2MzBiZTE1",
+                "name": "Highway 120",
+                "name_preferred": "Georgia Highway 120",
+                "place_formatted": "Buchanan, Georgia 30113, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

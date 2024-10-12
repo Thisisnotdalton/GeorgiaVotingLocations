@@ -1,0 +1,383 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.806494,
+                    34.163467
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxNzYxMzc4Yy1jYTE0LTQ4ZWYtOTQzYS1jZjY5N2FmOWYyYzk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "435",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxNzYxMzc4Yy1jYTE0LTQ4ZWYtOTQzYS1jZjY5N2FmOWYyYzk",
+                        "name": "435 West Main Street",
+                        "street_name": "West Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaWJz",
+                        "name": "Bartow County",
+                        "wikidata_id": "Q488181"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCa0RJN0E",
+                            "name": "Euharlee"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeEtJN0E",
+                        "name": "Cartersville",
+                        "wikidata_id": "Q932346"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVF1N0E",
+                        "name": "30120"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTc2MTM3OGMtY2ExNC00OGVmLTk0M2EtY2Y2OTdhZjlmMmM5",
+                        "name": "West Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.163467,
+                    "longitude": -84.806494,
+                    "routable_points": [
+                        {
+                            "latitude": 34.163269,
+                            "longitude": -84.806493,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "435 West Main Street, Cartersville, Georgia 30120, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxNzYxMzc4Yy1jYTE0LTQ4ZWYtOTQzYS1jZjY5N2FmOWYyYzk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "435 West Main Street",
+                "name_preferred": "435 West Main Street",
+                "place_formatted": "Cartersville, Georgia 30120, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.776511,
+                    34.173072
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGI3YTdjOTAtYzY1NC00ZDQ4LWI2ZDItMzc4YzZhOThjNTAz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaWJz",
+                        "name": "Bartow County",
+                        "wikidata_id": "Q488181"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCaGFvN0E",
+                            "name": "Emerson"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeEtJN0E",
+                        "name": "Cartersville",
+                        "wikidata_id": "Q932346"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVF1N0E",
+                        "name": "30120"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGI3YTdjOTAtYzY1NC00ZDQ4LWI2ZDItMzc4YzZhOThjNTAz",
+                        "name": "W Main St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.173072,
+                    "longitude": -84.776511
+                },
+                "feature_type": "street",
+                "full_address": "W Main St, Cartersville, Georgia 30120, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGI3YTdjOTAtYzY1NC00ZDQ4LWI2ZDItMzc4YzZhOThjNTAz",
+                "name": "W Main St",
+                "name_preferred": "W Main St",
+                "place_formatted": "Cartersville, Georgia 30120, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.786684,
+                    34.165855
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2NjRiODhhYS01NDQ5LTRiZjYtYjg1Ni1mMWY1N2Q5ZTk5MWU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "435",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2NjRiODhhYS01NDQ5LTRiZjYtYjg1Ni1mMWY1N2Q5ZTk5MWU",
+                        "name": "435 East Main Street",
+                        "street_name": "East Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaWJz",
+                        "name": "Bartow County",
+                        "wikidata_id": "Q488181"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCaGFvN0E",
+                            "name": "Emerson"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeEtJN0E",
+                        "name": "Cartersville",
+                        "wikidata_id": "Q932346"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVJPN0E",
+                        "name": "30121"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjY0Yjg4YWEtNTQ0OS00YmY2LWI4NTYtZjFmNTdkOWU5OTFl",
+                        "name": "East Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.165855,
+                    "longitude": -84.786684,
+                    "routable_points": [
+                        {
+                            "latitude": 34.165564,
+                            "longitude": -84.786693,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "435 East Main Street, Cartersville, Georgia 30121, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2NjRiODhhYS01NDQ5LTRiZjYtYjg1Ni1mMWY1N2Q5ZTk5MWU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "435 East Main Street",
+                "name_preferred": "435 East Main Street",
+                "place_formatted": "Cartersville, Georgia 30121, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.831021,
+                    34.218011
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWI2ZDFiMjUtNGJlNi00N2Y1LWI5MzktYWU1NWZiMjExNGRh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaWJz",
+                        "name": "Bartow County",
+                        "wikidata_id": "Q488181"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFR2RNN0E",
+                        "name": "Harvest Estates"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCaGFvN0E",
+                            "name": "Emerson"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeEtJN0E",
+                        "name": "Cartersville",
+                        "wikidata_id": "Q932346"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVJPN0E",
+                        "name": "30121"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWI2ZDFiMjUtNGJlNi00N2Y1LWI5MzktYWU1NWZiMjExNGRh",
+                        "name": "E Main St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.218011,
+                    "longitude": -84.831021
+                },
+                "feature_type": "street",
+                "full_address": "E Main St, Cartersville, Georgia 30121, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWI2ZDFiMjUtNGJlNi00N2Y1LWI5MzktYWU1NWZiMjExNGRh",
+                "name": "E Main St",
+                "name_preferred": "E Main St",
+                "place_formatted": "Cartersville, Georgia 30121, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.309824,
+                    32.130932
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ETTFJaXdpYzNSeVpXVjBJam9pVjBWVFZDQk5RVWxPSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUTBGU1ZFVlNVMVpKVEV4Rklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVEl3SURBd01EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "435",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ETTFJaXdpYzNSeVpXVjBJam9pVjBWVFZDQk5RVWxPSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUTBGU1ZFVlNVMVpKVEV4Rklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVEl3SURBd01EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+                        "name": "435 West Main Street",
+                        "street_name": "West Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZGFJN0E",
+                        "name": "Bloomingdale",
+                        "wikidata_id": "Q2546351"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXR1N0E",
+                        "name": "31302"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORE0xSWl3aWMzUnlaV1YwSWpvaVYwVlRWQ0JOUVVsT0lGTlVVa1ZGVkNJc0luQnNZV05sSWpvaVEwRlNWRVZTVTFaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TVRJd0lEQXdNREFpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6NA",
+                        "name": "West Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.130932,
+                    "longitude": -81.309824,
+                    "routable_points": [
+                        {
+                            "latitude": 32.130932,
+                            "longitude": -81.309824,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "435 West Main Street, Bloomingdale, Georgia 31302, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ETTFJaXdpYzNSeVpXVjBJam9pVjBWVFZDQk5RVWxPSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUTBGU1ZFVlNVMVpKVEV4Rklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVEl3SURBd01EQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "435 West Main Street",
+                "name_preferred": "435 West Main Street",
+                "place_formatted": "Bloomingdale, Georgia 31302, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

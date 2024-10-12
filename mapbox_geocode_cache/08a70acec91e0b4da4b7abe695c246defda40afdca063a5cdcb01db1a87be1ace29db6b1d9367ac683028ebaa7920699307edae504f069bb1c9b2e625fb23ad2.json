@@ -1,0 +1,337 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.04846,
+                    31.605468
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplYWE3ZWUwOC1lZmZmLTRkMzgtODg4OC0zODdjZjRlM2ZhNWQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "210",
+                        "mapbox_id": "dXJuOm1ieGFkcjplYWE3ZWUwOC1lZmZmLTRkMzgtODg4OC0zODdjZjRlM2ZhNWQ",
+                        "name": "210 Washington Street",
+                        "street_name": "Washington Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRNmJz",
+                        "name": "Clay County",
+                        "wikidata_id": "Q156580"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdElJN0E",
+                        "name": "Fort Gaines",
+                        "wikidata_id": "Q2361460"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXhPN0E",
+                        "name": "39851"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWFhN2VlMDgtZWZmZi00ZDM4LTg4ODgtMzg3Y2Y0ZTNmYTVk",
+                        "name": "Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 31.605468,
+                    "longitude": -85.04846,
+                    "routable_points": [
+                        {
+                            "latitude": 31.605473,
+                            "longitude": -85.048874,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "210 Washington Street, Fort Gaines, Georgia 39851, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplYWE3ZWUwOC1lZmZmLTRkMzgtODg4OC0zODdjZjRlM2ZhNWQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "medium",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "210 South Washington Street",
+                "name_preferred": "210 Washington Street",
+                "place_formatted": "Fort Gaines, Georgia 39851, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.32273,
+                    32.200933
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRXdJaXdpYzNSeVpXVjBJam9pVTA5VlZFZ2dWMEZUU0VsT1IxUlBUaUlzSW5Cc1lXTmxJam9pUms5U1ZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpPVGcxTVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "210",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRXdJaXdpYzNSeVpXVjBJam9pVTA5VlZFZ2dWMEZUU0VsT1IxUlBUaUlzSW5Cc1lXTmxJam9pUms5U1ZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpPVGcxTVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                        "name": "210 South Washington Street",
+                        "street_name": "South Washington Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVitHN0E",
+                        "name": "Toombs County",
+                        "wikidata_id": "Q376822"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNjlJN0E",
+                        "name": "Lyons",
+                        "wikidata_id": "Q2549934"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjhPN0E",
+                        "name": "30436"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakV3SWl3aWMzUnlaV1YwSWpvaVUwOVZWRWdnVjBGVFNFbE9SMVJQVGlJc0luQnNZV05sSWpvaVJrOVNWQ0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6T1RnMU1TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSXNJblI1Y0dWeklqb2lZMjkxYm5SeWVTeHlaV2RwYjI0c2NHOXpkR052WkdVc1pHbHpkSEpwWTNRc2NHeGhZMlVzYkc5allXeHBkSGtzYm1WcFoyaGliM0pvYjI5a0xHRmtaSEpsYzNNaWZROjE",
+                        "name": "South Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.200933,
+                    "longitude": -82.32273,
+                    "routable_points": [
+                        {
+                            "latitude": 32.200933,
+                            "longitude": -82.32273,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "210 South Washington Street, Lyons, Georgia 30436, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRXdJaXdpYzNSeVpXVjBJam9pVTA5VlZFZ2dWMEZUU0VsT1IxUlBUaUlzSW5Cc1lXTmxJam9pUms5U1ZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpPVGcxTVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "210 South Washington Street",
+                "name_preferred": "210 South Washington Street",
+                "place_formatted": "Lyons, Georgia 30436, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.73949,
+                    33.73691
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpGSmZvN0E",
+            "properties": {
+                "bbox": [
+                    -82.919443,
+                    33.596104,
+                    -82.498069,
+                    33.862987
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDNtN0E",
+                        "name": "Wilkes County",
+                        "wikidata_id": "Q491759"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSmZvN0E",
+                        "name": "Washington",
+                        "wikidata_id": "Q166186"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.73691,
+                    "longitude": -82.73949
+                },
+                "feature_type": "place",
+                "full_address": "Washington, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpGSmZvN0E",
+                "name": "Washington",
+                "name_preferred": "Washington",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.049864,
+                    31.605673
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDQXhPN0E",
+            "properties": {
+                "bbox": [
+                    -85.14113,
+                    31.485871,
+                    -84.888497,
+                    31.780463
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRNmJz",
+                        "name": "Clay County",
+                        "wikidata_id": "Q156580"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdElJN0E",
+                        "name": "Fort Gaines",
+                        "wikidata_id": "Q2361460"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXhPN0E",
+                        "name": "39851"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.605673,
+                    "longitude": -85.049864
+                },
+                "feature_type": "postcode",
+                "full_address": "Fort Gaines, Georgia 39851, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDQXhPN0E",
+                "name": "39851",
+                "name_preferred": "39851",
+                "place_formatted": "Fort Gaines, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.595436,
+                    38.116325
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCdEpvN0E",
+            "properties": {
+                "bbox": [
+                    -82.644539,
+                    37.926817,
+                    -82.379936,
+                    38.193572
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWGFtN0E",
+                        "name": "Wayne County",
+                        "wikidata_id": "Q495126"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdEpvN0E",
+                        "name": "Fort Gay",
+                        "wikidata_id": "Q1991953"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWVRz",
+                        "name": "West Virginia",
+                        "region_code": "WV",
+                        "region_code_full": "US-WV",
+                        "wikidata_id": "Q1371"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 38.116325,
+                    "longitude": -82.595436
+                },
+                "feature_type": "place",
+                "full_address": "Fort Gay, West Virginia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCdEpvN0E",
+                "name": "Fort Gay",
+                "name_preferred": "Fort Gay",
+                "place_formatted": "West Virginia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

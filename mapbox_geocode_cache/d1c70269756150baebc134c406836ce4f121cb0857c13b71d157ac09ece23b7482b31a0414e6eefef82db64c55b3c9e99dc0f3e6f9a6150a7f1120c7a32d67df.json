@@ -1,0 +1,325 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.876625,
+                    32.766028
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4YjNmNTlkZi1jNmZiLTQ2NzQtODAwMi1kYzBhY2IzZDA3OWE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "757",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4YjNmNTlkZi1jNmZiLTQ2NzQtODAwMi1kYzBhY2IzZDA3OWE",
+                        "name": "757 Carver Circle",
+                        "street_name": "Carver Circle"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsMmJz",
+                        "name": "Harris County",
+                        "wikidata_id": "Q486133"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDRUVvN0E",
+                        "name": "Hamilton",
+                        "wikidata_id": "Q1027758"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1NPN0E",
+                        "name": "31811"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGIzZjU5ZGYtYzZmYi00Njc0LTgwMDItZGMwYWNiM2QwNzlh",
+                        "name": "Carver Circle"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 32.766028,
+                    "longitude": -84.876625,
+                    "routable_points": [
+                        {
+                            "latitude": 32.766038,
+                            "longitude": -84.876406,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "757 Carver Circle, Hamilton, Georgia 31811, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4YjNmNTlkZi1jNmZiLTQ2NzQtODAwMi1kYzBhY2IzZDA3OWE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "757 Carver Circle",
+                "name_preferred": "757 Carver Circle",
+                "place_formatted": "Hamilton, Georgia 31811, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.875015,
+                    32.757856
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCa1NPN0E",
+            "properties": {
+                "bbox": [
+                    -85.142987,
+                    32.667763,
+                    -84.75175,
+                    32.851523
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsMmJz",
+                        "name": "Harris County",
+                        "wikidata_id": "Q486133"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDRUVvN0E",
+                        "name": "Hamilton",
+                        "wikidata_id": "Q1027758"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1NPN0E",
+                        "name": "31811"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.757856,
+                    "longitude": -84.875015
+                },
+                "feature_type": "postcode",
+                "full_address": "Hamilton, Georgia 31811, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCa1NPN0E",
+                "name": "31811",
+                "name_preferred": "31811",
+                "place_formatted": "Hamilton, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.573566,
+                    30.683259
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWFjMDE5NDMtMzRkMC00NDI3LWIyOTMtNDhmODlkZWExMmY5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSMGJz",
+                        "name": "Clinch County",
+                        "wikidata_id": "Q486167"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCbk5vN0E",
+                        "name": "Fargo",
+                        "wikidata_id": "Q2384205"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamx1N0E",
+                        "name": "31631"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWFjMDE5NDMtMzRkMC00NDI3LWIyOTMtNDhmODlkZWExMmY5",
+                        "name": "Carver Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.683259,
+                    "longitude": -82.573566
+                },
+                "feature_type": "street",
+                "full_address": "Carver Circle, Fargo, Georgia 31631, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWFjMDE5NDMtMzRkMC00NDI3LWIyOTMtNDhmODlkZWExMmY5",
+                "name": "Carver Circle",
+                "name_preferred": "Carver Circle",
+                "place_formatted": "Fargo, Georgia 31631, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.982925,
+                    33.948841
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2I0OWQ1ZTMtZTNiMS00Nzg5LTkyYzEtNTZkMzI1MzZiNjRk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJWlVNN0E",
+                        "name": "Sandlewood"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDdHBJN0E",
+                        "name": "Lawrenceville",
+                        "wikidata_id": "Q970174"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHZ1N0E",
+                        "name": "30046"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2I0OWQ1ZTMtZTNiMS00Nzg5LTkyYzEtNTZkMzI1MzZiNjRk",
+                        "name": "Carver Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.948841,
+                    "longitude": -83.982925
+                },
+                "feature_type": "street",
+                "full_address": "Carver Circle, Lawrenceville, Georgia 30046, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2I0OWQ1ZTMtZTNiMS00Nzg5LTkyYzEtNTZkMzI1MzZiNjRk",
+                "name": "Carver Circle",
+                "name_preferred": "Carver Circle",
+                "place_formatted": "Lawrenceville, Georgia 30046, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.285948,
+                    33.917495
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTk3MmZjNjUtZDNkNC00ZjFlLTlkMzUtOGY3YTIwOWFjMjE4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCWGZvN0E",
+                            "name": "Dunwoody"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVUVvN0E",
+                        "name": "Doraville",
+                        "wikidata_id": "Q2111734"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZm9PN0E",
+                        "name": "30360"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTk3MmZjNjUtZDNkNC00ZjFlLTlkMzUtOGY3YTIwOWFjMjE4",
+                        "name": "Carver Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.917495,
+                    "longitude": -84.285948
+                },
+                "feature_type": "street",
+                "full_address": "Carver Circle, Doraville, Georgia 30360, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTk3MmZjNjUtZDNkNC00ZjFlLTlkMzUtOGY3YTIwOWFjMjE4",
+                "name": "Carver Circle",
+                "name_preferred": "Carver Circle",
+                "place_formatted": "Doraville, Georgia 30360, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

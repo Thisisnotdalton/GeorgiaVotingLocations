@@ -1,0 +1,258 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.24745,
+                    34.809028
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjY2ZhNGIyYi04YTk4LTQ0OGMtYWZhNC00Nzg1YjU4ZTVkZTU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "265",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjY2ZhNGIyYi04YTk4LTQ0OGMtYWZhNC00Nzg1YjU4ZTVkZTU",
+                        "name": "265 Bicentennial Trail",
+                        "street_name": "Bicentennial Trail"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTWxJN0E",
+                        "name": "Rock Spring",
+                        "wikidata_id": "Q3710657"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFR1N0E",
+                        "name": "30739"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2NmYTRiMmItOGE5OC00NDhjLWFmYTQtNDc4NWI1OGU1ZGU1",
+                        "name": "Bicentennial Trail"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 34.809028,
+                    "longitude": -85.24745,
+                    "routable_points": [
+                        {
+                            "latitude": 34.808127,
+                            "longitude": -85.247414,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "265 Bicentennial Trail, Rock Spring, Georgia 30739, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjY2ZhNGIyYi04YTk4LTQ0OGMtYWZhNC00Nzg1YjU4ZTVkZTU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "265 Bicentennial Trail",
+                "name_preferred": "265 Bicentennial Trail",
+                "place_formatted": "Rock Spring, Georgia 30739, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.244094,
+                    34.825118
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaFR1N0E",
+            "properties": {
+                "bbox": [
+                    -85.279313,
+                    34.750773,
+                    -85.137451,
+                    34.865805
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTWxJN0E",
+                        "name": "Rock Spring",
+                        "wikidata_id": "Q3710657"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFR1N0E",
+                        "name": "30739"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.825118,
+                    "longitude": -85.244094
+                },
+                "feature_type": "postcode",
+                "full_address": "Rock Spring, Georgia 30739, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaFR1N0E",
+                "name": "30739",
+                "name_preferred": "30739",
+                "place_formatted": "Rock Spring, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.241243,
+                    34.820501
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZGM0MjQ2ZjctYWIyYS00ZDA3LTgxMWEtOGNlYzhhMmY3NGFk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTWxJN0E",
+                        "name": "Rock Spring",
+                        "wikidata_id": "Q3710657"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFR1N0E",
+                        "name": "30739"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGM0MjQ2ZjctYWIyYS00ZDA3LTgxMWEtOGNlYzhhMmY3NGFk",
+                        "name": "Rock Spring Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.820501,
+                    "longitude": -85.241243
+                },
+                "feature_type": "street",
+                "full_address": "Rock Spring Drive, Rock Spring, Georgia 30739, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGM0MjQ2ZjctYWIyYS00ZDA3LTgxMWEtOGNlYzhhMmY3NGFk",
+                "name": "Rock Spring Drive",
+                "name_preferred": "Rock Spring Drive",
+                "place_formatted": "Rock Spring, Georgia 30739, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.244095,
+                    34.82512
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpFTWxJN0E",
+            "properties": {
+                "bbox": [
+                    -85.279313,
+                    34.750778,
+                    -85.137451,
+                    34.865805
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTWxJN0E",
+                        "name": "Rock Spring",
+                        "wikidata_id": "Q3710657"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.82512,
+                    "longitude": -85.244095
+                },
+                "feature_type": "place",
+                "full_address": "Rock Spring, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpFTWxJN0E",
+                "name": "Rock Spring",
+                "name_preferred": "Rock Spring",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

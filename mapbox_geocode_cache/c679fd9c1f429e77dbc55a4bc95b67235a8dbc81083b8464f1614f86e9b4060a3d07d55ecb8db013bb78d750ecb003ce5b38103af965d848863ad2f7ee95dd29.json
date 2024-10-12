@@ -1,0 +1,338 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.783155,
+                    31.967227
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplNGE2Nzc2ZC1iZjE2LTQyMGUtYjFhZC01NjE3ZjZiMzgyZGI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "210",
+                        "mapbox_id": "dXJuOm1ieGFkcjplNGE2Nzc2ZC1iZjE2LTQyMGUtYjFhZC01NjE3ZjZiMzgyZGI",
+                        "name": "210 7th Street South",
+                        "street_name": "7th Street South"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpVK2Jz",
+                        "name": "Crisp County",
+                        "wikidata_id": "Q156486"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCRVFvN0E",
+                        "name": "Cordele",
+                        "wikidata_id": "Q2210265"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDBPN0E",
+                        "name": "31015"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTRhNjc3NmQtYmYxNi00MjBlLWIxYWQtNTYxN2Y2YjM4MmRi",
+                        "name": "7th Street South"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.967227,
+                    "longitude": -83.783155,
+                    "routable_points": [
+                        {
+                            "latitude": 31.96722,
+                            "longitude": -83.783338,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "210 7th Street South, Cordele, Georgia 31015, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplNGE2Nzc2ZC1iZjE2LTQyMGUtYjFhZC01NjE3ZjZiMzgyZGI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "210 S 7th Street",
+                "name_preferred": "210 7th Street South",
+                "place_formatted": "Cordele, Georgia 31015, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.786958,
+                    31.973087
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjAxNzgwOTAtYmFhYS00ODI4LTg2OGYtNDJhZDVmNjE5MTIz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpVK2Jz",
+                        "name": "Crisp County",
+                        "wikidata_id": "Q156486"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCRVFvN0E",
+                        "name": "Cordele",
+                        "wikidata_id": "Q2210265"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDBPN0E",
+                        "name": "31015"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjAxNzgwOTAtYmFhYS00ODI4LTg2OGYtNDJhZDVmNjE5MTIz",
+                        "name": "S 7th St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.973087,
+                    "longitude": -83.786958
+                },
+                "feature_type": "street",
+                "full_address": "S 7th St, Cordele, Georgia 31015, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjAxNzgwOTAtYmFhYS00ODI4LTg2OGYtNDJhZDVmNjE5MTIz",
+                "name": "S 7th St",
+                "name_preferred": "S 7th St",
+                "place_formatted": "Cordele, Georgia 31015, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.787622,
+                    32.093363
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRXdJaXdpYzNSeVpXVjBJam9pVXlBM1ZFZ2dVMVFnVWs5UFRTQXhNRE1pTENKd2JHRmpaU0k2SWtOUFVrUkZURVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpFd01UVWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "210",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRXdJaXdpYzNSeVpXVjBJam9pVXlBM1ZFZ2dVMVFnVWs5UFRTQXhNRE1pTENKd2JHRmpaU0k2SWtOUFVrUkZURVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpFd01UVWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+                        "name": "210 7th Street",
+                        "street_name": "7th Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaR2Jz",
+                        "name": "Dooly County",
+                        "wikidata_id": "Q492036"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGRDNvN0E",
+                        "name": "Vienna"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVhPN0E",
+                        "name": "31092"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakV3SWl3aWMzUnlaV1YwSWpvaVV5QTNWRWdnVTFRZ1VrOVBUU0F4TURNaUxDSndiR0ZqWlNJNklrTlBVa1JGVEVVaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXdNVFVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mg",
+                        "name": "7th Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.093363,
+                    "longitude": -83.787622,
+                    "routable_points": [
+                        {
+                            "latitude": 32.093363,
+                            "longitude": -83.787622,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "210 7th Street, Vienna, Georgia 31092, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qRXdJaXdpYzNSeVpXVjBJam9pVXlBM1ZFZ2dVMVFnVWs5UFRTQXhNRE1pTENKd2JHRmpaU0k2SWtOUFVrUkZURVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpFd01UVWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "210 S 7th St",
+                "name_preferred": "210 7th Street",
+                "place_formatted": "Vienna, Georgia 31092, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.782349,
+                    31.952215
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2NmOGViZTUtMzdhMC00NjU0LWFjNjctNTBjMWU0MTA3NzAz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpVK2Jz",
+                        "name": "Crisp County",
+                        "wikidata_id": "Q156486"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCRVFvN0E",
+                        "name": "Cordele",
+                        "wikidata_id": "Q2210265"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDBPN0E",
+                        "name": "31015"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2NmOGViZTUtMzdhMC00NjU0LWFjNjctNTBjMWU0MTA3NzAz",
+                        "name": "South 7th Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.952215,
+                    "longitude": -83.782349
+                },
+                "feature_type": "street",
+                "full_address": "South 7th Street, Cordele, Georgia 31015, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2NmOGViZTUtMzdhMC00NjU0LWFjNjctNTBjMWU0MTA3NzAz",
+                "name": "South 7th Street",
+                "name_preferred": "South 7th Street",
+                "place_formatted": "Cordele, Georgia 31015, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.53956,
+                    31.945495
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YWFlMDc5NDMtNmM4OC00Y2I3LTlmZGQtNjVmMDJmNTQ1MWE5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDJHN0E",
+                        "name": "Wilcox County",
+                        "wikidata_id": "Q486791"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpENGZJN0E",
+                        "name": "Pitts",
+                        "wikidata_id": "Q3260751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaU91N0E",
+                        "name": "31072"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWFlMDc5NDMtNmM4OC00Y2I3LTlmZGQtNjVmMDJmNTQ1MWE5",
+                        "name": "7th Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.945495,
+                    "longitude": -83.53956
+                },
+                "feature_type": "street",
+                "full_address": "7th Street, Pitts, Georgia 31072, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWFlMDc5NDMtNmM4OC00Y2I3LTlmZGQtNjVmMDJmNTQ1MWE5",
+                "name": "7th Street",
+                "name_preferred": "7th Street",
+                "place_formatted": "Pitts, Georgia 31072, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

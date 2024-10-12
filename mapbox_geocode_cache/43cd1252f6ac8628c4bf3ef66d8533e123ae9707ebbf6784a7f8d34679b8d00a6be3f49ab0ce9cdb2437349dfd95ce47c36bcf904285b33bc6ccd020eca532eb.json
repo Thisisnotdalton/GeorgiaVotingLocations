@@ -1,0 +1,348 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.547259,
+                    30.724824
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjMDYwYTU4MS0zNDgyLTQyNjUtYjAyMS1jZTY4MDkxOWFiNTQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "400",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjMDYwYTU4MS0zNDgyLTQyNjUtYjAyMS1jZTY4MDkxOWFiNTQ",
+                        "name": "400 Osborne Street",
+                        "street_name": "Osborne Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMY2Jz",
+                        "name": "Camden County",
+                        "wikidata_id": "Q110504"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVUhvN0E",
+                        "name": "Saint Marys",
+                        "wikidata_id": "Q921619"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalh1N0E",
+                        "name": "31558"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzA2MGE1ODEtMzQ4Mi00MjY1LWIwMjEtY2U2ODA5MTlhYjU0",
+                        "name": "Osborne Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 30.724824,
+                    "longitude": -81.547259,
+                    "routable_points": [
+                        {
+                            "latitude": 30.724859,
+                            "longitude": -81.547473,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "400 Osborne Street, Saint Marys, Georgia 31558, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjMDYwYTU4MS0zNDgyLTQyNjUtYjAyMS1jZTY4MDkxOWFiNTQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "400 Osborne Street",
+                "name_preferred": "400 Osborne Street",
+                "place_formatted": "Saint Marys, Georgia 31558, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.811601,
+                    34.304048
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EQXdJaXdpYzNSeVpXVjBJam9pVDFOQ1QxSk9SU0JUVkZKRlJWUWlMQ0p3YkdGalpTSTZJbE5VSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE5UVTRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "400",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EQXdJaXdpYzNSeVpXVjBJam9pVDFOQ1QxSk9SU0JUVkZKRlJWUWlMQ0p3YkdGalpTSTZJbE5VSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE5UVTRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6MQ",
+                        "name": "400 Osborne Avenue",
+                        "street_name": "Osborne Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprS2Jz",
+                        "name": "Hall County",
+                        "wikidata_id": "Q492012"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCeXBJN0E",
+                        "name": "Gainesville",
+                        "wikidata_id": "Q651051"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0x1N0E",
+                        "name": "30501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOREF3SWl3aWMzUnlaV1YwSWpvaVQxTkNUMUpPUlNCVFZGSkZSVlFpTENKd2JHRmpaU0k2SWxOVUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXhOVFU0SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjE",
+                        "name": "Osborne Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.304048,
+                    "longitude": -83.811601,
+                    "routable_points": [
+                        {
+                            "latitude": 34.304048,
+                            "longitude": -83.811601,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "400 Osborne Avenue, Gainesville, Georgia 30501, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EQXdJaXdpYzNSeVpXVjBJam9pVDFOQ1QxSk9SU0JUVkZKRlJWUWlMQ0p3YkdGalpTSTZJbE5VSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE5UVTRJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "400 Osborne Street Southeast",
+                "name_preferred": "400 Osborne Avenue",
+                "place_formatted": "Gainesville, Georgia 30501, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.425131,
+                    33.704408
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NTIyMWM3MzAtODJlYy00ZGJhLWE3N2UtZGJjYzc2YWMwYzQ3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEV3NzN0E",
+                            "name": "Forrest Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpKZUNNN0E",
+                        "name": "Sylvan Hills",
+                        "wikidata_id": "Q14686850"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlNPN0E",
+                        "name": "30310"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTIyMWM3MzAtODJlYy00ZGJhLWE3N2UtZGJjYzc2YWMwYzQ3",
+                        "name": "Osborne Street Southwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.704408,
+                    "longitude": -84.425131
+                },
+                "feature_type": "street",
+                "full_address": "Osborne Street Southwest, Atlanta, Georgia 30310, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTIyMWM3MzAtODJlYy00ZGJhLWE3N2UtZGJjYzc2YWMwYzQ3",
+                "name": "Osborne Street Southwest",
+                "name_preferred": "Osborne Street Southwest",
+                "place_formatted": "Atlanta, Georgia 30310, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.67237,
+                    32.18767
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NmQ5OTI5NTItN2JjMy00NWQ3LTgxOTItZDVlNDhiMGEwZWZk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHRtN0E",
+                        "name": "Wheeler County",
+                        "wikidata_id": "Q498332"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCNWJJN0E",
+                        "name": "Glenwood",
+                        "wikidata_id": "Q2005782"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjZ1N0E",
+                        "name": "30428"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmQ5OTI5NTItN2JjMy00NWQ3LTgxOTItZDVlNDhiMGEwZWZk",
+                        "name": "Street St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.18767,
+                    "longitude": -82.67237
+                },
+                "feature_type": "street",
+                "full_address": "Street St, Glenwood, Georgia 30428, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmQ5OTI5NTItN2JjMy00NWQ3LTgxOTItZDVlNDhiMGEwZWZk",
+                "name": "Street St",
+                "name_preferred": "Street St",
+                "place_formatted": "Glenwood, Georgia 30428, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.03299,
+                    34.04399
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NWNlYzU2N2QtN2I2ZC00ZGQ2LWE1NGYtMzU2ODAyZDNkOTlm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozS2Jz",
+                        "name": "Madison County",
+                        "wikidata_id": "Q156387"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd0pJN0E",
+                        "name": "Carlton",
+                        "wikidata_id": "Q2049770"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzJ1N0E",
+                        "name": "30627"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWNlYzU2N2QtN2I2ZC00ZGQ2LWE1NGYtMzU2ODAyZDNkOTlm",
+                        "name": "Street St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.04399,
+                    "longitude": -83.03299
+                },
+                "feature_type": "street",
+                "full_address": "Street St, Carlton, Georgia 30627, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWNlYzU2N2QtN2I2ZC00ZGQ2LWE1NGYtMzU2ODAyZDNkOTlm",
+                "name": "Street St",
+                "name_preferred": "Street St",
+                "place_formatted": "Carlton, Georgia 30627, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

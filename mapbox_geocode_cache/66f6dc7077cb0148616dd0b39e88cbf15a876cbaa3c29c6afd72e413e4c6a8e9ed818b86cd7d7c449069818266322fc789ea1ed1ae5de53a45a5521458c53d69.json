@@ -1,0 +1,391 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.907307,
+                    32.162695
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplY2IzZWUwMi0yOGZjLTQwMGEtODI0OS00ZWFkZDA0N2ZjYzY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "201",
+                        "mapbox_id": "dXJuOm1ieGFkcjplY2IzZWUwMi0yOGZjLTQwMGEtODI0OS00ZWFkZDA0N2ZjYzY",
+                        "name": "201 Freeman Street",
+                        "street_name": "Freeman Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjQWJz",
+                        "name": "Evans County",
+                        "wikidata_id": "Q493044"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBN3JJN0E",
+                        "name": "Claxton",
+                        "wikidata_id": "Q2052424"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjJ1N0E",
+                        "name": "30417"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWNiM2VlMDItMjhmYy00MDBhLTgyNDktNGVhZGQwNDdmY2M2",
+                        "name": "Freeman Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.162695,
+                    "longitude": -81.907307,
+                    "routable_points": [
+                        {
+                            "latitude": 32.162081,
+                            "longitude": -81.907309,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "201 Freeman Street, Claxton, Georgia 30417, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplY2IzZWUwMi0yOGZjLTQwMGEtODI0OS00ZWFkZDA0N2ZjYzY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "201 Freeman Street",
+                "name_preferred": "201 Freeman Street",
+                "place_formatted": "Claxton, Georgia 30417, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.818493,
+                    33.201304
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qQXhJaXdpYzNSeVpXVjBJam9pUmxKRlJVMUJUaUJUVkNCVFZVbFVSU0FqT0NJc0luQnNZV05sSWpvaVEweEJXRlJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EUXhOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "201",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qQXhJaXdpYzNSeVpXVjBJam9pUmxKRlJVMUJUaUJUVkNCVFZVbFVSU0FqT0NJc0luQnNZV05sSWpvaVEweEJXRlJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EUXhOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+                        "name": "201 Freeman Court",
+                        "street_name": "Freeman Court"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo3Z2Jz",
+                        "name": "Meriwether County",
+                        "wikidata_id": "Q501151"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDMkxJN0E",
+                            "name": "Lone Oak"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCOW9JN0E",
+                        "name": "Grantville",
+                        "wikidata_id": "Q2338097"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXlPN0E",
+                        "name": "30220"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakF4SWl3aWMzUnlaV1YwSWpvaVJsSkZSVTFCVGlCVFZDQlRWVWxVUlNBak9DSXNJbkJzWVdObElqb2lRMHhCV0ZSUFRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFF4TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                        "name": "Freeman Court"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.201304,
+                    "longitude": -84.818493,
+                    "routable_points": [
+                        {
+                            "latitude": 33.201304,
+                            "longitude": -84.818493,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "201 Freeman Court, Grantville, Georgia 30220, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qQXhJaXdpYzNSeVpXVjBJam9pUmxKRlJVMUJUaUJUVkNCVFZVbFVSU0FqT0NJc0luQnNZV05sSWpvaVEweEJXRlJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EUXhOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "201 Freeman Court",
+                "name_preferred": "201 Freeman Court",
+                "place_formatted": "Grantville, Georgia 30220, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.898909,
+                    32.15777
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjQ2YzFhY2YtN2Y5ZC00Y2QzLWIxMDItNjIzMGViODgzMWE2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjQWJz",
+                        "name": "Evans County",
+                        "wikidata_id": "Q493044"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBN3JJN0E",
+                        "name": "Claxton",
+                        "wikidata_id": "Q2052424"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjJ1N0E",
+                        "name": "30417"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjQ2YzFhY2YtN2Y5ZC00Y2QzLWIxMDItNjIzMGViODgzMWE2",
+                        "name": "South Claxton Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.15777,
+                    "longitude": -81.898909
+                },
+                "feature_type": "street",
+                "full_address": "South Claxton Avenue, Claxton, Georgia 30417, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjQ2YzFhY2YtN2Y5ZC00Y2QzLWIxMDItNjIzMGViODgzMWE2",
+                "name": "South Claxton Avenue",
+                "name_preferred": "South Claxton Avenue",
+                "place_formatted": "Claxton, Georgia 30417, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.116678,
+                    32.877599
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiYWRjMzNlYS1kNDNiLTQwZTItOTgzYS04Y2I4MmIyZDRmNzQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "201",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiYWRjMzNlYS1kNDNiLTQwZTItOTgzYS04Y2I4MmIyZDRmNzQ",
+                        "name": "201 Freeman Street",
+                        "street_name": "Freeman Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprc2Jz",
+                        "name": "Hampton County",
+                        "wikidata_id": "Q497880"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDRXZvN0E",
+                        "name": "Hampton",
+                        "wikidata_id": "Q2343167"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZFJPN0E",
+                        "name": "29924"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmFkYzMzZWEtZDQzYi00MGUyLTk4M2EtOGNiODJiMmQ0Zjc0",
+                        "name": "Freeman Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 32.877599,
+                    "longitude": -81.116678,
+                    "routable_points": [
+                        {
+                            "latitude": 32.87751,
+                            "longitude": -81.116476,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "201 Freeman Street, Hampton, South Carolina 29924, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiYWRjMzNlYS1kNDNiLTQwZTItOTgzYS04Y2I4MmIyZDRmNzQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "201 Freeman Street",
+                "name_preferred": "201 Freeman Street",
+                "place_formatted": "Hampton, South Carolina 29924, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.188425,
+                    32.930993
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qQXhJaXdpYzNSeVpXVjBJam9pUmxKRlJVMUJUaUJUVkNCVFZVbFVSU0FqT0NJc0luQnNZV05sSWpvaVEweEJXRlJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EUXhOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "201",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qQXhJaXdpYzNSeVpXVjBJam9pUmxKRlJVMUJUaUJUVkNCVFZVbFVSU0FqT0NJc0luQnNZV05sSWpvaVEweEJXRlJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EUXhOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+                        "name": "201 Freeman Street",
+                        "street_name": "Freeman Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprc2Jz",
+                        "name": "Hampton County",
+                        "wikidata_id": "Q497880"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbldJN0E",
+                        "name": "Brunson",
+                        "wikidata_id": "Q2293591"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZEx1N0E",
+                        "name": "29911"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNakF4SWl3aWMzUnlaV1YwSWpvaVJsSkZSVTFCVGlCVFZDQlRWVWxVUlNBak9DSXNJbkJzWVdObElqb2lRMHhCV0ZSUFRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFF4TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+                        "name": "Freeman Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.930993,
+                    "longitude": -81.188425,
+                    "routable_points": [
+                        {
+                            "latitude": 32.930993,
+                            "longitude": -81.188425,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "201 Freeman Street, Brunson, South Carolina 29911, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qQXhJaXdpYzNSeVpXVjBJam9pUmxKRlJVMUJUaUJUVkNCVFZVbFVSU0FqT0NJc0luQnNZV05sSWpvaVEweEJXRlJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EUXhOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "201 Freeman Street",
+                "name_preferred": "201 Freeman Street",
+                "place_formatted": "Brunson, South Carolina 29911, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,234 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.22533,
+                    34.96136
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmN2VjNGMzNS0xMTdjLTRkYTgtODBjNy03OGY3MDdiNDg3MWY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3319",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmN2VjNGMzNS0xMTdjLTRkYTgtODBjNy03OGY3MDdiNDg3MWY",
+                        "name": "3319 Lakeview Drive",
+                        "street_name": "Lakeview Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpOZ2Jz",
+                        "name": "Catoosa County",
+                        "wikidata_id": "Q260871"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLbEdNN0E",
+                        "name": "Westside"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUFZvN0E",
+                        "name": "Rossville",
+                        "wikidata_id": "Q3261835"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFV1N0E",
+                        "name": "30741"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjdlYzRjMzUtMTE3Yy00ZGE4LTgwYzctNzhmNzA3YjQ4NzFm",
+                        "name": "Lakeview Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 34.96136,
+                    "longitude": -85.22533,
+                    "routable_points": [
+                        {
+                            "latitude": 34.961386,
+                            "longitude": -85.225319,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3319 Lakeview Drive, Rossville, Georgia 30741, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmN2VjNGMzNS0xMTdjLTRkYTgtODBjNy03OGY3MDdiNDg3MWY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3319 Lakeview Drive",
+                "name_preferred": "3319 Lakeview Drive",
+                "place_formatted": "Rossville, Georgia 30741, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.266273,
+                    34.983078
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODhmNTY2NzItODAxYy00NDRkLTkyOWEtYmIyZWJhNDA0NGRk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaGlxN0E",
+                        "name": "Lakeview",
+                        "wikidata_id": "Q943492"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUFZvN0E",
+                        "name": "Rossville",
+                        "wikidata_id": "Q3261835"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFV1N0E",
+                        "name": "30741"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODhmNTY2NzItODAxYy00NDRkLTkyOWEtYmIyZWJhNDA0NGRk",
+                        "name": "Lakeview Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.983078,
+                    "longitude": -85.266273
+                },
+                "feature_type": "street",
+                "full_address": "Lakeview Dr, Rossville, Georgia 30741, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODhmNTY2NzItODAxYy00NDRkLTkyOWEtYmIyZWJhNDA0NGRk",
+                "name": "Lakeview Dr",
+                "name_preferred": "Lakeview Dr",
+                "place_formatted": "Rossville, Georgia 30741, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.065945,
+                    34.546782
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16TXhPU0lzSW5OMGNtVmxkQ0k2SWt4QlMwVldTVVZYSUVSU0lpd2ljR3hoWTJVaU9pSlNUMU5UVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekEzTkRFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3319",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16TXhPU0lzSW5OMGNtVmxkQ0k2SWt4QlMwVldTVVZYSUVSU0lpd2ljR3hoWTJVaU9pSlNUMU5UVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekEzTkRFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+                        "name": "3319 Lakeview Drive",
+                        "street_name": "Lakeview Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5RWJz",
+                        "name": "Laurens County",
+                        "wikidata_id": "Q508288"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDdEhvN0E",
+                        "name": "Laurens",
+                        "wikidata_id": "Q2278204"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYW11N0E",
+                        "name": "29360"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNek14T1NJc0luTjBjbVZsZENJNklreEJTMFZXU1VWWElFUlNJaXdpY0d4aFkyVWlPaUpTVDFOVFZrbE1URVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBM05ERWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+                        "name": "Lakeview Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.546782,
+                    "longitude": -82.065945,
+                    "routable_points": [
+                        {
+                            "latitude": 34.546782,
+                            "longitude": -82.065945,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3319 Lakeview Drive, Laurens, South Carolina 29360, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16TXhPU0lzSW5OMGNtVmxkQ0k2SWt4QlMwVldTVVZYSUVSU0lpd2ljR3hoWTJVaU9pSlNUMU5UVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekEzTkRFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "3319 Lakeview Drive",
+                "name_preferred": "3319 Lakeview Drive",
+                "place_formatted": "Laurens, South Carolina 29360, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

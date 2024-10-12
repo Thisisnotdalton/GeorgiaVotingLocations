@@ -1,0 +1,368 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.451626,
+                    33.445699
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiZWU1Mzk3YS1hN2UyLTQwOTQtYTY0Mi0wNGRkMWYxYWI3ZWY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "175",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiZWU1Mzk3YS1hN2UyLTQwOTQtYTY0Mi0wNGRkMWYxYWI3ZWY",
+                        "name": "175 Johnson Avenue",
+                        "street_name": "Johnson Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCb09vN0E",
+                        "name": "Fayetteville",
+                        "wikidata_id": "Q782494"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZ1N0E",
+                        "name": "30214"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmVlNTM5N2EtYTdlMi00MDk0LWE2NDItMDRkZDFmMWFiN2Vm",
+                        "name": "Johnson Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.445699,
+                    "longitude": -84.451626,
+                    "routable_points": [
+                        {
+                            "latitude": 33.445701,
+                            "longitude": -84.45184,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "175 Johnson Avenue, Fayetteville, Georgia 30214, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiZWU1Mzk3YS1hN2UyLTQwOTQtYTY0Mi0wNGRkMWYxYWI3ZWY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "175 Johnson Avenue",
+                "name_preferred": "175 Johnson Avenue",
+                "place_formatted": "Fayetteville, Georgia 30214, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.364268,
+                    31.219556
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UYzFJaXdpYzNSeVpXVjBJam9pU2s5SVRsTlBUaUJCVmtVdUlGTlVSU0JDSWl3aWNHeGhZMlVpT2lKR1FWbEZWRlJGVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF5TVRRaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "175",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UYzFJaXdpYzNSeVpXVjBJam9pU2s5SVRsTlBUaUJCVmtVdUlGTlVSU0JDSWl3aWNHeGhZMlVpT2lKR1FWbEZWRlJGVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF5TVRRaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjE",
+                        "name": "175 Johnson Avenue",
+                        "street_name": "Johnson Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzRtN0E",
+                        "name": "Ware County",
+                        "wikidata_id": "Q498353"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTHJJN0E",
+                        "name": "Waycross",
+                        "wikidata_id": "Q615027"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakVPN0E",
+                        "name": "31501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVGMxSWl3aWMzUnlaV1YwSWpvaVNrOUlUbE5QVGlCQlZrVXVJRk5VUlNCQ0lpd2ljR3hoWTJVaU9pSkdRVmxGVkZSRlZrbE1URVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU1UUWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDox",
+                        "name": "Johnson Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.219556,
+                    "longitude": -82.364268,
+                    "routable_points": [
+                        {
+                            "latitude": 31.219556,
+                            "longitude": -82.364268,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "175 Johnson Avenue, Waycross, Georgia 31501, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UYzFJaXdpYzNSeVpXVjBJam9pU2s5SVRsTlBUaUJCVmtVdUlGTlVSU0JDSWl3aWNHeGhZMlVpT2lKR1FWbEZWRlJGVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF5TVRRaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "175 Johnson Avenue",
+                "name_preferred": "175 Johnson Avenue",
+                "place_formatted": "Waycross, Georgia 31501, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.250384,
+                    33.038575
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UYzFJaXdpYzNSeVpXVjBJam9pU2s5SVRsTlBUaUJCVmtVdUlGTlVSU0JDSWl3aWNHeGhZMlVpT2lKR1FWbEZWRlJGVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF5TVRRaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "175",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UYzFJaXdpYzNSeVpXVjBJam9pU2s5SVRsTlBUaUJCVmtVdUlGTlVSU0JDSWl3aWNHeGhZMlVpT2lKR1FWbEZWRlJGVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF5TVRRaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+                        "name": "175 Johnson Avenue",
+                        "street_name": "Johnson Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKMmJz",
+                        "name": "Burke County",
+                        "wikidata_id": "Q211360"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJbzNxN0E",
+                        "name": "Vidette",
+                        "wikidata_id": "Q2788613"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNExvN0E",
+                        "name": "Louisville",
+                        "wikidata_id": "Q2931901"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjd1N0E",
+                        "name": "30434"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVGMxSWl3aWMzUnlaV1YwSWpvaVNrOUlUbE5QVGlCQlZrVXVJRk5VUlNCQ0lpd2ljR3hoWTJVaU9pSkdRVmxGVkZSRlZrbE1URVVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU1UUWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+                        "name": "Johnson Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.038575,
+                    "longitude": -82.250384,
+                    "routable_points": [
+                        {
+                            "latitude": 33.038575,
+                            "longitude": -82.250384,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "175 Johnson Avenue, Louisville, Georgia 30434, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UYzFJaXdpYzNSeVpXVjBJam9pU2s5SVRsTlBUaUJCVmtVdUlGTlVSU0JDSWl3aWNHeGhZMlVpT2lKR1FWbEZWRlJGVmtsTVRFVWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF5TVRRaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "175 Johnson Avenue",
+                "name_preferred": "175 Johnson Avenue",
+                "place_formatted": "Louisville, Georgia 30434, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.452358,
+                    33.434553
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTMzNWM2YmMtNDE0MC00ZTU3LWIxY2EtYjdlN2JlZmI4OWI4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCb09vN0E",
+                        "name": "Fayetteville",
+                        "wikidata_id": "Q782494"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZ1N0E",
+                        "name": "30214"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTMzNWM2YmMtNDE0MC00ZTU3LWIxY2EtYjdlN2JlZmI4OWI4",
+                        "name": "James W Dixon Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.434553,
+                    "longitude": -84.452358
+                },
+                "feature_type": "street",
+                "full_address": "James W Dixon Drive, Fayetteville, Georgia 30214, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTMzNWM2YmMtNDE0MC00ZTU3LWIxY2EtYjdlN2JlZmI4OWI4",
+                "name": "Fayetteville",
+                "name_preferred": "James W Dixon Drive",
+                "place_formatted": "Fayetteville, Georgia 30214, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.93265,
+                    34.96687
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzA5MzllZDAtZWRjYy00ODdkLTg0Y2YtNGMxMzJjNWUxMjRk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpWZ2Jz",
+                        "name": "Cumberland County",
+                        "wikidata_id": "Q511834"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDU2VJN0E",
+                        "name": "Hope Mills",
+                        "wikidata_id": "Q2028013"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV1VPN0E",
+                        "name": "28348"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdVRz",
+                        "name": "North Carolina",
+                        "region_code": "NC",
+                        "region_code_full": "US-NC",
+                        "wikidata_id": "Q1454"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzA5MzllZDAtZWRjYy00ODdkLTg0Y2YtNGMxMzJjNWUxMjRk",
+                        "name": "Johnson Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.96687,
+                    "longitude": -78.93265
+                },
+                "feature_type": "street",
+                "full_address": "Johnson Avenue, Hope Mills, North Carolina 28348, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzA5MzllZDAtZWRjYy00ODdkLTg0Y2YtNGMxMzJjNWUxMjRk",
+                "name": "Johnson Avenue",
+                "name_preferred": "Johnson Avenue",
+                "place_formatted": "Hope Mills, North Carolina 28348, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

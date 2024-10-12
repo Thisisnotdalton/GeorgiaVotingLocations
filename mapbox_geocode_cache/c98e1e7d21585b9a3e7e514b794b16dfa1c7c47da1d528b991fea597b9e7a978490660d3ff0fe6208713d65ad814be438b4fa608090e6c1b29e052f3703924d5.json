@@ -1,0 +1,351 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.638908,
+                    32.636522
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkNGYwYWYxNi0wNDY1LTQ2MjUtYTQyOS0xMTY3YTJjMWFhNDI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "900",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkNGYwYWYxNi0wNDY1LTQ2MjUtYTQyOS0xMTY3YTJjMWFhNDI",
+                        "name": "900 North Houston Road",
+                        "street_name": "North Houston Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpvcWJz",
+                        "name": "Houston County",
+                        "wikidata_id": "Q486362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSWVvN0E",
+                        "name": "Warner Robins",
+                        "wikidata_id": "Q2003323"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVh1N0E",
+                        "name": "31093"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDRmMGFmMTYtMDQ2NS00NjI1LWE0MjktMTE2N2EyYzFhYTQy",
+                        "name": "North Houston Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 32.636522,
+                    "longitude": -83.638908,
+                    "routable_points": [
+                        {
+                            "latitude": 32.636375,
+                            "longitude": -83.63918,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "900 North Houston Road, Warner Robins, Georgia 31093, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkNGYwYWYxNi0wNDY1LTQ2MjUtYTQyOS0xMTY3YTJjMWFhNDI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "900 North Houston Road",
+                "name_preferred": "900 North Houston Road",
+                "place_formatted": "Warner Robins, Georgia 31093, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.229446,
+                    43.612764
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UQXdJaXdpYzNSeVpXVjBJam9pVGlCSVQxVlRWRTlPSUZKRUlpd2ljR3hoWTJVaU9pSlhRVkpPUlZJaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXdPVE1pTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "900",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UQXdJaXdpYzNSeVpXVjBJam9pVGlCSVQxVlRWRTlPSUZKRUlpd2ljR3hoWTJVaU9pSlhRVkpPUlZJaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXdPVE1pTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6MQ",
+                        "name": "900 North Houston Road",
+                        "street_name": "North Houston Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpodXc",
+                        "name": "Ada County",
+                        "wikidata_id": "Q109820"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamtzN0E",
+                        "name": "Central Rim"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZStJN0E",
+                        "name": "Boise",
+                        "wikidata_id": "Q35775"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUXdPN0E",
+                        "name": "83706"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo1T3c",
+                        "name": "Idaho",
+                        "region_code": "ID",
+                        "region_code_full": "US-ID",
+                        "wikidata_id": "Q1221"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVEF3SWl3aWMzUnlaV1YwSWpvaVRpQklUMVZUVkU5T0lGSkVJaXdpY0d4aFkyVWlPaUpYUVZKT1JWSWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekV3T1RNaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaUxDSjBlWEJsY3lJNkltTnZkVzUwY25rc2NtVm5hVzl1TEhCdmMzUmpiMlJsTEdScGMzUnlhV04wTEhCc1lXTmxMR3h2WTJGc2FYUjVMRzVsYVdkb1ltOXlhRzl2WkN4aFpHUnlaWE56SW4wOjE",
+                        "name": "North Houston Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 43.612764,
+                    "longitude": -116.229446,
+                    "routable_points": [
+                        {
+                            "latitude": 43.612764,
+                            "longitude": -116.229446,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "900 North Houston Road, Boise, Idaho 83706, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UQXdJaXdpYzNSeVpXVjBJam9pVGlCSVQxVlRWRTlPSUZKRUlpd2ljR3hoWTJVaU9pSlhRVkpPUlZJaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXdPVE1pTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "900 North Houston Road",
+                "name_preferred": "900 North Houston Road",
+                "place_formatted": "Boise, Idaho 83706, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.227068,
+                    31.344247
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2IyYjI4MzUtNTUyYi00ODdiLTk1NWMtMTkzMWRlNGMyZmU4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUm9tN0E",
+                        "name": "Pierce County",
+                        "wikidata_id": "Q486800"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBY09JN0E",
+                        "name": "Blackshear",
+                        "wikidata_id": "Q670594"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakh1N0E",
+                        "name": "31516"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2IyYjI4MzUtNTUyYi00ODdiLTk1NWMtMTkzMWRlNGMyZmU4",
+                        "name": "Houston Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.344247,
+                    "longitude": -82.227068
+                },
+                "feature_type": "street",
+                "full_address": "Houston Road, Blackshear, Georgia 31516, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2IyYjI4MzUtNTUyYi00ODdiLTk1NWMtMTkzMWRlNGMyZmU4",
+                "name": "Houston Road",
+                "name_preferred": "Houston Road",
+                "place_formatted": "Blackshear, Georgia 31516, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.390709,
+                    25.924986
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjMxOTAzMzAtMzBhMC00YTc2LWI0YjYtNTU0MjZkZjk0MTg1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMa2Jz",
+                        "name": "Cameron County",
+                        "wikidata_id": "Q27051"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaTdzN0E",
+                        "name": "Houston Road East Colonia"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbTNvN0E",
+                        "name": "Brownsville",
+                        "wikidata_id": "Q51693"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFREdPN0E",
+                        "name": "78521"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBc1Rz",
+                        "name": "Texas",
+                        "region_code": "TX",
+                        "region_code_full": "US-TX",
+                        "wikidata_id": "Q1439"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjMxOTAzMzAtMzBhMC00YTc2LWI0YjYtNTU0MjZkZjk0MTg1",
+                        "name": "North Houston Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 25.924986,
+                    "longitude": -97.390709
+                },
+                "feature_type": "street",
+                "full_address": "North Houston Road, Brownsville, Texas 78521, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjMxOTAzMzAtMzBhMC00YTc2LWI0YjYtNTU0MjZkZjk0MTg1",
+                "name": "North Houston Road",
+                "name_preferred": "North Houston Road",
+                "place_formatted": "Brownsville, Texas 78521, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.684597,
+                    32.724873
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGZlMGZhNzItYjUwNS00N2NjLTk1ZTQtZTAyYTk2YmE1NmRh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGWXZNN0E",
+                        "name": "Liberty View"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXBPN0E",
+                        "name": "31216"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGZlMGZhNzItYjUwNS00N2NjLTk1ZTQtZTAyYTk2YmE1NmRh",
+                        "name": "Houston Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.724873,
+                    "longitude": -83.684597
+                },
+                "feature_type": "street",
+                "full_address": "Houston Road, Macon, Georgia 31216, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGZlMGZhNzItYjUwNS00N2NjLTk1ZTQtZTAyYTk2YmE1NmRh",
+                "name": "Houston Road",
+                "name_preferred": "Houston Road",
+                "place_formatted": "Macon, Georgia 31216, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

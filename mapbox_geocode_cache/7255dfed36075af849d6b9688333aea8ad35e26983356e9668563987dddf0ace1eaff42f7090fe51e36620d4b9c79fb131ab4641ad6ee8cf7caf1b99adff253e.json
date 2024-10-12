@@ -1,0 +1,366 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.310836,
+                    32.238737
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxNmQ4YWZiNi0yMTc4LTQ0ZmItODEwZi0zYjA5OWQzMDJlYzE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "47",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxNmQ4YWZiNi0yMTc4LTQ0ZmItODEwZi0zYjA5OWQzMDJlYzE",
+                        "name": "47 Pecan Street",
+                        "street_name": "Pecan Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVDFtN0E",
+                        "name": "Schley County",
+                        "wikidata_id": "Q387216"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlhJN0E",
+                        "name": "Ellaville",
+                        "wikidata_id": "Q2404846"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1FPN0E",
+                        "name": "31806"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTZkOGFmYjYtMjE3OC00NGZiLTgxMGYtM2IwOTlkMzAyZWMx",
+                        "name": "Pecan Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.238737,
+                    "longitude": -84.310836,
+                    "routable_points": [
+                        {
+                            "latitude": 32.238729,
+                            "longitude": -84.310574,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "47 Pecan Street, Ellaville, Georgia 31806, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxNmQ4YWZiNi0yMTc4LTQ0ZmItODEwZi0zYjA5OWQzMDJlYzE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "47 N Pecan St",
+                "name_preferred": "47 Pecan Street",
+                "place_formatted": "Ellaville, Georgia 31806, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.080239,
+                    31.045392
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EY2lMQ0p6ZEhKbFpYUWlPaUpPSUZCRlEwRk9JRk5VVWtWRlZDSXNJbkJzWVdObElqb2lSVXhNUVZaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14T0RBMklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "47",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EY2lMQ0p6ZEhKbFpYUWlPaUpPSUZCRlEwRk9JRk5VVWtWRlZDSXNJbkJzWVdObElqb2lSVXhNUVZaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14T0RBMklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTox",
+                        "name": "47 North Pecan Street",
+                        "street_name": "North Pecan Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp4ZWJz",
+                        "name": "Lanier County",
+                        "wikidata_id": "Q492070"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDb2ZvN0E",
+                        "name": "Lakeland",
+                        "wikidata_id": "Q921477"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCam5PN0E",
+                        "name": "31635"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORGNpTENKemRISmxaWFFpT2lKT0lGQkZRMEZPSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUlV4TVFWWkpURXhGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE9EQTJJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6MQ",
+                        "name": "North Pecan Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.045392,
+                    "longitude": -83.080239,
+                    "routable_points": [
+                        {
+                            "latitude": 31.045392,
+                            "longitude": -83.080239,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "47 North Pecan Street, Lakeland, Georgia 31635, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EY2lMQ0p6ZEhKbFpYUWlPaUpPSUZCRlEwRk9JRk5VVWtWRlZDSXNJbkJzWVdObElqb2lSVXhNUVZaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14T0RBMklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOTox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "47 North Pecan Street",
+                "name_preferred": "47 North Pecan Street",
+                "place_formatted": "Lakeland, Georgia 31635, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.764929,
+                    31.974241
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EY2lMQ0p6ZEhKbFpYUWlPaUpPSUZCRlEwRk9JRk5VVWtWRlZDSXNJbkJzWVdObElqb2lSVXhNUVZaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14T0RBMklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "47",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EY2lMQ0p6ZEhKbFpYUWlPaUpPSUZCRlEwRk9JRk5VVWtWRlZDSXNJbkJzWVdObElqb2lSVXhNUVZaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14T0RBMklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                        "name": "47 Pecan Street North",
+                        "street_name": "Pecan Street North"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpVK2Jz",
+                        "name": "Crisp County",
+                        "wikidata_id": "Q156486"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCRVFvN0E",
+                        "name": "Cordele",
+                        "wikidata_id": "Q2210265"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDBPN0E",
+                        "name": "31015"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORGNpTENKemRISmxaWFFpT2lKT0lGQkZRMEZPSUZOVVVrVkZWQ0lzSW5Cc1lXTmxJam9pUlV4TVFWWkpURXhGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE9EQTJJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJaXdpZEhsd1pYTWlPaUpqYjNWdWRISjVMSEpsWjJsdmJpeHdiM04wWTI5a1pTeGthWE4wY21samRDeHdiR0ZqWlN4c2IyTmhiR2wwZVN4dVpXbG5hR0p2Y21odmIyUXNZV1JrY21WemN5Sjk6Mg",
+                        "name": "Pecan Street North"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.974241,
+                    "longitude": -83.764929,
+                    "routable_points": [
+                        {
+                            "latitude": 31.974241,
+                            "longitude": -83.764929,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "47 Pecan Street North, Cordele, Georgia 31015, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EY2lMQ0p6ZEhKbFpYUWlPaUpPSUZCRlEwRk9JRk5VVWtWRlZDSXNJbkJzWVdObElqb2lSVXhNUVZaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14T0RBMklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "47 N Pecan Street",
+                "name_preferred": "47 Pecan Street North",
+                "place_formatted": "Cordele, Georgia 31015, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.025577,
+                    30.856366
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGM1NTgyNzctNTZiMy00MGQzLWFkNDAtZjlhNmYxZjFjYTI3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPU2Jz",
+                        "name": "Charlton County",
+                        "wikidata_id": "Q486659"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpGcktvN0E",
+                            "name": "Folkston"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUmJvN0E",
+                        "name": "Homeland"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCak91N0E",
+                        "name": "31537"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGM1NTgyNzctNTZiMy00MGQzLWFkNDAtZjlhNmYxZjFjYTI3",
+                        "name": "North Pecan Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.856366,
+                    "longitude": -82.025577
+                },
+                "feature_type": "street",
+                "full_address": "North Pecan Street, Homeland, Georgia 31537, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGM1NTgyNzctNTZiMy00MGQzLWFkNDAtZjlhNmYxZjFjYTI3",
+                "name": "North Pecan Street",
+                "name_preferred": "North Pecan Street",
+                "place_formatted": "Homeland, Georgia 31537, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.728194,
+                    33.736078
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2Y4ZGI5ZjUtNjk0Mi00YzdkLTlkYWEtZTQyOWNlNjA2ZDBl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDNtN0E",
+                        "name": "Wilkes County",
+                        "wikidata_id": "Q491759"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSmZvN0E",
+                        "name": "Washington",
+                        "wikidata_id": "Q166186"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEZ1N0E",
+                        "name": "30673"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2Y4ZGI5ZjUtNjk0Mi00YzdkLTlkYWEtZTQyOWNlNjA2ZDBl",
+                        "name": "North Pecan Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.736078,
+                    "longitude": -82.728194
+                },
+                "feature_type": "street",
+                "full_address": "North Pecan Street, Washington, Georgia 30673, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2Y4ZGI5ZjUtNjk0Mi00YzdkLTlkYWEtZTQyOWNlNjA2ZDBl",
+                "name": "North Pecan Street",
+                "name_preferred": "North Pecan Street",
+                "place_formatted": "Washington, Georgia 30673, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

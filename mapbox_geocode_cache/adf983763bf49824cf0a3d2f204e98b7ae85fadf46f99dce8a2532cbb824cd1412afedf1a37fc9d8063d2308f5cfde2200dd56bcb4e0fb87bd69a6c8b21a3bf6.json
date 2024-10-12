@@ -1,0 +1,152 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.574153,
+                    33.672446
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiOTQ1YWQ3NS1mYWZlLTQ3YTctYTI1Yi0zOWNmNjYxNjFkZGU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3100",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiOTQ1YWQ3NS1mYWZlLTQ3YTctYTI1Yi0zOWNmNjYxNjFkZGU",
+                        "name": "3100 Enon Road",
+                        "street_name": "Enon Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCQVJJN0E",
+                            "name": "College Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbDVvN0E",
+                        "name": "South Fulton",
+                        "wikidata_id": "Q7567323"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.6592874984436426",
+                        "name": "30331"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Yjk0NWFkNzUtZmFmZS00N2E3LWEyNWItMzljZjY2MTYxZGRl",
+                        "name": "Enon Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.672446,
+                    "longitude": -84.574153,
+                    "routable_points": [
+                        {
+                            "latitude": 33.672239,
+                            "longitude": -84.574185,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3100 Enon Road, South Fulton, Georgia 30331, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiOTQ1YWQ3NS1mYWZlLTQ3YTctYTI1Yi0zOWNmNjYxNjFkZGU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3100 Enon Road",
+                "name_preferred": "3100 Enon Road",
+                "place_formatted": "South Fulton, Georgia 30331, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.58361,
+                    33.67379
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmUzNzQzNTctMzQ0OS00YzQ4LWE0MDgtY2ZmODE4NTNmZTU0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCQVJJN0E",
+                            "name": "College Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbDVvN0E",
+                        "name": "South Fulton",
+                        "wikidata_id": "Q7567323"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.6592874984436426",
+                        "name": "30331"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmUzNzQzNTctMzQ0OS00YzQ4LWE0MDgtY2ZmODE4NTNmZTU0",
+                        "name": "Enon Rd SW"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.67379,
+                    "longitude": -84.58361
+                },
+                "feature_type": "street",
+                "full_address": "Enon Rd SW, South Fulton, Georgia 30331, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmUzNzQzNTctMzQ0OS00YzQ4LWE0MDgtY2ZmODE4NTNmZTU0",
+                "name": "Enon Rd SW",
+                "name_preferred": "Enon Rd SW",
+                "place_formatted": "South Fulton, Georgia 30331, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

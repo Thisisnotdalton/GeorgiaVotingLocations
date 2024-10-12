@@ -1,0 +1,347 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.336618,
+                    33.764598
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3M2ZkZWRiOS01OTEzLTQ4MDAtYmUwOS1kNjAzNTYzMTMzZTQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1561",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3M2ZkZWRiOS01OTEzLTQ4MDAtYmUwOS1kNjAzNTYzMTMzZTQ",
+                        "name": "1561 Mclendon Avenue Northeast",
+                        "street_name": "Mclendon Avenue Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVEtNN0E",
+                        "name": "Candler Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlF1N0E",
+                        "name": "30307"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzNmZGVkYjktNTkxMy00ODAwLWJlMDktZDYwMzU2MzEzM2U0",
+                        "name": "Mclendon Avenue Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.764598,
+                    "longitude": -84.336618,
+                    "routable_points": [
+                        {
+                            "latitude": 33.76486,
+                            "longitude": -84.336619,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1561 Mclendon Avenue Northeast, Atlanta, Georgia 30307, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3M2ZkZWRiOS01OTEzLTQ4MDAtYmUwOS1kNjAzNTYzMTMzZTQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1561 Mclendon Avenue Northeast",
+                "name_preferred": "1561 Mclendon Avenue Northeast",
+                "place_formatted": "Atlanta, Georgia 30307, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.372296,
+                    33.84145
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Y2QzZTM0NmEtZDA5ZS00NDE2LTllNDktNzIxMmE4MjdkYmFh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCSTJNN0E",
+                            "name": "Buckhead Triangle",
+                            "wikidata_id": "Q2333137"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCSTJzN0E",
+                        "name": "Buckhead Village"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlF1N0E",
+                        "name": "30307"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2QzZTM0NmEtZDA5ZS00NDE2LTllNDktNzIxMmE4MjdkYmFh",
+                        "name": "Mclendon Ave NE"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.84145,
+                    "longitude": -84.372296
+                },
+                "feature_type": "street",
+                "full_address": "Mclendon Ave NE, Atlanta, Georgia 30307, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2QzZTM0NmEtZDA5ZS00NDE2LTllNDktNzIxMmE4MjdkYmFh",
+                "name": "Mclendon Ave NE",
+                "name_preferred": "Mclendon Ave NE",
+                "place_formatted": "Atlanta, Georgia 30307, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.33617,
+                    33.76815
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTVkNmMzOWItZjRmMi00ZWFjLTgzNDMtMzkxMGFmMjE5OWQ1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVEtNN0E",
+                        "name": "Candler Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlF1N0E",
+                        "name": "30307"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTVkNmMzOWItZjRmMi00ZWFjLTgzNDMtMzkxMGFmMjE5OWQ1",
+                        "name": "Mclendon Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.76815,
+                    "longitude": -84.33617
+                },
+                "feature_type": "street",
+                "full_address": "Mclendon Avenue, Atlanta, Georgia 30307, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTVkNmMzOWItZjRmMi00ZWFjLTgzNDMtMzkxMGFmMjE5OWQ1",
+                "name": "Mclendon Avenue",
+                "name_preferred": "Mclendon Avenue",
+                "place_formatted": "Atlanta, Georgia 30307, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.34973,
+                    33.75599
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjdiYTcyNzUtN2M4MS00OWZjLThlMTItMWEzMjM4MTc4NzI5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpGY3ZNN0E",
+                            "name": "Little Five Points",
+                            "wikidata_id": "Q6650032"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpINzhzN0E",
+                        "name": "Reynoldstown",
+                        "wikidata_id": "Q7319695"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlF1N0E",
+                        "name": "30307"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjdiYTcyNzUtN2M4MS00OWZjLThlMTItMWEzMjM4MTc4NzI5",
+                        "name": "North Ave NE"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.75599,
+                    "longitude": -84.34973
+                },
+                "feature_type": "street",
+                "full_address": "North Ave NE, Atlanta, Georgia 30307, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjdiYTcyNzUtN2M4MS00OWZjLThlMTItMWEzMjM4MTc4NzI5",
+                "name": "North Ave NE",
+                "name_preferred": "North Ave NE",
+                "place_formatted": "Atlanta, Georgia 30307, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.36709,
+                    33.746548
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWM3MDBiYzYtN2E0NS00MDJiLTg2ZWEtODQ0NTU1NWNkYTY5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeVZzN0E",
+                        "name": "Grant Park",
+                        "wikidata_id": "Q5596396"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowQWpz",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlRPN0E",
+                        "name": "30312"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWM3MDBiYzYtN2E0NS00MDJiLTg2ZWEtODQ0NTU1NWNkYTY5",
+                        "name": "East Ave NE"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.746548,
+                    "longitude": -84.36709
+                },
+                "feature_type": "street",
+                "full_address": "East Ave NE, Atlanta, Georgia 30312, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWM3MDBiYzYtN2E0NS00MDJiLTg2ZWEtODQ0NTU1NWNkYTY5",
+                "name": "East Ave NE",
+                "name_preferred": "East Ave NE",
+                "place_formatted": "Atlanta, Georgia 30312, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,225 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.384441,
+                    33.412975
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2YjYxNzdlZi0xODU3LTQ0NmUtYjc0OC03NDUyZWZkOWI2MTc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4614",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2YjYxNzdlZi0xODU3LTQ0NmUtYjc0OC03NDUyZWZkOWI2MTc",
+                        "name": "4614 Augusta Highway",
+                        "street_name": "Augusta Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2QWJz",
+                        "name": "McDuffie County",
+                        "wikidata_id": "Q492066"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT0ZvN0E",
+                        "name": "Dearing",
+                        "wikidata_id": "Q1941889"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGN1N0E",
+                        "name": "30808"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmI2MTc3ZWYtMTg1Ny00NDZlLWI3NDgtNzQ1MmVmZDliNjE3",
+                        "name": "Augusta Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.412975,
+                    "longitude": -82.384441,
+                    "routable_points": [
+                        {
+                            "latitude": 33.412781,
+                            "longitude": -82.38448,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4614 Augusta Highway, Dearing, Georgia 30808, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2YjYxNzdlZi0xODU3LTQ0NmUtYjc0OC03NDUyZWZkOWI2MTc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "4614 Augusta Highway",
+                "name_preferred": "4614 Augusta Highway",
+                "place_formatted": "Dearing, Georgia 30808, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.489927,
+                    33.462582
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWUyZTFhYTctNjJhYS00YjVjLTg4ZjAtY2QwM2UxZGU5ZDJm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2QWJz",
+                        "name": "McDuffie County",
+                        "wikidata_id": "Q492066"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMjdJN0E",
+                        "name": "Thomson",
+                        "wikidata_id": "Q2784008"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGt1N0E",
+                        "name": "30824"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWUyZTFhYTctNjJhYS00YjVjLTg4ZjAtY2QwM2UxZGU5ZDJm",
+                        "name": "Augusta Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.462582,
+                    "longitude": -82.489927
+                },
+                "feature_type": "street",
+                "full_address": "Augusta Highway, Thomson, Georgia 30824, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWUyZTFhYTctNjJhYS00YjVjLTg4ZjAtY2QwM2UxZGU5ZDJm",
+                "name": "Augusta Highway",
+                "name_preferred": "Augusta Highway",
+                "place_formatted": "Thomson, Georgia 30824, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.73951,
+                    33.135048
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EWXhOQ0lzSW5OMGNtVmxkQ0k2SWtGVlIxVlRWRUVnU0ZkWklpd2ljR3hoWTJVaU9pSkVSVUZTU1U1SElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdPREE0SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4614",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EWXhOQ0lzSW5OMGNtVmxkQ0k2SWtGVlIxVlRWRUVnU0ZkWklpd2ljR3hoWTJVaU9pSkVSVUZTU1U1SElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdPREE0SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                        "name": "4614 Augusta Highway",
+                        "street_name": "Augusta Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTd2Jz",
+                        "name": "Colleton County",
+                        "wikidata_id": "Q502473"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFamFJN0E",
+                        "name": "Smoaks",
+                        "wikidata_id": "Q587494"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYlBPN0E",
+                        "name": "29481"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORFl4TkNJc0luTjBjbVZsZENJNklrRlZSMVZUVkVFZ1NGZFpJaXdpY0d4aFkyVWlPaUpFUlVGU1NVNUhJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13T0RBNElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0lpd2lkSGx3WlhNaU9pSmpiM1Z1ZEhKNUxISmxaMmx2Yml4d2IzTjBZMjlrWlN4a2FYTjBjbWxqZEN4d2JHRmpaU3hzYjJOaGJHbDBlU3h1WldsbmFHSnZjbWh2YjJRc1lXUmtjbVZ6Y3lKOToy",
+                        "name": "Augusta Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.135048,
+                    "longitude": -80.73951,
+                    "routable_points": [
+                        {
+                            "latitude": 33.135048,
+                            "longitude": -80.73951,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4614 Augusta Highway, Smoaks, South Carolina 29481, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EWXhOQ0lzSW5OMGNtVmxkQ0k2SWtGVlIxVlRWRUVnU0ZkWklpd2ljR3hoWTJVaU9pSkVSVUZTU1U1SElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdPREE0SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSWl3aWRIbHdaWE1pT2lKamIzVnVkSEo1TEhKbFoybHZiaXh3YjNOMFkyOWtaU3hrYVhOMGNtbGpkQ3h3YkdGalpTeHNiMk5oYkdsMGVTeHVaV2xuYUdKdmNtaHZiMlFzWVdSa2NtVnpjeUo5OjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "4614 Augusta Highway",
+                "name_preferred": "4614 Augusta Highway",
+                "place_formatted": "Smoaks, South Carolina 29481, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

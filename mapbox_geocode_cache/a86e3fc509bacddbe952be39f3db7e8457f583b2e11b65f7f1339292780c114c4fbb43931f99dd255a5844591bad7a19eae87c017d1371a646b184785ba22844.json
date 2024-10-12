@@ -1,0 +1,325 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.1926,
+                    33.566127
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1YzMxZGE2Yi00ODEwLTQ1NDQtYTlhYS1kOGFiOGE2ZDczNmE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1180",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1YzMxZGE2Yi00ODEwLTQ1NDQtYTlhYS1kOGFiOGE2ZDczNmE",
+                        "name": "1180 Charity Drive",
+                        "street_name": "Charity Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzppOGJz",
+                        "name": "Greene County",
+                        "wikidata_id": "Q486765"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCL2pJN0E",
+                        "name": "Greensboro",
+                        "wikidata_id": "Q2353901"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzhPN0E",
+                        "name": "30642"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWMzMWRhNmItNDgxMC00NTQ0LWE5YWEtZDhhYjhhNmQ3MzZh",
+                        "name": "Charity Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.566127,
+                    "longitude": -83.1926,
+                    "routable_points": [
+                        {
+                            "latitude": 33.565828,
+                            "longitude": -83.19314,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1180 Charity Drive, Greensboro, Georgia 30642, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1YzMxZGE2Yi00ODEwLTQ1NDQtYTlhYS1kOGFiOGE2ZDczNmE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1180 C Weldon Smith Dr",
+                "name_preferred": "1180 Charity Drive",
+                "place_formatted": "Greensboro, Georgia 30642, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.182604,
+                    33.575917
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZzhPN0E",
+            "properties": {
+                "bbox": [
+                    -83.347999,
+                    33.378214,
+                    -83.004668,
+                    33.733289
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzppOGJz",
+                        "name": "Greene County",
+                        "wikidata_id": "Q486765"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCL2pJN0E",
+                        "name": "Greensboro",
+                        "wikidata_id": "Q2353901"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzhPN0E",
+                        "name": "30642"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.575917,
+                    "longitude": -83.182604
+                },
+                "feature_type": "postcode",
+                "full_address": "Greensboro, Georgia 30642, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZzhPN0E",
+                "name": "30642",
+                "name_preferred": "30642",
+                "place_formatted": "Greensboro, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.063707,
+                    31.980797
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjJhZTZlYjktMTY4Ni00ODljLWJhYzEtY2MyN2Y5ZGMwN2Mx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFRlJLN0E",
+                        "name": "Isle of Hope",
+                        "wikidata_id": "Q2212257"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTlPN0E",
+                        "name": "31406"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjJhZTZlYjktMTY4Ni00ODljLWJhYzEtY2MyN2Y5ZGMwN2Mx",
+                        "name": "Smith Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.980797,
+                    "longitude": -81.063707
+                },
+                "feature_type": "street",
+                "full_address": "Smith Drive, Savannah, Georgia 31406, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjJhZTZlYjktMTY4Ni00ODljLWJhYzEtY2MyN2Y5ZGMwN2Mx",
+                "name": "Smith Drive",
+                "name_preferred": "Smith Drive",
+                "place_formatted": "Savannah, Georgia 31406, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.923666,
+                    32.159379
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDVkYTIxNTgtMDNlOC00ODQ1LWFlOTctMDQxM2RlYmM1YTFi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjQWJz",
+                        "name": "Evans County",
+                        "wikidata_id": "Q493044"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBN3FvN0E",
+                            "name": "Claxton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQzNJN0E",
+                        "name": "Hagan"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjJ1N0E",
+                        "name": "30417"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDVkYTIxNTgtMDNlOC00ODQ1LWFlOTctMDQxM2RlYmM1YTFi",
+                        "name": "Smith Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.159379,
+                    "longitude": -81.923666
+                },
+                "feature_type": "street",
+                "full_address": "Smith Street, Hagan, Georgia 30417, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDVkYTIxNTgtMDNlOC00ODQ1LWFlOTctMDQxM2RlYmM1YTFi",
+                "name": "Smith Dr",
+                "name_preferred": "Smith Street",
+                "place_formatted": "Hagan, Georgia 30417, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.311739,
+                    33.806762
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODY1YTI5M2ItYjdjZC00YWYzLTk4ZWMtYWU3ZmE1M2NjYTRi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q492026"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGS3VvN0E",
+                        "name": "Watkinsville",
+                        "wikidata_id": "Q426428"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEdPN0E",
+                        "name": "30677"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODY1YTI5M2ItYjdjZC00YWYzLTk4ZWMtYWU3ZmE1M2NjYTRi",
+                        "name": "Phillips Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.806762,
+                    "longitude": -83.311739
+                },
+                "feature_type": "street",
+                "full_address": "Phillips Drive, Watkinsville, Georgia 30677, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODY1YTI5M2ItYjdjZC00YWYzLTk4ZWMtYWU3ZmE1M2NjYTRi",
+                "name": "Drive",
+                "name_preferred": "Phillips Drive",
+                "place_formatted": "Watkinsville, Georgia 30677, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

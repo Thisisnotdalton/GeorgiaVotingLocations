@@ -1,0 +1,341 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.355561,
+                    33.959222
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkYTRiZWYyOS1jMmRkLTQxYWEtYWUyNS00Y2MwODg2NTFiYTA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "410",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkYTRiZWYyOS1jMmRkLTQxYWEtYWUyNS00Y2MwODg2NTFiYTA",
+                        "name": "410 Mckinley Drive",
+                        "street_name": "Mckinley Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3VPN0E",
+                        "name": "30601"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGE0YmVmMjktYzJkZC00MWFhLWFlMjUtNGNjMDg4NjUxYmEw",
+                        "name": "Mckinley Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.959222,
+                    "longitude": -83.355561,
+                    "routable_points": [
+                        {
+                            "latitude": 33.959394,
+                            "longitude": -83.355721,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "410 Mckinley Drive, Athens, Georgia 30601, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkYTRiZWYyOS1jMmRkLTQxYWEtYWUyNS00Y2MwODg2NTFiYTA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "410 Mckinley Drive",
+                "name_preferred": "410 Mckinley Drive",
+                "place_formatted": "Athens, Georgia 30601, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.37524,
+                    33.957715
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ3VPN0E",
+            "properties": {
+                "bbox": [
+                    -83.408191,
+                    33.946831,
+                    -83.288878,
+                    34.056496
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3VPN0E",
+                        "name": "30601"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.957715,
+                    "longitude": -83.37524
+                },
+                "feature_type": "postcode",
+                "full_address": "Athens, Georgia 30601, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ3VPN0E",
+                "name": "30601",
+                "name_preferred": "30601",
+                "place_formatted": "Athens, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.427423,
+                    33.908721
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjEzYjI3NmMtOWJjZC00YWZmLTllM2ItOTQ1ZDE5NGNmZDU0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q492026"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3d1N0E",
+                        "name": "30606"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjEzYjI3NmMtOWJjZC00YWZmLTllM2ItOTQ1ZDE5NGNmZDU0",
+                        "name": "Shoals Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.908721,
+                    "longitude": -83.427423
+                },
+                "feature_type": "street",
+                "full_address": "Shoals Drive, Athens, Georgia 30606, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjEzYjI3NmMtOWJjZC00YWZmLTllM2ItOTQ1ZDE5NGNmZDU0",
+                "name": "Drive",
+                "name_preferred": "Shoals Drive",
+                "place_formatted": "Athens, Georgia 30606, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.52848,
+                    34.02906
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5NGQzNmI4Ny0wN2JkLTRjZDktODkyOS0yOTg3MGFmNDNhYzc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "410",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5NGQzNmI4Ny0wN2JkLTRjZDktODkyOS0yOTg3MGFmNDNhYzc",
+                        "name": "410 Mckinney Road",
+                        "street_name": "Mckinney Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDY0JJN0E",
+                        "name": "Jefferson",
+                        "wikidata_id": "Q1966822"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2dPN0E",
+                        "name": "30549"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTRkMzZiODctMDdiZC00Y2Q5LTg5MjktMjk4NzBhZjQzYWM3",
+                        "name": "Mckinney Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.02906,
+                    "longitude": -83.52848,
+                    "routable_points": [
+                        {
+                            "latitude": 34.029245,
+                            "longitude": -83.528598,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "410 Mckinney Road, Jefferson, Georgia 30549, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5NGQzNmI4Ny0wN2JkLTRjZDktODkyOS0yOTg3MGFmNDNhYzc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "410 Mckinney Road",
+                "name_preferred": "410 Mckinney Road",
+                "place_formatted": "Jefferson, Georgia 30549, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.311739,
+                    33.806762
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODY1YTI5M2ItYjdjZC00YWYzLTk4ZWMtYWU3ZmE1M2NjYTRi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q492026"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGS3VvN0E",
+                        "name": "Watkinsville",
+                        "wikidata_id": "Q426428"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEdPN0E",
+                        "name": "30677"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODY1YTI5M2ItYjdjZC00YWYzLTk4ZWMtYWU3ZmE1M2NjYTRi",
+                        "name": "Phillips Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.806762,
+                    "longitude": -83.311739
+                },
+                "feature_type": "street",
+                "full_address": "Phillips Drive, Watkinsville, Georgia 30677, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODY1YTI5M2ItYjdjZC00YWYzLTk4ZWMtYWU3ZmE1M2NjYTRi",
+                "name": "Drive",
+                "name_preferred": "Phillips Drive",
+                "place_formatted": "Watkinsville, Georgia 30677, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

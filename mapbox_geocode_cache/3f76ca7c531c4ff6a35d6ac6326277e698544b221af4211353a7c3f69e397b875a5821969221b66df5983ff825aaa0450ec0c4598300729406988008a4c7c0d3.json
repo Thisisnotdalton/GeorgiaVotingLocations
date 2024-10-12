@@ -1,0 +1,351 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.363324,
+                    33.553249
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2NzY2NDgxNy0yZDcxLTQzNjItYWFjZS01YmU2ZDk1NDk4Nzg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "865",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2NzY2NDgxNy0yZDcxLTQzNjItYWFjZS01YmU2ZDk1NDk4Nzg",
+                        "name": "865 Battlecreek Road",
+                        "street_name": "Battlecreek Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHenNNN0E",
+                        "name": "Oak Forest"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZDFvN0E",
+                        "name": "Jonesboro",
+                        "wikidata_id": "Q1703398"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTJ1N0E",
+                        "name": "30236"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Njc2NjQ4MTctMmQ3MS00MzYyLWFhY2UtNWJlNmQ5NTQ5ODc4",
+                        "name": "Battlecreek Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.553249,
+                    "longitude": -84.363324,
+                    "routable_points": [
+                        {
+                            "latitude": 33.553385,
+                            "longitude": -84.363796,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "865 Battlecreek Road, Jonesboro, Georgia 30236, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2NzY2NDgxNy0yZDcxLTQzNjItYWFjZS01YmU2ZDk1NDk4Nzg",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "865 Battle Creek Rd",
+                "name_preferred": "865 Battlecreek Road",
+                "place_formatted": "Jonesboro, Georgia 30236, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.351808,
+                    33.554345
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmEwMTI1ZGYtNWQyOC00MjU3LWJlMzctMjM3NTE5N2VjNjk3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDbjVJN0E",
+                            "name": "Lake City"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUzJvN0E",
+                        "name": "Morrow",
+                        "wikidata_id": "Q3261046"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTJ1N0E",
+                        "name": "30236"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmEwMTI1ZGYtNWQyOC00MjU3LWJlMzctMjM3NTE5N2VjNjk3",
+                        "name": "Battle Creek Court"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.554345,
+                    "longitude": -84.351808
+                },
+                "feature_type": "street",
+                "full_address": "Battle Creek Court, Morrow, Georgia 30236, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmEwMTI1ZGYtNWQyOC00MjU3LWJlMzctMjM3NTE5N2VjNjk3",
+                "name": "Battle Creek Rd",
+                "name_preferred": "Battle Creek Court",
+                "place_formatted": "Morrow, Georgia 30236, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.953631,
+                    34.786186
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9EWTFJaXdpYzNSeVpXVjBJam9pUWtGVVZFeEZJRU5TUlVWTElGSkVJaXdpY0d4aFkyVWlPaUpLVDA1RlUwSlBVazhpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU16WWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "865",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9EWTFJaXdpYzNSeVpXVjBJam9pUWtGVVZFeEZJRU5TUlVWTElGSkVJaXdpY0d4aFkyVWlPaUpLVDA1RlUwSlBVazhpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU16WWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+                        "name": "865 Battle Creek",
+                        "street_name": "Battle Creek"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHhtN0E",
+                        "name": "Whitfield County",
+                        "wikidata_id": "Q491537"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTHJJN0E",
+                        "name": "Dalton",
+                        "wikidata_id": "Q996830"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaE11N0E",
+                        "name": "30721"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPRFkxSWl3aWMzUnlaV1YwSWpvaVFrRlVWRXhGSUVOU1JVVkxJRkpFSWl3aWNHeGhZMlVpT2lKS1QwNUZVMEpQVWs4aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXlNellpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpTENKMGVYQmxjeUk2SW1OdmRXNTBjbmtzY21WbmFXOXVMSEJ2YzNSamIyUmxMR1JwYzNSeWFXTjBMSEJzWVdObExHeHZZMkZzYVhSNUxHNWxhV2RvWW05eWFHOXZaQ3hoWkdSeVpYTnpJbjA6Mg",
+                        "name": "Battle Creek"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.786186,
+                    "longitude": -84.953631,
+                    "routable_points": [
+                        {
+                            "latitude": 34.786186,
+                            "longitude": -84.953631,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "865 Battle Creek, Dalton, Georgia 30721, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9EWTFJaXdpYzNSeVpXVjBJam9pUWtGVVZFeEZJRU5TUlVWTElGSkVJaXdpY0d4aFkyVWlPaUpLVDA1RlUwSlBVazhpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU16WWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlMQ0owZVhCbGN5STZJbU52ZFc1MGNua3NjbVZuYVc5dUxIQnZjM1JqYjJSbExHUnBjM1J5YVdOMExIQnNZV05sTEd4dlkyRnNhWFI1TEc1bGFXZG9ZbTl5YUc5dlpDeGhaR1J5WlhOekluMDoy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "865 Battle Creek Dr",
+                "name_preferred": "865 Battle Creek",
+                "place_formatted": "Dalton, Georgia 30721, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.354455,
+                    33.556486
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTk4MTBjYWQtZGNiZS00M2NkLWJjZjktZTliZWE2MGIyOTYz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDbjVJN0E",
+                            "name": "Lake City"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUzJvN0E",
+                        "name": "Morrow",
+                        "wikidata_id": "Q3261046"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTJ1N0E",
+                        "name": "30236"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTk4MTBjYWQtZGNiZS00M2NkLWJjZjktZTliZWE2MGIyOTYz",
+                        "name": "Battle Creek Village Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.556486,
+                    "longitude": -84.354455
+                },
+                "feature_type": "street",
+                "full_address": "Battle Creek Village Drive, Morrow, Georgia 30236, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTk4MTBjYWQtZGNiZS00M2NkLWJjZjktZTliZWE2MGIyOTYz",
+                "name": "Battle Creek Village Drive",
+                "name_preferred": "Battle Creek Village Drive",
+                "place_formatted": "Morrow, Georgia 30236, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.08303,
+                    31.969817
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzY3NmQ2ZTYtMDc2Zi00YmUyLWE0YTctOTk4MzU1OTg5MGFl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmxtN0E",
+                        "name": "Tattnall County",
+                        "wikidata_id": "Q505310"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCNDZJN0E",
+                        "name": "Glennville",
+                        "wikidata_id": "Q956735"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjZPN0E",
+                        "name": "30427"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzY3NmQ2ZTYtMDc2Zi00YmUyLWE0YTctOTk4MzU1OTg5MGFl",
+                        "name": "Slim Ray Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.969817,
+                    "longitude": -82.08303
+                },
+                "feature_type": "street",
+                "full_address": "Slim Ray Road, Glennville, Georgia 30427, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzY3NmQ2ZTYtMDc2Zi00YmUyLWE0YTctOTk4MzU1OTg5MGFl",
+                "name": "Battle Creek Road",
+                "name_preferred": "Slim Ray Road",
+                "place_formatted": "Glennville, Georgia 30427, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,327 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.294374,
+                    34.002889
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1NzMwMmYyNS1hZjRkLTRiMDYtOWZmZC1iMTEzZDFhNjg5NjY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2301",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1NzMwMmYyNS1hZjRkLTRiMDYtOWZmZC1iMTEzZDFhNjg5NjY",
+                        "name": "2301 Holcomb Bridge Road",
+                        "street_name": "Holcomb Bridge Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUGJJN0E",
+                        "name": "Roswell",
+                        "wikidata_id": "Q585176"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDd1N0E",
+                        "name": "30076"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTczMDJmMjUtYWY0ZC00YjA2LTlmZmQtYjExM2QxYTY4OTY2",
+                        "name": "Holcomb Bridge Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.002889,
+                    "longitude": -84.294374,
+                    "routable_points": [
+                        {
+                            "latitude": 34.002744,
+                            "longitude": -84.294305,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2301 Holcomb Bridge Road, Roswell, Georgia 30076, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1NzMwMmYyNS1hZjRkLTRiMDYtOWZmZC1iMTEzZDFhNjg5NjY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2301 Holcomb Bridge Road",
+                "name_preferred": "2301 Holcomb Bridge Road",
+                "place_formatted": "Roswell, Georgia 30076, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.321938,
+                    34.02125
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MmMyNGViZGEtMDZjYy00N2YyLTg4N2MtNTI5YmQxODU3M2Jl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUGJJN0E",
+                        "name": "Roswell",
+                        "wikidata_id": "Q585176"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDd1N0E",
+                        "name": "30076"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmMyNGViZGEtMDZjYy00N2YyLTg4N2MtNTI5YmQxODU3M2Jl",
+                        "name": "Holcomb Bridge Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.02125,
+                    "longitude": -84.321938
+                },
+                "feature_type": "street",
+                "full_address": "Holcomb Bridge Road, Roswell, Georgia 30076, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmMyNGViZGEtMDZjYy00N2YyLTg4N2MtNTI5YmQxODU3M2Jl",
+                "name": "Holcomb Bridge Road",
+                "name_preferred": "Holcomb Bridge Road",
+                "place_formatted": "Roswell, Georgia 30076, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.27407,
+                    33.99319
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OGI3OTdkNDgtMDlmYi00ZWI3LTllYmItZTVlOTIwMjIyNzll",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDZFNJN0E",
+                            "name": "Johns Creek"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpVdWpz",
+                        "name": "Alpharetta",
+                        "wikidata_id": "Q1003649"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGtPN0E",
+                        "name": "30022"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGI3OTdkNDgtMDlmYi00ZWI3LTllYmItZTVlOTIwMjIyNzll",
+                        "name": "Holcomb Bridge Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.99319,
+                    "longitude": -84.27407
+                },
+                "feature_type": "street",
+                "full_address": "Holcomb Bridge Road, Alpharetta, Georgia 30022, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGI3OTdkNDgtMDlmYi00ZWI3LTllYmItZTVlOTIwMjIyNzll",
+                "name": "Holcomb Bridge Road",
+                "name_preferred": "Holcomb Bridge Road",
+                "place_formatted": "Alpharetta, Georgia 30022, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.232576,
+                    33.949332
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjE1ZDcyODgtZjM5YS00YjY1LWExZmUtMTU1NmMxMDhlOTU5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBWXFvN0E",
+                            "name": "Berkeley Lake"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeVBJN0E",
+                        "name": "Peachtree Corners",
+                        "wikidata_id": "Q4846515"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.164503053509504",
+                        "name": "30071"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjE1ZDcyODgtZjM5YS00YjY1LWExZmUtMTU1NmMxMDhlOTU5",
+                        "name": "Holcomb Bridge Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.949332,
+                    "longitude": -84.232576
+                },
+                "feature_type": "street",
+                "full_address": "Holcomb Bridge Road, Peachtree Corners, Georgia 30071, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjE1ZDcyODgtZjM5YS00YjY1LWExZmUtMTU1NmMxMDhlOTU5",
+                "name": "Holcomb Bridge Road",
+                "name_preferred": "Holcomb Bridge Road",
+                "place_formatted": "Peachtree Corners, Georgia 30071, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.253983,
+                    33.960195
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Y2JhOGFiMDQtMGNiZS00N2UyLWJlNzMtNjA3NTA4NzJlOWUz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBWXFvN0E",
+                            "name": "Berkeley Lake"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeVBJN0E",
+                        "name": "Peachtree Corners",
+                        "wikidata_id": "Q4846515"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZURPN0E",
+                        "name": "30092"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2JhOGFiMDQtMGNiZS00N2UyLWJlNzMtNjA3NTA4NzJlOWUz",
+                        "name": "Holcomb Bridge Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.960195,
+                    "longitude": -84.253983
+                },
+                "feature_type": "street",
+                "full_address": "Holcomb Bridge Rd, Peachtree Corners, Georgia 30092, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2JhOGFiMDQtMGNiZS00N2UyLWJlNzMtNjA3NTA4NzJlOWUz",
+                "name": "Holcomb Bridge Rd",
+                "name_preferred": "Holcomb Bridge Rd",
+                "place_formatted": "Peachtree Corners, Georgia 30092, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

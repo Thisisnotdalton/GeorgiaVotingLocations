@@ -1,0 +1,148 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.23763,
+                    34.282844
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyYTg0ZGM0Mi1lZjExLTQxMTktOTg2Ny02MmQ3ZmIxZGYyOTU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2901",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyYTg0ZGM0Mi1lZjExLTQxMTktOTg2Ny02MmQ3ZmIxZGYyOTU",
+                        "name": "2901 Garden Lakes Boulevard",
+                        "street_name": "Garden Lakes Boulevard"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkWWJz",
+                        "name": "Floyd County",
+                        "wikidata_id": "Q486389"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTjFvN0E",
+                        "name": "Rome",
+                        "wikidata_id": "Q6580"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWpPN0E",
+                        "name": "30165"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmE4NGRjNDItZWYxMS00MTE5LTk4NjctNjJkN2ZiMWRmMjk1",
+                        "name": "Garden Lakes Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.282844,
+                    "longitude": -85.23763,
+                    "routable_points": [
+                        {
+                            "latitude": 34.283036,
+                            "longitude": -85.238053,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2901 Garden Lakes Boulevard, Rome, Georgia 30165, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyYTg0ZGM0Mi1lZjExLTQxMTktOTg2Ny02MmQ3ZmIxZGYyOTU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "2901 Garden Lakes Blvd NW",
+                "name_preferred": "2901 Garden Lakes Boulevard",
+                "place_formatted": "Rome, Georgia 30165, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.226585,
+                    34.285622
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTIzM2RmZmEtNTk2Ni00MWQ5LWJiOGEtNzQxMWRhOGU3YjQ1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkWWJz",
+                        "name": "Floyd County",
+                        "wikidata_id": "Q486389"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMVFlzN0E",
+                        "name": "Garden Lakes"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTjFvN0E",
+                        "name": "Rome",
+                        "wikidata_id": "Q6580"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWpPN0E",
+                        "name": "30165"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTIzM2RmZmEtNTk2Ni00MWQ5LWJiOGEtNzQxMWRhOGU3YjQ1",
+                        "name": "Garden Lakes Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.285622,
+                    "longitude": -85.226585
+                },
+                "feature_type": "street",
+                "full_address": "Garden Lakes Boulevard, Rome, Georgia 30165, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTIzM2RmZmEtNTk2Ni00MWQ5LWJiOGEtNzQxMWRhOGU3YjQ1",
+                "name": "Garden Lakes Blvd NW",
+                "name_preferred": "Garden Lakes Boulevard",
+                "place_formatted": "Rome, Georgia 30165, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

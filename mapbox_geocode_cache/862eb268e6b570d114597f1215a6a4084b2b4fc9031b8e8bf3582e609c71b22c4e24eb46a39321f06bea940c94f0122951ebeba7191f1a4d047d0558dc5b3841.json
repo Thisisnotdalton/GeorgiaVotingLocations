@@ -1,0 +1,87 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.65566,
+                    33.779357
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyZTEzMGMwNi1lMWY1LTRhOTYtYWJiNS00MjAzNTAwZmU0MWQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "7301",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyZTEzMGMwNi1lMWY1LTRhOTYtYWJiNS00MjAzNTAwZmU0MWQ",
+                        "name": "7301 Groovers Lake Road",
+                        "street_name": "Groovers Lake Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDejlJN0E",
+                        "name": "Lithia Springs",
+                        "wikidata_id": "Q3130627"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVJ1N0E",
+                        "name": "30122"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmUxMzBjMDYtZTFmNS00YTk2LWFiYjUtNDIwMzUwMGZlNDFk",
+                        "name": "Groovers Lake Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 33.779357,
+                    "longitude": -84.65566,
+                    "routable_points": [
+                        {
+                            "latitude": 33.779354,
+                            "longitude": -84.65508,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "7301 Groovers Lake Road, Lithia Springs, Georgia 30122, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyZTEzMGMwNi1lMWY1LTRhOTYtYWJiNS00MjAzNTAwZmU0MWQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "7301 Groovers Lake Road",
+                "name_preferred": "7301 Groovers Lake Road",
+                "place_formatted": "Lithia Springs, Georgia 30122, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

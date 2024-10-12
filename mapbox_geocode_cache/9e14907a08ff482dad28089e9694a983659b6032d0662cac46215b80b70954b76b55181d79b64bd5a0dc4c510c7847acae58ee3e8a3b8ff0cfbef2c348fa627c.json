@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.168229,
+                    34.340328
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiZGVmNTYwNS0yOTJjLTRkOTItODMzYi0wODk2MGQ1MzIxYmQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "102",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiZGVmNTYwNS0yOTJjLTRkOTItODMzYi0wODk2MGQ1MzIxYmQ",
+                        "name": "102 North Floyd Park Road",
+                        "street_name": "North Floyd Park Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkWWJz",
+                        "name": "Floyd County",
+                        "wikidata_id": "Q486389"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTjFvN0E",
+                        "name": "Rome",
+                        "wikidata_id": "Q6580"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWpPN0E",
+                        "name": "30165"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmRlZjU2MDUtMjkyYy00ZDkyLTgzM2ItMDg5NjBkNTMyMWJk",
+                        "name": "North Floyd Park Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.340328,
+                    "longitude": -85.168229,
+                    "routable_points": [
+                        {
+                            "latitude": 34.339897,
+                            "longitude": -85.16826,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "102 North Floyd Park Road, Rome, Georgia 30165, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiZGVmNTYwNS0yOTJjLTRkOTItODMzYi0wODk2MGQ1MzIxYmQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "102 North Floyd Park Road",
+                "name_preferred": "102 North Floyd Park Road",
+                "place_formatted": "Rome, Georgia 30165, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.190408,
+                    34.222679
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWZkNWZjMzEtZmFjOS00OGE5LTkwZmEtMzE0NGMzMmJmNTFm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkWWJz",
+                        "name": "Floyd County",
+                        "wikidata_id": "Q486389"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTjFvN0E",
+                        "name": "Rome",
+                        "wikidata_id": "Q6580"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWh1N0E",
+                        "name": "30161"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWZkNWZjMzEtZmFjOS00OGE5LTkwZmEtMzE0NGMzMmJmNTFm",
+                        "name": "Park Road Southwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.222679,
+                    "longitude": -85.190408
+                },
+                "feature_type": "street",
+                "full_address": "Park Road Southwest, Rome, Georgia 30161, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWZkNWZjMzEtZmFjOS00OGE5LTkwZmEtMzE0NGMzMmJmNTFm",
+                "name": "Park Rd",
+                "name_preferred": "Park Road Southwest",
+                "place_formatted": "Rome, Georgia 30161, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.173688,
+                    34.260564
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZWpPN0E",
+            "properties": {
+                "bbox": [
+                    -85.462207,
+                    34.180522,
+                    -85.077248,
+                    34.432181
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkWWJz",
+                        "name": "Floyd County",
+                        "wikidata_id": "Q486389"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTjFvN0E",
+                        "name": "Rome",
+                        "wikidata_id": "Q6580"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWpPN0E",
+                        "name": "30165"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.260564,
+                    "longitude": -85.173688
+                },
+                "feature_type": "postcode",
+                "full_address": "Rome, Georgia 30165, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZWpPN0E",
+                "name": "30165",
+                "name_preferred": "30165",
+                "place_formatted": "Rome, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.17168,
+                    34.254658
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpFTjFvN0E",
+            "properties": {
+                "bbox": [
+                    -85.462207,
+                    34.132568,
+                    -85.015193,
+                    34.432181
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkWWJz",
+                        "name": "Floyd County",
+                        "wikidata_id": "Q486389"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTjFvN0E",
+                        "name": "Rome",
+                        "wikidata_id": "Q6580"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.254658,
+                    "longitude": -85.17168
+                },
+                "feature_type": "place",
+                "full_address": "Rome, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpFTjFvN0E",
+                "name": "Rome",
+                "name_preferred": "Rome",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.040588,
+                    34.405406
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDAxNjM1ZjAtMDE1Yi00M2Q4LWI2YzgtNjZjZGI2YmZhYjcy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoT2Jz",
+                        "name": "Gordon County",
+                        "wikidata_id": "Q200696"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpENVZvN0E",
+                        "name": "Plainville",
+                        "wikidata_id": "Q2640635"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFJPN0E",
+                        "name": "30733"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDAxNjM1ZjAtMDE1Yi00M2Q4LWI2YzgtNjZjZGI2YmZhYjcy",
+                        "name": "Floyd Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.405406,
+                    "longitude": -85.040588
+                },
+                "feature_type": "street",
+                "full_address": "Floyd Drive, Plainville, Georgia 30733, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDAxNjM1ZjAtMDE1Yi00M2Q4LWI2YzgtNjZjZGI2YmZhYjcy",
+                "name": "Floyd",
+                "name_preferred": "Floyd Drive",
+                "place_formatted": "Plainville, Georgia 30733, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,148 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.403645,
+                    33.944951
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjZGIyZTEzZC0wZjNjLTQzNDUtOTJlOC0zZWJjZTQ5MGNhODU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2025",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjZGIyZTEzZC0wZjNjLTQzNDUtOTJlOC0zZWJjZTQ5MGNhODU",
+                        "name": "2025 Baxter Street",
+                        "street_name": "Baxter Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3d1N0E",
+                        "name": "30606"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2RiMmUxM2QtMGYzYy00MzQ1LTkyZTgtM2ViY2U0OTBjYTg1",
+                        "name": "Baxter Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.944951,
+                    "longitude": -83.403645,
+                    "routable_points": [
+                        {
+                            "latitude": 33.945317,
+                            "longitude": -83.403527,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2025 Baxter Street, Athens, Georgia 30606, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjZGIyZTEzZC0wZjNjLTQzNDUtOTJlOC0zZWJjZTQ5MGNhODU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2025 Baxter Street",
+                "name_preferred": "2025 Baxter Street",
+                "place_formatted": "Athens, Georgia 30606, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.353141,
+                    33.940335
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODRiYzNkY2QtOGIxZi00ZTM1LWEyMmEtOTM5MjcxYjBlYTNk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJc09zN0E",
+                        "name": "Shoalsview"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3dPN0E",
+                        "name": "30605"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODRiYzNkY2QtOGIxZi00ZTM1LWEyMmEtOTM5MjcxYjBlYTNk",
+                        "name": "Baxter St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.940335,
+                    "longitude": -83.353141
+                },
+                "feature_type": "street",
+                "full_address": "Baxter St, Athens, Georgia 30605, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODRiYzNkY2QtOGIxZi00ZTM1LWEyMmEtOTM5MjcxYjBlYTNk",
+                "name": "Baxter St",
+                "name_preferred": "Baxter St",
+                "place_formatted": "Athens, Georgia 30605, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

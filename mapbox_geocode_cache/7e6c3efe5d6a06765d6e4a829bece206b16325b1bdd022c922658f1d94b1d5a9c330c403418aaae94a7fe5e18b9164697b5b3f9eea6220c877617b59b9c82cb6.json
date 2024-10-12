@@ -1,0 +1,86 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.897843,
+                    32.061481
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0ODI0MDY2OC03OTFlLTRkZTItYjU5NS02NzY4MmE4YzU1N2M",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "91",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0ODI0MDY2OC03OTFlLTRkZTItYjU5NS02NzY4MmE4YzU1N2M",
+                        "name": "91 Telfair Avenue",
+                        "street_name": "Telfair Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnJHN0E",
+                        "name": "Telfair County",
+                        "wikidata_id": "Q691614"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERlFJN0E",
+                        "name": "McRae Helena"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUd1N0E",
+                        "name": "31055"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDgyNDA2NjgtNzkxZS00ZGUyLWI1OTUtNjc2ODJhOGM1NTdj",
+                        "name": "Telfair Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.061481,
+                    "longitude": -82.897843,
+                    "routable_points": [
+                        {
+                            "latitude": 32.061603,
+                            "longitude": -82.898283,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "91 Telfair Avenue, McRae Helena, Georgia 31055, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0ODI0MDY2OC03OTFlLTRkZTItYjU5NS02NzY4MmE4YzU1N2M",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "91 Telfair Avenue",
+                "name_preferred": "91 Telfair Avenue",
+                "place_formatted": "McRae Helena, Georgia 31055, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

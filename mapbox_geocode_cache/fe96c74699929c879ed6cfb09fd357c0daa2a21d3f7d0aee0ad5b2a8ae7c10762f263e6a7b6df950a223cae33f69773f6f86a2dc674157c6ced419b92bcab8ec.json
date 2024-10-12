@@ -1,0 +1,318 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.897843,
+                    32.061481
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0ODI0MDY2OC03OTFlLTRkZTItYjU5NS02NzY4MmE4YzU1N2M",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "91",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0ODI0MDY2OC03OTFlLTRkZTItYjU5NS02NzY4MmE4YzU1N2M",
+                        "name": "91 Telfair Avenue",
+                        "street_name": "Telfair Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnJHN0E",
+                        "name": "Telfair County",
+                        "wikidata_id": "Q691614"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERlFJN0E",
+                        "name": "McRae Helena"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUd1N0E",
+                        "name": "31055"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDgyNDA2NjgtNzkxZS00ZGUyLWI1OTUtNjc2ODJhOGM1NTdj",
+                        "name": "Telfair Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.061481,
+                    "longitude": -82.897843,
+                    "routable_points": [
+                        {
+                            "latitude": 32.061603,
+                            "longitude": -82.898283,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "91 Telfair Avenue, McRae Helena, Georgia 31055, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0ODI0MDY2OC03OTFlLTRkZTItYjU5NS02NzY4MmE4YzU1N2M",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "medium",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "91 Telfair Avenue",
+                "name_preferred": "91 Telfair Avenue",
+                "place_formatted": "McRae Helena, Georgia 31055, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.152296,
+                    31.608614
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWIyYWNjOTAtNzU4YS00MjY2LTk0OTgtNmVkNTY1MDI5ZWQ3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaT2Jz",
+                        "name": "Dougherty County",
+                        "wikidata_id": "Q176480"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSktNN0E",
+                        "name": "Lakeside"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLQ2pz",
+                        "name": "Albany",
+                        "wikidata_id": "Q285599"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanV1N0E",
+                        "name": "31701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWIyYWNjOTAtNzU4YS00MjY2LTk0OTgtNmVkNTY1MDI5ZWQ3",
+                        "name": "Tellfair Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.608614,
+                    "longitude": -84.152296
+                },
+                "feature_type": "street",
+                "full_address": "Tellfair Avenue, Albany, Georgia 31701, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWIyYWNjOTAtNzU4YS00MjY2LTk0OTgtNmVkNTY1MDI5ZWQ3",
+                "name": "Telfair Ave",
+                "name_preferred": "Tellfair Avenue",
+                "place_formatted": "Albany, Georgia 31701, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.50361,
+                    33.463053
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTYwNTk2NzUtZmQ4ZC00MzYyLThmMGEtMDEyM2MwMTMwNTA0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2QWJz",
+                        "name": "McDuffie County",
+                        "wikidata_id": "Q492066"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMjdJN0E",
+                        "name": "Thomson",
+                        "wikidata_id": "Q2784008"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGt1N0E",
+                        "name": "30824"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTYwNTk2NzUtZmQ4ZC00MzYyLThmMGEtMDEyM2MwMTMwNTA0",
+                        "name": "Johnson Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.463053,
+                    "longitude": -82.50361
+                },
+                "feature_type": "street",
+                "full_address": "Johnson Avenue, Thomson, Georgia 30824, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTYwNTk2NzUtZmQ4ZC00MzYyLThmMGEtMDEyM2MwMTMwNTA0",
+                "name": "Avenue",
+                "name_preferred": "Johnson Avenue",
+                "place_formatted": "Thomson, Georgia 30824, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.069917,
+                    32.105499
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmE2OGQ4NWUtNDMzOC00MGFmLWJkOWEtZjQxZGM3ZTU4ZmQy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpZNGJz",
+                        "name": "Dodge County",
+                        "wikidata_id": "Q115272"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBM0FvN0E",
+                        "name": "Chauncey",
+                        "wikidata_id": "Q2356669"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.6031418881656878",
+                        "name": "31023"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmE2OGQ4NWUtNDMzOC00MGFmLWJkOWEtZjQxZGM3ZTU4ZmQy",
+                        "name": "Mcrae Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.105499,
+                    "longitude": -83.069917
+                },
+                "feature_type": "street",
+                "full_address": "Mcrae Highway, Chauncey, Georgia 31023, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmE2OGQ4NWUtNDMzOC00MGFmLWJkOWEtZjQxZGM3ZTU4ZmQy",
+                "name": "Mcrae Highway",
+                "name_preferred": "Mcrae Highway",
+                "place_formatted": "Chauncey, Georgia 31023, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.798906,
+                    33.576126
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDRjNzQxYTYtZWYyOS00NDEwLWI2YjgtNjI5ZDYxMDlhZmRi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBc2Jz",
+                        "name": "Aiken County",
+                        "wikidata_id": "Q404898"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIOGpz",
+                        "name": "Aiken",
+                        "wikidata_id": "Q404887"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.5974141237163816",
+                        "name": "29829"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDRjNzQxYTYtZWYyOS00NDEwLWI2YjgtNjI5ZDYxMDlhZmRi",
+                        "name": "A Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.576126,
+                    "longitude": -81.798906
+                },
+                "feature_type": "street",
+                "full_address": "A Avenue, Aiken, South Carolina 29829, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDRjNzQxYTYtZWYyOS00NDEwLWI2YjgtNjI5ZDYxMDlhZmRi",
+                "name": "Avenue",
+                "name_preferred": "A Avenue",
+                "place_formatted": "Aiken, South Carolina 29829, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

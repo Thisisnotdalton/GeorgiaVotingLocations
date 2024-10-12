@@ -1,0 +1,87 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.75962,
+                    34.792017
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphMjU4YjY2NC00Y2VhLTQ3MWMtOTdhOC02NzdlNzQ3ODY2NDE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "651",
+                        "mapbox_id": "dXJuOm1ieGFkcjphMjU4YjY2NC00Y2VhLTQ3MWMtOTdhOC02NzdlNzQ3ODY2NDE",
+                        "name": "651 Hyden Tyler Road",
+                        "street_name": "Hyden Tyler Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovY2Jz",
+                        "name": "Murray County",
+                        "wikidata_id": "Q493074"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBMjNvN0E",
+                        "name": "Chatsworth",
+                        "wikidata_id": "Q2843015"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEpPN0E",
+                        "name": "30705"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTI1OGI2NjQtNGNlYS00NzFjLTk3YTgtNjc3ZTc0Nzg2NjQx",
+                        "name": "Hyden Tyler Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.792017,
+                    "longitude": -84.75962,
+                    "routable_points": [
+                        {
+                            "latitude": 34.791761,
+                            "longitude": -84.759959,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "651 Hyden Tyler Road, Chatsworth, Georgia 30705, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphMjU4YjY2NC00Y2VhLTQ3MWMtOTdhOC02NzdlNzQ3ODY2NDE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "651 Hyden Tyler Road",
+                "name_preferred": "651 Hyden Tyler Road",
+                "place_formatted": "Chatsworth, Georgia 30705, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
