@@ -209,7 +209,7 @@ def fetch_early_voting_locations(
     return locations
 
 
-address_re = re.compile(r'(?P<address_number>\d*)\s+(?P<street>[^,]+),\s*(?P<place>[A-Za-z]+)')
+address_re = re.compile(r'(?P<address_number>[\da-zA-Z]*)\s+(?P<street>[^,]+),\s*(?P<place>[A-Za-z\s]+)')
 postcode_re = re.compile(r'\s+(\d+[- ]?\d*)$')
 
 
