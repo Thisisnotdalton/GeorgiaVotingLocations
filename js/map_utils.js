@@ -31,6 +31,7 @@ class Map {
     }
 
     loadLayer(layerName, geojson) {
+        this.unloadLayer(layerName);
         this.#map.addSource(layerName, {
             type: 'geojson',
             data: geojson
@@ -40,8 +41,8 @@ class Map {
 
     unloadLayer(layerName) {
         if (layerName in this.#layers) {
-            this.#map.removeSource(layerName);
             this.#map.removeLayer(layerName);
+            this.#map.removeSource(layerName);
             delete this.#layers[layerName];
         }
     }

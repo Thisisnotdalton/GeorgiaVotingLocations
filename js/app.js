@@ -38,8 +38,9 @@ class ScenarioSelector {
         this.#selectionChangedCallback();
     }
 
-    selectCounty(countyName) {
-        countyName = this.#data.getCounties().normalize(countyName);
+    async selectCounty(countyName) {
+        let counties = await this.#data.getCounties();
+        countyName = counties.normalize(countyName);
         if (countyName !== this.#selectedCounty) {
             this.#selectedCounty = countyName;
             this.#selectionChangedCallback();
@@ -100,8 +101,6 @@ export async function Start() {
         let centroid = await selector.getCentroid();
         map.zoomTo(selection.county === DataSet.AllCountiesID() ? stateZoomLevel : countyZoomLevel);
         map.centerMap(centroid[0], centroid[1]);
-        // Unload any previous polling places.
-        map.unloadLayer(pollingLocationLayerID)
         // Load county polling places (or state if no county selected)
         let pollingPlaces = await scenarios.getPollingPlaces();
         map.loadLayer(
@@ -135,6 +134,14 @@ export async function Start() {
                 'line-width': 1,
             }
         });
+
+    const queryString = window.location.search;
+    console.log(queryString);
+    const urlParams = new URLSearchParams(queryString);
+    const county = urlParams.get('county')
+    if (county) {
+        await scenarios.selectCounty(county);
+    }
 }
 
 window.onload = async function () {
