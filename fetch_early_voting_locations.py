@@ -249,8 +249,7 @@ def geocode_location(location: dict):
 def geocode_locations(locations: typing.List[dict], county_name: str = '', max_attempts: int = 3,
                       retry_delay: float = 3) -> bool:
     updated_geocodes = False
-    needs_geocode = list(
-        filter(lambda _x: 'lat' not in locations[_x] or 'lng' not in locations[_x], range(len(locations))))
+    needs_geocode = list(range(len(locations)))
     for i in tqdm(needs_geocode, desc=f'Geocoding locations for {county_name}'):
         location = locations[i]
         needs_geocode = 'lat' not in location or 'lng' not in location
