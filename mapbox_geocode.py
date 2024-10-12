@@ -98,6 +98,11 @@ def mapbox_geocode(access_token: str = None, query: str = None, address_number: 
 def geocode_address(address: typing.Union[str, dict], comment: str = None, interactive: bool = False) -> typing.Tuple[
     float, float]:
     if isinstance(address, dict):
+        address = dict(address)
+        if isinstance(address.get('postcode'), str):
+            address['postcode'] = address['postcode'].replace(' ', '-')
+            if len(address['postcode']) > 5 and address['postcode'].endswith('-0000'):
+                address['postcode'] = address['postcode'][:-5]
         kwargs = {
             k: address.get(k) for k in set(address.keys()).intersection(STRUCTURED_ADDRESS_KWARGS)
         }
