@@ -86,11 +86,16 @@ class StringValueSet {
 class DataSet {
     #jsonCache;
     #electionID = 'a0p3d00000LWdF5AAL';
-    #stateName='Georgia';
+    #stateName = 'Georgia';
     #dataPath;
     #counties = null;
     #scenarioNames = null;
     #scenarioDates = null;
+    static #allCountiesID = 'ALL_COUNTIES'
+
+    static AllCountiesID() {
+        return this.#allCountiesID;
+    }
 
     constructor() {
         this.#jsonCache = new JSONCache();
@@ -100,24 +105,24 @@ class DataSet {
     async getCounties() {
         if (this.#counties == null) {
             let values = await this.#jsonCache.getJSON(`${this.#dataPath}/counties.json`);
-            this.#counties = new StringValueSet(values, 'County', 'all_voting_locations', 'upper')
+            this.#counties = new StringValueSet(values, 'County', DataSet.AllCountiesID(), 'upper')
         }
         return this.#counties;
     }
-    
-    async #getCountyBoundaries(){
+
+    async #getCountyBoundaries() {
         return await this.#jsonCache.getJSON(`${this.#dataPath}/county_boundaries/${this.#stateName}.geojson`);
     }
-    
-    async #getCountyCentroids(){
+
+    async #getCountyCentroids() {
         return await this.#jsonCache.getJSON(`${this.#dataPath}/county_boundaries/${this.#stateName}_centroids.geojson`);
     }
-    
-    async #filterCountyGeometry(countyName, centroids = false, mustMatch=true){
+
+    async #filterCountyGeometry(countyName, centroids = false, mustMatch = true) {
         let matches = [];
-        let data = await (centroids? this.#getCountyCentroids() : this.#getCountyBoundaries());
-        for (const feature of data['features']){
-            if ((feature['properties']['NAME'] === countyName) === mustMatch){
+        let data = await (centroids ? this.#getCountyCentroids() : this.#getCountyBoundaries());
+        for (const feature of data['features']) {
+            if ((feature['properties']['NAME'] === countyName) === mustMatch) {
                 matches.push(feature);
             }
         }
@@ -125,16 +130,16 @@ class DataSet {
         results['features'] = matches;
         return Promise.resolve(results);
     }
-    
-    async getCountyGeometry(countyName, centroid=false){
+
+    async getCountyGeometry(countyName, centroid = false) {
         return this.#filterCountyGeometry(countyName, centroid);
     }
-    
-    async getAllCountyGeometry(centroid=false){
+
+    async getAllCountyGeometry(centroid = false) {
         return this.#filterCountyGeometry('', centroid, false);
     }
-    
-    async getStateGeometry(centroid=false){
+
+    async getStateGeometry(centroid = false) {
         return this.#filterCountyGeometry('', centroid);
     }
 
@@ -180,17 +185,27 @@ class DataSet {
         scenarioName = this.#scenarioNames.normalize(scenarioName);
         scenarioDate = this.#scenarioDates[scenarioName].normalize(scenarioDate);
         countyName = this.#counties.normalize(countyName);
-        return Promise.resolve((await this.#getAllScenariosData(scenarioName))[scenarioDate][countyName]);
+        let scenariosData = await this.#getAllScenariosData(scenarioName);
+        scenariosData = scenariosData[scenarioDate];
+        scenariosData = scenariosData[countyName];
+        return Promise.resolve(scenariosData);
     }
 
-    async getPollingPlaces(scenarioName, scenarioDate, countyName, geojson = false) {
+    async getPollingPlaces(scenarioName, scenarioDate, countyName) {
         let pollingPlaces = [];
-        const countyJSON = await (geojson ? this.#getGeoJSON(countyName) : this.#getJSON(countyName));
+        const countyJSON = await this.#getGeoJSON(countyName);
         const availablePollingPlaces = await this.#getScenarioData(scenarioName, scenarioDate, countyName);
+        let result = structuredClone(countyJSON);
         for (let pollingPlaceIndex of availablePollingPlaces) {
-            pollingPlaces.push(countyJSON[pollingPlaceIndex]);
+            let pollingPlace = countyJSON['features'][pollingPlaceIndex];
+            if (pollingPlace) {
+                pollingPlaces.push(pollingPlace);
+            }else{
+                console.log(`Missing polling place at index: [${countyName}][${pollingPlaceIndex}]`);
+            }
         }
-        return Promise.resolve(pollingPlaces);
+        result['features'] = pollingPlaces;
+        return Promise.resolve(result);
     }
 }
 

@@ -62,13 +62,13 @@ class ScenarioSelector {
         }
     }
 
-    async getPollingPlaces(geojson = false) {
-        return this.#data.getPollingPlaces(this.#selectedScenarioName, this.#selectedDate, this.#selectedCounty, geojson);
+    async getPollingPlaces() {
+        return this.#data.getPollingPlaces(this.#selectedScenarioName, this.#selectedDate, this.#selectedCounty);
     }
 
     async getCentroid() {
         let centroid = null;
-        if (this.#selectedCounty === 'all_voting_locations') {
+        if (this.#selectedCounty === DataSet.AllCountiesID()) {
             centroid = await this.#data.getStateGeometry(true);
         } else {
             centroid = await this.#data.getCountyGeometry(this.#selectedCounty, true);
@@ -88,6 +88,8 @@ class ScenarioSelector {
 export async function Start() {
     const stateZoomLevel = 6.5;
     const countyZoomLevel = 7;
+    const boundariesLayerID = 'county_boundaries';
+    const pollingLocationLayerID = 'polling_places';
     let map = new Map("map", 'https://tiles.openfreemap.org/styles/liberty', [0, 0], 8);
 
     let scenarios = new ScenarioSelector();
@@ -96,17 +98,34 @@ export async function Start() {
         let selection = await selector.getSelection();
         console.log(selection);
         let centroid = await selector.getCentroid();
-        map.zoomTo(selection.county === 'all_voting_locations' ? stateZoomLevel : countyZoomLevel);
+        map.zoomTo(selection.county === DataSet.AllCountiesID() ? stateZoomLevel : countyZoomLevel);
         map.centerMap(centroid[0], centroid[1]);
+        // Unload any previous polling places.
+        map.unloadLayer(pollingLocationLayerID)
+        // Load county polling places (or state if no county selected)
+        let pollingPlaces = await scenarios.getPollingPlaces();
+        map.loadLayer(
+            pollingLocationLayerID, pollingPlaces);
+        map.displayLayer(pollingLocationLayerID,
+            {
+                'type': 'circle',
+                'layout': {},
+                'paint': {
+                    'circle-color': '#3FF',
+                    'circle-opacity': 0.8,
+                    'circle-radius': 5,
+                    'circle-stroke-width': 1,
+                    'circle-stroke-color': '#333'
+                }
+            });
     }
 
-    // Load county polling places (or state if no county selected)
     scenarios.appendCallSelectionChangedCallback(onSelectionChanged);
     await scenarios.initialize();
     // Load all county boundaries into layer.
     map.loadLayer(
-        'county_boundaries', await scenarios.getCountyBoundaries());
-    map.displayLayer('county_boundaries',
+        boundariesLayerID, await scenarios.getCountyBoundaries());
+    map.displayLayer(boundariesLayerID,
         {
             'type': 'line',
             'layout': {},

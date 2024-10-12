@@ -35,11 +35,12 @@ class Map {
             type: 'geojson',
             data: geojson
         });
+        this.#layers[layerName] = geojson;
     }
 
     unloadLayer(layerName) {
-        this.#map.removeSource(layerName);
         if (layerName in this.#layers) {
+            this.#map.removeSource(layerName);
             this.#map.removeLayer(layerName);
             delete this.#layers[layerName];
         }
@@ -53,7 +54,6 @@ class Map {
         for (let [key, value] of Object.entries(style_options)) {
             layer[key] = value;
         }
-        this.#layers[layerName] = enabled;
         if (enabled) {
             this.#map.addLayer(layer);
         } else if (this.#layers[layerName]) {
