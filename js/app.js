@@ -87,12 +87,16 @@ class ScenarioSelector {
 
 export async function Start() {
     const stateZoomLevel = 6.5;
-    const countyZoomLevel = 7;
+    const countyZoomLevel = 8.5;
     const boundariesLayerID = 'county_boundaries';
-    const pollingLocationLayerID = 'polling_places';
-    let map = new Map("map", 'https://tiles.openfreemap.org/styles/liberty', [0, 0], 8);
-
     let scenarios = new ScenarioSelector();
+
+    const pollingLocationLayerID = 'polling_places';
+    await scenarios.initialize();
+
+    let map = new Map("map", 'https://tiles.openfreemap.org/styles/liberty',
+        await scenarios.getCentroid(),
+        stateZoomLevel);
 
     async function onSelectionChanged(selector) {
         let selection = await selector.getSelection();
@@ -122,7 +126,6 @@ export async function Start() {
     }
 
     scenarios.appendCallSelectionChangedCallback(onSelectionChanged);
-    await scenarios.initialize();
     // Load all county boundaries into layer.
     map.loadLayer(
         boundariesLayerID, await scenarios.getCountyBoundaries());
