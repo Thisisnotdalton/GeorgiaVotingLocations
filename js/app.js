@@ -79,11 +79,15 @@ class ScenarioSelector {
         return centroid;
     }
 
+    async getCountyBoundaries() {
+        return this.#data.getAllCountyGeometry(false);
+    }
+
 }
 
 export async function Start() {
-    const stateZoomLevel = 5;
-    const countyZoomLevel = 6;
+    const stateZoomLevel = 6.5;
+    const countyZoomLevel = 7;
     let map = new Map("map", 'https://tiles.openfreemap.org/styles/liberty', [0, 0], 8);
 
     let scenarios = new ScenarioSelector();
@@ -96,8 +100,22 @@ export async function Start() {
         map.centerMap(centroid[0], centroid[1]);
     }
 
+    // Load county polling places (or state if no county selected)
+
     scenarios.appendCallSelectionChangedCallback(onSelectionChanged);
     await scenarios.initialize();
+    // Load all county boundaries into layer.
+    map.loadLayer(
+        'county_boundaries', await scenarios.getCountyBoundaries());
+    map.displayLayer('county_boundaries',
+        {
+            'type': 'fill',
+            'layout': {},
+            'paint': {
+                'fill-color': '#088',
+                'fill-opacity': 0.8
+            }
+        });
 }
 
 window.onload = async function () {

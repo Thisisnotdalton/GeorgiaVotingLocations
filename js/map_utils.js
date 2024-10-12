@@ -31,15 +31,34 @@ class Map {
     }
 
     loadLayer(layerName, geojson) {
-
+        this.#map.addSource(layerName, {
+            type: 'geojson',
+            data: geojson
+        });
     }
 
     unloadLayer(layerName) {
-
+        this.#map.removeSource(layerName);
+        if (layerName in this.#layers) {
+            this.#map.removeLayer(layerName);
+            delete this.#layers[layerName];
+        }
     }
 
-    displayLayer(layerName, enabled = true) {
-
+    displayLayer(layerName, style_options, enabled = true) {
+        let layer = {
+            id: layerName,
+            source: layerName,
+        };
+        for (let [key, value] of Object.entries(style_options)) {
+            layer[key] = value;
+        }
+        this.#layers[layerName] = enabled;
+        if (enabled) {
+            this.#map.addLayer(layer);
+        } else if (this.#layers[layerName]) {
+            this.#map.removeLayer(layerName);
+        }
     }
 }
 
