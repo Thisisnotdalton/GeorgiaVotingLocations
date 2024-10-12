@@ -159,7 +159,7 @@ def geocode_address(address: typing.Union[str, dict], comment: str = None, inter
             results = dropped_low_confidence_results
     if len(results) > 1:
         keep_only_postcode_results = list(
-            filter(lambda _x: _x['properties'].get('match_code', {}).get('postcode') != 'matched', results))
+            filter(lambda _x: _x['properties'].get('match_code', {}).get('postcode') == 'matched', results))
         if 0 < len(keep_only_postcode_results) < len(results):
             print('Dropping matches with postcode mismatch.')
             results = keep_only_postcode_results
