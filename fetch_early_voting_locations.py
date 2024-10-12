@@ -209,7 +209,7 @@ def fetch_early_voting_locations(
     return locations
 
 
-address_re = re.compile(r'(?P<address_number>[\da-zA-Z]*)\s+(?P<street>[^,]+),\s*(?P<place>[A-Za-z\s]+)')
+address_re = re.compile(r'(?P<address_number>[\da-zA-Z]*)\s+(?P<street>[^,]+)((,[^,]+,)|,)\s*(?P<place>[A-Za-z\s]+)$')
 postcode_re = re.compile(r'\s+(\d+[- ]?\d*)$')
 
 
@@ -223,9 +223,9 @@ def geocode_location(location: dict):
     assert str(address).lower().endswith(' ga'), f'Failed to parse state for address: {address}!'
     region = 'GA'
     address = address[:-len(region)].strip()
-    address_components = address_re.search(address)
     while address.endswith(','):
         address = address.rstrip(',')
+    address_components = address_re.search(address)
     address += f', {region}, {postcode}'
     if address_components:
         address_query = dict(
