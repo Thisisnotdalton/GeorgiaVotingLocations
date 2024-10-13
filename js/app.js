@@ -52,7 +52,7 @@ class ScenarioSelector {
         }
     }
 
-    #selectionChangedCallback() {
+    async #selectionChangedCallback() {
         if (this.#countySelectElement) {
             for (const option of this.#countySelectElement.options) {
                 if (option.value === this.#selectedCounty) {
@@ -70,15 +70,16 @@ class ScenarioSelector {
             }
         }
         this.clearDateSelection();
-        this.#updateDateSelection();
-        if (this.#dateSelectElement) {
-            for (const option of this.#dateSelectElement.options) {
-                if (option.value === this.#selectedDate) {
-                    option.selected = true;
-                    break;
+        await this.#updateDateSelection().then(() => {
+            if (this.#dateSelectElement) {
+                for (const option of this.#dateSelectElement.options) {
+                    if (option.value === this.#selectedDate) {
+                        option.selected = true;
+                        break;
+                    }
                 }
             }
-        }
+        });
         for (const callback of this.#callbacks) {
             callback(this);
         }
@@ -113,7 +114,7 @@ class ScenarioSelector {
                 this.#scenarioSelectElement.appendChild(opt);
             }
         }
-        this.#selectionChangedCallback();
+        await this.#selectionChangedCallback();
     }
     
     clearDateSelection(){
@@ -129,7 +130,7 @@ class ScenarioSelector {
                 }
                 let opt = document.createElement('option')
                 opt.value = date;
-                opt.innerHTML = date;
+                opt.innerHTML = date.replace('2024-', '');
                 this.#dateSelectElement.appendChild(opt);
             }
         }
@@ -139,7 +140,7 @@ class ScenarioSelector {
         countyName = (await this.#data.getCounties()).normalize(countyName);
         if (countyName !== this.#selectedCounty) {
             this.#selectedCounty = countyName;
-            this.#selectionChangedCallback();
+            await this.#selectionChangedCallback();
         }
     }
 
@@ -151,7 +152,7 @@ class ScenarioSelector {
             let oldDate = this.#selectedDate;
             this.selectDate(this.#selectedDate);
             if (oldDate === this.#selectedDate) {
-                this.#selectionChangedCallback();
+                await this.#selectionChangedCallback();
             }
         }
     }
@@ -160,7 +161,7 @@ class ScenarioSelector {
         scenarioDate = (await this.#data.getScenarioDates(this.#selectedScenarioName)).normalize(scenarioDate);
         if (scenarioDate !== this.#selectedDate) {
             this.#selectedDate = scenarioDate;
-            this.#selectionChangedCallback();
+            await this.#selectionChangedCallback();
         }
     }
 
@@ -213,10 +214,17 @@ function formatPollingPlaceSideBarHTML(pollingPlaceProperties) {
         scheduleHTML += `<li>${line}</li>`;
     }
     let pollingPlaceHTML = `
-                    <h5>${pollingPlaceProperties.name}</h5>
+                    <h4>${pollingPlaceProperties.name}</h4>
+                    <h5>Address:</h5>
                     <p>${pollingPlaceProperties.address}</p>
-                    <ul>
+                    <h5>Schedule:</h5>
+                    <ol>
                         ${scheduleHTML}
+                    </ol>
+                    <h5>Directions:</h5>
+                    <ul>
+                        <li><a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent([pollingPlaceProperties.lat, pollingPlaceProperties.lng])}">Google Maps</a></li>
+                        <li><a href="http://maps.apple.com/?ll=${encodeURIComponent([pollingPlaceProperties.lat, pollingPlaceProperties.lng])}">Apple Maps</a></li>
                     </ul>
                 `
     return pollingPlaceHTML;
