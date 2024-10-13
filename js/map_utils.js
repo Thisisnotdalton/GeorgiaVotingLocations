@@ -64,6 +64,10 @@ class Map {
             this.#map.removeLayer(layerName);
         }
     }
+
+    fitBounds(bounds){
+        this.#map.fitBounds(bounds);
+    }
     
     showCursor(){
         this.#map.getCanvas().style.cursor = 'pointer';

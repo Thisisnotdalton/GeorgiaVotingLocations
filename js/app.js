@@ -66,6 +66,16 @@ class ScenarioSelector {
         return this.#data.getPollingPlaces(this.#selectedScenarioName, this.#selectedDate, this.#selectedCounty);
     }
 
+    async getBoundingBox() {
+        let boundingBox = null;
+        if (this.#selectedCounty === DataSet.AllCountiesID()) {
+            boundingBox = await this.#data.getStateBoundingBox();
+        } else {
+            boundingBox = await this.#data.getCountyBoundingBox(this.#selectedCounty);
+        }
+        return boundingBox;
+    }
+    
     async getCentroid() {
         let centroid = null;
         if (this.#selectedCounty === DataSet.AllCountiesID()) {
@@ -166,8 +176,10 @@ export async function Start() {
         let selection = await selector.getSelection();
         console.log(`Selected ${selection.county}\t${selection.scenarioName}\t${selection.scenarioDate}`);
         let centroid = await selector.getCentroid();
-        map.zoomTo(selection.county === DataSet.AllCountiesID() ? stateZoomLevel : countyZoomLevel);
+        // map.zoomTo(selection.county === DataSet.AllCountiesID() ? stateZoomLevel : countyZoomLevel);
         map.centerMap(centroid[0], centroid[1]);
+        let boundingBox = await scenarios.getBoundingBox();
+        map.fitBounds(boundingBox);
         // Load county polling places (or state if no county selected)
         let pollingPlaces = await scenarios.getPollingPlaces();
         map.loadLayer(

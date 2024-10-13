@@ -118,6 +118,10 @@ class DataSet {
         return await this.#jsonCache.getJSON(`${this.#dataPath}/county_boundaries/${this.#stateName}_centroids.geojson`);
     }
 
+    async #getCountyBoundingBoxes() {
+        return await this.#jsonCache.getJSON(`${this.#dataPath}/county_boundaries/${this.#stateName}_bounds.json`);
+    }
+
     async #filterCountyGeometry(countyName, centroids = false, mustMatch = true) {
         let matches = [];
         let data = await (centroids ? this.#getCountyCentroids() : this.#getCountyBoundaries());
@@ -133,6 +137,14 @@ class DataSet {
 
     async getCountyGeometry(countyName, centroid = false) {
         return this.#filterCountyGeometry(countyName, centroid);
+    }
+
+    async getCountyBoundingBox(countyName) {
+        return Promise.resolve((await this.#getCountyBoundingBoxes())[countyName]);
+    }
+
+    async getStateBoundingBox() {
+        return this.getCountyBoundingBox('');
     }
 
     async getAllCountyGeometry(centroid = false) {
@@ -200,7 +212,7 @@ class DataSet {
             let pollingPlace = countyJSON['features'][pollingPlaceIndex];
             if (pollingPlace) {
                 pollingPlaces.push(pollingPlace);
-            }else{
+            } else {
                 console.log(`Missing polling place at index: [${countyName}][${pollingPlaceIndex}]`);
             }
         }
