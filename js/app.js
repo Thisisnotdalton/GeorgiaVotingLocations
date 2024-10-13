@@ -142,17 +142,17 @@ export async function Start() {
 
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
-    const county = urlParams.get('county')
     await scenarios.initialize();
+    const county = urlParams.get('county')
     if (county) {
         await scenarios.selectCounty(county);
     }
     const scenario = urlParams.get('scenario')
-    if (county) {
+    if (scenario) {
         await scenarios.selectScenarioName(scenario);
     }
     const date = urlParams.get('date')
-    if (county) {
+    if (date) {
         await scenarios.selectDate(date);
     }
 }
