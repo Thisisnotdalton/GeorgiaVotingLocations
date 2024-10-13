@@ -26,6 +26,11 @@ class Map {
         )
     }
     
+    setZoomRange(minZoom, maxZoom){
+        this.#map.setMaxZoom(maxZoom);
+        this.#map.setMinZoom(minZoom);
+    }
+    
     async waitForStyleLoaded() {
         while(!this.#styleLoaded){
             await new Promise(resolve => setTimeout(resolve, 100));

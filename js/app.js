@@ -231,8 +231,8 @@ function formatPollingPlaceSideBarHTML(pollingPlaceProperties) {
 }
 
 export async function Start() {
-    const stateZoomLevel = 6.5;
-    const countyZoomLevel = 8.5;
+    const minZoomLevel = 6;
+    const maxZoomLevel = 14;
     const boundariesLayerID = 'county_boundaries';
     const pollingPlacePopUpID = 'pollingPlace';
     const pollingPlaceSideBarID = 'pollingPlaceInfo';
@@ -243,9 +243,10 @@ export async function Start() {
 
     let map = new Map("map", 'https://tiles.openfreemap.org/styles/liberty',
         await scenarios.getCentroid(),
-        stateZoomLevel);
+        minZoomLevel);
 
     await map.waitForStyleLoaded();
+    map.setZoomRange(minZoomLevel, maxZoomLevel);
 
     function extractFirstFeature(features, property = null) {
         if ('features' in features && features['features'].length > 0) {
@@ -288,7 +289,7 @@ export async function Start() {
         let selection = await selector.getSelection();
         console.log(`Selected ${selection.county}\t${selection.scenarioName}\t${selection.scenarioDate}`);
         let centroid = await selector.getCentroid();
-        // map.zoomTo(selection.county === DataSet.AllCountiesID() ? stateZoomLevel : countyZoomLevel);
+        // map.zoomTo(selection.county === DataSet.AllCountiesID() ? minZoomLevel : maxZoomLevel);
         map.centerMap(centroid[0], centroid[1]);
         let boundingBox = await scenarios.getBoundingBox();
         map.fitBounds(boundingBox);
