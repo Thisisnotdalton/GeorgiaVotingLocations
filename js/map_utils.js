@@ -4,6 +4,7 @@ class Map {
     #map = null;
     #zoom = null;
     #popUps = {};
+    #styleLoaded = false;
 
     constructor(containerID, stylesheetLocation, center, zoom) {
         this.#map = new maplibregl.Map({
@@ -12,6 +13,23 @@ class Map {
             center: center, // starting position [lng, lat]
             zoom: zoom // starting zoom
         })
+        this.#map.on('style.load', () => {
+                const waiting = () => {
+                    if (!this.#map.isStyleLoaded()) {
+                        setTimeout(waiting, 200);
+                    } else {
+                        this.#styleLoaded = true;
+                    }
+                };
+                waiting();
+            }
+        )
+    }
+    
+    async waitForStyleLoaded() {
+        while(!this.#styleLoaded){
+            await new Promise(resolve => setTimeout(resolve, 100));
+        }
     }
 
     centerMap(lng, lat) {
@@ -65,15 +83,15 @@ class Map {
         }
     }
 
-    fitBounds(bounds){
+    fitBounds(bounds) {
         this.#map.fitBounds(bounds);
     }
-    
-    showCursor(){
+
+    showCursor() {
         this.#map.getCanvas().style.cursor = 'pointer';
     }
-    
-    hideCursor(){
+
+    hideCursor() {
         this.#map.getCanvas().style.cursor = '';
     }
 

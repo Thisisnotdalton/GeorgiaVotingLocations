@@ -244,6 +244,8 @@ export async function Start() {
     let map = new Map("map", 'https://tiles.openfreemap.org/styles/liberty',
         await scenarios.getCentroid(),
         stateZoomLevel);
+    
+    await map.waitForStyleLoaded();
 
     function extractFirstFeature(features, property = null) {
         if ('features' in features && features['features'].length > 0) {
