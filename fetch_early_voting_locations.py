@@ -12,6 +12,7 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 import pandas as pd
 import geopandas as gpd
+from shapely import box
 
 from mapbox_geocode import geocode_address
 
@@ -487,9 +488,14 @@ def save_state_county_boundaries(state: str = 'Georgia', output_directory: str =
     if not os.path.isfile(output_file):
         state_counties = get_state_county_boundaries(state)
         state_counties.to_file(output_file)
+    output_file = os.path.join(county_boundaries_directory, f'{state}_bounds.geojson')
+    state_counties = get_state_county_boundaries(state)
+    if not os.path.isfile(output_file):
+        state_counties = state_counties.set_geometry(state_counties.geometry.apply(
+            lambda _x: box(*_x.bounds)))
+        state_counties.to_file(output_file)
     output_file = os.path.join(county_boundaries_directory, f'{state}_centroids.geojson')
     if not os.path.isfile(output_file):
-        state_counties = get_state_county_boundaries(state)
         state_counties = state_counties.set_geometry(state_counties.geometry.centroid)
         state_counties.to_file(output_file)
 
