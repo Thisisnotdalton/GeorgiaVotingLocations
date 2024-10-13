@@ -85,14 +85,23 @@ class ScenarioSelector {
 
 }
 
-function formatPollingPlaceHTML(pollingPlaceProperties){
+function formatPollingPlacePopUpHTML(pollingPlaceProperties) {
+    let pollingPlaceHTML = `
+                    <h5>${pollingPlaceProperties.name}</h5>
+                    <p>${pollingPlaceProperties.address}</p>
+                    <em>Click to view hours of operation!</em>
+                `
+    return pollingPlaceHTML;
+}
+
+function formatPollingPlaceSideBarHTML(pollingPlaceProperties) {
     let schedule = pollingPlaceProperties['schedule'].split('\n');
     let scheduleHTML = ''
-    for (let line of schedule){
+    for (let line of schedule) {
         scheduleHTML += `<li>${line}</li>`;
     }
     let pollingPlaceHTML = `
-                    <h1>${pollingPlaceProperties.name}</h1><br>
+                    <h5>${pollingPlaceProperties.name}</h5>
                     <p>${pollingPlaceProperties.address}</p>
                     <ul>
                         ${scheduleHTML}
@@ -106,6 +115,7 @@ export async function Start() {
     const countyZoomLevel = 8.5;
     const boundariesLayerID = 'county_boundaries';
     const pollingPlacePopUpID = 'pollingPlace';
+    const pollingPlaceSideBarID = 'pollingPlaceInfo';
     let scenarios = new ScenarioSelector();
 
     const pollingLocationLayerID = 'polling_places';
@@ -127,15 +137,22 @@ export async function Start() {
     }
 
     async function clickFeature(features) {
-        await scenarios.selectCounty(extractFirstFeature(features, 'county'));
+        let selectedPollingPlace = extractFirstFeature(features);
+        let pollingPlaceProperties = selectedPollingPlace['properties'];
+        let pollingPlaceSideBar = document.getElementById(pollingPlaceSideBarID);
+        if (pollingPlaceSideBar) {
+            pollingPlaceSideBar.innerHTML = formatPollingPlaceSideBarHTML(pollingPlaceProperties);
+        }
+        // await scenarios.selectCounty(extractFirstFeature(features, 'county'));
     }
 
     function hoverFeature(features) {
         map.showCursor();
         let selectedPollingPlace = extractFirstFeature(features);
         if (selectedPollingPlace) {
+            let pollingPlaceProperties = selectedPollingPlace['properties'];
             map.addPopUp(
-                formatPollingPlaceHTML(selectedPollingPlace['properties']),
+                formatPollingPlacePopUpHTML(pollingPlaceProperties),
                 pollingPlacePopUpID,
                 selectedPollingPlace['geometry']['coordinates']);
         }
@@ -147,6 +164,7 @@ export async function Start() {
 
     async function onSelectionChanged(selector) {
         let selection = await selector.getSelection();
+        console.log(`Selected ${selection.county}\t${selection.scenarioName}\t${selection.scenarioDate}`);
         let centroid = await selector.getCentroid();
         map.zoomTo(selection.county === DataSet.AllCountiesID() ? stateZoomLevel : countyZoomLevel);
         map.centerMap(centroid[0], centroid[1]);
@@ -191,17 +209,17 @@ export async function Start() {
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
     await scenarios.initialize();
-    const county = urlParams.get('county')
-    if (county) {
-        await scenarios.selectCounty(county);
+    const date = urlParams.get('date')
+    if (date) {
+        await scenarios.selectDate(date);
     }
     const scenario = urlParams.get('scenario')
     if (scenario) {
         await scenarios.selectScenarioName(scenario);
     }
-    const date = urlParams.get('date')
-    if (date) {
-        await scenarios.selectDate(date);
+    const county = urlParams.get('county')
+    if (county) {
+        await scenarios.selectCounty(county);
     }
 }
 
