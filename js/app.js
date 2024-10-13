@@ -143,6 +143,7 @@ export async function Start() {
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
     const county = urlParams.get('county')
+    await scenarios.initialize();
     if (county) {
         await scenarios.selectCounty(county);
     }
