@@ -7,10 +7,26 @@ class ScenarioSelector {
     #selectedScenarioName = null;
     #selectedDate = null;
     #callbacks = null;
+    #countySelectElement;
+    #scenarioSelectElement;
+    #dateSelectElement;
 
-    constructor() {
+
+    constructor(
+        countySelectElementID = 'countySelect',
+        scenarioSelectElementID = 'scenarioSelect',
+        dateSelectElementID = 'dateSelect') {
         this.#data = new DataSet();
         this.#callbacks = [];
+        this.#countySelectElement = document.getElementById(countySelectElementID);
+        this.#scenarioSelectElement = document.getElementById(scenarioSelectElementID);
+        this.#dateSelectElement = document.getElementById(dateSelectElementID);
+        if (this.#countySelectElement) {
+            this.#countySelectElement.addEventListener('change', async (event) => {
+                console.log(`Selected ${this.#countySelectElement.value}`);
+                await this.selectCounty(this.#countySelectElement.value);
+            })
+        }
     }
 
     getSelection() {
@@ -35,6 +51,18 @@ class ScenarioSelector {
         this.#selectedCounty = (await this.#data.getCounties()).normalize();
         this.#selectedScenarioName = (await this.#data.getScenarioNames()).normalize();
         this.#selectedDate = (await this.#data.getScenarioDates(this.#selectedScenarioName)).normalize();
+        if (this.#countySelectElement) {
+            let opt = document.createElement('option')
+            opt.value = (await this.#data.getCounties()).normalize();
+            opt.innerHTML = "ALL COUNTIES";
+            this.#countySelectElement.appendChild(opt);
+            for (const county of (await this.#data.getCounties()).values()) {
+                let opt = document.createElement('option')
+                opt.value = county;
+                opt.innerHTML = county;
+                this.#countySelectElement.appendChild(opt);
+            }
+        }
         this.#selectionChangedCallback();
     }
 
@@ -75,7 +103,7 @@ class ScenarioSelector {
         }
         return boundingBox;
     }
-    
+
     async getCentroid() {
         let centroid = null;
         if (this.#selectedCounty === DataSet.AllCountiesID()) {
