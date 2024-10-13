@@ -202,7 +202,7 @@ function formatPollingPlacePopUpHTML(pollingPlaceProperties) {
     let pollingPlaceHTML = `
                     <h5>${pollingPlaceProperties.name}</h5>
                     <p>${pollingPlaceProperties.address}</p>
-                    <em>Click to view hours of operation!</em>
+                    <em>Click to view hours of operation and directions!</em>
                 `
     return pollingPlaceHTML;
 }
