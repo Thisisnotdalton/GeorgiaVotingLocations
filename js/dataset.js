@@ -180,7 +180,12 @@ class DataSet {
         await this.getScenarioNames();
         return (await this.#getScenariosJSON())[this.#scenarioNames.normalize(scenarioName)];
     }
-
+    
+    async getScenarioInfo(scenarioName){
+        let scenariosData = await this.#getAllScenariosData(scenarioName);
+        return scenariosData['info'];
+    }
+    
     async getScenarioDates(scenarioName) {
         if (this.#scenarioDates == null) {
             this.#scenarioDates = {};

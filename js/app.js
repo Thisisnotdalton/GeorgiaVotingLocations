@@ -9,22 +9,37 @@ class ScenarioSelector {
     #callbacks = null;
     #countySelectElement;
     #scenarioSelectElement;
+    #scenarioNameElement;
+    #scenarioDescriptionElement;
     #dateSelectElement;
 
 
     constructor(
         countySelectElementID = 'countySelect',
         scenarioSelectElementID = 'scenarioSelect',
-        dateSelectElementID = 'dateSelect') {
+        dateSelectElementID = 'dateSelect',
+        scenarioNameElementID = 'scenarioName',
+        scenarioDescriptionElementID = 'scenarioDescription',) {
         this.#data = new DataSet();
         this.#callbacks = [];
         this.#countySelectElement = document.getElementById(countySelectElementID);
         this.#scenarioSelectElement = document.getElementById(scenarioSelectElementID);
         this.#dateSelectElement = document.getElementById(dateSelectElementID);
+        this.#scenarioNameElement = document.getElementById(scenarioNameElementID);
+        this.#scenarioDescriptionElement = document.getElementById(scenarioDescriptionElementID);
         if (this.#countySelectElement) {
             this.#countySelectElement.addEventListener('change', async (event) => {
-                console.log(`Selected ${this.#countySelectElement.value}`);
                 await this.selectCounty(this.#countySelectElement.value);
+            })
+        }
+        if (this.#scenarioSelectElement) {
+            this.#scenarioSelectElement.addEventListener('change', async (event) => {
+                await this.selectScenarioName(this.#scenarioSelectElement.value);
+            })
+        }
+        if (this.#dateSelectElement) {
+            this.#dateSelectElement.addEventListener('change', async (event) => {
+                await this.selectDate(this.#dateSelectElement.value);
             })
         }
     }
@@ -38,6 +53,22 @@ class ScenarioSelector {
     }
 
     #selectionChangedCallback() {
+        if (this.#countySelectElement) {
+            for (const option of this.#countySelectElement.options) {
+                if (option.value === this.#selectedCounty) {
+                    option.selected = true;
+                    break;
+                }
+            }
+        }
+        if (this.#scenarioSelectElement) {
+            for (const option of this.#scenarioSelectElement.options) {
+                if (option.value === this.#selectedScenarioName) {
+                    option.selected = true;
+                    break;
+                }
+            }
+        }
         for (const callback of this.#callbacks) {
             callback(this);
         }
@@ -51,7 +82,7 @@ class ScenarioSelector {
         this.#selectedCounty = (await this.#data.getCounties()).normalize();
         this.#selectedScenarioName = (await this.#data.getScenarioNames()).normalize();
         this.#selectedDate = (await this.#data.getScenarioDates(this.#selectedScenarioName)).normalize();
-        if (this.#countySelectElement) {
+        if (this.#countySelectElement && !this.#countySelectElement.hasChildNodes()) {
             let opt = document.createElement('option')
             opt.value = (await this.#data.getCounties()).normalize();
             opt.innerHTML = "ALL COUNTIES";
@@ -63,7 +94,28 @@ class ScenarioSelector {
                 this.#countySelectElement.appendChild(opt);
             }
         }
+        if (this.#scenarioSelectElement && !this.#scenarioSelectElement.hasChildNodes()) {
+            for (const scenarioName of (await this.#data.getScenarioNames()).values()) {
+                let opt = document.createElement('option')
+                opt.value = scenarioName;
+                let scenarioInfo = (await this.#data.getScenarioInfo(scenarioName));
+                opt.innerHTML = scenarioInfo['name'];
+                this.#scenarioSelectElement.appendChild(opt);
+            }
+        }
         this.#selectionChangedCallback();
+    }
+
+    async #updateDateSelection() {
+        if (this.#scenarioSelectElement && !this.#scenarioSelectElement.hasChildNodes()) {
+            for (const scenarioName of (await this.#data.getScenarioNames()).values()) {
+                let opt = document.createElement('option')
+                opt.value = scenarioName;
+                let scenarioInfo = (await this.#data.getScenarioInfo(scenarioName));
+                opt.innerHTML = scenarioInfo['name'];
+                this.#scenarioSelectElement.appendChild(opt);
+            }
+        }
     }
 
     async selectCounty(countyName) {
@@ -76,9 +128,14 @@ class ScenarioSelector {
 
     async selectScenarioName(scenarioName) {
         scenarioName = (await this.#data.getScenarioNames()).normalize(scenarioName);
+        console.log(`New scenario ${this.#selectedScenarioName} -> ${scenarioName}`);
         if (scenarioName !== this.#selectedScenarioName) {
             this.#selectedScenarioName = scenarioName;
+            let oldDate = this.#selectedDate;
             this.selectDate(this.#selectedDate);
+            if (oldDate === this.#selectedDate) {
+                this.#selectionChangedCallback();
+            }
         }
     }
 
