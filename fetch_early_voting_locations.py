@@ -12,6 +12,7 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 import pandas as pd
 import geopandas as gpd
+from shapely import box
 
 from mapbox_geocode import geocode_address
 
@@ -381,7 +382,8 @@ def filter_voting_locations_by_datetime(all_county_voting_locations: dict,
             for i, location_data in enumerate(locations):
                 if is_location_open_on_datetime(location_data, day, time_filter):
                     county_results.append(i)
-            results[county] = county_results
+            if len(county_results) > 0:
+                results[county] = county_results
     if not file_exists:
         with open(out_file_path, 'wt') as out_file:
             json.dump(results, out_file, indent=4, sort_keys=True)
@@ -400,12 +402,17 @@ def generate_voting_location_subsets(all_county_voting_locations: dict, scenario
         time_filter = scenario_options.get('time_filter')
         if isinstance(time_filter, str):
             time_filter = parse_time(time_filter)
+        scenario_times = {}
         while start_date <= end_date:
-            results[scenario_name][start_date.isoformat()] = filter_voting_locations_by_datetime(
+            open_polls = filter_voting_locations_by_datetime(
                 all_county_voting_locations, start_date,
                 os.path.join(scenario_directory, f'{start_date.isoformat()}.json'), time_filter
             )
+            if len(open_polls) > 0:
+                scenario_times[start_date.isoformat()] = open_polls
             start_date += datetime.timedelta(days=1)
+        results[scenario_name]['times'] = scenario_times
+        results[scenario_name]['info'] = scenario_options['info']
     with open(os.path.join(output_directory, 'scenarios.json'), 'wt') as out_file:
         json.dump(results, out_file, indent=4, sort_keys=True)
     return results
@@ -487,9 +494,17 @@ def save_state_county_boundaries(state: str = 'Georgia', output_directory: str =
     if not os.path.isfile(output_file):
         state_counties = get_state_county_boundaries(state)
         state_counties.to_file(output_file)
+    state_counties = get_state_county_boundaries(state)
+    output_file = os.path.join(county_boundaries_directory, f'{state}_bounds.json')
+    if not os.path.isfile(output_file):
+        state_bounding_boxes = state_counties.apply(lambda _x: {_x['NAME']: box(*_x['geometry'].bounds).bounds}, axis=1)
+        state_bounds = {}
+        for bbox in state_bounding_boxes:
+            state_bounds.update(bbox)
+        with open(output_file, 'w') as f:
+            json.dump(state_bounds, f, indent=4)
     output_file = os.path.join(county_boundaries_directory, f'{state}_centroids.geojson')
     if not os.path.isfile(output_file):
-        state_counties = get_state_county_boundaries(state)
         state_counties = state_counties.set_geometry(state_counties.geometry.centroid)
         state_counties.to_file(output_file)
 
