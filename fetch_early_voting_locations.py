@@ -488,12 +488,15 @@ def save_state_county_boundaries(state: str = 'Georgia', output_directory: str =
     if not os.path.isfile(output_file):
         state_counties = get_state_county_boundaries(state)
         state_counties.to_file(output_file)
-    output_file = os.path.join(county_boundaries_directory, f'{state}_bounds.geojson')
     state_counties = get_state_county_boundaries(state)
+    output_file = os.path.join(county_boundaries_directory, f'{state}_bounds.json')
     if not os.path.isfile(output_file):
-        state_counties = state_counties.set_geometry(state_counties.geometry.apply(
-            lambda _x: box(*_x.bounds)))
-        state_counties.to_file(output_file)
+        state_bounding_boxes = state_counties.apply(lambda _x: {_x['NAME']: box(*_x['geometry'].bounds).bounds}, axis=1)
+        state_bounds = {}
+        for bbox in state_bounding_boxes:
+            state_bounds.update(bbox)
+        with open(output_file, 'w') as f:
+            json.dump(state_bounds, f, indent=4)
     output_file = os.path.join(county_boundaries_directory, f'{state}_centroids.geojson')
     if not os.path.isfile(output_file):
         state_counties = state_counties.set_geometry(state_counties.geometry.centroid)
