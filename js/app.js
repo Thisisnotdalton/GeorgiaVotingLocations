@@ -211,12 +211,16 @@ function formatPollingPlaceSideBarHTML(pollingPlaceProperties) {
     let schedule = pollingPlaceProperties['schedule'].split('\n');
     let scheduleHTML = ''
     for (let line of schedule) {
-        scheduleHTML += `<li>${line}</li>`;
+        scheduleHTML += `<li style="color: white;">${line}</li>`;
     }
+
+    const pollWrapper = document.getElementById('pollingPlaceInfo');
+    pollWrapper.classList.remove('d-none');
+
     let pollingPlaceHTML = `
                     <h4>${pollingPlaceProperties.name}</h4>
                     <h5>Address:</h5>
-                    <p>${pollingPlaceProperties.address}</p>
+                    <p style="font-weight: bold; color: white;">${pollingPlaceProperties.address}</p>
                     <h5>Schedule:</h5>
                     <ol>
                         ${scheduleHTML}

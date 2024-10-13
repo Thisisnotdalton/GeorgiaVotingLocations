@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --font-color: #bfc3c2;
+    --dark-cyan: #2C3639;
+    --light-cyan: #3F4E4F;
+    --light-cyan-hover: #566868;
+}
+
+body {
+    background-color: var(--dark-cyan);
+    color: var(--font-color);
+}
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+select {
+    border: 0;
+    border-radius: 0.25rem;
+    color:  var(--font-color);
+    background-color: var(--light-cyan);
+    transition: background-color 200ms ease-in;
+}
+
+select:hover {
+    cursor: pointer;
+    background-color: var(--light-cyan-hover);
+}
+
+.maplibregl-popup-content {
+    background-color: var(--dark-cyan) !important;
+}
+
+.maplibregl-popup-content em {
+    color: white;
+}
+
+.maplibregl-popup-close-button {
+    color: white !important;
+}
+
+.map-styles {
+    height: 30rem;
+}
+
+/*Medium*/
+@media (min-width: 768px) {
+    .main-styles {
+        height: 100vh;
+        overflow-y: hidden;
+    }
+
+    .map-styles {
+        height: auto;
+        flex-grow: 1 !important;
+    }
+}
