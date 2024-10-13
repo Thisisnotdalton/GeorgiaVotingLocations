@@ -204,7 +204,11 @@ class DataSet {
         countyName = this.#counties.normalize(countyName);
         let scenariosData = await this.#getAllScenariosData(scenarioName);
         scenariosData = scenariosData['times'][scenarioDate];
-        scenariosData = scenariosData[countyName];
+        if (countyName in scenariosData) {
+            scenariosData = scenariosData[countyName];
+        }else{
+            scenariosData = [];
+        }
         return Promise.resolve(scenariosData);
     }
 
