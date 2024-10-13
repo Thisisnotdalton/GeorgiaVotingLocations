@@ -69,6 +69,8 @@ class ScenarioSelector {
                 }
             }
         }
+        this.clearDateSelection();
+        this.#updateDateSelection();
         for (const callback of this.#callbacks) {
             callback(this);
         }
@@ -105,15 +107,18 @@ class ScenarioSelector {
         }
         this.#selectionChangedCallback();
     }
-
+    
+    clearDateSelection(){
+        this.#dateSelectElement.innerHTML = '';
+    }
+    
     async #updateDateSelection() {
-        if (this.#scenarioSelectElement && !this.#scenarioSelectElement.hasChildNodes()) {
-            for (const scenarioName of (await this.#data.getScenarioNames()).values()) {
+        if (this.#dateSelectElement && !this.#dateSelectElement.hasChildNodes()) {
+            for (const date of (await this.#data.getScenarioDates(this.#selectedScenarioName)).values()) {
                 let opt = document.createElement('option')
-                opt.value = scenarioName;
-                let scenarioInfo = (await this.#data.getScenarioInfo(scenarioName));
-                opt.innerHTML = scenarioInfo['name'];
-                this.#scenarioSelectElement.appendChild(opt);
+                opt.value = date;
+                opt.innerHTML = date;
+                this.#dateSelectElement.appendChild(opt);
             }
         }
     }
