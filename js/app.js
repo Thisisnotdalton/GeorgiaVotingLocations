@@ -116,16 +116,16 @@ class ScenarioSelector {
         }
         await this.#selectionChangedCallback();
     }
-    
-    clearDateSelection(){
+
+    clearDateSelection() {
         this.#dateSelectElement.innerHTML = '';
     }
-    
+
     async #updateDateSelection() {
         if (this.#dateSelectElement && !this.#dateSelectElement.hasChildNodes()) {
             for (const date of (await this.#data.getScenarioDates(this.#selectedScenarioName)).values()) {
                 let availablePolls = await this.#data.getPollingPlaces(this.#selectedScenarioName, date, this.#selectedCounty);
-                if (!('features' in availablePolls) || availablePolls['features'].length === 0){
+                if (!('features' in availablePolls) || availablePolls['features'].length === 0) {
                     continue;
                 }
                 let opt = document.createElement('option')
@@ -244,7 +244,7 @@ export async function Start() {
     let map = new Map("map", 'https://tiles.openfreemap.org/styles/liberty',
         await scenarios.getCentroid(),
         stateZoomLevel);
-    
+
     await map.waitForStyleLoaded();
 
     function extractFirstFeature(features, property = null) {
@@ -313,6 +313,16 @@ export async function Start() {
             'mouseenter': hoverFeature,
             'mouseleave': stopHoverFeature,
         });
+        // Get current URL parts
+        const path = window.location.pathname;
+        const params = new URLSearchParams(window.location.search);
+        const hash = window.location.hash;
+        // Update query string values
+        params.set('county', selection.county);
+        params.set('scenario', selection.scenarioName);
+        params.set('date', selection.scenarioDate);
+        // Update URL
+        window.history.replaceState({}, '', `${path}?${params.toString()}${hash}`);
     }
 
     scenarios.appendCallSelectionChangedCallback(onSelectionChanged);
