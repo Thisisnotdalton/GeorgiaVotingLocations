@@ -313,6 +313,7 @@ export async function Start() {
             'mouseenter': hoverFeature,
             'mouseleave': stopHoverFeature,
         });
+        map.closePopUp(pollingPlacePopUpID);
         // Get current URL parts
         const path = window.location.pathname;
         const params = new URLSearchParams(window.location.search);
