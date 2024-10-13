@@ -85,6 +85,22 @@ class ScenarioSelector {
 
 }
 
+function formatPollingPlaceHTML(pollingPlaceProperties){
+    let schedule = pollingPlaceProperties['schedule'].split('\n');
+    let scheduleHTML = ''
+    for (let line of schedule){
+        scheduleHTML += `<li>${line}</li>`;
+    }
+    let pollingPlaceHTML = `
+                    <h1>${pollingPlaceProperties.name}</h1><br>
+                    <p>${pollingPlaceProperties.address}</p>
+                    <ul>
+                        ${scheduleHTML}
+                    </ul>
+                `
+    return pollingPlaceHTML;
+}
+
 export async function Start() {
     const stateZoomLevel = 6.5;
     const countyZoomLevel = 8.5;
@@ -118,14 +134,8 @@ export async function Start() {
         map.showCursor();
         let selectedPollingPlace = extractFirstFeature(features);
         if (selectedPollingPlace) {
-            let pollingPlaceProperties = selectedPollingPlace['properties'];
-            let pollingPlaceHTML = `
-                    <h1>${pollingPlaceProperties.name}</h1><br>
-                    <p>${pollingPlaceProperties.address}</p>
-                `
-            
             map.addPopUp(
-                pollingPlaceHTML,
+                formatPollingPlaceHTML(selectedPollingPlace['properties']),
                 pollingPlacePopUpID,
                 selectedPollingPlace['geometry']['coordinates']);
         }
