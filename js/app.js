@@ -71,6 +71,14 @@ class ScenarioSelector {
         }
         this.clearDateSelection();
         this.#updateDateSelection();
+        if (this.#dateSelectElement) {
+            for (const option of this.#dateSelectElement.options) {
+                if (option.value === this.#selectedDate) {
+                    option.selected = true;
+                    break;
+                }
+            }
+        }
         for (const callback of this.#callbacks) {
             callback(this);
         }
@@ -115,6 +123,10 @@ class ScenarioSelector {
     async #updateDateSelection() {
         if (this.#dateSelectElement && !this.#dateSelectElement.hasChildNodes()) {
             for (const date of (await this.#data.getScenarioDates(this.#selectedScenarioName)).values()) {
+                let availablePolls = await this.#data.getPollingPlaces(this.#selectedScenarioName, date, this.#selectedCounty);
+                if (!('features' in availablePolls) || availablePolls['features'].length === 0){
+                    continue;
+                }
                 let opt = document.createElement('option')
                 opt.value = date;
                 opt.innerHTML = date;
