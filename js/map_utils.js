@@ -1,8 +1,9 @@
 class Map {
     #layers = {};
-    #layerClickResponses = {};
+    #layerEventHandlers = {};
     #map = null;
     #zoom = null;
+    #popUps = {};
 
     constructor(containerID, stylesheetLocation, center, zoom) {
         this.#map = new maplibregl.Map({
@@ -44,7 +45,7 @@ class Map {
         if (layerName in this.#layers) {
             this.#map.removeLayer(layerName);
             this.#map.removeSource(layerName);
-            this.clickResponse(layerName, null);
+            this.registerLayerEventHandlers(layerName, null);
             delete this.#layers[layerName];
         }
     }
@@ -63,29 +64,46 @@ class Map {
             this.#map.removeLayer(layerName);
         }
     }
+    
+    showCursor(){
+        this.#map.getCanvas().style.cursor = 'pointer';
+    }
+    
+    hideCursor(){
+        this.#map.getCanvas().style.cursor = '';
+    }
 
-    clickResponse(layerName, handler, hoverPointer = true) {
-        if (handler) {
-            let handlers = {
-                'click': handler
-            };
-            if (hoverPointer) {
-                handlers['mouseenter'] = () => {
-                    this.#map.getCanvas().style.cursor = 'pointer';
-                };
-                handlers['mouseleave'] = () => {
-                    this.#map.getCanvas().style.cursor = '';
-                };
-            }
-            this.#layerClickResponses[layerName] = handlers;
-            for (let [key, value] of Object.entries(handlers)) {
+    registerLayerEventHandlers(layerName, handlers) {
+        if (handlers) {
+            this.#layerEventHandlers[layerName] = handlers;
+            for (let [key, value] of Object.entries(this.#layerEventHandlers[layerName])) {
                 this.#map.on(key, layerName, value);
             }
-        } else if (layerName in this.#layerClickResponses) {
-            for (let [key, value] of Object.entries(this.#layerClickResponses[layerName])) {
+        } else if (layerName in this.#layerEventHandlers) {
+            for (let [key, value] of Object.entries(this.#layerEventHandlers[layerName])) {
                 this.#map.off(key, value);
             }
         }
+    }
+
+    closePopUp(popUpID) {
+        if (popUpID in this.#popUps) {
+            let popUp = this.#popUps[popUpID];
+            popUp.remove();
+            // delete this.#popUps[popUpID];
+            return popUp;
+        }
+    }
+
+    addPopUp(htmlText, popUpID = 'popup', center = null) {
+        let popUp = this.closePopUp(popUpID);
+        if (!popUp) {
+            popUp = new maplibregl.Popup({closeOnClick: true});
+            this.#popUps[popUpID] = popUp;
+        }
+        popUp.setHTML(htmlText);
+        popUp.setLngLat(center);
+        popUp.addTo(this.#map);
     }
 }
 
