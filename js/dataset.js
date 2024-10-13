@@ -186,7 +186,7 @@ class DataSet {
             this.#scenarioDates = {};
         }
         if (!(scenarioName in this.#scenarioDates)) {
-            let values = Object.keys(await this.#getAllScenariosData(scenarioName));
+            let values = Object.keys((await this.#getAllScenariosData(scenarioName))['times']);
             this.#scenarioDates[scenarioName] = new StringValueSet(values, 'Scenario Date');
         }
         return this.#scenarioDates[scenarioName];
@@ -198,7 +198,7 @@ class DataSet {
         scenarioDate = this.#scenarioDates[scenarioName].normalize(scenarioDate);
         countyName = this.#counties.normalize(countyName);
         let scenariosData = await this.#getAllScenariosData(scenarioName);
-        scenariosData = scenariosData[scenarioDate];
+        scenariosData = scenariosData['times'][scenarioDate];
         scenariosData = scenariosData[countyName];
         return Promise.resolve(scenariosData);
     }

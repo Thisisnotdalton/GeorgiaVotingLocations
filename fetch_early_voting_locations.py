@@ -401,12 +401,15 @@ def generate_voting_location_subsets(all_county_voting_locations: dict, scenario
         time_filter = scenario_options.get('time_filter')
         if isinstance(time_filter, str):
             time_filter = parse_time(time_filter)
+        scenario_times = {}
         while start_date <= end_date:
-            results[scenario_name][start_date.isoformat()] = filter_voting_locations_by_datetime(
+            scenario_times[start_date.isoformat()] = filter_voting_locations_by_datetime(
                 all_county_voting_locations, start_date,
                 os.path.join(scenario_directory, f'{start_date.isoformat()}.json'), time_filter
             )
             start_date += datetime.timedelta(days=1)
+        results[scenario_name]['times'] = scenario_times
+        results[scenario_name]['info'] = scenario_options['info']
     with open(os.path.join(output_directory, 'scenarios.json'), 'wt') as out_file:
         json.dump(results, out_file, indent=4, sort_keys=True)
     return results
