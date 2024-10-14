@@ -1,5 +1,6 @@
 import Map from "./map_utils.js";
-import DataSet from "./dataset.js";
+import {DataSet} from "./dataset.js";
+import getLastUpdated from "./last_updated.js";
 
 class ScenarioSelector {
     #data = null;
@@ -88,8 +89,8 @@ class ScenarioSelector {
     appendCallSelectionChangedCallback(callback) {
         this.#callbacks.push(callback);
     }
-    
-    updateURLParameters(){
+
+    updateURLParameters() {
         // Get current URL parts
         const path = window.location.pathname;
         const params = new URLSearchParams(window.location.search);
@@ -378,6 +379,7 @@ export async function Start() {
     }
     scenarios.updateURLParameters();
     scenarios.appendCallSelectionChangedCallback((x) => scenarios.updateURLParameters());
+    await getLastUpdated();
 }
 
 window.onload = async function () {

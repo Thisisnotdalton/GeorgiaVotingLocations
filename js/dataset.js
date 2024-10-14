@@ -230,4 +230,5 @@ class DataSet {
     }
 }
 
+export {DataSet, JSONCache};
 export default DataSet;
