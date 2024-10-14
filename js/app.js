@@ -346,6 +346,8 @@ export async function Start() {
             }
         });
     const labelsLayerID = `labels`;
+    map.loadLayer(
+        labelsLayerID, await scenarios.getCountyBoundaries(true));
     map.displayLayer(labelsLayerID,
         {
             'type': 'symbol',
@@ -353,7 +355,7 @@ export async function Start() {
                 'text-field': '{name}\nCounty',
                 'text-font': ['Noto Sans Regular']
             },
-            'source': boundariesLayerID
+            'minzoom': 8
         });
 
     const queryString = window.location.search;
