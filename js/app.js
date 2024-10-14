@@ -192,8 +192,8 @@ class ScenarioSelector {
         return centroid;
     }
 
-    async getCountyBoundaries() {
-        return this.#data.getAllCountyGeometry(false);
+    async getCountyBoundaries(centroid = false) {
+        return this.#data.getAllCountyGeometry(centroid);
     }
 
 }
@@ -344,6 +344,16 @@ export async function Start() {
                 'line-opacity': 0.8,
                 'line-width': 1,
             }
+        });
+    const labelsLayerID = `labels`;
+    map.displayLayer(labelsLayerID,
+        {
+            'type': 'symbol',
+            'layout': {
+                'text-field': '{name}\nCounty',
+                'text-font': ['Noto Sans Regular']
+            },
+            'source': boundariesLayerID
         });
 
     const queryString = window.location.search;
