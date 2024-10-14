@@ -23,7 +23,17 @@ class Map {
                 };
                 waiting();
             }
-        )
+        );
+
+        // Add geolocate control to the map.
+        this.#map.addControl(
+            new maplibregl.GeolocateControl({
+                positionOptions: {
+                    enableHighAccuracy: true
+                },
+                trackUserLocation: true
+            })
+        );
     }
     
     setZoomRange(minZoom, maxZoom){
