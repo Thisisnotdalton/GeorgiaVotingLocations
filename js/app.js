@@ -88,6 +88,19 @@ class ScenarioSelector {
     appendCallSelectionChangedCallback(callback) {
         this.#callbacks.push(callback);
     }
+    
+    updateURLParameters(){
+        // Get current URL parts
+        const path = window.location.pathname;
+        const params = new URLSearchParams(window.location.search);
+        const hash = window.location.hash;
+        // Update query string values
+        params.set('county', this.#selectedCounty);
+        params.set('scenario', this.#selectedScenarioName);
+        params.set('date', this.#selectedDate);
+        // Update URL
+        window.history.replaceState({}, '', `${path}?${params.toString()}${hash}`);
+    }
 
     async initialize() {
         this.#selectedCounty = (await this.#data.getCounties()).normalize();
@@ -319,16 +332,6 @@ export async function Start() {
             'mouseleave': stopHoverFeature,
         });
         map.closePopUp(pollingPlacePopUpID);
-        // Get current URL parts
-        const path = window.location.pathname;
-        const params = new URLSearchParams(window.location.search);
-        const hash = window.location.hash;
-        // Update query string values
-        params.set('county', selection.county);
-        params.set('scenario', selection.scenarioName);
-        params.set('date', selection.scenarioDate);
-        // Update URL
-        window.history.replaceState({}, '', `${path}?${params.toString()}${hash}`);
     }
 
     scenarios.appendCallSelectionChangedCallback(onSelectionChanged);
@@ -373,6 +376,8 @@ export async function Start() {
     if (county) {
         await scenarios.selectCounty(county);
     }
+    scenarios.updateURLParameters();
+    scenarios.appendCallSelectionChangedCallback((x) => scenarios.updateURLParameters());
 }
 
 window.onload = async function () {
