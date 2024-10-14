@@ -479,6 +479,7 @@ def get_state_county_boundaries(state: str = 'Georgia') -> gpd.GeoDataFrame:
     statefp_filter = str(get_state_fips(state_name=state))
     gdf = gpd.read_file(national_county_boundary_file)
     gdf = gdf.loc[gdf['STATEFP'] == statefp_filter, ['NAME', 'geometry']]
+    gdf.loc[:, 'name'] = gdf.loc[:, 'NAME']
     gdf.loc[:, 'NAME'] = gdf.loc[:, 'NAME'].apply(lambda _x: str(_x).upper().replace(' ',''))
     state_bounds = gpd.GeoDataFrame(pd.DataFrame(data=[dict(NAME='', geometry=gdf.geometry.union_all())]))
     gdf = gpd.GeoDataFrame(pd.concat([gdf, state_bounds]))

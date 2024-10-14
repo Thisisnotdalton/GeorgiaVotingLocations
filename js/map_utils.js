@@ -23,7 +23,18 @@ class Map {
                 };
                 waiting();
             }
-        )
+        );
+        // Add zoom and rotation controls to the map.
+        this.#map.addControl(new maplibregl.NavigationControl());
+        // Add geolocate control to the map.
+        this.#map.addControl(
+            new maplibregl.GeolocateControl({
+                positionOptions: {
+                    enableHighAccuracy: true
+                },
+                trackUserLocation: true
+            })
+        );
     }
     
     setZoomRange(minZoom, maxZoom){
