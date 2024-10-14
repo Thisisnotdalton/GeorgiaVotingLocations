@@ -4,29 +4,49 @@
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="UTF-8">
     <title>Georgia Early Voting Locations</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+
     <script src='https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.js'></script>
     <link href='https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.css' rel='stylesheet'/>
     <script type="module" src='./js/app.js'></script>
 </head>
-<body>
-<h1>Georgia Early Voting Locations</h1>
-<div>
-    <label for='countySelect'>County:</label><select id='countySelect'></select>
-    <label for='scenarioSelect'>Time:</label><select id='scenarioSelect'></select>
-    <label for='dateSelect'>Day:</label><select id='dateSelect'></select>
-</div>
-<div>
-    <div id='map' style='width: 800px; height: 600px;'></div>
-    <div id='pollingPlaceInfo'></div>
-</div>
-<div id="info">
-    Data for polling places was fetched from the <a
-        href="https://mvp.sos.ga.gov/s/advanced-voting-location-information">Georgia Secretary of State's Advance Voting
-    Location Information tool</a>.
-    <p>This tool is not affiliated with any government agency or group. This page was last updated on October 13, 2024.
-        Please direct all questions, suggestions, or corrections to the project's <a
-                href="https://github.com/Thisisnotdalton/GeorgiaVotingLocations/issues">GitHub Issues page</a>.
-    </p>
-</div>
+<body class="poppins-medium">
+    <main class="container d-flex flex-column main-styles pt-4">
+        <h1>Georgia Early Voting Locations</h1>
+        <hr class="my-2" />
+        <div class="mb-2 d-flex flex-wrap">
+            <div class="me-2 py-1">
+                <label class="me-2" for='countySelect'>County</label><select id='countySelect'></select>
+            </div>
+            <div class="me-2 py-1">
+                <label class="me-2" for='scenarioSelect'>Time</label><select id='scenarioSelect'></select>
+            </div>
+            <div class="me-2 py-1">
+                <label class="me-2" for='dateSelect'>Day</label><select id='dateSelect'></select>
+            </div>
+        </div>
+        <div class="d-md-flex flex-md-row flex-column h-100">
+            <div id='map' class="map-styles col-12 col-md-8 flex-shrink-1 w-100" style="border-radius: 0.25rem;"></div>
+            <div id='pollingPlaceInfo' class="col-12 col-md-4 px-md-4 mt-2 mt-md-0 d-none"></div>
+        </div>
+        <div id="info pt-2">
+            Data for polling places was fetched from the <a
+                href="https://mvp.sos.ga.gov/s/advanced-voting-location-information">Georgia Secretary of State's Advance Voting
+            Location Information tool</a>.
+            <p>This tool is not affiliated with any government agency or group. This page was last updated on October 13, 2024.
+                Please direct all questions, suggestions, or corrections to the project's <a
+                        href="https://github.com/Thisisnotdalton/GeorgiaVotingLocations/issues">GitHub Issues page</a>.
+            </p>
+        </div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"></script>
 </body>
 </html>
