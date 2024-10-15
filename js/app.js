@@ -335,10 +335,21 @@ export async function Start() {
     const pollingPlacePopUpID = 'pollingPlace';
     const pollingPlaceSideBarID = 'pollingPlaceInfo';
     let scenarios = new ScenarioSelector();
-
     const pollingLocationLayerID = 'polling_places';
     await scenarios.initialize();
-
+    let clickedFeatureSelector = new FeatureSelector();
+    const selectedFeatureStateKey = 'selectedFeature';
+    clickedFeatureSelector.AppendCallBack((feature)=>{
+        let state = {};
+        state[selectedFeatureStateKey] = true;
+        map.setFeatureState(pollingLocationLayerID, feature.id, state);
+    });
+    clickedFeatureSelector.AppendCallBack((feature)=>{
+        let state = {};
+        state[selectedFeatureStateKey] = false;
+        map.setFeatureState(pollingLocationLayerID, feature.id, state);
+    }, false);
+    
     let map = new Map("map", 'https://tiles.openfreemap.org/styles/liberty',
         await scenarios.getCentroid(),
         minZoomLevel);
@@ -364,7 +375,7 @@ export async function Start() {
         if (pollingPlaceSideBar) {
             pollingPlaceSideBar.innerHTML = formatPollingPlaceSideBarHTML(pollingPlaceProperties);
         }
-        // await scenarios.selectCounty(extractFirstFeature(features, 'county'));
+        clickedFeatureSelector.Select(selectedPollingPlace);
     }
 
     function hoverFeature(features) {
@@ -394,15 +405,27 @@ export async function Start() {
         // Load county polling places (or state if no county selected)
         let pollingPlaces = await scenarios.getPollingPlaces();
         map.loadLayer(
-            pollingLocationLayerID, pollingPlaces);
+            pollingLocationLayerID, pollingPlaces,{
+                'generateId': true
+            });
         map.displayLayer(pollingLocationLayerID,
             {
                 'type': 'circle',
                 'layout': {},
                 'paint': {
-                    'circle-color': '#3FF',
-                    'circle-opacity': 0.8,
-                    'circle-radius': 5,
+                    'circle-color': [
+                        'case',
+                        ['boolean', ['feature-state', selectedFeatureStateKey], false],
+                        '#3F3',
+                        '#555'
+                    ],
+                    'circle-opacity': [
+                        'case',
+                        ['boolean', ['feature-state', selectedFeatureStateKey], false],
+                        1,
+                        0.5
+                    ],
+                    'circle-radius': 10,
                     'circle-stroke-width': 1,
                     'circle-stroke-color': '#333'
                 }
