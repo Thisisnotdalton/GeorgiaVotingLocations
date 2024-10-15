@@ -36,14 +36,14 @@ class Map {
             })
         );
     }
-    
-    setZoomRange(minZoom, maxZoom){
+
+    setZoomRange(minZoom, maxZoom) {
         this.#map.setMaxZoom(maxZoom);
         this.#map.setMinZoom(minZoom);
     }
-    
+
     async waitForStyleLoaded() {
-        while(!this.#styleLoaded){
+        while (!this.#styleLoaded) {
             await new Promise(resolve => setTimeout(resolve, 100));
         }
     }
@@ -66,12 +66,25 @@ class Map {
         });
     }
 
-    loadLayer(layerName, geojson) {
+    setFeatureState(layerID, featureID, state) {
+        this.#map.setFeatureState({
+                source: layerID, id: featureID
+            }, state
+        );
+    }
+
+    loadLayer(layerName, geojson, additionalOptions = null) {
         this.unloadLayer(layerName);
-        this.#map.addSource(layerName, {
+        let source = {
             type: 'geojson',
             data: geojson
-        });
+        };
+        if (additionalOptions) {
+            for (let [key, value] of Object.entries(additionalOptions)) {
+                source[key] = value;
+            }
+        }
+        this.#map.addSource(layerName, source);
         this.#layers[layerName] = geojson;
     }
 
