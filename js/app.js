@@ -230,7 +230,7 @@ function formatPollingPlaceSideBarHTML(pollingPlaceProperties) {
 
     const pollWrapper = document.getElementById('pollingPlaceInfo');
     pollWrapper.classList.remove('d-none');
-
+    let encodedCoords = encodeURIComponent([pollingPlaceProperties.lat, pollingPlaceProperties.lng]);
     let pollingPlaceHTML = `
                     <h4>${pollingPlaceProperties.name}</h4>
                     <h5>Address:</h5>
@@ -241,8 +241,8 @@ function formatPollingPlaceSideBarHTML(pollingPlaceProperties) {
                     </ol>
                     <h5>Directions:</h5>
                     <ul>
-                        <li><a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent([pollingPlaceProperties.lat, pollingPlaceProperties.lng])}">Google Maps</a></li>
-                        <li><a href="http://maps.apple.com/?ll=${encodeURIComponent([pollingPlaceProperties.lat, pollingPlaceProperties.lng])}">Apple Maps</a></li>
+                        <li><a href="https://www.google.com/maps/search/?api=1&query=${encodedCoords}">Google Maps</a></li>
+                        <li><a href="http://maps.apple.com/?daddr=${encodedCoords}&ll=${encodedCoords}">Apple Maps</a></li>
                     </ul>
                 `
     return pollingPlaceHTML;
