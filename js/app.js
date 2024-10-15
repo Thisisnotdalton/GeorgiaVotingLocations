@@ -355,6 +355,18 @@ export async function Start() {
         state[selectedFeatureStateKey] = false;
         map.setFeatureState(pollingLocationLayerID, feature.id, state);
     }, false);
+    let hoveredFeatureSelector = new FeatureSelector();
+    const hoveredFeatureStateKey = 'hoveredFeature';
+    hoveredFeatureSelector.AppendCallBack((feature)=>{
+        let state = {};
+        state[hoveredFeatureStateKey] = true;
+        map.setFeatureState(pollingLocationLayerID, feature.id, state);
+    });
+    hoveredFeatureSelector.AppendCallBack((feature)=>{
+        let state = {};
+        state[hoveredFeatureStateKey] = false;
+        map.setFeatureState(pollingLocationLayerID, feature.id, state);
+    }, false);
     
     let map = new Map("map", 'https://tiles.openfreemap.org/styles/liberty',
         await scenarios.getCentroid(),
@@ -389,6 +401,7 @@ export async function Start() {
         let selectedPollingPlace = extractFirstFeature(features);
         if (selectedPollingPlace) {
             let pollingPlaceProperties = selectedPollingPlace['properties'];
+            hoveredFeatureSelector.Select(selectedPollingPlace);
             map.addPopUp(
                 formatPollingPlacePopUpHTML(pollingPlaceProperties),
                 pollingPlacePopUpID,
@@ -398,6 +411,10 @@ export async function Start() {
 
     function stopHoverFeature(features) {
         map.hideCursor();
+        let selectedPollingPlace = extractFirstFeature(features);
+        if (selectedPollingPlace){
+            hoveredFeatureSelector.Deselect(selectedPollingPlace);
+        }
     }
 
     async function onSelectionChanged(selector) {
@@ -429,7 +446,12 @@ export async function Start() {
                         'case',
                         ['boolean', ['feature-state', selectedFeatureStateKey], false],
                         1,
-                        0.5
+                        [
+                            'case',
+                            ['boolean', ['feature-state', hoveredFeatureStateKey], false],
+                            1,
+                            0.5
+                        ]
                     ],
                     'circle-radius': 10,
                     'circle-stroke-width': 1,
@@ -443,6 +465,7 @@ export async function Start() {
         });
         map.closePopUp(pollingPlacePopUpID);
         clickedFeatureSelector.DeselectAll();
+        hoveredFeatureSelector.DeselectAll();
     }
 
     scenarios.appendCallSelectionChangedCallback(onSelectionChanged);
