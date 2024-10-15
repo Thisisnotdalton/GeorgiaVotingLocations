@@ -269,11 +269,11 @@ class FeatureSelector {
             func(feature);
         }
     }
-    
-    AppendCallBack(callback, select=true){
-        if (select){
+
+    AppendCallBack(callback, select = true) {
+        if (select) {
             this.#selectCallBacks.push(callback);
-        }else{
+        } else {
             this.#deselectCallBacks.push(callback);
         }
     }
@@ -318,8 +318,8 @@ class FeatureSelector {
             this.Deselect(this.#selected[0]);
         }
     }
-    
-    DeselectAll(){
+
+    DeselectAll() {
         while (this.#selected.length > this.#maxSelected) {
             this.Deselect(this.#selected[0]);
         }
@@ -345,29 +345,29 @@ export async function Start() {
     await scenarios.initialize();
     let clickedFeatureSelector = new FeatureSelector();
     const selectedFeatureStateKey = 'selectedFeature';
-    clickedFeatureSelector.AppendCallBack((feature)=>{
+    clickedFeatureSelector.AppendCallBack((feature) => {
         let state = {};
         state[selectedFeatureStateKey] = true;
         map.setFeatureState(pollingLocationLayerID, feature.id, state);
     });
-    clickedFeatureSelector.AppendCallBack((feature)=>{
+    clickedFeatureSelector.AppendCallBack((feature) => {
         let state = {};
         state[selectedFeatureStateKey] = false;
         map.setFeatureState(pollingLocationLayerID, feature.id, state);
     }, false);
     let hoveredFeatureSelector = new FeatureSelector();
     const hoveredFeatureStateKey = 'hoveredFeature';
-    hoveredFeatureSelector.AppendCallBack((feature)=>{
+    hoveredFeatureSelector.AppendCallBack((feature) => {
         let state = {};
         state[hoveredFeatureStateKey] = true;
         map.setFeatureState(pollingLocationLayerID, feature.id, state);
     });
-    hoveredFeatureSelector.AppendCallBack((feature)=>{
+    hoveredFeatureSelector.AppendCallBack((feature) => {
         let state = {};
         state[hoveredFeatureStateKey] = false;
         map.setFeatureState(pollingLocationLayerID, feature.id, state);
     }, false);
-    
+
     let map = new Map("map", 'https://tiles.openfreemap.org/styles/liberty',
         await scenarios.getCentroid(),
         minZoomLevel);
@@ -412,8 +412,37 @@ export async function Start() {
     function stopHoverFeature(features) {
         map.hideCursor();
         let selectedPollingPlace = extractFirstFeature(features);
-        if (selectedPollingPlace){
+        if (selectedPollingPlace) {
             hoveredFeatureSelector.Deselect(selectedPollingPlace);
+        }
+    }
+
+    let touchStartPosition;
+    let touchEndPosition;
+
+    async function touchClicked(point) {
+        await clickFeature(map.selectFeaturesFromPoint(point));
+    }
+
+    function touchStartHover(point) {
+        hoverFeature(map.selectFeaturesFromPoint(point));
+    }
+
+    function touchStopHover(point) {
+        stopHoverFeature(map.selectFeaturesFromPoint(point));
+    }
+
+    async function touchStarted(event) {
+        touchStartPosition = event.point;
+        touchStartHover(touchStartPosition);
+    }
+
+    async function touchEnded(event) {
+        touchEndPosition = event.point;
+        touchStopHover(touchEndPosition);
+        if (touchStartPosition.x === touchEndPosition.x &&
+            touchStartPosition.y === touchEndPosition.y) {
+            await touchClicked(touchEndPosition);
         }
     }
 
@@ -428,7 +457,7 @@ export async function Start() {
         // Load county polling places (or state if no county selected)
         let pollingPlaces = await scenarios.getPollingPlaces();
         map.loadLayer(
-            pollingLocationLayerID, pollingPlaces,{
+            pollingLocationLayerID, pollingPlaces, {
                 'generateId': true
             });
         map.displayLayer(pollingLocationLayerID,
@@ -462,6 +491,8 @@ export async function Start() {
             'click': clickFeature,
             'mouseenter': hoverFeature,
             'mouseleave': stopHoverFeature,
+            'touchstart': touchStarted,
+            'touchend': touchEnded
         });
         map.closePopUp(pollingPlacePopUpID);
         clickedFeatureSelector.DeselectAll();
