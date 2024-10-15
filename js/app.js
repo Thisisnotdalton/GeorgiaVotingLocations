@@ -318,6 +318,12 @@ class FeatureSelector {
             this.Deselect(this.#selected[0]);
         }
     }
+    
+    DeselectAll(){
+        while (this.#selected.length > this.#maxSelected) {
+            this.Deselect(this.#selected[0]);
+        }
+    }
 
     ToggleSelection(feature) {
         if (this.IsSelected(feature)) {
@@ -436,6 +442,7 @@ export async function Start() {
             'mouseleave': stopHoverFeature,
         });
         map.closePopUp(pollingPlacePopUpID);
+        clickedFeatureSelector.DeselectAll();
     }
 
     scenarios.appendCallSelectionChangedCallback(onSelectionChanged);
