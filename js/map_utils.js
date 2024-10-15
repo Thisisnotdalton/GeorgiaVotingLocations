@@ -5,6 +5,7 @@ class Map {
     #zoom = null;
     #popUps = {};
     #styleLoaded = false;
+    #geolocate;
 
     constructor(containerID, stylesheetLocation, center, zoom) {
         this.#map = new maplibregl.Map({
@@ -27,14 +28,13 @@ class Map {
         // Add zoom and rotation controls to the map.
         this.#map.addControl(new maplibregl.NavigationControl());
         // Add geolocate control to the map.
-        this.#map.addControl(
-            new maplibregl.GeolocateControl({
-                positionOptions: {
-                    enableHighAccuracy: true
-                },
-                trackUserLocation: true
-            })
-        );
+        this.#geolocate = new maplibregl.GeolocateControl({
+            positionOptions: {
+                enableHighAccuracy: true
+            },
+            trackUserLocation: true
+        });
+        this.#map.addControl(this.#geolocate);
     }
 
     setZoomRange(minZoom, maxZoom) {
@@ -141,6 +141,14 @@ class Map {
                 this.#map.off(key, value);
             }
         }
+    }
+
+    registerGeoLocateHandler(handler) {
+        this.#geolocate.on('geolocate', handler);
+    }
+    
+    triggerGeolocate(){
+        this.#geolocate.trigger();
     }
 
     closePopUp(popUpID) {

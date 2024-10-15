@@ -210,6 +210,18 @@ class ScenarioSelector {
         return this.#data.getAllCountyGeometry(centroid);
     }
 
+    async getCoordinatesCountyName(coordinates) {
+        let point = turf.point(coordinates);
+        for (const countyName of (await this.#data.getCounties()).values()) {
+            let countyBounds = await this.#data.getCountyGeometry(countyName);
+            let bounds = countyBounds['features'][0]['geometry'];
+            if (turf.booleanIntersects(point, bounds)) {
+                return countyName;
+            }
+        }
+
+        return (await this.#data.getCounties()).normalize();
+    }
 }
 
 function formatPollingPlacePopUpHTML(pollingPlaceProperties) {
@@ -526,6 +538,19 @@ export async function Start() {
             'minzoom': 8
         });
 
+    let lastCoords = null;
+    map.registerGeoLocateHandler(async (geolocateData) => {
+        let coords = geolocateData['coords'];
+        coords = [coords.longitude, coords.latitude];
+        if (lastCoords && lastCoords.longitude === coords.longitude && lastCoords.latitude === coords.latitude) {
+            return;
+        }
+        lastCoords = coords;
+        let countyName = await scenarios.getCoordinatesCountyName(coords);
+        console.log(`Determined county ${countyName} from geolocate. Coords: ${coords}`);
+        await scenarios.selectCounty(countyName);
+    });
+
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
     await scenarios.initialize();
@@ -546,6 +571,8 @@ export async function Start() {
     const county = urlParams.get('county')
     if (county) {
         await scenarios.selectCounty(county);
+    }else{
+        map.triggerGeolocate();
     }
     scenarios.updateURLParameters();
     scenarios.appendCallSelectionChangedCallback((x) => scenarios.updateURLParameters());
