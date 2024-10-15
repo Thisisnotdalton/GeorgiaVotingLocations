@@ -248,6 +248,92 @@ function formatPollingPlaceSideBarHTML(pollingPlaceProperties) {
     return pollingPlaceHTML;
 }
 
+class FeatureSelector {
+    #maxSelected;
+    #selected;
+    #selectedHashMap;
+    #selectCallBacks;
+    #deselectCallBacks;
+
+    constructor(maxSelected = 1) {
+        this.#maxSelected = maxSelected;
+        this.#selected = [];
+        this.#selectedHashMap = {};
+        this.#selectCallBacks = [];
+        this.#deselectCallBacks = [];
+    }
+
+    #callSelectedCallBacks(feature, select = true) {
+        const funcs = select ? this.#selectCallBacks : this.#deselectCallBacks;
+        for (const func of funcs) {
+            func(feature);
+        }
+    }
+    
+    AppendCallBack(callback, select=true){
+        if (select){
+            this.#selectCallBacks.push(callback);
+        }else{
+            this.#deselectCallBacks.push(callback);
+        }
+    }
+
+    #hashFeature(feature) {
+        let featureHash = feature.id.toString();
+        if (!(typeof featureHash === 'string' || featureHash instanceof String)) {
+            console.log(`feature hasher failed to produce a string for feature ${featureHash}`, feature);
+        }
+        return featureHash;
+    }
+
+    IsSelected(feature) {
+        const featureHash = this.#hashFeature(feature);
+        return featureHash in this.#selectedHashMap;
+    }
+
+    Deselect(feature) {
+        if (this.IsSelected(feature)) {
+            const featureHash = this.#hashFeature(feature);
+            delete this.#selectedHashMap[featureHash];
+            for (let i = 0; i < this.#selected.length; i++) {
+                let index = this.#selected.indexOf(feature);
+                if (index < 0) {
+                    break;
+                }
+                this.#selected.splice(index, 1);
+            }
+            this.#callSelectedCallBacks(feature, false);
+        }
+    }
+
+    Select(feature) {
+        if (this.IsSelected(feature)) {
+            return;
+        }
+        const featureHash = this.#hashFeature(feature);
+        this.#selectedHashMap[featureHash] = feature;
+        this.#selected.push(feature);
+        this.#callSelectedCallBacks(feature);
+        while (this.#maxSelected > 0 && this.#selected.length > this.#maxSelected) {
+            this.Deselect(this.#selected[0]);
+        }
+    }
+    
+    DeselectAll(){
+        while (this.#selected.length > this.#maxSelected) {
+            this.Deselect(this.#selected[0]);
+        }
+    }
+
+    ToggleSelection(feature) {
+        if (this.IsSelected(feature)) {
+            this.Deselect(feature);
+        } else {
+            this.Select(feature);
+        }
+    }
+}
+
 export async function Start() {
     const minZoomLevel = 6;
     const maxZoomLevel = 14;
@@ -255,10 +341,33 @@ export async function Start() {
     const pollingPlacePopUpID = 'pollingPlace';
     const pollingPlaceSideBarID = 'pollingPlaceInfo';
     let scenarios = new ScenarioSelector();
-
     const pollingLocationLayerID = 'polling_places';
     await scenarios.initialize();
-
+    let clickedFeatureSelector = new FeatureSelector();
+    const selectedFeatureStateKey = 'selectedFeature';
+    clickedFeatureSelector.AppendCallBack((feature)=>{
+        let state = {};
+        state[selectedFeatureStateKey] = true;
+        map.setFeatureState(pollingLocationLayerID, feature.id, state);
+    });
+    clickedFeatureSelector.AppendCallBack((feature)=>{
+        let state = {};
+        state[selectedFeatureStateKey] = false;
+        map.setFeatureState(pollingLocationLayerID, feature.id, state);
+    }, false);
+    let hoveredFeatureSelector = new FeatureSelector();
+    const hoveredFeatureStateKey = 'hoveredFeature';
+    hoveredFeatureSelector.AppendCallBack((feature)=>{
+        let state = {};
+        state[hoveredFeatureStateKey] = true;
+        map.setFeatureState(pollingLocationLayerID, feature.id, state);
+    });
+    hoveredFeatureSelector.AppendCallBack((feature)=>{
+        let state = {};
+        state[hoveredFeatureStateKey] = false;
+        map.setFeatureState(pollingLocationLayerID, feature.id, state);
+    }, false);
+    
     let map = new Map("map", 'https://tiles.openfreemap.org/styles/liberty',
         await scenarios.getCentroid(),
         minZoomLevel);
@@ -284,7 +393,7 @@ export async function Start() {
         if (pollingPlaceSideBar) {
             pollingPlaceSideBar.innerHTML = formatPollingPlaceSideBarHTML(pollingPlaceProperties);
         }
-        // await scenarios.selectCounty(extractFirstFeature(features, 'county'));
+        clickedFeatureSelector.Select(selectedPollingPlace);
     }
 
     function hoverFeature(features) {
@@ -292,6 +401,7 @@ export async function Start() {
         let selectedPollingPlace = extractFirstFeature(features);
         if (selectedPollingPlace) {
             let pollingPlaceProperties = selectedPollingPlace['properties'];
+            hoveredFeatureSelector.Select(selectedPollingPlace);
             map.addPopUp(
                 formatPollingPlacePopUpHTML(pollingPlaceProperties),
                 pollingPlacePopUpID,
@@ -301,6 +411,10 @@ export async function Start() {
 
     function stopHoverFeature(features) {
         map.hideCursor();
+        let selectedPollingPlace = extractFirstFeature(features);
+        if (selectedPollingPlace){
+            hoveredFeatureSelector.Deselect(selectedPollingPlace);
+        }
     }
 
     async function onSelectionChanged(selector) {
@@ -314,15 +428,32 @@ export async function Start() {
         // Load county polling places (or state if no county selected)
         let pollingPlaces = await scenarios.getPollingPlaces();
         map.loadLayer(
-            pollingLocationLayerID, pollingPlaces);
+            pollingLocationLayerID, pollingPlaces,{
+                'generateId': true
+            });
         map.displayLayer(pollingLocationLayerID,
             {
                 'type': 'circle',
                 'layout': {},
                 'paint': {
-                    'circle-color': '#3FF',
-                    'circle-opacity': 0.8,
-                    'circle-radius': 5,
+                    'circle-color': [
+                        'case',
+                        ['boolean', ['feature-state', selectedFeatureStateKey], false],
+                        '#3F3',
+                        '#555'
+                    ],
+                    'circle-opacity': [
+                        'case',
+                        ['boolean', ['feature-state', selectedFeatureStateKey], false],
+                        1,
+                        [
+                            'case',
+                            ['boolean', ['feature-state', hoveredFeatureStateKey], false],
+                            1,
+                            0.5
+                        ]
+                    ],
+                    'circle-radius': 10,
                     'circle-stroke-width': 1,
                     'circle-stroke-color': '#333'
                 }
@@ -333,6 +464,8 @@ export async function Start() {
             'mouseleave': stopHoverFeature,
         });
         map.closePopUp(pollingPlacePopUpID);
+        clickedFeatureSelector.DeselectAll();
+        hoveredFeatureSelector.DeselectAll();
     }
 
     scenarios.appendCallSelectionChangedCallback(onSelectionChanged);
