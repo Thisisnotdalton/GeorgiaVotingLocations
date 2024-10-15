@@ -146,6 +146,10 @@ class Map {
     registerGeoLocateHandler(handler) {
         this.#geolocate.on('geolocate', handler);
     }
+    
+    triggerGeolocate(){
+        this.#geolocate.trigger();
+    }
 
     closePopUp(popUpID) {
         if (popUpID in this.#popUps) {

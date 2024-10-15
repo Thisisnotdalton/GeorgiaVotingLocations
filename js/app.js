@@ -571,6 +571,8 @@ export async function Start() {
     const county = urlParams.get('county')
     if (county) {
         await scenarios.selectCounty(county);
+    }else{
+        map.triggerGeolocate();
     }
     scenarios.updateURLParameters();
     scenarios.appendCallSelectionChangedCallback((x) => scenarios.updateURLParameters());
