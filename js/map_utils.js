@@ -124,6 +124,12 @@ class Map {
         this.#map.getCanvas().style.cursor = '';
     }
 
+
+    selectFeaturesFromPoint(point) {
+        const features = this.#map.queryRenderedFeatures(point);
+        return features;
+    }
+
     registerLayerEventHandlers(layerName, handlers) {
         if (handlers) {
             this.#layerEventHandlers[layerName] = handlers;
