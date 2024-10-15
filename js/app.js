@@ -248,6 +248,86 @@ function formatPollingPlaceSideBarHTML(pollingPlaceProperties) {
     return pollingPlaceHTML;
 }
 
+class FeatureSelector {
+    #maxSelected;
+    #selected;
+    #selectedHashMap;
+    #selectCallBacks;
+    #deselectCallBacks;
+
+    constructor(maxSelected = 1) {
+        this.#maxSelected = maxSelected;
+        this.#selected = [];
+        this.#selectedHashMap = {};
+        this.#selectCallBacks = [];
+        this.#deselectCallBacks = [];
+    }
+
+    #callSelectedCallBacks(feature, select = true) {
+        const funcs = select ? this.#selectCallBacks : this.#deselectCallBacks;
+        for (const func of funcs) {
+            func(feature);
+        }
+    }
+    
+    AppendCallBack(callback, select=true){
+        if (select){
+            this.#selectCallBacks.push(callback);
+        }else{
+            this.#deselectCallBacks.push(callback);
+        }
+    }
+
+    #hashFeature(feature) {
+        let featureHash = feature.id.toString();
+        if (!(typeof featureHash === 'string' || featureHash instanceof String)) {
+            console.log(`feature hasher failed to produce a string for feature ${featureHash}`, feature);
+        }
+        return featureHash;
+    }
+
+    IsSelected(feature) {
+        const featureHash = this.#hashFeature(feature);
+        return featureHash in this.#selectedHashMap;
+    }
+
+    Deselect(feature) {
+        if (this.IsSelected(feature)) {
+            const featureHash = this.#hashFeature(feature);
+            delete this.#selectedHashMap[featureHash];
+            for (let i = 0; i < this.#selected.length; i++) {
+                let index = this.#selected.indexOf(feature);
+                if (index < 0) {
+                    break;
+                }
+                this.#selected.splice(index, 1);
+            }
+            this.#callSelectedCallBacks(feature, false);
+        }
+    }
+
+    Select(feature) {
+        if (this.IsSelected(feature)) {
+            return;
+        }
+        const featureHash = this.#hashFeature(feature);
+        this.#selectedHashMap[featureHash] = feature;
+        this.#selected.push(feature);
+        this.#callSelectedCallBacks(feature);
+        while (this.#maxSelected > 0 && this.#selected.length > this.#maxSelected) {
+            this.Deselect(this.#selected[0]);
+        }
+    }
+
+    ToggleSelection(feature) {
+        if (this.IsSelected(feature)) {
+            this.Deselect(feature);
+        } else {
+            this.Select(feature);
+        }
+    }
+}
+
 export async function Start() {
     const minZoomLevel = 6;
     const maxZoomLevel = 14;
