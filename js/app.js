@@ -529,10 +529,16 @@ export async function Start() {
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
     await scenarios.initialize();
-    const date = urlParams.get('date')
-    if (date) {
-        await scenarios.selectDate(date);
+    let date = urlParams.get('date')
+    if (!date) {
+        var today = new Date();
+        var dd = String(today.getDate()).padStart(2, '0');
+        var mm = String(today.getMonth() + 1).padStart(2, '0');
+        var yyyy = today.getFullYear();
+        date = `${yyyy}-${mm}-${dd}`;
+        console.log(`Defaulting date to ${date}`);
     }
+    await scenarios.selectDate(date);
     const scenario = urlParams.get('scenario')
     if (scenario) {
         await scenarios.selectScenarioName(scenario);
