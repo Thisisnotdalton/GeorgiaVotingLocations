@@ -115,7 +115,13 @@ class Map {
     fitBounds(bounds) {
         this.#map.fitBounds(bounds);
     }
-
+    
+    extendToFit(coordinates) {
+        let bounds = this.#map.getBounds();
+        bounds = bounds.extend(coordinates);
+        this.fitBounds(bounds);
+    }
+    
     showCursor() {
         this.#map.getCanvas().style.cursor = 'pointer';
     }
@@ -141,6 +147,16 @@ class Map {
                 this.#map.off(key, value);
             }
         }
+    }
+    
+    getCenter(){
+        return this.#map.getCenter();
+    }
+    
+    getFeatures(layerID){
+        return this.#map.querySourceFeatures(layerID, {
+            'sourceLayer': layerID
+        });
     }
 
     registerGeoLocateHandler(handler) {

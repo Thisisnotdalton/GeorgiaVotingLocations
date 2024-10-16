@@ -474,7 +474,24 @@ export async function Start() {
             await touchClicked(touchEndPosition);
         }
     }
-
+    async function selectClosestPollingLocation(coords){
+        let point = turf.point(coords);
+        let closest = null;
+        let closestDistance = null;
+        let features = map.getFeatures(pollingLocationLayerID);
+        for(let feature of features) {
+            let distance = turf.distance(point,  feature['geometry']);
+            if (!closest || closestDistance > distance){
+                closest = feature;
+                closestDistance = distance;
+            }
+        }
+        if(closest) {
+            clickFeature({features: [closest]});
+            return closest;
+        }
+    }
+    
     async function onSelectionChanged(selector) {
         let selection = await selector.getSelection();
         console.log(`Selected ${selection.county}\t${selection.scenarioName}\t${selection.scenarioDate}`);
@@ -559,6 +576,10 @@ export async function Start() {
     map.registerGeoLocateHandler(async (geolocateData) => {
         let coords = geolocateData['coords'];
         coords = [coords.longitude, coords.latitude];
+        let closestPoll = await selectClosestPollingLocation(coords);
+        if (closestPoll) {
+            map.extendToFit(closestPoll);
+        }
         if (lastCoords && lastCoords.longitude === coords.longitude && lastCoords.latitude === coords.latitude) {
             return;
         }
