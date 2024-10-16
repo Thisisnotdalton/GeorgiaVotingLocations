@@ -313,17 +313,16 @@ def aggregate_county_voting_locations(election_id='',
     all_locations_list = []
     for county in get_list_of_counties(os.path.join(output_directory, 'counties.json')):
         all_locations_list.extend(all_locations[county])
-    if not os.path.isfile(all_locations_geojson_file):
-        os.makedirs(geojson_directory, exist_ok=True)
-        all_locations_gdf = []
-        for county in get_list_of_counties(os.path.join(output_directory, 'counties.json')):
-            county_locations_gdf = generate_polling_place_gdf(all_locations[county])
-            if len(county_locations_gdf) > 0:
-                county_geojson_file = os.path.join(geojson_directory, f'{county}.geojson')
-                county_locations_gdf.to_file(county_geojson_file, driver='GeoJSON')
-                all_locations_gdf.append(county_locations_gdf)
-        all_locations_gdf = gpd.GeoDataFrame(pd.concat(all_locations_gdf))
-        all_locations_gdf.to_file(all_locations_geojson_file, driver='GeoJSON')
+    os.makedirs(geojson_directory, exist_ok=True)
+    all_locations_gdf = []
+    for county in get_list_of_counties(os.path.join(output_directory, 'counties.json')):
+        county_locations_gdf = generate_polling_place_gdf(all_locations[county])
+        if len(county_locations_gdf) > 0:
+            county_geojson_file = os.path.join(geojson_directory, f'{county}.geojson')
+            county_locations_gdf.to_file(county_geojson_file, driver='GeoJSON')
+            all_locations_gdf.append(county_locations_gdf)
+    all_locations_gdf = gpd.GeoDataFrame(pd.concat(all_locations_gdf))
+    all_locations_gdf.to_file(all_locations_geojson_file, driver='GeoJSON')
     all_locations[ALL_LOCATIONS_ID] = all_locations_list
     return all_locations
 
@@ -425,7 +424,13 @@ def generate_polling_place_gdf(county_voting_locations: list) -> gpd.GeoDataFram
         data[i] = {
             k: location.get(k) for k in expected_columns
         }
-        data[i]['schedule'] = '\n'.join(data[i]['schedule'])
+        schedule_line_indices = {}
+        schedule_lines = []
+        for j, line in enumerate(data[i]['schedule']):
+            if schedule_line_indices.get(line) is None:
+                schedule_line_indices[line] = j
+                schedule_lines.append(line)
+        data[i]['schedule'] = '\n'.join(schedule_lines)
     data = pd.DataFrame.from_dict(data, orient='index')
     if len(county_voting_locations) > 0:
         for column in expected_columns:
