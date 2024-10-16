@@ -147,24 +147,41 @@ class Map {
         this.#geolocate.on('geolocate', handler);
     }
     
+    registerMoveHandler(handler){
+        this.#map.on('move', handler);
+    }
+    
     triggerGeolocate(){
         this.#geolocate.trigger();
     }
 
+    hasPopUp(popUpID){
+        return popUpID in this.#popUps && this.#popUps[popUpID].isOpen();
+    }
+    
     closePopUp(popUpID) {
-        if (popUpID in this.#popUps) {
+        if (this.hasPopUp(popUpID)) {
             let popUp = this.#popUps[popUpID];
             popUp.remove();
-            // delete this.#popUps[popUpID];
+            delete this.#popUps[popUpID];
             return popUp;
         }
     }
 
-    addPopUp(htmlText, popUpID = 'popup', center = null) {
+    addPopUp(htmlText, popUpID = 'popup', center = null, popUpOptions = null) {
         let popUp = this.closePopUp(popUpID);
         if (!popUp) {
-            popUp = new maplibregl.Popup({closeOnClick: true});
-            this.#popUps[popUpID] = popUp;
+            let options = {closeOnClick: true};
+            if (popUpOptions){
+                for (let [key, value] of Object.entries(popUpOptions)) {
+                    options[key] = value;
+                }
+            }
+            popUp = new maplibregl.Popup(options);
+        }
+        this.#popUps[popUpID] = popUp;
+        if (center === null){
+            center = this.#map.getCenter();
         }
         popUp.setHTML(htmlText);
         popUp.setLngLat(center);

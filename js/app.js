@@ -224,6 +224,19 @@ class ScenarioSelector {
     }
 }
 
+function infoPopUpHTML(){
+    return `<div>
+                <h1>Looking for an early voting location?</h1>
+                <ol>
+                    <li>Provide your location or select a county to view early voting locations in that county.</li>
+                    <li>Select a time and day to filter early polling locations that are open.</li>
+                    <li>Click on a polling place (gray circles) to view its name, address, and hours.</li>
+                    <li>Click anywhere on the map to close this help message!</li>
+                </ol>
+            </div>
+    `
+}
+
 function formatPollingPlacePopUpHTML(pollingPlaceProperties) {
     let pollingPlaceHTML = `
                     <h5>${pollingPlaceProperties.name}</h5>
@@ -351,6 +364,7 @@ export async function Start() {
     const maxZoomLevel = 14;
     const boundariesLayerID = 'county_boundaries';
     const pollingPlacePopUpID = 'pollingPlace';
+    const infoPopUpID = '\'infoPopUp\'';
     const pollingPlaceSideBarID = 'pollingPlaceInfo';
     let scenarios = new ScenarioSelector();
     const pollingLocationLayerID = 'polling_places';
@@ -409,6 +423,9 @@ export async function Start() {
     }
 
     function hoverFeature(features) {
+        if (map.hasPopUp(infoPopUpID)){
+            return;
+        }
         map.showCursor();
         let selectedPollingPlace = extractFirstFeature(features);
         if (selectedPollingPlace) {
@@ -577,6 +594,26 @@ export async function Start() {
     scenarios.updateURLParameters();
     scenarios.appendCallSelectionChangedCallback((x) => scenarios.updateURLParameters());
     await getLastUpdated();
+    map.addPopUp(
+        infoPopUpHTML(),
+        infoPopUpID,
+        null,
+        {
+            maxWidth: 'none'
+        }
+    );
+    map.registerMoveHandler(()=>{
+        if (map.hasPopUp(infoPopUpID)) {
+            map.addPopUp(
+                infoPopUpHTML(),
+                infoPopUpID,
+                null,
+                {
+                    maxWidth: 'none'
+                }
+            );
+        }
+    });
 }
 
 window.onload = async function () {
