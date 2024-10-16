@@ -280,7 +280,7 @@ def fetch_and_cache_voting_locations(
                 locations = json.load(in_file)
         except Exception as e:
             print(f'Failed to load cached locations file for county {county} due to exception: {e}')
-    if locations is None:
+    if locations is None or len(locations) == 0:
         locations = fetch_early_voting_locations(election_id, county)
     updated_dataset = geocode_locations(locations, county) or locations is None
     if updated_dataset:
