@@ -266,7 +266,7 @@ function formatPollingPlaceSideBarHTML(pollingPlaceProperties) {
                     </ol>
                     <h5>Directions:</h5>
                     <ul>
-                        <li><a href="https://www.google.com/maps/search/?api=1&query=${encodedCoords}">Google Maps</a></li>
+                        <li><a href="https://www.google.com/maps/dir/?api=1&destination=${encodedCoords}">Google Maps</a></li>
                         <li><a href="http://maps.apple.com/?daddr=${encodedCoords}&ll=${encodedCoords}">Apple Maps</a></li>
                     </ul>
                 `
