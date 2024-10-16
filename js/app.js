@@ -135,6 +135,10 @@ class ScenarioSelector {
         this.#dateSelectElement.innerHTML = '';
     }
 
+    #weekDays = [
+        'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday',
+    ];
+
     async #updateDateSelection() {
         if (this.#dateSelectElement && !this.#dateSelectElement.hasChildNodes()) {
             for (const date of (await this.#data.getScenarioDates(this.#selectedScenarioName)).values()) {
@@ -144,7 +148,9 @@ class ScenarioSelector {
                 }
                 let opt = document.createElement('option')
                 opt.value = date;
-                opt.innerHTML = date.replace('2024-', '');
+                let dayOfWeek = this.#weekDays[new Date(Date.parse(date)).getDay()];
+                let dateText = date.replace('2024-', '');
+                opt.innerHTML = `${dayOfWeek}, ${dateText}`;
                 this.#dateSelectElement.appendChild(opt);
             }
         }
