@@ -1,0 +1,148 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.957548,
+                    30.852667
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1NDIyMGEwNi03ZjJjLTRhYzgtYTRlMi0yODQwZmI2ZmY1NmM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1402",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1NDIyMGEwNi03ZjJjLTRhYzgtYTRlMi0yODQwZmI2ZmY1NmM",
+                        "name": "1402 East Jackson Street",
+                        "street_name": "East Jackson Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnhtN0E",
+                        "name": "Thomas County",
+                        "wikidata_id": "Q498327"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpESXVvN0E",
+                            "name": "Metcalf"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMnZJN0E",
+                        "name": "Thomasville",
+                        "wikidata_id": "Q1192860"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0t1N0E",
+                        "name": "31792"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTQyMjBhMDYtN2YyYy00YWM4LWE0ZTItMjg0MGZiNmZmNTZj",
+                        "name": "East Jackson Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 30.852667,
+                    "longitude": -83.957548,
+                    "routable_points": [
+                        {
+                            "latitude": 30.852586,
+                            "longitude": -83.957642,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1402 East Jackson Street, Thomasville, Georgia 31792, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1NDIyMGEwNi03ZjJjLTRhYzgtYTRlMi0yODQwZmI2ZmY1NmM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1402 East Jackson Street",
+                "name_preferred": "1402 East Jackson Street",
+                "place_formatted": "Thomasville, Georgia 31792, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.788585,
+                    30.788837
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDZhNmZjMTUtODgyYS00MDg0LWE5M2EtZmIzMjJkYjkyMWMy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnhtN0E",
+                        "name": "Thomas County",
+                        "wikidata_id": "Q498327"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZ1NvN0E",
+                        "name": "Boston",
+                        "wikidata_id": "Q2496879"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamp1N0E",
+                        "name": "31626"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZhNmZjMTUtODgyYS00MDg0LWE5M2EtZmIzMjJkYjkyMWMy",
+                        "name": "East Jackson Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.788837,
+                    "longitude": -83.788585
+                },
+                "feature_type": "street",
+                "full_address": "East Jackson Street, Boston, Georgia 31626, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZhNmZjMTUtODgyYS00MDg0LWE5M2EtZmIzMjJkYjkyMWMy",
+                "name": "East Jackson Street",
+                "name_preferred": "East Jackson Street",
+                "place_formatted": "Boston, Georgia 31626, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

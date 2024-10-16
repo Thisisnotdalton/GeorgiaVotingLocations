@@ -413,7 +413,7 @@ def generate_voting_location_subsets(all_county_voting_locations: dict, scenario
         results[scenario_name]['times'] = scenario_times
         results[scenario_name]['info'] = scenario_options['info']
     with open(os.path.join(output_directory, 'scenarios.json'), 'wt') as out_file:
-        json.dump(results, out_file, indent=4, sort_keys=True)
+        json.dump(results, out_file, indent=4)
     return results
 
 

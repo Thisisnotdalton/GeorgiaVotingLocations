@@ -1,0 +1,144 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.75484,
+                    34.617323
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxZjdiNDRkNS0zYWZmLTRkNjktODNkNy0wNTVkMTRiMzBmMjc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1241",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxZjdiNDRkNS0zYWZmLTRkNjktODNkNy0wNTVkMTRiMzBmMjc",
+                        "name": "1241 Helen Highway",
+                        "street_name": "Helen Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHZHN0E",
+                        "name": "White County",
+                        "wikidata_id": "Q389365"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBODVvN0E",
+                        "name": "Cleveland",
+                        "wikidata_id": "Q2376316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1d1N0E",
+                        "name": "30528"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWY3YjQ0ZDUtM2FmZi00ZDY5LTgzZDctMDU1ZDE0YjMwZjI3",
+                        "name": "Helen Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.617323,
+                    "longitude": -83.75484,
+                    "routable_points": [
+                        {
+                            "latitude": 34.617332,
+                            "longitude": -83.754591,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1241 Helen Highway, Cleveland, Georgia 30528, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxZjdiNDRkNS0zYWZmLTRkNjktODNkNy0wNTVkMTRiMzBmMjc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1241 Helen Highway",
+                "name_preferred": "1241 Helen Highway",
+                "place_formatted": "Cleveland, Georgia 30528, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.759735,
+                    34.606332
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjRiYmNlN2ItOTc2MC00NjQxLTk5YTktZjQ4MmI4NjVmYzNh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHZHN0E",
+                        "name": "White County",
+                        "wikidata_id": "Q389365"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBODVvN0E",
+                        "name": "Cleveland",
+                        "wikidata_id": "Q2376316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1d1N0E",
+                        "name": "30528"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjRiYmNlN2ItOTc2MC00NjQxLTk5YTktZjQ4MmI4NjVmYzNh",
+                        "name": "Helen Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.606332,
+                    "longitude": -83.759735
+                },
+                "feature_type": "street",
+                "full_address": "Helen Highway, Cleveland, Georgia 30528, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjRiYmNlN2ItOTc2MC00NjQxLTk5YTktZjQ4MmI4NjVmYzNh",
+                "name": "Helen Highway",
+                "name_preferred": "Helen Highway",
+                "place_formatted": "Cleveland, Georgia 30528, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

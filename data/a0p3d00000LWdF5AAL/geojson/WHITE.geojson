@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WHITE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "1241 HELEN HWY STE 210, CLEVELAND, GA, 30528", "county": "WHITE", "election": "11/05/2024 NOVEMBER 5, 2024 - GENERAL ELECTION", "lat": 34.617323, "lng": -83.75484, "name": "MAUNEY BUILDING", "schedule": "10/15/2024 - 10/19/2024 8:00 AM - 5:00 PM\n10/21/2024 - 10/26/2024 8:00 AM - 5:00 PM\n10/28/2024 - 11/01/2024 8:00 AM - 5:00 PM" }, "geometry": { "type": "Point", "coordinates": [ -83.75484, 34.617323 ] } }
+]
+}

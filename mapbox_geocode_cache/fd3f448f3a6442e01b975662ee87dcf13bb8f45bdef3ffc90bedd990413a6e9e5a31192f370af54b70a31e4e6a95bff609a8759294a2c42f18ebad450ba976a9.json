@@ -1,0 +1,367 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.469009,
+                    32.282326
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4NDJkZDBhNy0xYjE2LTQyM2ItOTYyMi04MTAwODFkODVkOGM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "45",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4NDJkZDBhNy0xYjE2LTQyM2ItOTYyMi04MTAwODFkODVkOGM",
+                        "name": "45 South Lumpkin Street",
+                        "street_name": "South Lumpkin Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU1pHN0E",
+                        "name": "Pulaski County",
+                        "wikidata_id": "Q498301"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDSk1vN0E",
+                        "name": "Hawkinsville",
+                        "wikidata_id": "Q2659489"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaCt1N0E",
+                        "name": "31036"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODQyZGQwYTctMWIxNi00MjNiLTk2MjItODEwMDgxZDg1ZDhj",
+                        "name": "South Lumpkin Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.282326,
+                    "longitude": -83.469009,
+                    "routable_points": [
+                        {
+                            "latitude": 32.282349,
+                            "longitude": -83.468768,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "45 South Lumpkin Street, Hawkinsville, Georgia 31036, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4NDJkZDBhNy0xYjE2LTQyM2ItOTYyMi04MTAwODFkODVkOGM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "45 South Lumpkin Street",
+                "name_preferred": "45 South Lumpkin Street",
+                "place_formatted": "Hawkinsville, Georgia 31036, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.376492,
+                    33.955217
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EVWlMQ0p6ZEhKbFpYUWlPaUpUVDFWVVNDQk1WVTFRUzBsT0lGTlVJaXdpY0d4aFkyVWlPaUpIUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQXpOaUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "45",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EVWlMQ0p6ZEhKbFpYUWlPaUpUVDFWVVNDQk1WVTFRUzBsT0lGTlVJaXdpY0d4aFkyVWlPaUpIUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQXpOaUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+                        "name": "45 South Lumpkin Street",
+                        "street_name": "South Lumpkin Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.3378564820590416",
+                        "name": "30606"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORFVpTENKemRISmxaWFFpT2lKVFQxVlVTQ0JNVlUxUVMwbE9JRk5VSWl3aWNHeGhZMlVpT2lKSFFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVEF6TmlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6MQ",
+                        "name": "South Lumpkin Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.955217,
+                    "longitude": -83.376492,
+                    "routable_points": [
+                        {
+                            "latitude": 33.955217,
+                            "longitude": -83.376492,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "45 South Lumpkin Street, Athens, Georgia 30606, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EVWlMQ0p6ZEhKbFpYUWlPaUpUVDFWVVNDQk1WVTFRUzBsT0lGTlVJaXdpY0d4aFkyVWlPaUpIUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQXpOaUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "45 South Lumpkin Street",
+                "name_preferred": "45 South Lumpkin Street",
+                "place_formatted": "Athens, Georgia 30606, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.96977,
+                    32.401245
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjgzNjIxODMtNDdhYS00ZTQ5LWI2NWMtZTY3YTEyMGJkYzU3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovaWJz",
+                        "name": "Muscogee County",
+                        "wikidata_id": "Q492048"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIR2dNN0E",
+                        "name": "Oxbow"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQmZJN0E",
+                        "name": "Columbus",
+                        "wikidata_id": "Q239870"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2N1N0E",
+                        "name": "31903"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjgzNjIxODMtNDdhYS00ZTQ5LWI2NWMtZTY3YTEyMGJkYzU3",
+                        "name": "S Lumpkin Ct"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.401245,
+                    "longitude": -84.96977
+                },
+                "feature_type": "street",
+                "full_address": "S Lumpkin Ct, Columbus, Georgia 31903, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjgzNjIxODMtNDdhYS00ZTQ5LWI2NWMtZTY3YTEyMGJkYzU3",
+                "name": "S Lumpkin Ct",
+                "name_preferred": "S Lumpkin Ct",
+                "place_formatted": "Columbus, Georgia 31903, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.469102,
+                    32.287384
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Y2FjZDEzNDAtZTUxNC00NGFiLWE2NDAtNzNlYTA2MjViZmZi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU1pHN0E",
+                        "name": "Pulaski County",
+                        "wikidata_id": "Q498301"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDSk1vN0E",
+                        "name": "Hawkinsville",
+                        "wikidata_id": "Q2659489"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaCt1N0E",
+                        "name": "31036"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2FjZDEzNDAtZTUxNC00NGFiLWE2NDAtNzNlYTA2MjViZmZi",
+                        "name": "North Lumpkin Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.287384,
+                    "longitude": -83.469102
+                },
+                "feature_type": "street",
+                "full_address": "North Lumpkin Street, Hawkinsville, Georgia 31036, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2FjZDEzNDAtZTUxNC00NGFiLWE2NDAtNzNlYTA2MjViZmZi",
+                "name": "North Lumpkin Street",
+                "name_preferred": "North Lumpkin Street",
+                "place_formatted": "Hawkinsville, Georgia 31036, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.829252,
+                    31.543286
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EVWlMQ0p6ZEhKbFpYUWlPaUpUVDFWVVNDQk1WVTFRUzBsT0lGTlVJaXdpY0d4aFkyVWlPaUpIUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQXpOaUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "45",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EVWlMQ0p6ZEhKbFpYUWlPaUpUVDFWVVNDQk1WVTFRUzBsT0lGTlVJaXdpY0d4aFkyVWlPaUpIUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQXpOaUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+                        "name": "45 South Lumpkin Street",
+                        "street_name": "South Lumpkin Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2WWJz",
+                        "name": "McLennan County",
+                        "wikidata_id": "Q111368"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEQmFJN0E",
+                        "name": "Mart",
+                        "wikidata_id": "Q969811"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEN3pPN0E",
+                        "name": "76664"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBc1Rz",
+                        "name": "Texas",
+                        "region_code": "TX",
+                        "region_code_full": "US-TX",
+                        "wikidata_id": "Q1439"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORFVpTENKemRISmxaWFFpT2lKVFQxVlVTQ0JNVlUxUVMwbE9JRk5VSWl3aWNHeGhZMlVpT2lKSFFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVEF6TmlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+                        "name": "South Lumpkin Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.543286,
+                    "longitude": -96.829252,
+                    "routable_points": [
+                        {
+                            "latitude": 31.543286,
+                            "longitude": -96.829252,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "45 South Lumpkin Street, Mart, Texas 76664, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EVWlMQ0p6ZEhKbFpYUWlPaUpUVDFWVVNDQk1WVTFRUzBsT0lGTlVJaXdpY0d4aFkyVWlPaUpIUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQXpOaUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "45 South Lumpkin Street",
+                "name_preferred": "45 South Lumpkin Street",
+                "place_formatted": "Mart, Texas 76664, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.209763,
+                    31.232132
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmMzVkMWI0NS00NWJjLTRhM2QtYmJlNS1mMThmM2ZmYzI2YmI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "32",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmMzVkMWI0NS00NWJjLTRhM2QtYmJlNS1mMThmM2ZmYzI2YmI",
+                        "name": "32 North Court Avenue",
+                        "street_name": "North Court Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo4cWJz",
+                        "name": "Mitchell County",
+                        "wikidata_id": "Q493102"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdGpJN0E",
+                        "name": "Camilla",
+                        "wikidata_id": "Q2872512"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajN1N0E",
+                        "name": "31730"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjM1ZDFiNDUtNDViYy00YTNkLWJiZTUtZjE4ZjNmZmMyNmJi",
+                        "name": "North Court Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.232132,
+                    "longitude": -84.209763,
+                    "routable_points": [
+                        {
+                            "latitude": 31.232131,
+                            "longitude": -84.209548,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "32 North Court Avenue, Camilla, Georgia 31730, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmMzVkMWI0NS00NWJjLTRhM2QtYmJlNS1mMThmM2ZmYzI2YmI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "32 North Court Avenue",
+                "name_preferred": "32 North Court Avenue",
+                "place_formatted": "Camilla, Georgia 31730, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.210471,
+                    31.231105
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCajN1N0E",
+            "properties": {
+                "bbox": [
+                    -84.514343,
+                    31.050405,
+                    -84.028629,
+                    31.351733
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo4cWJz",
+                        "name": "Mitchell County",
+                        "wikidata_id": "Q493102"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdGpJN0E",
+                        "name": "Camilla",
+                        "wikidata_id": "Q2872512"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajN1N0E",
+                        "name": "31730"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.231105,
+                    "longitude": -84.210471
+                },
+                "feature_type": "postcode",
+                "full_address": "Camilla, Georgia 31730, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCajN1N0E",
+                "name": "31730",
+                "name_preferred": "31730",
+                "place_formatted": "Camilla, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.335674,
+                    31.314595
+                ],
+                "type": "Point"
+            },
+            "id": "address.134197314736734",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEc2Jz",
+                        "name": "Baker County",
+                        "wikidata_id": "Q376990"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZVBJN0E",
+                        "name": "Newton",
+                        "wikidata_id": "Q2372254"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQTFPN0E",
+                        "name": "39870"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.134197314736734",
+                        "name": "Court Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.314595,
+                    "longitude": -84.335674
+                },
+                "feature_type": "street",
+                "full_address": "Court Avenue, Newton, Georgia 39870, United States",
+                "mapbox_id": "address.134197314736734",
+                "name": "Court Avenue",
+                "name_preferred": "Court Avenue",
+                "place_formatted": "Newton, Georgia 39870, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.718894,
+                    30.966864
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NThlYzZiYzMtODU2YS00NDU1LTk1MDItZjkyNzcyMDZlMWZh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMY2Jz",
+                        "name": "Camden County",
+                        "wikidata_id": "Q110504"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGYWZvN0E",
+                        "name": "Woodbine",
+                        "wikidata_id": "Q659178"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamN1N0E",
+                        "name": "31569"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NThlYzZiYzMtODU2YS00NDU1LTk1MDItZjkyNzcyMDZlMWZh",
+                        "name": "Court Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.966864,
+                    "longitude": -81.718894
+                },
+                "feature_type": "street",
+                "full_address": "Court Avenue, Woodbine, Georgia 31569, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NThlYzZiYzMtODU2YS00NDU1LTk1MDItZjkyNzcyMDZlMWZh",
+                "name": "Court Avenue",
+                "name_preferred": "Court Avenue",
+                "place_formatted": "Woodbine, Georgia 31569, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.150349,
+                    34.209727
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzkxNDViMmUtZmVmOS00YTIyLTg0M2EtZjg1N2I3ODMwMTdj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqU2Jz",
+                        "name": "Greenwood County",
+                        "wikidata_id": "Q502278"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQVlJN0E",
+                        "name": "Greenwood",
+                        "wikidata_id": "Q520251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.3082063065141586",
+                        "name": "29646"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzkxNDViMmUtZmVmOS00YTIyLTg0M2EtZjg1N2I3ODMwMTdj",
+                        "name": "Court Ave"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.209727,
+                    "longitude": -82.150349
+                },
+                "feature_type": "street",
+                "full_address": "Court Ave, Greenwood, South Carolina 29646, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzkxNDViMmUtZmVmOS00YTIyLTg0M2EtZjg1N2I3ODMwMTdj",
+                "name": "Court Ave",
+                "name_preferred": "Court Ave",
+                "place_formatted": "Greenwood, South Carolina 29646, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

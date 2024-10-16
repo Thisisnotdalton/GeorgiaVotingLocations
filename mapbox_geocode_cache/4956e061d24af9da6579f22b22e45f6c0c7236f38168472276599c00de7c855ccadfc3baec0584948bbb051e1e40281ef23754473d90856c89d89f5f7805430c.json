@@ -1,0 +1,321 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.015595,
+                    33.090548
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowZWQwNzI4NC03Y2JjLTQ5MWMtOGZjOS1mMzJkMGRjZTA1NGU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "602",
+                        "mapbox_id": "dXJuOm1ieGFkcjowZWQwNzI4NC03Y2JjLTQ5MWMtOGZjOS1mMzJkMGRjZTA1NGU",
+                        "name": "602 Liberty Street",
+                        "street_name": "Liberty Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKMmJz",
+                        "name": "Burke County",
+                        "wikidata_id": "Q211360"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTDRvN0E",
+                        "name": "Waynesboro",
+                        "wikidata_id": "Q1282929"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGx1N0E",
+                        "name": "30830"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGVkMDcyODQtN2NiYy00OTFjLThmYzktZjMyZDBkY2UwNTRl",
+                        "name": "Liberty Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.090548,
+                    "longitude": -82.015595,
+                    "routable_points": [
+                        {
+                            "latitude": 33.090303,
+                            "longitude": -82.016037,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "602 Liberty Street, Waynesboro, Georgia 30830, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowZWQwNzI4NC03Y2JjLTQ5MWMtOGZjOS1mMzJkMGRjZTA1NGU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "602 North Liberty Street",
+                "name_preferred": "602 Liberty Street",
+                "place_formatted": "Waynesboro, Georgia 30830, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.69805,
+                    33.11553
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTIxMjNjNDQtNjk1OC00ZmViLTliZTYtZTNjY2UzY2IzMGM3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKMmJz",
+                        "name": "Burke County",
+                        "wikidata_id": "Q211360"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCM1hvN0E",
+                        "name": "Girard",
+                        "wikidata_id": "Q2188335"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGx1N0E",
+                        "name": "30830"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTIxMjNjNDQtNjk1OC00ZmViLTliZTYtZTNjY2UzY2IzMGM3",
+                        "name": "N Liberty St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.11553,
+                    "longitude": -81.69805
+                },
+                "feature_type": "street",
+                "full_address": "N Liberty St, Girard, Georgia 30830, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTIxMjNjNDQtNjk1OC00ZmViLTliZTYtZTNjY2UzY2IzMGM3",
+                "name": "N Liberty St",
+                "name_preferred": "N Liberty St",
+                "place_formatted": "Girard, Georgia 30830, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.015828,
+                    33.090038
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaGx1N0E",
+            "properties": {
+                "bbox": [
+                    -82.273618,
+                    32.916776,
+                    -81.721124,
+                    33.26185
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKMmJz",
+                        "name": "Burke County",
+                        "wikidata_id": "Q211360"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTDRvN0E",
+                        "name": "Waynesboro",
+                        "wikidata_id": "Q1282929"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGx1N0E",
+                        "name": "30830"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.090038,
+                    "longitude": -82.015828
+                },
+                "feature_type": "postcode",
+                "full_address": "Waynesboro, Georgia 30830, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaGx1N0E",
+                "name": "30830",
+                "name_preferred": "30830",
+                "place_formatted": "Waynesboro, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.216071,
+                    32.445163
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGM4MDNhOTMtMmIzYS00YzE4LTg3YTktOTM0NmEwNDM2YWY2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpiVWJz",
+                        "name": "Emanuel County",
+                        "wikidata_id": "Q111894"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIK2dLN0E",
+                        "name": "Stillmore"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFOWxJN0E",
+                        "name": "Twin City",
+                        "wikidata_id": "Q2780072"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.6061083829495336",
+                        "name": "30464"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGM4MDNhOTMtMmIzYS00YzE4LTg3YTktOTM0NmEwNDM2YWY2",
+                        "name": "N"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.445163,
+                    "longitude": -82.216071
+                },
+                "feature_type": "street",
+                "full_address": "N, Twin City, Georgia 30464, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGM4MDNhOTMtMmIzYS00YzE4LTg3YTktOTM0NmEwNDM2YWY2",
+                "name": "N",
+                "name_preferred": "N",
+                "place_formatted": "Twin City, Georgia 30464, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.662346,
+                    29.641998
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTIwOGMyMGMtMDQ3ZC00OTc0LTg3NWItZGY4NTk2ZWNjY2Ix",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU2FtN0E",
+                        "name": "Putnam County",
+                        "wikidata_id": "Q503059"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEdUdvN0E",
+                        "name": "Palatka",
+                        "wikidata_id": "Q955907"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCbGF1N0E",
+                        "name": "32177"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVRz",
+                        "name": "Florida",
+                        "region_code": "FL",
+                        "region_code_full": "US-FL",
+                        "wikidata_id": "Q812"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTIwOGMyMGMtMDQ3ZC00OTc0LTg3NWItZGY4NTk2ZWNjY2Ix",
+                        "name": "N"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 29.641998,
+                    "longitude": -81.662346
+                },
+                "feature_type": "street",
+                "full_address": "N, Palatka, Florida 32177, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTIwOGMyMGMtMDQ3ZC00OTc0LTg3NWItZGY4NTk2ZWNjY2Ix",
+                "name": "N",
+                "name_preferred": "N",
+                "place_formatted": "Palatka, Florida 32177, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

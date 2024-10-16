@@ -1,0 +1,378 @@
+{
+    "attribution": "\u00a9 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.0381,
+                    30.52316
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1ODRhYjlhNC0zMzY4LTQ4MGEtODY5NS0wNjIzMGFiOTBhN2I",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "13063",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1ODRhYjlhNC0zMzY4LTQ4MGEtODY5NS0wNjIzMGFiOTBhN2I",
+                        "name": "13063 Florida Avenue",
+                        "street_name": "Florida Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPU2Jz",
+                        "name": "Charlton County",
+                        "wikidata_id": "Q486659"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVFhvN0E",
+                        "name": "Saint George"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalpPN0E",
+                        "name": "31562"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTg0YWI5YTQtMzM2OC00ODBhLTg2OTUtMDYyMzBhYjkwYTdi",
+                        "name": "Florida Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 30.52316,
+                    "longitude": -82.0381,
+                    "routable_points": [
+                        {
+                            "latitude": 30.523194,
+                            "longitude": -82.037749,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "13063 Florida Avenue, Saint George, Georgia 31562, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1ODRhYjlhNC0zMzY4LTQ4MGEtODY5NS0wNjIzMGFiOTBhN2I",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "13063 Florida Avenue",
+                "name_preferred": "13063 Florida Avenue",
+                "place_formatted": "Saint George, Georgia 31562, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.05738,
+                    32.052568
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjhjM2JhNzAtN2Y0Ni00MzM5LTkyYTktYzMyNDdhMzJkMDM3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzlzN0E",
+                        "name": "Avondale"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFM2hvN0E",
+                            "name": "Thunderbolt"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaThPN0E",
+                        "name": "31404"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjhjM2JhNzAtN2Y0Ni00MzM5LTkyYTktYzMyNDdhMzJkMDM3",
+                        "name": "Florida Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.052568,
+                    "longitude": -81.05738
+                },
+                "feature_type": "street",
+                "full_address": "Florida Avenue, Savannah, Georgia 31404, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjhjM2JhNzAtN2Y0Ni00MzM5LTkyYTktYzMyNDdhMzJkMDM3",
+                "name": "Florida Avenue",
+                "name_preferred": "Florida Avenue",
+                "place_formatted": "Savannah, Georgia 31404, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.037652,
+                    30.522448
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCalpPN0E",
+            "properties": {
+                "bbox": [
+                    -82.240403,
+                    30.355757,
+                    -82.005439,
+                    30.681392
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPU2Jz",
+                        "name": "Charlton County",
+                        "wikidata_id": "Q486659"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVFhvN0E",
+                        "name": "Saint George"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalpPN0E",
+                        "name": "31562"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.522448,
+                    "longitude": -82.037652
+                },
+                "feature_type": "postcode",
+                "full_address": "Saint George, Georgia 31562, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCalpPN0E",
+                "name": "31562",
+                "name_preferred": "31562",
+                "place_formatted": "Saint George, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.140999,
+                    40.899358
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTXdOak1pTENKemRISmxaWFFpT2lKR1RFOVNTVVJCSUVGV1JVNVZSU0lzSW5Cc1lXTmxJam9pVTFOVUlFZEZUMUpIUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UVTJNaUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "13063",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTXdOak1pTENKemRISmxaWFFpT2lKR1RFOVNTVVJCSUVGV1JVNVZSU0lzSW5Cc1lXTmxJam9pVTFOVUlFZEZUMUpIUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UVTJNaUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+                        "name": "13063 Florida Avenue",
+                        "street_name": "Florida Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUk5HN0E",
+                        "name": "Passaic County",
+                        "wikidata_id": "Q495974"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTEJNN0E",
+                        "name": "Lakeview"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCZ2tvN0E",
+                            "name": "Elmwood Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeE5vN0E",
+                        "name": "Paterson",
+                        "wikidata_id": "Q138391"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.4265436040518382",
+                        "name": "07503"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbVRz",
+                        "name": "New Jersey",
+                        "region_code": "NJ",
+                        "region_code_full": "US-NJ",
+                        "wikidata_id": "Q1408"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVE13TmpNaUxDSnpkSEpsWlhRaU9pSkdURTlTU1VSQklFRldSVTVWUlNJc0luQnNZV05sSWpvaVUxTlVJRWRGVDFKSFJTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFUyTWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6Mw",
+                        "name": "Florida Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 40.899358,
+                    "longitude": -74.140999,
+                    "routable_points": [
+                        {
+                            "latitude": 40.899358,
+                            "longitude": -74.140999,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "13063 Florida Avenue, Paterson, New Jersey 07503, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTXdOak1pTENKemRISmxaWFFpT2lKR1RFOVNTVVJCSUVGV1JVNVZSU0lzSW5Cc1lXTmxJam9pVTFOVUlFZEZUMUpIUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UVTJNaUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUToz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "13063 Florida Avenue",
+                "name_preferred": "13063 Florida Avenue",
+                "place_formatted": "Paterson, New Jersey 07503, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.739968,
+                    28.710109
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTXdOak1pTENKemRISmxaWFFpT2lKR1RFOVNTVVJCSUVGV1JVNVZSU0lzSW5Cc1lXTmxJam9pVTFOVUlFZEZUMUpIUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UVTJNaUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "13063",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTXdOak1pTENKemRISmxaWFFpT2lKR1RFOVNTVVJCSUVGV1JVNVZSU0lzSW5Cc1lXTmxJam9pVTFOVUlFZEZUMUpIUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UVTJNaUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+                        "name": "13063 Florida Avenue",
+                        "street_name": "Florida Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp3a2Jz",
+                        "name": "Lake County",
+                        "wikidata_id": "Q501029"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp4c2pz",
+                        "name": "Astatula"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdmFPN0E",
+                        "name": "34705"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVRz",
+                        "name": "Florida",
+                        "region_code": "FL",
+                        "region_code_full": "US-FL",
+                        "wikidata_id": "Q812"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVE13TmpNaUxDSnpkSEpsWlhRaU9pSkdURTlTU1VSQklFRldSVTVWUlNJc0luQnNZV05sSWpvaVUxTlVJRWRGVDFKSFJTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFUyTWlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNJc0luUjVjR1Z6SWpvaVkyOTFiblJ5ZVN4eVpXZHBiMjRzY0c5emRHTnZaR1VzWkdsemRISnBZM1FzY0d4aFkyVXNiRzlqWVd4cGRIa3NibVZwWjJoaWIzSm9iMjlrTEdGa1pISmxjM01pZlE6NA",
+                        "name": "Florida Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 28.710109,
+                    "longitude": -81.739968,
+                    "routable_points": [
+                        {
+                            "latitude": 28.710109,
+                            "longitude": -81.739968,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "13063 Florida Avenue, Astatula, Florida 34705, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTXdOak1pTENKemRISmxaWFFpT2lKR1RFOVNTVVJCSUVGV1JVNVZSU0lzSW5Cc1lXTmxJam9pVTFOVUlFZEZUMUpIUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UVTJNaUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0lzSW5SNWNHVnpJam9pWTI5MWJuUnllU3h5WldkcGIyNHNjRzl6ZEdOdlpHVXNaR2x6ZEhKcFkzUXNjR3hoWTJVc2JHOWpZV3hwZEhrc2JtVnBaMmhpYjNKb2IyOWtMR0ZrWkhKbGMzTWlmUTo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "13063 Florida Avenue",
+                "name_preferred": "13063 Florida Avenue",
+                "place_formatted": "Astatula, Florida 34705, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
