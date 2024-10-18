@@ -47,15 +47,24 @@ class Map {
         }
     }
 
-    centerMap(lng, lat) {
-        this.#map.flyTo({
+    async waitForDataLoaded(sourceLayerID, loaded=true) {
+        while (this.#map.isSourceLoaded(sourceLayerID) !== loaded) {
+            await new Promise(resolve => setTimeout(resolve, 100));
+        }
+    }
+
+    centerMap(lng, lat, zoom=null) {
+        let options =  {
             center: [
                 lng,
                 lat
             ],
-            zoom: this.#zoom,
             essential: true
-        });
+        };
+        if (zoom){
+            options['zoom'] = zoom;
+        }
+        this.#map.flyTo(options);
     }
 
     zoomTo(zoom) {
