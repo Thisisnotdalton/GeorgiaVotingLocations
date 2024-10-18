@@ -577,6 +577,26 @@ export async function Start() {
             },
             'minzoom': 8
         });
+    map.addPopUp(
+        infoPopUpHTML(),
+        infoPopUpID,
+        null,
+        {
+            maxWidth: 'none'
+        }
+    );
+    map.registerMoveHandler(()=>{
+        if (map.hasPopUp(infoPopUpID)) {
+            map.addPopUp(
+                infoPopUpHTML(),
+                infoPopUpID,
+                null,
+                {
+                    maxWidth: 'none'
+                }
+            );
+        }
+    });
 
     let lastCoords = null;
     map.registerGeoLocateHandler(async (geolocateData) => {
@@ -597,6 +617,7 @@ export async function Start() {
 
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
+    await getLastUpdated();
     await scenarios.initialize();
     let date = urlParams.get('date')
     if (!date) {
@@ -620,27 +641,6 @@ export async function Start() {
     }
     scenarios.updateURLParameters();
     scenarios.appendCallSelectionChangedCallback((x) => scenarios.updateURLParameters());
-    await getLastUpdated();
-    map.addPopUp(
-        infoPopUpHTML(),
-        infoPopUpID,
-        null,
-        {
-            maxWidth: 'none'
-        }
-    );
-    map.registerMoveHandler(()=>{
-        if (map.hasPopUp(infoPopUpID)) {
-            map.addPopUp(
-                infoPopUpHTML(),
-                infoPopUpID,
-                null,
-                {
-                    maxWidth: 'none'
-                }
-            );
-        }
-    });
 }
 
 window.onload = async function () {

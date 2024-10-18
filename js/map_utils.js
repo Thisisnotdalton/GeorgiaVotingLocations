@@ -159,8 +159,13 @@ class Map {
         });
     }
 
-    registerGeoLocateHandler(handler) {
-        this.#geolocate.on('geolocate', handler);
+    registerGeoLocateHandler(handler, once=true) {
+        if (once){
+            this.#geolocate.once('geolocate', handler);
+        }
+        else{
+            this.#geolocate.on('geolocate', handler);
+        }
     }
     
     registerMoveHandler(handler){
