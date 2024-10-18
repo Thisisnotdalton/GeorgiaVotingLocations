@@ -512,6 +512,7 @@ export async function Start() {
             pollingLocationLayerID, pollingPlaces, {
                 'generateId': true
             });
+        await map.waitForDataLoaded(pollingLocationLayerID);
         map.displayLayer(pollingLocationLayerID,
             {
                 'type': 'circle',
@@ -585,7 +586,21 @@ export async function Start() {
             maxWidth: 'none'
         }
     );
-    map.registerMoveHandler(()=>{
+
+    async function updateFocusPosition(coords) {
+        await map.waitForDataLoaded(pollingLocationLayerID);
+        let closestPoll = await selectClosestPollingLocation(coords);
+        if (closestPoll) {
+            let closestCoords = closestPoll['geometry']['coordinates'];
+            let midLng = (coords[0] + closestCoords[0]) / 2;
+            let midLat = (coords[1] + closestCoords[1]) / 2;
+            map.centerMap(midLng, midLat);
+        } else {
+            map.centerMap(coords[0], coords[1]);
+        }
+    }
+
+    map.registerMoveHandler(async () => {
         if (map.hasPopUp(infoPopUpID)) {
             map.addPopUp(
                 infoPopUpHTML(),
@@ -598,22 +613,15 @@ export async function Start() {
         }
     });
 
-    let lastCoords = null;
     map.registerGeoLocateHandler(async (geolocateData) => {
         let coords = geolocateData['coords'];
         coords = [coords.longitude, coords.latitude];
-        let closestPoll = await selectClosestPollingLocation(coords);
-        if (closestPoll) {
-            map.extendToFit(closestPoll);
-        }
-        if (lastCoords && lastCoords.longitude === coords.longitude && lastCoords.latitude === coords.latitude) {
-            return;
-        }
-        lastCoords = coords;
         let countyName = await scenarios.getCoordinatesCountyName(coords);
         console.log(`Determined county ${countyName} from geolocate. Coords: ${coords}`);
         await scenarios.selectCounty(countyName);
-    });
+        await map.waitForDataLoaded(pollingLocationLayerID);
+        await updateFocusPosition(coords);
+    }, false);
 
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
