@@ -31,8 +31,7 @@ class Map {
         this.#geolocate = new maplibregl.GeolocateControl({
             positionOptions: {
                 enableHighAccuracy: true
-            },
-            trackUserLocation: true
+            }
         });
         this.#map.addControl(this.#geolocate);
     }
@@ -48,15 +47,24 @@ class Map {
         }
     }
 
-    centerMap(lng, lat) {
-        this.#map.flyTo({
+    async waitForDataLoaded(sourceLayerID, loaded=true) {
+        while (this.#map.isSourceLoaded(sourceLayerID) !== loaded) {
+            await new Promise(resolve => setTimeout(resolve, 100));
+        }
+    }
+
+    centerMap(lng, lat, zoom=null) {
+        let options =  {
             center: [
                 lng,
                 lat
             ],
-            zoom: this.#zoom,
             essential: true
-        });
+        };
+        if (zoom){
+            options['zoom'] = zoom;
+        }
+        this.#map.flyTo(options);
     }
 
     zoomTo(zoom) {
@@ -66,7 +74,16 @@ class Map {
         });
     }
 
-    setFeatureState(layerID, featureID, state) {
+    setFeatureState(layerID, featureID, state, update=true) {
+        if (update){
+            let updatedState = structuredClone(this.#map.getFeatureState({
+                source: layerID, id: featureID
+            }));
+            for (const [key, value] of Object.entries(state)) {
+                updatedState[key] = value;
+            }
+            state= updatedState;
+        }
         this.#map.setFeatureState({
                 source: layerID, id: featureID
             }, state
@@ -90,8 +107,12 @@ class Map {
 
     unloadLayer(layerName) {
         if (layerName in this.#layers) {
-            this.#map.removeLayer(layerName);
-            this.#map.removeSource(layerName);
+            if (this.#map.getLayer(layerName)) {
+                this.#map.removeLayer(layerName);
+            }
+            if (this.#map.getSource(layerName)) {
+                this.#map.removeSource(layerName);
+            }
             this.registerLayerEventHandlers(layerName, null);
             delete this.#layers[layerName];
         }
@@ -106,9 +127,13 @@ class Map {
             layer[key] = value;
         }
         if (enabled) {
-            this.#map.addLayer(layer);
+            if (!this.#map.getLayer(layerName)) {
+                this.#map.addLayer(layer);
+            }
         } else if (this.#layers[layerName]) {
-            this.#map.removeLayer(layerName);
+            if (this.#map.getLayer(layerName)) {
+                this.#map.removeLayer(layerName);
+            }
         }
     }
 
@@ -159,8 +184,13 @@ class Map {
         });
     }
 
-    registerGeoLocateHandler(handler) {
-        this.#geolocate.on('geolocate', handler);
+    registerGeoLocateHandler(handler, once=true) {
+        if (once){
+            this.#geolocate.once('geolocate', handler);
+        }
+        else{
+            this.#geolocate.on('geolocate', handler);
+        }
     }
     
     registerMoveHandler(handler){

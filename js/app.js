@@ -230,7 +230,7 @@ class ScenarioSelector {
     }
 }
 
-function infoPopUpHTML(){
+function infoPopUpHTML() {
     return `<div>
                 <h1>Looking for an early voting location?</h1>
                 <ol>
@@ -381,6 +381,11 @@ export async function Start() {
         let state = {};
         state[selectedFeatureStateKey] = true;
         map.setFeatureState(pollingLocationLayerID, feature.id, state);
+        let pollingPlaceProperties = feature['properties'];
+        let pollingPlaceSideBar = document.getElementById(pollingPlaceSideBarID);
+        if (pollingPlaceSideBar) {
+            pollingPlaceSideBar.innerHTML = formatPollingPlaceSideBarHTML(pollingPlaceProperties);
+        }
     });
     clickedFeatureSelector.AppendCallBack((feature) => {
         let state = {};
@@ -393,6 +398,11 @@ export async function Start() {
         let state = {};
         state[hoveredFeatureStateKey] = true;
         map.setFeatureState(pollingLocationLayerID, feature.id, state);
+        let pollingPlaceProperties = feature['properties'];
+        map.addPopUp(
+            formatPollingPlacePopUpHTML(pollingPlaceProperties),
+            pollingPlacePopUpID,
+            feature['geometry']['coordinates']);
     });
     hoveredFeatureSelector.AppendCallBack((feature) => {
         let state = {};
@@ -420,11 +430,6 @@ export async function Start() {
 
     async function clickFeature(features) {
         let selectedPollingPlace = extractFirstFeature(features);
-        let pollingPlaceProperties = selectedPollingPlace['properties'];
-        let pollingPlaceSideBar = document.getElementById(pollingPlaceSideBarID);
-        if (pollingPlaceSideBar) {
-            pollingPlaceSideBar.innerHTML = formatPollingPlaceSideBarHTML(pollingPlaceProperties);
-        }
         clickedFeatureSelector.Select(selectedPollingPlace);
     }
 
@@ -435,12 +440,7 @@ export async function Start() {
         map.showCursor();
         let selectedPollingPlace = extractFirstFeature(features);
         if (selectedPollingPlace) {
-            let pollingPlaceProperties = selectedPollingPlace['properties'];
             hoveredFeatureSelector.Select(selectedPollingPlace);
-            map.addPopUp(
-                formatPollingPlacePopUpHTML(pollingPlaceProperties),
-                pollingPlacePopUpID,
-                selectedPollingPlace['geometry']['coordinates']);
         }
     }
 
@@ -492,8 +492,8 @@ export async function Start() {
                 closestDistance = distance;
             }
         }
-        if(closest) {
-            clickFeature({features: [closest]});
+        if (closest) {
+            await clickFeature({features: [closest]});
             return closest;
         }
     }
@@ -512,6 +512,7 @@ export async function Start() {
             pollingLocationLayerID, pollingPlaces, {
                 'generateId': true
             });
+        await map.waitForDataLoaded(pollingLocationLayerID);
         map.displayLayer(pollingLocationLayerID,
             {
                 'type': 'circle',
@@ -577,26 +578,54 @@ export async function Start() {
             },
             'minzoom': 8
         });
+    map.addPopUp(
+        infoPopUpHTML(),
+        infoPopUpID,
+        null,
+        {
+            maxWidth: 'none'
+        }
+    );
 
-    let lastCoords = null;
+    async function updateFocusPosition(coords) {
+        await map.waitForDataLoaded(pollingLocationLayerID);
+        let closestPoll = await selectClosestPollingLocation(coords);
+        if (closestPoll) {
+            let closestCoords = closestPoll['geometry']['coordinates'];
+            let midLng = (coords[0] + closestCoords[0]) / 2;
+            let midLat = (coords[1] + closestCoords[1]) / 2;
+            map.centerMap(midLng, midLat);
+        } else {
+            map.centerMap(coords[0], coords[1]);
+        }
+    }
+
+    map.registerMoveHandler(async () => {
+        if (map.hasPopUp(infoPopUpID)) {
+            map.addPopUp(
+                infoPopUpHTML(),
+                infoPopUpID,
+                null,
+                {
+                    maxWidth: 'none'
+                }
+            );
+        }
+    });
+
     map.registerGeoLocateHandler(async (geolocateData) => {
         let coords = geolocateData['coords'];
         coords = [coords.longitude, coords.latitude];
-        let closestPoll = await selectClosestPollingLocation(coords);
-        if (closestPoll) {
-            map.extendToFit(closestPoll);
-        }
-        if (lastCoords && lastCoords.longitude === coords.longitude && lastCoords.latitude === coords.latitude) {
-            return;
-        }
-        lastCoords = coords;
         let countyName = await scenarios.getCoordinatesCountyName(coords);
         console.log(`Determined county ${countyName} from geolocate. Coords: ${coords}`);
         await scenarios.selectCounty(countyName);
-    });
+        await map.waitForDataLoaded(pollingLocationLayerID);
+        await updateFocusPosition(coords);
+    }, false);
 
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
+    await getLastUpdated();
     await scenarios.initialize();
     let date = urlParams.get('date')
     if (!date) {
@@ -620,27 +649,6 @@ export async function Start() {
     }
     scenarios.updateURLParameters();
     scenarios.appendCallSelectionChangedCallback((x) => scenarios.updateURLParameters());
-    await getLastUpdated();
-    map.addPopUp(
-        infoPopUpHTML(),
-        infoPopUpID,
-        null,
-        {
-            maxWidth: 'none'
-        }
-    );
-    map.registerMoveHandler(()=>{
-        if (map.hasPopUp(infoPopUpID)) {
-            map.addPopUp(
-                infoPopUpHTML(),
-                infoPopUpID,
-                null,
-                {
-                    maxWidth: 'none'
-                }
-            );
-        }
-    });
 }
 
 window.onload = async function () {
