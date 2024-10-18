@@ -230,7 +230,7 @@ class ScenarioSelector {
     }
 }
 
-function infoPopUpHTML(){
+function infoPopUpHTML() {
     return `<div>
                 <h1>Looking for an early voting location?</h1>
                 <ol>
@@ -492,8 +492,8 @@ export async function Start() {
                 closestDistance = distance;
             }
         }
-        if(closest) {
-            clickFeature({features: [closest]});
+        if (closest) {
+            await clickFeature({features: [closest]});
             return closest;
         }
     }
