@@ -99,8 +99,12 @@ class Map {
 
     unloadLayer(layerName) {
         if (layerName in this.#layers) {
-            this.#map.removeLayer(layerName);
-            this.#map.removeSource(layerName);
+            if (this.#map.getLayer(layerName)) {
+                this.#map.removeLayer(layerName);
+            }
+            if (this.#map.getSource(layerName)) {
+                this.#map.removeSource(layerName);
+            }
             this.registerLayerEventHandlers(layerName, null);
             delete this.#layers[layerName];
         }
@@ -115,9 +119,13 @@ class Map {
             layer[key] = value;
         }
         if (enabled) {
-            this.#map.addLayer(layer);
+            if (!this.#map.getLayer(layerName)) {
+                this.#map.addLayer(layer);
+            }
         } else if (this.#layers[layerName]) {
-            this.#map.removeLayer(layerName);
+            if (this.#map.getLayer(layerName)) {
+                this.#map.removeLayer(layerName);
+            }
         }
     }
 
