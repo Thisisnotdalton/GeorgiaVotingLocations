@@ -381,6 +381,11 @@ export async function Start() {
         let state = {};
         state[selectedFeatureStateKey] = true;
         map.setFeatureState(pollingLocationLayerID, feature.id, state);
+        let pollingPlaceProperties = feature['properties'];
+        let pollingPlaceSideBar = document.getElementById(pollingPlaceSideBarID);
+        if (pollingPlaceSideBar) {
+            pollingPlaceSideBar.innerHTML = formatPollingPlaceSideBarHTML(pollingPlaceProperties);
+        }
     });
     clickedFeatureSelector.AppendCallBack((feature) => {
         let state = {};
@@ -393,6 +398,11 @@ export async function Start() {
         let state = {};
         state[hoveredFeatureStateKey] = true;
         map.setFeatureState(pollingLocationLayerID, feature.id, state);
+        let pollingPlaceProperties = feature['properties'];
+        map.addPopUp(
+            formatPollingPlacePopUpHTML(pollingPlaceProperties),
+            pollingPlacePopUpID,
+            feature['geometry']['coordinates']);
     });
     hoveredFeatureSelector.AppendCallBack((feature) => {
         let state = {};
@@ -420,11 +430,6 @@ export async function Start() {
 
     async function clickFeature(features) {
         let selectedPollingPlace = extractFirstFeature(features);
-        let pollingPlaceProperties = selectedPollingPlace['properties'];
-        let pollingPlaceSideBar = document.getElementById(pollingPlaceSideBarID);
-        if (pollingPlaceSideBar) {
-            pollingPlaceSideBar.innerHTML = formatPollingPlaceSideBarHTML(pollingPlaceProperties);
-        }
         clickedFeatureSelector.Select(selectedPollingPlace);
     }
 
@@ -435,12 +440,7 @@ export async function Start() {
         map.showCursor();
         let selectedPollingPlace = extractFirstFeature(features);
         if (selectedPollingPlace) {
-            let pollingPlaceProperties = selectedPollingPlace['properties'];
             hoveredFeatureSelector.Select(selectedPollingPlace);
-            map.addPopUp(
-                formatPollingPlacePopUpHTML(pollingPlaceProperties),
-                pollingPlacePopUpID,
-                selectedPollingPlace['geometry']['coordinates']);
         }
     }
 
