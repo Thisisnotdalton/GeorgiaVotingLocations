@@ -66,7 +66,16 @@ class Map {
         });
     }
 
-    setFeatureState(layerID, featureID, state) {
+    setFeatureState(layerID, featureID, state, update=true) {
+        if (update){
+            let updatedState = structuredClone(this.#map.getFeatureState({
+                source: layerID, id: featureID
+            }));
+            for (const [key, value] of Object.entries(state)) {
+                updatedState[key] = value;
+            }
+            state= updatedState;
+        }
         this.#map.setFeatureState({
                 source: layerID, id: featureID
             }, state
