@@ -31,8 +31,7 @@ class Map {
         this.#geolocate = new maplibregl.GeolocateControl({
             positionOptions: {
                 enableHighAccuracy: true
-            },
-            trackUserLocation: true
+            }
         });
         this.#map.addControl(this.#geolocate);
     }
