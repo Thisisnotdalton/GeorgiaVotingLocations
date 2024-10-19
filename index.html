@@ -46,10 +46,50 @@
         </p>
     </div>
 
+    <div id="main-modal" class="modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Looking for an early voting location?</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closeModal()">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" style="font-size: 0.9rem;">
+                    <ol>
+                        <li>Provide your location or select a county to view early voting locations in that county.</li>
+                        <li>Select a time and day to filter early polling locations that are open.</li>
+                        <li>Click on a polling place (gray circles) to view its name, address, and hours.</li>
+                        <li>Click anywhere on the map to close this help message!</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
 </main>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
+
+<script>
+
+
+    function closeModal() {
+        const modalElement = document.getElementById("main-modal");
+        const modal = bootstrap.Modal.getOrCreateInstance(modalElement);
+
+        modal.hide();
+      }
+
+    function showModal() {
+        const modalElement = document.getElementById("main-modal");
+        const modal = bootstrap.Modal.getOrCreateInstance(modalElement);
+
+        modal.show();
+    }
+
+    showModal();
+</script>
 </body>
 </html>
