@@ -47,6 +47,24 @@ select:hover {
     height: 30rem;
 }
 
+.modal-content {
+    background-color: var(--dark-cyan);
+}
+
+.modal-header {
+    border-bottom: 0;
+}
+
+.modal-title {
+    color: white;
+}
+
+[data-dismiss="modal"] {
+    background-color: var(--dark-cyan);
+    border: 0;
+    color: white;
+}
+
 /*Medium*/
 @media (min-width: 768px) {
     .main-styles {

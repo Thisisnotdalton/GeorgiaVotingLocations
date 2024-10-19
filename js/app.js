@@ -578,14 +578,14 @@ export async function Start() {
             },
             'minzoom': 8
         });
-    map.addPopUp(
+   /* map.addPopUp(
         infoPopUpHTML(),
         infoPopUpID,
         null,
         {
             maxWidth: 'none'
         }
-    );
+    );*/
 
     async function updateFocusPosition(coords) {
         await map.waitForDataLoaded(pollingLocationLayerID);
@@ -601,7 +601,7 @@ export async function Start() {
     }
 
     map.registerMoveHandler(async () => {
-        if (map.hasPopUp(infoPopUpID)) {
+        /*if (map.hasPopUp(infoPopUpID)) {
             map.addPopUp(
                 infoPopUpHTML(),
                 infoPopUpID,
@@ -610,7 +610,7 @@ export async function Start() {
                     maxWidth: 'none'
                 }
             );
-        }
+        }*/
     });
 
     map.registerGeoLocateHandler(async (geolocateData) => {
@@ -629,10 +629,10 @@ export async function Start() {
     await scenarios.initialize();
     let date = urlParams.get('date')
     if (!date) {
-        var today = new Date();
-        var dd = String(today.getDate()).padStart(2, '0');
-        var mm = String(today.getMonth() + 1).padStart(2, '0');
-        var yyyy = today.getFullYear();
+        const today = new Date();
+        const dd = String(today.getDate()).padStart(2, '0');
+        const mm = String(today.getMonth() + 1).padStart(2, '0');
+        const yyyy = today.getFullYear();
         date = `${yyyy}-${mm}-${dd}`;
         console.log(`Defaulting date to ${date}`);
     }
