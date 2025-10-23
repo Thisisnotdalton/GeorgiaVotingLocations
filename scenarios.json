@@ -1,15 +1,15 @@
 {
   "any_time": {
-    "start_date": "2024-10-15",
-    "end_date": "2024-11-05",
+    "start_date": "2025-10-22",
+    "end_date": "2025-11-05",
     "info": {
       "name": "Any time",
       "description": "These polling places list hours of operation on {date}."
     }
   },
   "before_9_am": {
-    "start_date": "2024-10-15",
-    "end_date": "2024-11-05",
+    "start_date": "2025-10-22",
+    "end_date": "2025-11-05",
     "time_filter": "08:30:00",
     "info": {
       "name": "Before 9 am",
@@ -17,8 +17,8 @@
     }
   },
   "after_5_pm": {
-    "start_date": "2024-10-15",
-    "end_date": "2024-11-05",
+    "start_date": "2025-10-22",
+    "end_date": "2025-11-05",
     "time_filter": "17:30:00",
     "info": {
       "name": "After 5 pm",
