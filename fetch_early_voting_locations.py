@@ -18,6 +18,15 @@ from mapbox_geocode import geocode_address
 
 
 @lru_cache()
+def get_gecko_driver():
+    gecko_tempdir = './tmp_gecko'
+    os.environ['TMPDIR'] = gecko_tempdir
+    os.makedirs(gecko_tempdir, exist_ok=True)
+    from webdriver_manager.firefox import GeckoDriverManager
+    return GeckoDriverManager().install()
+
+
+@lru_cache()
 def get_driver(browser: str = 'firefox'):
     if browser == 'chromium':
         from selenium import webdriver
@@ -30,9 +39,7 @@ def get_driver(browser: str = 'firefox'):
     elif browser == 'firefox':
         from selenium import webdriver
         from selenium.webdriver.firefox.service import Service as FirefoxService
-        from webdriver_manager.firefox import GeckoDriverManager
-
-        driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
+        driver = webdriver.Firefox(service=FirefoxService(get_gecko_driver()))
     else:
         from selenium import webdriver
         from selenium.webdriver.chrome.service import Service as ChromeService
@@ -272,6 +279,7 @@ def fetch_and_cache_voting_locations(
         county='FULTON', output_directory: str = 'voting_locations'):
     os.makedirs(output_directory, exist_ok=True)
     json_directory = os.path.join(output_directory, 'json')
+    os.makedirs(json_directory, exist_ok=True)
     output_file = os.path.join(json_directory, f'{county}.json')
     locations = None
     if os.path.exists(output_file):
@@ -479,13 +487,13 @@ def get_state_fips(state_name: str = None, state_usps: str = None) -> dict:
 
 def get_state_county_boundaries(state: str = 'Georgia') -> gpd.GeoDataFrame:
     # data fetched from https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
-    national_county_boundary_file = './inputs/cb_2018_us_county_500k.zip' #!cb_2018_us_county_500k.shp'
+    national_county_boundary_file = './inputs/cb_2018_us_county_500k.zip'  # !cb_2018_us_county_500k.shp'
     assert os.path.isfile(national_county_boundary_file), 'Cannot find national county boundary file!'
     statefp_filter = str(get_state_fips(state_name=state))
     gdf = gpd.read_file(national_county_boundary_file)
     gdf = gdf.loc[gdf['STATEFP'] == statefp_filter, ['NAME', 'geometry']]
     gdf.loc[:, 'name'] = gdf.loc[:, 'NAME']
-    gdf.loc[:, 'NAME'] = gdf.loc[:, 'NAME'].apply(lambda _x: str(_x).upper().replace(' ',''))
+    gdf.loc[:, 'NAME'] = gdf.loc[:, 'NAME'].apply(lambda _x: str(_x).upper().replace(' ', ''))
     state_bounds = gpd.GeoDataFrame(pd.DataFrame(data=[dict(NAME='', geometry=gdf.geometry.union_all())]))
     gdf = gpd.GeoDataFrame(pd.concat([gdf, state_bounds]))
     gdf.loc[:, 'lng'] = gdf.geometry.centroid.x
@@ -547,11 +555,10 @@ def spatially_check_polling_places(output_directory: str = 'data', state: str = 
         print('All polling places intersect their county bounds.')
 
 
-
-
 def main(scenarios_file_path: str = 'scenarios.json', state='Georgia',
-         election_id='a0p3d00000LWdF5AAL', output_directory: str = 'data'):
+         election_id='a0pcs00000DWHflAAH', output_directory: str = 'data'):
     election_output_directory = os.path.join(output_directory, election_id)
+    os.makedirs(election_output_directory, exist_ok=True)
     all_county_voting_locations = aggregate_county_voting_locations(election_id=election_id,
                                                                     output_directory=election_output_directory)
     with open(scenarios_file_path, 'rt') as in_file:
