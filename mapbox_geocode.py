@@ -80,7 +80,7 @@ def mapbox_geocode(access_token: str = None, query: str = None, address_number: 
         f'No access token provided for MapBox Geocoding API!'
     parameters = dict(access_token=access_token, permanent='true', format='geojson', types='address')
     if isinstance(query, str) and len(query) > 0:
-        parameters['query'] = query
+        parameters['q'] = query
     else:
         parameters.update(
             address_number=address_number, street=street, block=block, place=place, region=region,
@@ -117,12 +117,16 @@ def manually_choose_geocode(address: str, results: list, comment: str = '') -> l
                 match_str += ','.join(matching_keys)
             full_address = result['properties'].get('full_address', 'MISSING!')
             print(f'{i}:\t{full_address}{match_str}:\t{url}')
-        chosen = input(' Please pick an option as numbered:')
+        chosen = input(' Please pick an option as numbered (or -1 to manually enter a new address): ')
         try:
             chosen = int(chosen)
-            results = [results[chosen]]
-        except:
-            pass
+            if chosen >= 0:
+                results = [results[chosen]]
+                continue
+            new_address = input('Please enter a new address: ')
+            results = [geocode_address(new_address, interactive=True)]
+        except Exception as e:
+            print(f'Error: {e}')
     return results
 
 def geocode_address(address: typing.Union[str, dict], comment: str = None, interactive: bool = False) -> typing.Tuple[
