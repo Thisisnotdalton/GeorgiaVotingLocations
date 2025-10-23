@@ -1,0 +1,360 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.49182,
+                    33.754115
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyM2NmMWJjZS1hNDc5LTRkZTEtODA5MS0yOTNlNzQ1OGNhYWU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3201",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyM2NmMWJjZS1hNDc5LTRkZTEtODA5MS0yOTNlNzQ1OGNhYWU",
+                        "name": "3201 Martin Luther King Jr Drive Southwest",
+                        "street_name": "Martin Luther King Jr Drive Southwest"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHVjBPN0E",
+                        "name": "30311"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjNjZjFiY2UtYTQ3OS00ZGUxLTgwOTEtMjkzZTc0NThjYWFl",
+                        "name": "Martin Luther King Jr Drive Southwest"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.754115,
+                    "longitude": -84.49182,
+                    "routable_points": [
+                        {
+                            "latitude": 33.753686,
+                            "longitude": -84.491921,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3201 Martin Luther King Jr Drive Southwest, Atlanta, Georgia 30311, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyM2NmMWJjZS1hNDc5LTRkZTEtODA5MS0yOTNlNzQ1OGNhYWU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "3201 Martin Luther King Jr Drive Southwest",
+                "name_preferred": "3201 Martin Luther King Jr Drive Southwest",
+                "place_formatted": "Atlanta, Georgia 30311, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.161242,
+                    31.518982
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16SXdNU0lzSW5OMGNtVmxkQ0k2SWsxQlVsUkpUaUJNVlZSSVJWSWdTMGxPUnlCS1VpNGdSRkl1SWl3aWNHeGhZMlVpT2lKQlZFeEJUbFJCSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd016RXhJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3201",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16SXdNU0lzSW5OMGNtVmxkQ0k2SWsxQlVsUkpUaUJNVlZSSVJWSWdTMGxPUnlCS1VpNGdSRkl1SWl3aWNHeGhZMlVpT2lKQlZFeEJUbFJCSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd016RXhJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MQ",
+                        "name": "3201 Martin Luther King Jr Drive",
+                        "street_name": "Martin Luther King Jr Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaT2Jz",
+                        "name": "Dougherty County",
+                        "wikidata_id": "Q176480"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIeDhxN0E",
+                        "name": "Southgate"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLQ2pz",
+                        "name": "Albany",
+                        "wikidata_id": "Q285599"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanV1N0E",
+                        "name": "31701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNekl3TVNJc0luTjBjbVZsZENJNklrMUJVbFJKVGlCTVZWUklSVklnUzBsT1J5QktVaTRnUkZJdUlpd2ljR3hoWTJVaU9pSkJWRXhCVGxSQklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNekV4SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjE",
+                        "name": "Martin Luther King Jr Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.518982,
+                    "longitude": -84.161242,
+                    "routable_points": [
+                        {
+                            "latitude": 31.518982,
+                            "longitude": -84.161242,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3201 Martin Luther King Jr Drive, Albany, Georgia 31701, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16SXdNU0lzSW5OMGNtVmxkQ0k2SWsxQlVsUkpUaUJNVlZSSVJWSWdTMGxPUnlCS1VpNGdSRkl1SWl3aWNHeGhZMlVpT2lKQlZFeEJUbFJCSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd016RXhJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3201 Martin Luther King Jr Drive",
+                "name_preferred": "3201 Martin Luther King Jr Drive",
+                "place_formatted": "Albany, Georgia 31701, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.381787,
+                    33.747427
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWFjNjgzM2ItNWU4ZC00MmJmLWJjMzUtODJkYWEwNjFlNjU4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEd0NNN0E",
+                            "name": "Grady"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpHM0tzN0E",
+                        "name": "Oakland",
+                        "wikidata_id": "Q7073949"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlRPN0E",
+                        "name": "30312"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWFjNjgzM2ItNWU4ZC00MmJmLWJjMzUtODJkYWEwNjFlNjU4",
+                        "name": "Martin Luther King Jr Drive Southeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.747427,
+                    "longitude": -84.381787
+                },
+                "feature_type": "street",
+                "full_address": "Martin Luther King Jr Drive Southeast, Atlanta, Georgia 30312, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWFjNjgzM2ItNWU4ZC00MmJmLWJjMzUtODJkYWEwNjFlNjU4",
+                "name": "Martin Luther King Jr Drive Southeast",
+                "name_preferred": "Martin Luther King Jr Drive Southeast",
+                "place_formatted": "Atlanta, Georgia 30312, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.405484,
+                    33.754571
+                ],
+                "type": "Point"
+            },
+            "id": "address.948952031467034",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVHlNN0E",
+                        "name": "Atlanta University Center"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlVPN0E",
+                        "name": "30314"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.948952031467034",
+                        "name": "North Martin Luther King Jr Drive Southwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.754571,
+                    "longitude": -84.405484
+                },
+                "feature_type": "street",
+                "full_address": "North Martin Luther King Jr Drive Southwest, Atlanta, Georgia 30314, United States",
+                "mapbox_id": "address.948952031467034",
+                "name": "North Martin Luther King Jr Drive Southwest",
+                "name_preferred": "North Martin Luther King Jr Drive Southwest",
+                "place_formatted": "Atlanta, Georgia 30314, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.42719,
+                    33.726955
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Y2M5NDk1NGYtNDMyNi00MmM4LWEyOTYtNmNjZGFlOTYxODAx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHM2FNN0E",
+                        "name": "Oakland City"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlNPN0E",
+                        "name": "30310"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2M5NDk1NGYtNDMyNi00MmM4LWEyOTYtNmNjZGFlOTYxODAx",
+                        "name": "Martin Luther King Jr Dr SW"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.726955,
+                    "longitude": -84.42719
+                },
+                "feature_type": "street",
+                "full_address": "Martin Luther King Jr Dr SW, Atlanta, Georgia 30310, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2M5NDk1NGYtNDMyNi00MmM4LWEyOTYtNmNjZGFlOTYxODAx",
+                "name": "Martin Luther King Jr Dr SW",
+                "name_preferred": "Martin Luther King Jr Dr SW",
+                "place_formatted": "Atlanta, Georgia 30310, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

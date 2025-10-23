@@ -1,0 +1,345 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.888169,
+                    32.553605
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyM2Y2OGJiMi1jNTVmLTQ0YzUtOTk3Mi04NDZiOGE2NjU1YWY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "902",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyM2Y2OGJiMi1jNTVmLTQ0YzUtOTk3Mi04NDZiOGE2NjU1YWY",
+                        "name": "902 Campus Drive",
+                        "street_name": "Campus Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUlJtN0E",
+                        "name": "Peach County",
+                        "wikidata_id": "Q491553"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdVFvN0E",
+                        "name": "Fort Valley",
+                        "wikidata_id": "Q260197"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDd1N0E",
+                        "name": "31030"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjNmNjhiYjItYzU1Zi00NGM1LTk5NzItODQ2YjhhNjY1NWFm",
+                        "name": "Campus Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 32.553605,
+                    "longitude": -83.888169,
+                    "routable_points": [
+                        {
+                            "latitude": 32.553608,
+                            "longitude": -83.888293,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "902 Campus Drive, Fort Valley, Georgia 31030, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyM2Y2OGJiMi1jNTVmLTQ0YzUtOTk3Mi04NDZiOGE2NjU1YWY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "902 Campus Drive",
+                "name_preferred": "902 Campus Drive",
+                "place_formatted": "Fort Valley, Georgia 31030, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.906491,
+                    32.561753
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjQ1OWRlZjktZmNkOC00NWNmLWExZDktMGNjMjg2NjY3Zjg4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUlJtN0E",
+                        "name": "Peach County",
+                        "wikidata_id": "Q491553"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdVFvN0E",
+                        "name": "Fort Valley",
+                        "wikidata_id": "Q260197"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDd1N0E",
+                        "name": "31030"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjQ1OWRlZjktZmNkOC00NWNmLWExZDktMGNjMjg2NjY3Zjg4",
+                        "name": "Campus Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.561753,
+                    "longitude": -83.906491
+                },
+                "feature_type": "street",
+                "full_address": "Campus Drive, Fort Valley, Georgia 31030, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjQ1OWRlZjktZmNkOC00NWNmLWExZDktMGNjMjg2NjY3Zjg4",
+                "name": "Campus Drive",
+                "name_preferred": "Campus Drive",
+                "place_formatted": "Fort Valley, Georgia 31030, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.87572,
+                    32.555206
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NmYzNDA5NWUtOTc1Ni00ZmNiLWEzOTAtZjI3YjI1MTEzMDE2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUlJtN0E",
+                        "name": "Peach County",
+                        "wikidata_id": "Q491553"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFcXFNN0E",
+                        "name": "Indian Oaks"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdVFvN0E",
+                        "name": "Fort Valley",
+                        "wikidata_id": "Q260197"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDd1N0E",
+                        "name": "31030"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmYzNDA5NWUtOTc1Ni00ZmNiLWEzOTAtZjI3YjI1MTEzMDE2",
+                        "name": "Ross Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.555206,
+                    "longitude": -83.87572
+                },
+                "feature_type": "street",
+                "full_address": "Ross Street, Fort Valley, Georgia 31030, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmYzNDA5NWUtOTc1Ni00ZmNiLWEzOTAtZjI3YjI1MTEzMDE2",
+                "name": "Fort Valley",
+                "name_preferred": "Ross Street",
+                "place_formatted": "Fort Valley, Georgia 31030, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.376816,
+                    33.931825
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UQXlJaXdpYzNSeVpXVjBJam9pUTBGTlVGVlRJRVJTU1ZaRklpd2ljR3hoWTJVaU9pSkdUMUpVSUZaQlRFeEZXU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBek1DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "902",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UQXlJaXdpYzNSeVpXVjBJam9pUTBGTlVGVlRJRVJTU1ZaRklpd2ljR3hoWTJVaU9pSkdUMUpVSUZaQlRFeEZXU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBek1DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mw",
+                        "name": "902 East Campus Road",
+                        "street_name": "East Campus Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEOWdzN0E",
+                        "name": "Habersham Hills"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.2188271571739258",
+                        "name": "30602"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVEF5SWl3aWMzUnlaV1YwSWpvaVEwRk5VRlZUSUVSU1NWWkZJaXdpY0d4aFkyVWlPaUpHVDFKVUlGWkJURXhGV1NJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQXpNQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjM",
+                        "name": "East Campus Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.931825,
+                    "longitude": -83.376816,
+                    "routable_points": [
+                        {
+                            "latitude": 33.931825,
+                            "longitude": -83.376816,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "902 East Campus Road, Athens, Georgia 30602, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UQXlJaXdpYzNSeVpXVjBJam9pUTBGTlVGVlRJRVJTU1ZaRklpd2ljR3hoWTJVaU9pSkdUMUpVSUZaQlRFeEZXU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBek1DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "902 Campus Drive",
+                "name_preferred": "902 East Campus Road",
+                "place_formatted": "Athens, Georgia 30602, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.886421,
+                    32.553874
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCdVFvN0E",
+            "properties": {
+                "bbox": [
+                    -84.071252,
+                    32.420967,
+                    -83.711749,
+                    32.704001
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUlJtN0E",
+                        "name": "Peach County",
+                        "wikidata_id": "Q491553"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdVFvN0E",
+                        "name": "Fort Valley",
+                        "wikidata_id": "Q260197"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.553874,
+                    "longitude": -83.886421
+                },
+                "feature_type": "place",
+                "full_address": "Fort Valley, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCdVFvN0E",
+                "name": "Fort Valley",
+                "name_preferred": "Fort Valley",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

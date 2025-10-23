@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EMANUEL",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "223 W MORING ST SUITE 102, SWAINSBORO, GA, 30401", "county": "EMANUEL", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 32.59364, "lng": -82.33469, "name": "OFFICE", "schedule": "10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -82.33469, 32.59364 ] } },
+{ "type": "Feature", "properties": { "address": "223 W MORING ST SUITE 102, SWAINSBORO, GA, 30401 0000", "county": "EMANUEL", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 32.59364, "lng": -82.33469, "name": "SWAINSBORO", "schedule": "10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -82.33469, 32.59364 ] } }
+]
+}

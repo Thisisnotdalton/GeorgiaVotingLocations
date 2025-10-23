@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LIBERTY",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "9397 E. OGLETHORPE HWY., MIDWAY, GA, 31320 0000", "county": "LIBERTY", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 31.798179, "lng": -81.45454, "name": "LIBERTY COUNTY COMPLEX", "schedule": "10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -81.45454, 31.798179 ] } },
+{ "type": "Feature", "properties": { "address": "100 N. MAIN ST .SUITE 1600, HINESVILLE, GA, 31313", "county": "LIBERTY", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 31.847679, "lng": -81.59582, "name": "MAIN OFFICE", "schedule": "10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -81.59582, 31.847679 ] } }
+]
+}

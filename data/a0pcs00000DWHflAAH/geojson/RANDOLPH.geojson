@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RANDOLPH",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "93 FRONT ST, CUTHBERT, GA, 39840-0000", "county": "RANDOLPH", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 31.76672, "lng": -84.786865, "name": "COURTHOUSE-GOVT CENTER", "schedule": "10/27/2025 - 10/31/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/25/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )\n10/14/2025 - 10/27/2025 8:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/28/2025 - 10/31/2025 8:00 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.786865, 31.76672 ] } },
+{ "type": "Feature", "properties": { "address": "58 PARK AVE, SHELLMAN, GA, 39886", "county": "RANDOLPH", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 31.75809, "lng": -84.6158, "name": "SHELLMAN TRAIN DEPOT", "schedule": "10/27/2025 - 10/31/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/25/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )\n10/28/2025 - 10/31/2025 8:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/14/2025 - 10/27/2025 8:00 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.6158, 31.75809 ] } }
+]
+}

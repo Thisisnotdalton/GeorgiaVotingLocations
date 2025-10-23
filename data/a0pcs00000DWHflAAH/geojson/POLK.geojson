@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "POLK",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "108 PRIOR STREET, CEDARTOWN, GA, 30125", "county": "POLK", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 34.011995, "lng": -85.262777, "name": "CEDARTOWN EARLY VOTING", "schedule": "10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -85.262777, 34.011995 ] } },
+{ "type": "Feature", "properties": { "address": "604 GOODYEAR AVENUE, ROCKMART, GA, 30153", "county": "POLK", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 34.00316, "lng": -85.042493, "name": "ROCKMART EARLY VOTING", "schedule": "10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -85.042493, 34.00316 ] } }
+]
+}

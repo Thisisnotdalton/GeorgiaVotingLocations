@@ -1,0 +1,337 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.470186,
+                    33.805155
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozYjQ2ZWJmYy1lZTRkLTQzN2EtYWVjYy0wNzE1NmE4MGM3Y2E",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2489",
+                        "mapbox_id": "dXJuOm1ieGFkcjozYjQ2ZWJmYy1lZTRkLTQzN2EtYWVjYy0wNzE1NmE4MGM3Y2E",
+                        "name": "2489 Perry Boulevard Northwest",
+                        "street_name": "Perry Boulevard Northwest"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJZm1zN0E",
+                        "name": "Scotts Crossing",
+                        "wikidata_id": "Q7438151"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZldPN0E",
+                        "name": "30318"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2I0NmViZmMtZWU0ZC00MzdhLWFlY2MtMDcxNTZhODBjN2Nh",
+                        "name": "Perry Boulevard Northwest"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.805155,
+                    "longitude": -84.470186,
+                    "routable_points": [
+                        {
+                            "latitude": 33.804937,
+                            "longitude": -84.470186,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2489 Perry Boulevard Northwest, Atlanta, Georgia 30318, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozYjQ2ZWJmYy1lZTRkLTQzN2EtYWVjYy0wNzE1NmE4MGM3Y2E",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "2489 Perry Boulevard Northwest",
+                "name_preferred": "2489 Perry Boulevard Northwest",
+                "place_formatted": "Atlanta, Georgia 30318, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.448612,
+                    33.789004
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzBhOGFkM2EtNDY2NC00NWQ2LTg5NTctYzUzN2U1MmQ0N2Rm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLZmdzN0E",
+                        "name": "West Highlands"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZldPN0E",
+                        "name": "30318"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzBhOGFkM2EtNDY2NC00NWQ2LTg5NTctYzUzN2U1MmQ0N2Rm",
+                        "name": "Kerry Place Northwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.789004,
+                    "longitude": -84.448612
+                },
+                "feature_type": "street",
+                "full_address": "Kerry Place Northwest, Atlanta, Georgia 30318, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzBhOGFkM2EtNDY2NC00NWQ2LTg5NTctYzUzN2U1MmQ0N2Rm",
+                "name": "Perry Blvd",
+                "name_preferred": "Kerry Place Northwest",
+                "place_formatted": "Atlanta, Georgia 30318, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.45963,
+                    33.81762
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MmVmNTczZTAtMThkNy00ZTYwLWEzYjQtZmQ3NzZlZDZhMTI4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpGcHBzN0E",
+                            "name": "Magnolia"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBMTJNN0E",
+                        "name": "Bolton"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZldPN0E",
+                        "name": "30318"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmVmNTczZTAtMThkNy00ZTYwLWEzYjQtZmQ3NzZlZDZhMTI4",
+                        "name": "Perry Blvd NW"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.81762,
+                    "longitude": -84.45963
+                },
+                "feature_type": "street",
+                "full_address": "Perry Blvd NW, Atlanta, Georgia 30318, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmVmNTczZTAtMThkNy00ZTYwLWEzYjQtZmQ3NzZlZDZhMTI4",
+                "name": "Perry Blvd NW",
+                "name_preferred": "Perry Blvd NW",
+                "place_formatted": "Atlanta, Georgia 30318, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.368627,
+                    33.725667
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzY3MjM5YzktNDcyZi00MTcwLWFiMDUtNzU5NjhiNDY2MGUz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdFBzN0E",
+                        "name": "Chosewood Park",
+                        "wikidata_id": "Q5105351"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlRPN0E",
+                        "name": "30312"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzY3MjM5YzktNDcyZi00MTcwLWFiMDUtNzU5NjhiNDY2MGUz",
+                        "name": "Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.725667,
+                    "longitude": -84.368627
+                },
+                "feature_type": "street",
+                "full_address": "Boulevard, Atlanta, Georgia 30312, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzY3MjM5YzktNDcyZi00MTcwLWFiMDUtNzU5NjhiNDY2MGUz",
+                "name": "Boulevard",
+                "name_preferred": "Boulevard",
+                "place_formatted": "Atlanta, Georgia 30312, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.582819,
+                    31.133811
+                ],
+                "type": "Point"
+            },
+            "id": "address.3060132487020432",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBblhvN0E",
+                        "name": "Brunswick",
+                        "wikidata_id": "Q994144"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakt1N0E",
+                        "name": "31523"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.3060132487020432",
+                        "name": "Perry Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.133811,
+                    "longitude": -81.582819
+                },
+                "feature_type": "street",
+                "full_address": "Perry Boulevard, Brunswick, Georgia 31523, United States",
+                "mapbox_id": "address.3060132487020432",
+                "name": "Perry Boulevard",
+                "name_preferred": "Perry Boulevard",
+                "place_formatted": "Brunswick, Georgia 31523, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

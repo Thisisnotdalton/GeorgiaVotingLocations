@@ -1,0 +1,351 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.27617,
+                    33.58704
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3NTNmNWM4MC0zZWUwLTRlZGMtYmM5ZS0yZTdhYjEwMzIxOGU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3499",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3NTNmNWM4MC0zZWUwLTRlZGMtYmM5ZS0yZTdhYjEwMzIxOGU",
+                        "name": "3499 Rex Road",
+                        "street_name": "Rex Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMzFzN0E",
+                        "name": "Katherine Valley"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFRzZJN0E",
+                        "name": "Rex",
+                        "wikidata_id": "Q7319112"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkRPN0E",
+                        "name": "30273"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzUzZjVjODAtM2VlMC00ZWRjLWJjOWUtMmU3YWIxMDMyMThl",
+                        "name": "Rex Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.58704,
+                    "longitude": -84.27617,
+                    "routable_points": [
+                        {
+                            "latitude": 33.586927,
+                            "longitude": -84.276212,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3499 Rex Road, Rex, Georgia 30273, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3NTNmNWM4MC0zZWUwLTRlZGMtYmM5ZS0yZTdhYjEwMzIxOGU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "3499 Rex Road",
+                "name_preferred": "3499 Rex Road",
+                "place_formatted": "Rex, Georgia 30273, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.286876,
+                    33.592549
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16UTVPU0lzSW5OMGNtVmxkQ0k2SWxKRldDQlNSQ0lzSW5Cc1lXTmxJam9pVWtWWUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamN6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3499",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16UTVPU0lzSW5OMGNtVmxkQ0k2SWxKRldDQlNSQ0lzSW5Cc1lXTmxJam9pVWtWWUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamN6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjE",
+                        "name": "3499 Rex Ridge Drive",
+                        "street_name": "Rex Ridge Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFRzZJN0E",
+                        "name": "Rex",
+                        "wikidata_id": "Q7319112"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkRPN0E",
+                        "name": "30273"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNelE1T1NJc0luTjBjbVZsZENJNklsSkZXQ0JTUkNJc0luQnNZV05sSWpvaVVrVllJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWpjeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+                        "name": "Rex Ridge Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.592549,
+                    "longitude": -84.286876,
+                    "routable_points": [
+                        {
+                            "latitude": 33.592549,
+                            "longitude": -84.286876,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3499 Rex Ridge Drive, Rex, Georgia 30273, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16UTVPU0lzSW5OMGNtVmxkQ0k2SWxKRldDQlNSQ0lzSW5Cc1lXTmxJam9pVWtWWUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamN6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "3499 Rex Ridge Drive",
+                "name_preferred": "3499 Rex Ridge Drive",
+                "place_formatted": "Rex, Georgia 30273, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.287114,
+                    33.593013
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NmZkOGU1YmQtYTgwMy00MzQ1LWI3MGMtZGE2ZThkZGJkZGRl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqT3pz",
+                        "name": "Amber Wood Estates"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFRzZJN0E",
+                        "name": "Rex",
+                        "wikidata_id": "Q7319112"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkRPN0E",
+                        "name": "30273"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmZkOGU1YmQtYTgwMy00MzQ1LWI3MGMtZGE2ZThkZGJkZGRl",
+                        "name": "Rex Ridge Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.593013,
+                    "longitude": -84.287114
+                },
+                "feature_type": "street",
+                "full_address": "Rex Ridge Parkway, Rex, Georgia 30273, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmZkOGU1YmQtYTgwMy00MzQ1LWI3MGMtZGE2ZThkZGJkZGRl",
+                "name": "Rex Ridge Parkway",
+                "name_preferred": "Rex Ridge Parkway",
+                "place_formatted": "Rex, Georgia 30273, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.286252,
+                    33.593315
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTk0NGU0NDItMjViOC00Zjk3LTk3MjAtOGMzYWZiOGMzZjY5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFRzZJN0E",
+                        "name": "Rex",
+                        "wikidata_id": "Q7319112"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkRPN0E",
+                        "name": "30273"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTk0NGU0NDItMjViOC00Zjk3LTk3MjAtOGMzYWZiOGMzZjY5",
+                        "name": "Rex Ridge Terrace"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.593315,
+                    "longitude": -84.286252
+                },
+                "feature_type": "street",
+                "full_address": "Rex Ridge Terrace, Rex, Georgia 30273, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTk0NGU0NDItMjViOC00Zjk3LTk3MjAtOGMzYWZiOGMzZjY5",
+                "name": "Rex Ridge Terrace",
+                "name_preferred": "Rex Ridge Terrace",
+                "place_formatted": "Rex, Georgia 30273, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.288684,
+                    33.592812
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODA2NmVhMjAtYWEzMy00OGFlLThlN2YtZTVjZWMzYjYyM2U0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIWnpNN0E",
+                        "name": "Pinebrook Heights"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFRzZJN0E",
+                        "name": "Rex",
+                        "wikidata_id": "Q7319112"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkRPN0E",
+                        "name": "30273"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODA2NmVhMjAtYWEzMy00OGFlLThlN2YtZTVjZWMzYjYyM2U0",
+                        "name": "Rex Ridge Lane"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.592812,
+                    "longitude": -84.288684
+                },
+                "feature_type": "street",
+                "full_address": "Rex Ridge Lane, Rex, Georgia 30273, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODA2NmVhMjAtYWEzMy00OGFlLThlN2YtZTVjZWMzYjYyM2U0",
+                "name": "Rex Ridge Lane",
+                "name_preferred": "Rex Ridge Lane",
+                "place_formatted": "Rex, Georgia 30273, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

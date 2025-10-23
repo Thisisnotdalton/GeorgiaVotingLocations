@@ -1,0 +1,390 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.735373,
+                    32.263119
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3NmE2YTA2MC1jZWE4LTRhMmItYTZlOC1kMmFjM2YwNzVmZWE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "563",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3NmE2YTA2MC1jZWE4LTRhMmItYTZlOC1kMmFjM2YwNzVmZWE",
+                        "name": "563 West Railroad Street",
+                        "street_name": "West Railroad Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaR2Jz",
+                        "name": "Dooly County",
+                        "wikidata_id": "Q492036"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFK2JvN0E",
+                        "name": "Unadilla",
+                        "wikidata_id": "Q2911906"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVd1N0E",
+                        "name": "31091"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzZhNmEwNjAtY2VhOC00YTJiLWE2ZTgtZDJhYzNmMDc1ZmVh",
+                        "name": "West Railroad Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.263119,
+                    "longitude": -83.735373,
+                    "routable_points": [
+                        {
+                            "latitude": 32.263017,
+                            "longitude": -83.735003,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "563 West Railroad Street, Unadilla, Georgia 31091, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3NmE2YTA2MC1jZWE4LTRhMmItYTZlOC1kMmFjM2YwNzVmZWE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "563 West Railroad Street",
+                "name_preferred": "563 West Railroad Street",
+                "place_formatted": "Unadilla, Georgia 31091, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.737435,
+                    32.255315
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWXpJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpWVGtGRVNVeE1RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBNU1TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "563",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWXpJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpWVGtGRVNVeE1RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBNU1TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6MQ",
+                        "name": "563 East Railroad Street",
+                        "street_name": "East Railroad Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaR2Jz",
+                        "name": "Dooly County",
+                        "wikidata_id": "Q492036"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFK2JvN0E",
+                        "name": "Unadilla",
+                        "wikidata_id": "Q2911906"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVd1N0E",
+                        "name": "31091"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVFl6SWl3aWMzUnlaV1YwSWpvaVVrRkpURkpQUVVRZ1UxUlNSVVZVSWl3aWNHeGhZMlVpT2lKVlRrRkVTVXhNUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQTVNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjE",
+                        "name": "East Railroad Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.255315,
+                    "longitude": -83.737435,
+                    "routable_points": [
+                        {
+                            "latitude": 32.255315,
+                            "longitude": -83.737435,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "563 East Railroad Street, Unadilla, Georgia 31091, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWXpJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpWVGtGRVNVeE1RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBNU1TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "563 East Railroad Street",
+                "name_preferred": "563 East Railroad Street",
+                "place_formatted": "Unadilla, Georgia 31091, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.759929,
+                    32.189499
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWXpJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpWVGtGRVNVeE1RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBNU1TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "563",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWXpJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpWVGtGRVNVeE1RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBNU1TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mg",
+                        "name": "563 East Railroad Street",
+                        "street_name": "East Railroad Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaR2Jz",
+                        "name": "Dooly County",
+                        "wikidata_id": "Q492036"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEM2JJN0E",
+                        "name": "Pinehurst",
+                        "wikidata_id": "Q927443"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaU51N0E",
+                        "name": "31070"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVFl6SWl3aWMzUnlaV1YwSWpvaVVrRkpURkpQUVVRZ1UxUlNSVVZVSWl3aWNHeGhZMlVpT2lKVlRrRkVTVXhNUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQTVNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjI",
+                        "name": "East Railroad Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.189499,
+                    "longitude": -83.759929,
+                    "routable_points": [
+                        {
+                            "latitude": 32.189499,
+                            "longitude": -83.759929,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "563 East Railroad Street, Pinehurst, Georgia 31070, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWXpJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpWVGtGRVNVeE1RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBNU1TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mg",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "563 East Railroad Street",
+                "name_preferred": "563 East Railroad Street",
+                "place_formatted": "Pinehurst, Georgia 31070, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.928878,
+                    32.228782
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTVmZWFlYzYtMDM5ZS00NzU4LWFlMzAtMDQ1ZDE4NTYxZDg1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaR2Jz",
+                        "name": "Dooly County",
+                        "wikidata_id": "Q492036"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpJRUJJN0E",
+                            "name": "Montezuma"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVDlvN0E",
+                        "name": "Dooling"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUtPN0E",
+                        "name": "31063"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTVmZWFlYzYtMDM5ZS00NzU4LWFlMzAtMDQ1ZDE4NTYxZDg1",
+                        "name": "Railroad Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.228782,
+                    "longitude": -83.928878
+                },
+                "feature_type": "street",
+                "full_address": "Railroad Street, Dooling, Georgia 31063, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTVmZWFlYzYtMDM5ZS00NzU4LWFlMzAtMDQ1ZDE4NTYxZDg1",
+                "name": "Railroad Street",
+                "name_preferred": "Railroad Street",
+                "place_formatted": "Dooling, Georgia 31063, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.656635,
+                    32.370458
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWXpJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpWVGtGRVNVeE1RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBNU1TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6NA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "563",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWXpJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpWVGtGRVNVeE1RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBNU1TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6NA",
+                        "name": "563 Railroad Street",
+                        "street_name": "Railroad Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKc2Jz",
+                        "name": "Bulloch County",
+                        "wikidata_id": "Q488166"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbDBJN0E",
+                        "name": "Brooklet",
+                        "wikidata_id": "Q2133259"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjJPN0E",
+                        "name": "30415"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVFl6SWl3aWMzUnlaV1YwSWpvaVVrRkpURkpQUVVRZ1UxUlNSVVZVSWl3aWNHeGhZMlVpT2lKVlRrRkVTVXhNUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UQTVNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjQ",
+                        "name": "Railroad Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.370458,
+                    "longitude": -81.656635,
+                    "routable_points": [
+                        {
+                            "latitude": 32.370458,
+                            "longitude": -81.656635,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "563 Railroad Street, Brooklet, Georgia 30415, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWXpJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpWVGtGRVNVeE1RU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRBNU1TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6NA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "563 Railroad Street",
+                "name_preferred": "563 Railroad Street",
+                "place_formatted": "Brooklet, Georgia 30415, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

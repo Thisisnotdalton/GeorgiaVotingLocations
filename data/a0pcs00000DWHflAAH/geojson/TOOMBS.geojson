@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TOOMBS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "100 COURTHOUSE SQ, STE 112, LYONS, GA, 30436", "county": "TOOMBS", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 32.203023, "lng": -82.32768, "name": "LYONS ADVANCE VOTING", "schedule": "10/20/2025 - 10/24/2025 8:30 AM - 5:00 PM ( Advanced Polling Location )\n10/25/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 8:30 AM - 5:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -82.32768, 32.203023 ] } }
+]
+}

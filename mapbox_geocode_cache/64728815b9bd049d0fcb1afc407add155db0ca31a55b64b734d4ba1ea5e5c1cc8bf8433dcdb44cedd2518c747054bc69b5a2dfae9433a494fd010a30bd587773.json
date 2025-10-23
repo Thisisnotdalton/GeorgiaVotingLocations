@@ -1,0 +1,144 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.33469,
+                    32.59364
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmMjVhZjg0Yy1lYWQzLTQ5MGEtYWUxYS0zNjJlMmI3Njg0MGE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "223",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmMjVhZjg0Yy1lYWQzLTQ5MGEtYWUxYS0zNjJlMmI3Njg0MGE",
+                        "name": "223 West Moring Street",
+                        "street_name": "West Moring Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpiVWJz",
+                        "name": "Emanuel County",
+                        "wikidata_id": "Q111894"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJWDNJN0E",
+                        "name": "Swainsboro",
+                        "wikidata_id": "Q2114103"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZnpPN0E",
+                        "name": "30401"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjI1YWY4NGMtZWFkMy00OTBhLWFlMWEtMzYyZTJiNzY4NDBh",
+                        "name": "West Moring Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 32.59364,
+                    "longitude": -82.33469,
+                    "routable_points": [
+                        {
+                            "latitude": 32.594373,
+                            "longitude": -82.334182,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "223 West Moring Street, Swainsboro, Georgia 30401, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmMjVhZjg0Yy1lYWQzLTQ5MGEtYWUxYS0zNjJlMmI3Njg0MGE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "223 West Moring Street",
+                "name_preferred": "223 West Moring Street",
+                "place_formatted": "Swainsboro, Georgia 30401, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.33189,
+                    32.596549
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjI2ZWZkN2EtZDA4OS00ODU5LWI3MzgtN2ZmZWMwODhiMDI4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpiVWJz",
+                        "name": "Emanuel County",
+                        "wikidata_id": "Q111894"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJWDNJN0E",
+                        "name": "Swainsboro",
+                        "wikidata_id": "Q2114103"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZnpPN0E",
+                        "name": "30401"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjI2ZWZkN2EtZDA4OS00ODU5LWI3MzgtN2ZmZWMwODhiMDI4",
+                        "name": "East Moring Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.596549,
+                    "longitude": -82.33189
+                },
+                "feature_type": "street",
+                "full_address": "East Moring Street, Swainsboro, Georgia 30401, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjI2ZWZkN2EtZDA4OS00ODU5LWI3MzgtN2ZmZWMwODhiMDI4",
+                "name": "Moring St",
+                "name_preferred": "East Moring Street",
+                "place_formatted": "Swainsboro, Georgia 30401, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

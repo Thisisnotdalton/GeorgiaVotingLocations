@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "FORSYTH",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "1201 SAWNEE DRIVE, CUMMING, GA, 30040", "county": "FORSYTH", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 34.22382, "lng": -84.13915, "name": "ELECTIONS AND VOTER REGISTRATION OFFICE", "schedule": "10/27/2025 - 10/31/2025 8:00 AM - 6:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/25/2025 8:00 AM - 6:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 8:00 AM - 6:00 PM ( Dropbox Polling Location )\n10/20/2025 - 10/25/2025 8:00 AM - 6:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.13915, 34.22382 ] } },
+{ "type": "Feature", "properties": { "address": "5345 SETTINGDOWN RD, CUMMING, GA, 30041", "county": "FORSYTH", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 34.305335, "lng": -84.067637, "name": "HAMPTON PARK LIBRARY", "schedule": "10/27/2025 - 10/31/2025 8:00 AM - 6:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.067637, 34.305335 ] } },
+{ "type": "Feature", "properties": { "address": "5100 POST RD, CUMMING, GA, 30040 0000", "county": "FORSYTH", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 34.20236, "lng": -84.21864, "name": "MIDWAY PARK COMMUNITY BUILDING", "schedule": "10/27/2025 - 10/31/2025 8:00 AM - 6:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.21864, 34.20236 ] } },
+{ "type": "Feature", "properties": { "address": "810 NICHOLS RD, SUWANEE, GA, 30024", "county": "FORSYTH", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 34.107919, "lng": -84.142824, "name": "OLD ATLANTA PARK RECREATION CENTER", "schedule": "10/27/2025 - 10/31/2025 8:00 AM - 6:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.142824, 34.107919 ] } }
+]
+}

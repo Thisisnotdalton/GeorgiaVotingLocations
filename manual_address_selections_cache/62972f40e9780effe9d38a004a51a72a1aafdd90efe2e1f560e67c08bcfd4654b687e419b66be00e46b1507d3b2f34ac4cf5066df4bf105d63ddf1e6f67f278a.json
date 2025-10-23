@@ -1,0 +1,83 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -82.848127,
+                31.508091
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl5TWpRZ1JTQkJjMmhzWlhrZ1UzUXNJRVJ2ZFdkc1lYTXNJRWRCSURNeE5UTXpJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MA",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "224",
+                    "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl5TWpRZ1JTQkJjMmhzWlhrZ1UzUXNJRVJ2ZFdkc1lYTXNJRWRCSURNeE5UTXpJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MA",
+                    "name": "224 East Ashley Street",
+                    "street_name": "East Ashley Street"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpTYWJz",
+                    "name": "Coffee County",
+                    "wikidata_id": "Q156503"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCVWNvN0E",
+                    "name": "Douglas",
+                    "wikidata_id": "Q1004791"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCak5PN0E",
+                    "name": "31533"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbkVpT2lJeU1qUWdSU0JCYzJoc1pYa2dVM1FzSUVSdmRXZHNZWE1zSUVkQklETXhOVE16SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjA",
+                    "name": "East Ashley Street"
+                }
+            },
+            "coordinates": {
+                "accuracy": "interpolated",
+                "latitude": 31.508091,
+                "longitude": -82.848127,
+                "routable_points": [
+                    {
+                        "latitude": 31.508091,
+                        "longitude": -82.848127,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "224 East Ashley Street, Douglas, Georgia 31533, United States",
+            "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl5TWpRZ1JTQkJjMmhzWlhrZ1UzUXNJRVJ2ZFdkc1lYTXNJRWRCSURNeE5UTXpJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MA",
+            "match_code": {
+                "address_number": "plausible",
+                "confidence": "medium",
+                "country": "inferred",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "224 East Ashley Street",
+            "name_preferred": "224 East Ashley Street",
+            "place_formatted": "Douglas, Georgia 31533, United States"
+        },
+        "type": "Feature"
+    }
+]

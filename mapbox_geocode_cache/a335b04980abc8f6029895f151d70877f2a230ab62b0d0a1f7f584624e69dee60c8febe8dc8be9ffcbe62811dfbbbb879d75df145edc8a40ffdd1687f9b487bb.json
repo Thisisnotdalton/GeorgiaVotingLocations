@@ -1,0 +1,338 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.36785,
+                    33.61631
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxNzlkYmU2NC0zNTNkLTRlM2MtOWM4NS1hMDc3MjBkNjc1YTM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5087",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxNzlkYmU2NC0zNTNkLTRlM2MtOWM4NS1hMDc3MjBkNjc1YTM",
+                        "name": "5087 Park Avenue",
+                        "street_name": "Park Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc1FvN0E",
+                        "name": "Forest Park",
+                        "wikidata_id": "Q3261685"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZk11N0E",
+                        "name": "30297"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTc5ZGJlNjQtMzUzZC00ZTNjLTljODUtYTA3NzIwZDY3NWEz",
+                        "name": "Park Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.61631,
+                    "longitude": -84.36785,
+                    "routable_points": [
+                        {
+                            "latitude": 33.616166,
+                            "longitude": -84.367767,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5087 Park Avenue, Forest Park, Georgia 30297, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxNzlkYmU2NC0zNTNkLTRlM2MtOWM4NS1hMDc3MjBkNjc1YTM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5087 Park Avenue",
+                "name_preferred": "5087 Park Avenue",
+                "place_formatted": "Forest Park, Georgia 30297, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.369261,
+                    33.621607
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZk11N0E",
+            "properties": {
+                "bbox": [
+                    -84.405839,
+                    33.574157,
+                    -84.310096,
+                    33.64873
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc1FvN0E",
+                        "name": "Forest Park",
+                        "wikidata_id": "Q3261685"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZk11N0E",
+                        "name": "30297"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.621607,
+                    "longitude": -84.369261
+                },
+                "feature_type": "postcode",
+                "full_address": "Forest Park, Georgia 30297, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZk11N0E",
+                "name": "30297",
+                "name_preferred": "30297",
+                "place_formatted": "Forest Park, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.321196,
+                    33.684766
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTROeUlzSW5OMGNtVmxkQ0k2SWxCQlVrc2dRVlpGSWl3aWNHeGhZMlVpT2lKR1QxSkZVMVFnVUVGU1N5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNREk1TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5087",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTROeUlzSW5OMGNtVmxkQ0k2SWxCQlVrc2dRVlpGSWl3aWNHeGhZMlVpT2lKR1QxSkZVMVFnVUVGU1N5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNREk1TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToy",
+                        "name": "5087 Pike Avenue",
+                        "street_name": "Pike Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUR2Jz",
+                        "name": "Columbia County",
+                        "wikidata_id": "Q115307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprY2pz",
+                        "name": "Appling"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGFPN0E",
+                        "name": "30802"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVEE0TnlJc0luTjBjbVZsZENJNklsQkJVa3NnUVZaRklpd2ljR3hoWTJVaU9pSkdUMUpGVTFRZ1VFRlNTeUlzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURJNU55SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mg",
+                        "name": "Pike Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.684766,
+                    "longitude": -82.321196,
+                    "routable_points": [
+                        {
+                            "latitude": 33.684766,
+                            "longitude": -82.321196,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5087 Pike Avenue, Appling, Georgia 30802, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UQTROeUlzSW5OMGNtVmxkQ0k2SWxCQlVrc2dRVlpGSWl3aWNHeGhZMlVpT2lKR1QxSkZVMVFnVUVGU1N5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNREk1TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "5087 Pike Avenue",
+                "name_preferred": "5087 Pike Avenue",
+                "place_formatted": "Appling, Georgia 30802, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.336492,
+                    34.03537
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWY4ZGYxZDYtMDI5MS00M2RhLWE4NTEtNjk1NTRkYzY0ZmE0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUGJJN0E",
+                        "name": "Roswell",
+                        "wikidata_id": "Q585176"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDd1N0E",
+                        "name": "30076"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWY4ZGYxZDYtMDI5MS00M2RhLWE4NTEtNjk1NTRkYzY0ZmE0",
+                        "name": "Park Ave"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.03537,
+                    "longitude": -84.336492
+                },
+                "feature_type": "street",
+                "full_address": "Park Ave, Roswell, Georgia 30076, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWY4ZGYxZDYtMDI5MS00M2RhLWE4NTEtNjk1NTRkYzY0ZmE0",
+                "name": "Park Ave",
+                "name_preferred": "Park Ave",
+                "place_formatted": "Roswell, Georgia 30076, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.369261,
+                    33.621607
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCc1FvN0E",
+            "properties": {
+                "bbox": [
+                    -84.40456,
+                    33.574157,
+                    -84.310094,
+                    33.648734
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc1FvN0E",
+                        "name": "Forest Park",
+                        "wikidata_id": "Q3261685"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.621607,
+                    "longitude": -84.369261
+                },
+                "feature_type": "place",
+                "full_address": "Forest Park, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCc1FvN0E",
+                "name": "Forest Park",
+                "name_preferred": "Forest Park",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

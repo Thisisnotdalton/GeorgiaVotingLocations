@@ -1,0 +1,370 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.97314,
+                    33.2937
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkY2EzMDQwNi02M2NhLTRmOWYtYWI5Yi0yMGUyZDM2NjA1YmM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "625",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkY2EzMDQwNi02M2NhLTRmOWYtYWI5Yi0yMGUyZDM2NjA1YmM",
+                        "name": "625 West 3rd Street",
+                        "street_name": "West 3rd Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLY2Jz",
+                        "name": "Butts County",
+                        "wikidata_id": "Q488210"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYWVJN0E",
+                        "name": "Jackson",
+                        "wikidata_id": "Q2184242"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHT3VPN0E",
+                        "name": "30233"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGNhMzA0MDYtNjNjYS00ZjlmLWFiOWItMjBlMmQzNjYwNWJj",
+                        "name": "West 3rd Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.2937,
+                    "longitude": -83.97314,
+                    "routable_points": [
+                        {
+                            "latitude": 33.293793,
+                            "longitude": -83.973145,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "625 West 3rd Street, Jackson, Georgia 30233, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkY2EzMDQwNi02M2NhLTRmOWYtYWI5Yi0yMGUyZDM2NjA1YmM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "625 West 3rd Street",
+                "name_preferred": "625 West 3rd Street",
+                "place_formatted": "Jackson, Georgia 30233, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.950017,
+                    33.292823
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NmQ5ZmUyNzAtMjUxZS00ODA2LWEwNzEtNmM5YjAzYjIwNjI3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLY2Jz",
+                        "name": "Butts County",
+                        "wikidata_id": "Q488210"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIVndzN0E",
+                        "name": "Pepperton"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYWVJN0E",
+                        "name": "Jackson",
+                        "wikidata_id": "Q2184242"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHT3VPN0E",
+                        "name": "30233"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmQ5ZmUyNzAtMjUxZS00ODA2LWEwNzEtNmM5YjAzYjIwNjI3",
+                        "name": "Pulliam Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.292823,
+                    "longitude": -83.950017
+                },
+                "feature_type": "street",
+                "full_address": "Pulliam Drive, Jackson, Georgia 30233, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmQ5ZmUyNzAtMjUxZS00ODA2LWEwNzEtNmM5YjAzYjIwNjI3",
+                "name": "3rd Street",
+                "name_preferred": "Pulliam Drive",
+                "place_formatted": "Jackson, Georgia 30233, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.966903,
+                    33.294395
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzVjMGQxNzQtMTg0ZS00NmY1LWFlODctZWVmMjM0MjAyNjU1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLY2Jz",
+                        "name": "Butts County",
+                        "wikidata_id": "Q488210"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYWVJN0E",
+                        "name": "Jackson",
+                        "wikidata_id": "Q2184242"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHT3VPN0E",
+                        "name": "30233"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzVjMGQxNzQtMTg0ZS00NmY1LWFlODctZWVmMjM0MjAyNjU1",
+                        "name": "3rd Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.294395,
+                    "longitude": -83.966903
+                },
+                "feature_type": "street",
+                "full_address": "3rd Street, Jackson, Georgia 30233, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzVjMGQxNzQtMTg0ZS00NmY1LWFlODctZWVmMjM0MjAyNjU1",
+                "name": "3rd Street",
+                "name_preferred": "3rd Street",
+                "place_formatted": "Jackson, Georgia 30233, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.317501,
+                    32.358733
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qSTFJaXdpYzNSeVpXVjBJam9pVnlBelVrUWdVMVFpTENKd2JHRmpaU0k2SWtwQlEwdFRUMDRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU16TWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "625",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qSTFJaXdpYzNSeVpXVjBJam9pVnlBelVrUWdVMVFpTENKd2JHRmpaU0k2SWtwQlEwdFRUMDRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU16TWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToz",
+                        "name": "625 3rd Street",
+                        "street_name": "3rd Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWJz",
+                        "name": "Effingham County",
+                        "wikidata_id": "Q156637"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMbURNN0E",
+                        "name": "Spring Branch"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbytvN0E",
+                        "name": "Springfield",
+                        "wikidata_id": "Q2206702"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTVPN0E",
+                        "name": "31329"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOakkxSWl3aWMzUnlaV1YwSWpvaVZ5QXpVa1FnVTFRaUxDSndiR0ZqWlNJNklrcEJRMHRUVDA0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXlNek1pTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+                        "name": "3rd Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.358733,
+                    "longitude": -81.317501,
+                    "routable_points": [
+                        {
+                            "latitude": 32.358733,
+                            "longitude": -81.317501,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "625 3rd Street, Springfield, Georgia 31329, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qSTFJaXdpYzNSeVpXVjBJam9pVnlBelVrUWdVMVFpTENKd2JHRmpaU0k2SWtwQlEwdFRUMDRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU16TWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "625 W Third St",
+                "name_preferred": "625 3rd Street",
+                "place_formatted": "Springfield, Georgia 31329, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.606124,
+                    36.430368
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qSTFJaXdpYzNSeVpXVjBJam9pVnlBelVrUWdVMVFpTENKd2JHRmpaU0k2SWtwQlEwdFRUMDRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU16TWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "625",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qSTFJaXdpYzNSeVpXVjBJam9pVnlBelVrUWdVMVFpTENKd2JHRmpaU0k2SWtwQlEwdFRUMDRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU16TWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTo0",
+                        "name": "625 West 3rd Street",
+                        "street_name": "West 3rd Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprQ2Jz",
+                        "name": "Halifax County",
+                        "wikidata_id": "Q509910"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTkFvN0E",
+                        "name": "Weldon"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVUR1N0E",
+                        "name": "27890"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdVRz",
+                        "name": "North Carolina",
+                        "region_code": "NC",
+                        "region_code_full": "US-NC",
+                        "wikidata_id": "Q1454"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOakkxSWl3aWMzUnlaV1YwSWpvaVZ5QXpVa1FnVTFRaUxDSndiR0ZqWlNJNklrcEJRMHRUVDA0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QXlNek1pTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6NA",
+                        "name": "West 3rd Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 36.430368,
+                    "longitude": -77.606124,
+                    "routable_points": [
+                        {
+                            "latitude": 36.430368,
+                            "longitude": -77.606124,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "625 West 3rd Street, Weldon, North Carolina 27890, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qSTFJaXdpYzNSeVpXVjBJam9pVnlBelVrUWdVMVFpTENKd2JHRmpaU0k2SWtwQlEwdFRUMDRpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeU16TWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "625 West 3rd Street",
+                "name_preferred": "625 West 3rd Street",
+                "place_formatted": "Weldon, North Carolina 27890, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

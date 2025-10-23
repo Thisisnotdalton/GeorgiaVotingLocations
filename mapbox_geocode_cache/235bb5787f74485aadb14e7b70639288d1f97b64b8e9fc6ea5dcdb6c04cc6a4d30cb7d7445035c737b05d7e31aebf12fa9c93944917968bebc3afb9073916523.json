@@ -1,0 +1,371 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.46688,
+                    33.59903
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxZTQ1MzQzZC02ZGY4LTQwNWItODhiNS0yNTNkMWM5MGUwNDA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "237",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxZTQ1MzQzZC02ZGY4LTQwNWItODhiNS0yNTNkMWM5MGUwNDA",
+                        "name": "237 North 2nd Street",
+                        "street_name": "North 2nd Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorNGJz",
+                        "name": "Morgan County",
+                        "wikidata_id": "Q493083"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIL3BJN0E",
+                        "name": "Madison",
+                        "wikidata_id": "Q580412"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy9PN0E",
+                        "name": "30650"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWU0NTM0M2QtNmRmOC00MDViLTg4YjUtMjUzZDFjOTBlMDQw",
+                        "name": "North 2nd Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 33.59903,
+                    "longitude": -83.46688,
+                    "routable_points": [
+                        {
+                            "latitude": 33.598911,
+                            "longitude": -83.466715,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "237 North 2nd Street, Madison, Georgia 30650, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxZTQ1MzQzZC02ZGY4LTQwNWItODhiNS0yNTNkMWM5MGUwNDA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "237 North 2nd Street",
+                "name_preferred": "237 North 2nd Street",
+                "place_formatted": "Madison, Georgia 30650, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.4705,
+                    33.5959
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZWVmNWY0NTktZWM1Ny00ZTZmLTg0MzUtMzU0OTgyZGFhY2Zk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorNGJz",
+                        "name": "Morgan County",
+                        "wikidata_id": "Q493083"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIL3BJN0E",
+                        "name": "Madison",
+                        "wikidata_id": "Q580412"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy9PN0E",
+                        "name": "30650"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWVmNWY0NTktZWM1Ny00ZTZmLTg0MzUtMzU0OTgyZGFhY2Zk",
+                        "name": "S Second St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.5959,
+                    "longitude": -83.4705
+                },
+                "feature_type": "street",
+                "full_address": "S Second St, Madison, Georgia 30650, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWVmNWY0NTktZWM1Ny00ZTZmLTg0MzUtMzU0OTgyZGFhY2Zk",
+                "name": "S Second St",
+                "name_preferred": "S Second St",
+                "place_formatted": "Madison, Georgia 30650, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.360281,
+                    43.095443
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTTNJaXdpYzNSeVpXVjBJam9pVGs5U1ZFZ2dNazVFSUZOVUlpd2ljR3hoWTJVaU9pSk5RVVJKVTA5T0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOalV3SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "237",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTTNJaXdpYzNSeVpXVjBJam9pVGs5U1ZFZ2dNazVFSUZOVUlpd2ljR3hoWTJVaU9pSk5RVVJKVTA5T0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOalV3SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjI",
+                        "name": "237 North 2nd Street",
+                        "street_name": "North 2nd Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpXWWJz",
+                        "name": "Dane County",
+                        "wikidata_id": "Q502200"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDODFzN0E",
+                        "name": "Emerson East"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDOEFJN0E",
+                        "name": "Madison",
+                        "wikidata_id": "Q43788"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDdVJPN0E",
+                        "name": "53704"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBNlRz",
+                        "name": "Wisconsin",
+                        "region_code": "WI",
+                        "region_code_full": "US-WI",
+                        "wikidata_id": "Q1537"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNak0zSWl3aWMzUnlaV1YwSWpvaVRrOVNWRWdnTWs1RUlGTlVJaXdpY0d4aFkyVWlPaUpOUVVSSlUwOU9JaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TmpVd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDoy",
+                        "name": "North 2nd Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 43.095443,
+                    "longitude": -89.360281,
+                    "routable_points": [
+                        {
+                            "latitude": 43.095443,
+                            "longitude": -89.360281,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "237 North 2nd Street, Madison, Wisconsin 53704, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTTNJaXdpYzNSeVpXVjBJam9pVGs5U1ZFZ2dNazVFSUZOVUlpd2ljR3hoWTJVaU9pSk5RVVJKVTA5T0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOalV3SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "237 North 2nd Street",
+                "name_preferred": "237 North 2nd Street",
+                "place_formatted": "Madison, Wisconsin 53704, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.771482,
+                    36.17883
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTTNJaXdpYzNSeVpXVjBJam9pVGs5U1ZFZ2dNazVFSUZOVUlpd2ljR3hoWTJVaU9pSk5RVVJKVTA5T0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOalV3SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "237",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTTNJaXdpYzNSeVpXVjBJam9pVGs5U1ZFZ2dNazVFSUZOVUlpd2ljR3hoWTJVaU9pSk5RVVJKVTA5T0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOalV3SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjM",
+                        "name": "237 North 2nd Street",
+                        "street_name": "North 2nd Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpXbWJz",
+                        "name": "Davidson County",
+                        "wikidata_id": "Q1177705"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEWVRJN0E",
+                        "name": "Nashville",
+                        "wikidata_id": "Q23197"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCM2F1N0E",
+                        "name": "37207"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBMFRz",
+                        "name": "Tennessee",
+                        "region_code": "TN",
+                        "region_code_full": "US-TN",
+                        "wikidata_id": "Q1509"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNak0zSWl3aWMzUnlaV1YwSWpvaVRrOVNWRWdnTWs1RUlGTlVJaXdpY0d4aFkyVWlPaUpOUVVSSlUwOU9JaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TmpVd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDoz",
+                        "name": "North 2nd Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 36.17883,
+                    "longitude": -86.771482,
+                    "routable_points": [
+                        {
+                            "latitude": 36.17883,
+                            "longitude": -86.771482,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "237 North 2nd Street, Nashville, Tennessee 37207, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qTTNJaXdpYzNSeVpXVjBJam9pVGs5U1ZFZ2dNazVFSUZOVUlpd2ljR3hoWTJVaU9pSk5RVVJKVTA5T0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOalV3SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjM",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "237 North 2nd Street",
+                "name_preferred": "237 North 2nd Street",
+                "place_formatted": "Nashville, Tennessee 37207, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.517572,
+                    33.736331
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzVmZjcxODgtZWUwNy00N2JiLWEzMTEtNGU4ZWU4ODAxNDMw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorNGJz",
+                        "name": "Morgan County",
+                        "wikidata_id": "Q493083"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLMGVLN0E",
+                        "name": "Bostwick"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBYnJvN0E",
+                        "name": "Bishop",
+                        "wikidata_id": "Q2705093"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzBPN0E",
+                        "name": "30621"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzVmZjcxODgtZWUwNy00N2JiLWEzMTEtNGU4ZWU4ODAxNDMw",
+                        "name": "2nd Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.736331,
+                    "longitude": -83.517572
+                },
+                "feature_type": "street",
+                "full_address": "2nd Street, Bishop, Georgia 30621, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzVmZjcxODgtZWUwNy00N2JiLWEzMTEtNGU4ZWU4ODAxNDMw",
+                "name": "2nd Street",
+                "name_preferred": "2nd Street",
+                "place_formatted": "Bishop, Georgia 30621, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

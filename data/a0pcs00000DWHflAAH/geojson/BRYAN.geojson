@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRYAN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "91 LANIER STREET, PEMBROKE, GA, 31321", "county": "BRYAN", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 32.133967, "lng": -81.620422, "name": "HARN COMMUNITY CENTER", "schedule": "10/20/2025 - 10/25/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -81.620422, 32.133967 ] } },
+{ "type": "Feature", "properties": { "address": "508 TIMBER TRAIL, RICHMOND HILL, GA, 31324", "county": "BRYAN", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 31.926997, "lng": -81.304512, "name": "RICHMOND HILL RECREATION COMPLEX", "schedule": "10/20/2025 - 10/25/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/25/2025 8:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/27/2025 - 10/31/2025 8:00 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -81.304512, 31.926997 ] } }
+]
+}

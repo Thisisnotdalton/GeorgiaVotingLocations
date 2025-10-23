@@ -1,0 +1,91 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.664271,
+                    33.530519
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjMmJjMmQ4OS1jOWJmLTQ5OGEtYjNlNi01OWZiMDM2MDAxYjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "9111",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjMmJjMmQ4OS1jOWJmLTQ5OGEtYjNlNi01OWZiMDM2MDAxYjE",
+                        "name": "9111 Palmetto Cascade Highway",
+                        "street_name": "Palmetto Cascade Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBMjdJN0E",
+                            "name": "Chattahoochee Hills"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpEdW5JN0E",
+                        "name": "Palmetto",
+                        "wikidata_id": "Q508485"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkF1N0E",
+                        "name": "30268"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzJiYzJkODktYzliZi00OThhLWIzZTYtNTlmYjAzNjAwMWIx",
+                        "name": "Palmetto Cascade Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.530519,
+                    "longitude": -84.664271,
+                    "routable_points": [
+                        {
+                            "latitude": 33.530347,
+                            "longitude": -84.664269,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "9111 Palmetto Cascade Highway, Palmetto, Georgia 30268, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjMmJjMmQ4OS1jOWJmLTQ5OGEtYjNlNi01OWZiMDM2MDAxYjE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "9111 Cascade Palmetto Hwy",
+                "name_preferred": "9111 Palmetto Cascade Highway",
+                "place_formatted": "Palmetto, Georgia 30268, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

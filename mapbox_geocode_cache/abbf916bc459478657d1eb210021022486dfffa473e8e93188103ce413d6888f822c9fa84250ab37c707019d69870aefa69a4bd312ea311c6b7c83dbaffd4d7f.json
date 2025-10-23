@@ -1,0 +1,387 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.734001,
+                    31.171678
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkZjZjMGJhOC0yNmUxLTRhOTQtOTMwYy0xMzIyM2ZjZTEwYTI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "155",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkZjZjMGJhOC0yNmUxLTRhOTQtOTMwYy0xMzIyM2ZjZTEwYTI",
+                        "name": "155 South 1st Street",
+                        "street_name": "South 1st Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo4R2Jz",
+                        "name": "Miller County",
+                        "wikidata_id": "Q493107"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQTdvN0E",
+                        "name": "Colquitt",
+                        "wikidata_id": "Q735725"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXVPN0E",
+                        "name": "39837"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGY2YzBiYTgtMjZlMS00YTk0LTkzMGMtMTMyMjNmY2UxMGEy",
+                        "name": "South 1st Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.171678,
+                    "longitude": -84.734001,
+                    "routable_points": [
+                        {
+                            "latitude": 31.171334,
+                            "longitude": -84.73401,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "155 South 1st Street, Colquitt, Georgia 39837, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkZjZjMGJhOC0yNmUxLTRhOTQtOTMwYy0xMzIyM2ZjZTEwYTI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "155 South 1st Street",
+                "name_preferred": "155 South 1st Street",
+                "place_formatted": "Colquitt, Georgia 39837, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.88563,
+                    31.60692
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pVXlBeFUxUWdVMVFnVTFWSlZFVWdNVEV6SWl3aWNHeGhZMlVpT2lKRFQweFJWVWxVVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek9UZ3pOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "155",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pVXlBeFUxUWdVMVFnVTFWSlZFVWdNVEV6SWl3aWNHeGhZMlVpT2lKRFQweFJWVWxVVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek9UZ3pOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjE",
+                        "name": "155 South 1st Street",
+                        "street_name": "South 1st Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWFdtN0E",
+                        "name": "Wayne County",
+                        "wikidata_id": "Q491762"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpINVZvN0E",
+                        "name": "Jesup",
+                        "wikidata_id": "Q3177730"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCalJPN0E",
+                        "name": "31545"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFUxSWl3aWMzUnlaV1YwSWpvaVV5QXhVMVFnVTFRZ1UxVkpWRVVnTVRFeklpd2ljR3hoWTJVaU9pSkRUMHhSVlVsVVZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpPVGd6TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+                        "name": "South 1st Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.60692,
+                    "longitude": -81.88563,
+                    "routable_points": [
+                        {
+                            "latitude": 31.60692,
+                            "longitude": -81.88563,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "155 South 1st Street, Jesup, Georgia 31545, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pVXlBeFUxUWdVMVFnVTFWSlZFVWdNVEV6SWl3aWNHeGhZMlVpT2lKRFQweFJWVWxVVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek9UZ3pOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "155 South 1st Street",
+                "name_preferred": "155 South 1st Street",
+                "place_formatted": "Jesup, Georgia 31545, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.508703,
+                    32.034914
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pVXlBeFUxUWdVMVFnVTFWSlZFVWdNVEV6SWl3aWNHeGhZMlVpT2lKRFQweFJWVWxVVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek9UZ3pOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "155",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pVXlBeFUxUWdVMVFnVTFWSlZFVWdNVEV6SWl3aWNHeGhZMlVpT2lKRFQweFJWVWxVVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek9UZ3pOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjI",
+                        "name": "155 1st Street",
+                        "street_name": "1st Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorR2Jz",
+                        "name": "Montgomery County",
+                        "wikidata_id": "Q493125"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGQVdJN0E",
+                        "name": "Uvalda",
+                        "wikidata_id": "Q1965068"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0pPN0E",
+                        "name": "30473"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFUxSWl3aWMzUnlaV1YwSWpvaVV5QXhVMVFnVTFRZ1UxVkpWRVVnTVRFeklpd2ljR3hoWTJVaU9pSkRUMHhSVlVsVVZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpPVGd6TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToy",
+                        "name": "1st Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.034914,
+                    "longitude": -82.508703,
+                    "routable_points": [
+                        {
+                            "latitude": 32.034914,
+                            "longitude": -82.508703,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "155 1st Street, Uvalda, Georgia 30473, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pVXlBeFUxUWdVMVFnVTFWSlZFVWdNVEV6SWl3aWNHeGhZMlVpT2lKRFQweFJWVWxVVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek9UZ3pOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "155 S First St",
+                "name_preferred": "155 1st Street",
+                "place_formatted": "Uvalda, Georgia 30473, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.72369,
+                    31.17697
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTk2Njc3NWMtZTA0Yi00OGZkLWFlZTctNDJkYjJkYzAxNzBl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo4R2Jz",
+                        "name": "Miller County",
+                        "wikidata_id": "Q493107"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQTdvN0E",
+                        "name": "Colquitt",
+                        "wikidata_id": "Q735725"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXVPN0E",
+                        "name": "39837"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTk2Njc3NWMtZTA0Yi00OGZkLWFlZTctNDJkYjJkYzAxNzBl",
+                        "name": "N 1st St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.17697,
+                    "longitude": -84.72369
+                },
+                "feature_type": "street",
+                "full_address": "N 1st St, Colquitt, Georgia 39837, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTk2Njc3NWMtZTA0Yi00OGZkLWFlZTctNDJkYjJkYzAxNzBl",
+                "name": "N 1st St",
+                "name_preferred": "N 1st St",
+                "place_formatted": "Colquitt, Georgia 39837, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.661426,
+                    29.553109
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pVXlBeFUxUWdVMVFnVTFWSlZFVWdNVEV6SWl3aWNHeGhZMlVpT2lKRFQweFJWVWxVVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek9UZ3pOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "155",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pVXlBeFUxUWdVMVFnVTFWSlZFVWdNVEV6SWl3aWNHeGhZMlVpT2lKRFQweFJWVWxVVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek9UZ3pOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjQ",
+                        "name": "155 1st Street",
+                        "street_name": "1st Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU2FtN0E",
+                        "name": "Putnam County",
+                        "wikidata_id": "Q503059"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWWxvN0E",
+                        "name": "Satsuma",
+                        "wikidata_id": "Q7426490"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCbGZPN0E",
+                        "name": "32189"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVRz",
+                        "name": "Florida",
+                        "region_code": "FL",
+                        "region_code_full": "US-FL",
+                        "wikidata_id": "Q812"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFUxSWl3aWMzUnlaV1YwSWpvaVV5QXhVMVFnVTFRZ1UxVkpWRVVnTVRFeklpd2ljR3hoWTJVaU9pSkRUMHhSVlVsVVZDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpPVGd6TnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTo0",
+                        "name": "1st Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 29.553109,
+                    "longitude": -81.661426,
+                    "routable_points": [
+                        {
+                            "latitude": 29.553109,
+                            "longitude": -81.661426,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "155 1st Street, Satsuma, Florida 32189, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pVXlBeFUxUWdVMVFnVTFWSlZFVWdNVEV6SWl3aWNHeGhZMlVpT2lKRFQweFJWVWxVVkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek9UZ3pOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "155 S 1st St",
+                "name_preferred": "155 1st Street",
+                "place_formatted": "Satsuma, Florida 32189, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,345 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.93326,
+                    31.378454
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplM2MwOWZjZi01NWY1LTRhZmMtYWE0Ny01MjIyZjllYjhkMTk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "17",
+                        "mapbox_id": "dXJuOm1ieGFkcjplM2MwOWZjZi01NWY1LTRhZmMtYWE0Ny01MjIyZjllYjhkMTk",
+                        "name": "17 Mc Donald Street",
+                        "street_name": "Mc Donald Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzphS2Jz",
+                        "name": "Early County",
+                        "wikidata_id": "Q486757"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHQXhJN0E",
+                        "name": "Blakely",
+                        "wikidata_id": "Q1934251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXBPN0E",
+                        "name": "39823"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTNjMDlmY2YtNTVmNS00YWZjLWFhNDctNTIyMmY5ZWI4ZDE5",
+                        "name": "Mc Donald Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.378454,
+                    "longitude": -84.93326,
+                    "routable_points": [
+                        {
+                            "latitude": 31.378247,
+                            "longitude": -84.93321,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "17 Mc Donald Street, Blakely, Georgia 39823, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplM2MwOWZjZi01NWY1LTRhZmMtYWE0Ny01MjIyZjllYjhkMTk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "17 Mcdonald Ave",
+                "name_preferred": "17 Mc Donald Street",
+                "place_formatted": "Blakely, Georgia 39823, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.793808,
+                    31.772058
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UY2lMQ0p6ZEhKbFpYUWlPaUpOUTBSUFRrRk1SQ0JCVmtVaUxDSndiR0ZqWlNJNklrSk1RVXRGVEZraUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16azRNak1pTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "17",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UY2lMQ0p6ZEhKbFpYUWlPaUpOUTBSUFRrRk1SQ0JCVmtVaUxDSndiR0ZqWlNJNklrSk1RVXRGVEZraUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16azRNak1pTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6MQ",
+                        "name": "17 Mc Donald Avenue",
+                        "street_name": "Mc Donald Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU21HN0E",
+                        "name": "Randolph County",
+                        "wikidata_id": "Q498307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHTmdvN0E",
+                        "name": "Cuthbert",
+                        "wikidata_id": "Q2369328"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXV1N0E",
+                        "name": "39840"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVGNpTENKemRISmxaWFFpT2lKTlEwUlBUa0ZNUkNCQlZrVWlMQ0p3YkdGalpTSTZJa0pNUVV0RlRGa2lMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNems0TWpNaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjE",
+                        "name": "Mc Donald Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.772058,
+                    "longitude": -84.793808,
+                    "routable_points": [
+                        {
+                            "latitude": 31.772058,
+                            "longitude": -84.793808,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "17 Mc Donald Avenue, Cuthbert, Georgia 39840, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UY2lMQ0p6ZEhKbFpYUWlPaUpOUTBSUFRrRk1SQ0JCVmtVaUxDSndiR0ZqWlNJNklrSk1RVXRGVEZraUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16azRNak1pTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "17 Mcdonald Ave",
+                "name_preferred": "17 Mc Donald Avenue",
+                "place_formatted": "Cuthbert, Georgia 39840, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.933521,
+                    31.377606
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDQXBPN0E",
+            "properties": {
+                "bbox": [
+                    -85.114601,
+                    31.144289,
+                    -84.769872,
+                    31.522766
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzphS2Jz",
+                        "name": "Early County",
+                        "wikidata_id": "Q486757"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHQXhJN0E",
+                        "name": "Blakely",
+                        "wikidata_id": "Q1934251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXBPN0E",
+                        "name": "39823"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.377606,
+                    "longitude": -84.933521
+                },
+                "feature_type": "postcode",
+                "full_address": "Blakely, Georgia 39823, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDQXBPN0E",
+                "name": "39823",
+                "name_preferred": "39823",
+                "place_formatted": "Blakely, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.715756,
+                    30.959599
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTcyNDk5MjctY2UwMC00OTdlLTlhZmUtZWNhYzJiYjIxM2E0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMY2Jz",
+                        "name": "Camden County",
+                        "wikidata_id": "Q110504"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpITjBLN0E",
+                        "name": "Runnymeade"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGYWZvN0E",
+                        "name": "Woodbine",
+                        "wikidata_id": "Q659178"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamN1N0E",
+                        "name": "31569"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTcyNDk5MjctY2UwMC00OTdlLTlhZmUtZWNhYzJiYjIxM2E0",
+                        "name": "Mcdonald Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.959599,
+                    "longitude": -81.715756
+                },
+                "feature_type": "street",
+                "full_address": "Mcdonald Avenue, Woodbine, Georgia 31569, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTcyNDk5MjctY2UwMC00OTdlLTlhZmUtZWNhYzJiYjIxM2E0",
+                "name": "Mcdonald Avenue",
+                "name_preferred": "Mcdonald Avenue",
+                "place_formatted": "Woodbine, Georgia 31569, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.782077,
+                    31.416475
+                ],
+                "type": "Point"
+            },
+            "id": "address.4541063656354792",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTYWJz",
+                        "name": "Coffee County",
+                        "wikidata_id": "Q156503"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVWNvN0E",
+                        "name": "Douglas",
+                        "wikidata_id": "Q1004791"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCak9PN0E",
+                        "name": "31535"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.4541063656354792",
+                        "name": "Mcdonald Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.416475,
+                    "longitude": -82.782077
+                },
+                "feature_type": "street",
+                "full_address": "Mcdonald Avenue, Douglas, Georgia 31535, United States",
+                "mapbox_id": "address.4541063656354792",
+                "name": "Mcdonald Avenue",
+                "name_preferred": "Mcdonald Avenue",
+                "place_formatted": "Douglas, Georgia 31535, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

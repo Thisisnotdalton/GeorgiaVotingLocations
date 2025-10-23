@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BIBB",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "132 WILLIE SMOKIE GLOVER DR, MACON, GA, 31201", "county": "BIBB", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 32.832468, "lng": -83.616234, "name": "ELAINE H LUCAS SENIOR CENTER", "schedule": "10/14/2025 - 10/27/2025 8:30 AM - 5:30 PM ( Advanced Polling Location )\n10/28/2025 - 10/31/2025 8:30 AM - 5:30 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -83.616234, 32.832468 ] } },
+{ "type": "Feature", "properties": { "address": "3661 EISENHOWER PKWY, MACON, GA, 31206 2829", "county": "BIBB", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 32.818036, "lng": -83.694061, "name": "MACON BIBB COUNTY BOARD OF ELECTIONS", "schedule": "10/14/2025 - 10/27/2025 8:30 AM - 5:30 PM ( Dropbox Polling Location )\n10/28/2025 - 10/31/2025 8:30 AM - 5:30 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -83.694061, 32.818036 ] } },
+{ "type": "Feature", "properties": { "address": "815 N MACON PARK DR, MACON, GA, 31210", "county": "BIBB", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 32.887802, "lng": -83.682044, "name": "THERON USSERY PARK COMMUNITY/ RECREATION CENTER", "schedule": "10/14/2025 - 10/27/2025 8:30 AM - 5:30 PM ( Advanced Polling Location )\n10/28/2025 - 10/31/2025 8:30 AM - 5:30 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -83.682044, 32.887802 ] } }
+]
+}

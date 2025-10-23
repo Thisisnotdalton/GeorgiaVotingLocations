@@ -1,0 +1,168 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.966052,
+                    33.277186
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphOWFmZDQwNS1kYjVmLTQ0OTMtOTgyYy1lODIyMzgzMWJjMGU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "12560",
+                        "mapbox_id": "dXJuOm1ieGFkcjphOWFmZDQwNS1kYjVmLTQ0OTMtOTgyYy1lODIyMzgzMWJjMGU",
+                        "name": "12560 Augusta Highway",
+                        "street_name": "Augusta Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprMmJz",
+                        "name": "Hancock County",
+                        "wikidata_id": "Q493112"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbnFJN0E",
+                        "name": "Sparta",
+                        "wikidata_id": "Q2670509"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVV1N0E",
+                        "name": "31087"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTlhZmQ0MDUtZGI1Zi00NDkzLTk4MmMtZTgyMjM4MzFiYzBl",
+                        "name": "Augusta Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.277186,
+                    "longitude": -82.966052,
+                    "routable_points": [
+                        {
+                            "latitude": 33.277591,
+                            "longitude": -82.966103,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "12560 Augusta Highway, Sparta, Georgia 31087, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphOWFmZDQwNS1kYjVmLTQ0OTMtOTgyYy1lODIyMzgzMWJjMGU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "12560 Augusta Highway",
+                "name_preferred": "12560 Augusta Highway",
+                "place_formatted": "Sparta, Georgia 31087, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.632326,
+                    33.06769
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USTFOakFpTENKemRISmxaWFFpT2lKQlZVZFZVMVJCSUVoWFdTQkZJaXdpY0d4aFkyVWlPaUpUVUVGU1ZFRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekV3T0RjaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "12560",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USTFOakFpTENKemRISmxaWFFpT2lKQlZVZFZVMVJCSUVoWFdTQkZJaXdpY0d4aFkyVWlPaUpUVUVGU1ZFRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekV3T0RjaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjE",
+                        "name": "12560 Augusta Highway",
+                        "street_name": "Augusta Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTd2Jz",
+                        "name": "Colleton County",
+                        "wikidata_id": "Q502473"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSGhvN0E",
+                        "name": "Walterboro",
+                        "wikidata_id": "Q2725722"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.7640813169592368",
+                        "name": "29481"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEkxTmpBaUxDSnpkSEpsWlhRaU9pSkJWVWRWVTFSQklFaFhXU0JGSWl3aWNHeGhZMlVpT2lKVFVFRlNWRUVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpFd09EY2lMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTox",
+                        "name": "Augusta Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.06769,
+                    "longitude": -80.632326,
+                    "routable_points": [
+                        {
+                            "latitude": 33.06769,
+                            "longitude": -80.632326,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "12560 Augusta Highway, Walterboro, South Carolina 29481, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USTFOakFpTENKemRISmxaWFFpT2lKQlZVZFZVMVJCSUVoWFdTQkZJaXdpY0d4aFkyVWlPaUpUVUVGU1ZFRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekV3T0RjaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "12560 Augusta Highway",
+                "name_preferred": "12560 Augusta Highway",
+                "place_formatted": "Walterboro, South Carolina 29481, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

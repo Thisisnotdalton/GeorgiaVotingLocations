@@ -1,0 +1,301 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.835947,
+                    31.52798
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmOTEwZmE3OC1kYTE0LTRhMTktYTA0Zi1hZmY1M2VjODg5OWQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "201",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmOTEwZmE3OC1kYTE0LTRhMTktYTA0Zi1hZmY1M2VjODg5OWQ",
+                        "name": "201 North Main Street",
+                        "street_name": "North Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWVBHN0E",
+                        "name": "Worth County",
+                        "wikidata_id": "Q486154"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeTNJN0E",
+                        "name": "Sylvester",
+                        "wikidata_id": "Q2795652"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0tPN0E",
+                        "name": "31791"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjkxMGZhNzgtZGExNC00YTE5LWEwNGYtYWZmNTNlYzg4OTlk",
+                        "name": "North Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.52798,
+                    "longitude": -83.835947,
+                    "routable_points": [
+                        {
+                            "latitude": 31.527957,
+                            "longitude": -83.835511,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "201 North Main Street, Sylvester, Georgia 31791, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmOTEwZmE3OC1kYTE0LTRhMTktYTA0Zi1hZmY1M2VjODg5OWQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "201 North Main Street",
+                "name_preferred": "201 North Main Street",
+                "place_formatted": "Sylvester, Georgia 31791, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.835538,
+                    31.527535
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCa0tPN0E",
+            "properties": {
+                "bbox": [
+                    -84.012332,
+                    31.367427,
+                    -83.747796,
+                    31.706205
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWVBHN0E",
+                        "name": "Worth County",
+                        "wikidata_id": "Q486154"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeTNJN0E",
+                        "name": "Sylvester",
+                        "wikidata_id": "Q2795652"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0tPN0E",
+                        "name": "31791"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.527535,
+                    "longitude": -83.835538
+                },
+                "feature_type": "postcode",
+                "full_address": "Sylvester, Georgia 31791, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCa0tPN0E",
+                "name": "31791",
+                "name_preferred": "31791",
+                "place_formatted": "Sylvester, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.835538,
+                    31.527535
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpFeTNJN0E",
+            "properties": {
+                "bbox": [
+                    -84.012334,
+                    31.367429,
+                    -83.74783,
+                    31.706206
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWVBHN0E",
+                        "name": "Worth County",
+                        "wikidata_id": "Q486154"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeTNJN0E",
+                        "name": "Sylvester",
+                        "wikidata_id": "Q2795652"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.527535,
+                    "longitude": -83.835538
+                },
+                "feature_type": "place",
+                "full_address": "Sylvester, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpFeTNJN0E",
+                "name": "Sylvester",
+                "name_preferred": "Sylvester",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.496002,
+                    -0.132621
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDSTdJNmc",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "UG",
+                        "country_code_alpha_3": "UGA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdW8",
+                        "name": "Uganda",
+                        "wikidata_id": "Q1036"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDSTdJNmc",
+                        "name": "Main Street"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYVRx",
+                        "name": "Ibanda",
+                        "region_code": "417",
+                        "region_code_full": "UG-417",
+                        "wikidata_id": "Q1318877"
+                    }
+                },
+                "coordinates": {
+                    "latitude": -0.132621,
+                    "longitude": 30.496002
+                },
+                "feature_type": "place",
+                "full_address": "Main Street, Ibanda, Uganda",
+                "mapbox_id": "dXJuOm1ieHBsYzpDSTdJNmc",
+                "name": "Main Street",
+                "name_preferred": "Main Street",
+                "place_formatted": "Ibanda, Uganda"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.377702,
+                    45.99528
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpEbHJJVFE",
+            "properties": {
+                "bbox": [
+                    1.318393,
+                    45.963793,
+                    1.409975,
+                    46.029154
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "FR",
+                        "country_code_alpha_3": "FRA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJazA",
+                        "name": "France",
+                        "wikidata_id": "Q142"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEbHJJVFE",
+                        "name": "Saint-Sylvestre",
+                        "wikidata_id": "Q202545"
+                    },
+                    "region": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFTVJO",
+                            "name": "Nouvelle-Aquitaine",
+                            "region_code": "NAQ",
+                            "region_code_full": "FR-NAQ",
+                            "wikidata_id": "Q18678082"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCMlJO",
+                        "name": "Haute-Vienne",
+                        "region_code": "87",
+                        "region_code_full": "FR-87",
+                        "wikidata_id": "Q12808"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 45.99528,
+                    "longitude": 1.377702
+                },
+                "feature_type": "place",
+                "full_address": "Saint-Sylvestre, Haute-Vienne, France",
+                "mapbox_id": "dXJuOm1ieHBsYzpEbHJJVFE",
+                "name": "Saint-Sylvestre",
+                "name_preferred": "Saint-Sylvestre",
+                "place_formatted": "Haute-Vienne, France"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

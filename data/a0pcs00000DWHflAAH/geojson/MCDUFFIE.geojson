@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MCDUFFIE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "4614 AUGUSTA HWY, DEARING, GA, 30808", "county": "MCDUFFIE", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 33.412975, "lng": -82.384441, "name": "DEARING COMMUNITY CENTER", "schedule": "10/20/2025 - 10/25/2025 8:30 AM - 6:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -82.384441, 33.412975 ] } },
+{ "type": "Feature", "properties": { "address": "525 MAIN ST, THOMSON, GA, 30824 0000", "county": "MCDUFFIE", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 33.47429, "lng": -82.50607, "name": "PRECINCT ON MAIN (OLD THS GYM)", "schedule": "10/20/2025 - 10/25/2025 8:30 AM - 6:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -82.50607, 33.47429 ] } }
+]
+}

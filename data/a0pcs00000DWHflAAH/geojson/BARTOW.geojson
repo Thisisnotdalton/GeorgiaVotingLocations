@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BARTOW",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "435 WEST MAIN STREET, CARTERSVILLE, GA, 30120 0000", "county": "BARTOW", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 34.163467, "lng": -84.806494, "name": "CARTERSVILLE CIVIC CENTER", "schedule": "10/27/2025 - 10/31/2025 8:00 AM - 6:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.806494, 34.163467 ] } },
+{ "type": "Feature", "properties": { "address": "163B MANNING MILL RD, ADAIRSVILLE, GA, 30103 0000", "county": "BARTOW", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 34.344663, "lng": -84.905287, "name": "MANNING MILL PARK FACILITY", "schedule": "10/27/2025 - 10/31/2025 8:00 AM - 6:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.905287, 34.344663 ] } },
+{ "type": "Feature", "properties": { "address": "1300 JOE FRANK HARRIS PWY, CARTERSVILLE, GA, 30120", "county": "BARTOW", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 34.206284, "lng": -84.813911, "name": "REGISTRATION OFFICE", "schedule": "10/20/2025 - 10/25/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 8:00 AM - 6:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/25/2025 8:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/27/2025 - 10/31/2025 8:00 AM - 6:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.813911, 34.206284 ] } }
+]
+}

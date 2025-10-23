@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DOUGLAS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "2105 MACK RD, DOUGLASVILLE, GA, 30135", "county": "DOUGLAS", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 33.749185, "lng": -84.684361, "name": "DEER LICK PARK", "schedule": "10/20/2025 - 10/24/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.684361, 33.749185 ] } },
+{ "type": "Feature", "properties": { "address": "6100 GA. HIGHWAY 5, DOUGLASVILLE, GA, 30135 0000", "county": "DOUGLAS", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 33.63243, "lng": -84.8304, "name": "DOG RIVER LIBRARY", "schedule": "10/20/2025 - 10/24/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.8304, 33.63243 ] } },
+{ "type": "Feature", "properties": { "address": "8700 HOSPITAL DR, DOUGLASVILLE, GA, 30134", "county": "DOUGLAS", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 33.743423, "lng": -84.730582, "name": "DOUGLAS COUNTY COURTHOUSE", "schedule": "10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.730582, 33.743423 ] } }
+]
+}

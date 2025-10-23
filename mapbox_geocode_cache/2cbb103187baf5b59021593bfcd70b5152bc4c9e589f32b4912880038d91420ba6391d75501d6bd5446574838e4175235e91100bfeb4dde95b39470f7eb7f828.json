@@ -1,0 +1,363 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.66449,
+                    34.38942
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxOTFmYzllNC0xMDU3LTQ4MjctOGY0YS00N2VmMGFmMTI4MzI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "6055",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxOTFmYzllNC0xMDU3LTQ4MjctOGY0YS00N2VmMGFmMTI4MzI",
+                        "name": "6055 Main Street",
+                        "street_name": "Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprS2Jz",
+                        "name": "Hall County",
+                        "wikidata_id": "Q492012"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNW1vN0E",
+                        "name": "Lula",
+                        "wikidata_id": "Q3260830"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2h1N0E",
+                        "name": "30554"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTkxZmM5ZTQtMTA1Ny00ODI3LThmNGEtNDdlZjBhZjEyODMy",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.38942,
+                    "longitude": -83.66449,
+                    "routable_points": [
+                        {
+                            "latitude": 34.389308,
+                            "longitude": -83.664419,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "6055 Main Street, Lula, Georgia 30554, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxOTFmYzllNC0xMDU3LTQ4MjctOGY0YS00N2VmMGFmMTI4MzI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "6055 Main Street",
+                "name_preferred": "6055 Main Street",
+                "place_formatted": "Lula, Georgia 30554, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.525235,
+                    32.514408
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qQTFOU0lzSW5OMGNtVmxkQ0k2SWsxQlNVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSk1WVXhCSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05UVTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "6055",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qQTFOU0lzSW5OMGNtVmxkQ0k2SWsxQlNVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSk1WVXhCSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05UVTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MQ",
+                        "name": "6055 Old Louisville Road",
+                        "street_name": "Old Louisville Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWJz",
+                        "name": "Effingham County",
+                        "wikidata_id": "Q156637"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEY21vN0E",
+                        "name": "Newington",
+                        "wikidata_id": "Q2779956"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZi9PN0E",
+                        "name": "30446"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOakExTlNJc0luTjBjbVZsZENJNklrMUJTVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpNVlV4Qklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOVFUwSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjE",
+                        "name": "Old Louisville Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.514408,
+                    "longitude": -81.525235,
+                    "routable_points": [
+                        {
+                            "latitude": 32.514408,
+                            "longitude": -81.525235,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "6055 Old Louisville Road, Newington, Georgia 30446, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qQTFOU0lzSW5OMGNtVmxkQ0k2SWsxQlNVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSk1WVXhCSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05UVTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "6055 Main Street",
+                "name_preferred": "6055 Old Louisville Road",
+                "place_formatted": "Newington, Georgia 30446, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.773223,
+                    34.479577
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDY2ZDUzZmUtN2JiNS00MzA3LWE2YzgtM2NkMjMxOGJkYTY5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprS2Jz",
+                        "name": "Hall County",
+                        "wikidata_id": "Q492012"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBOHZvN0E",
+                        "name": "Clermont",
+                        "wikidata_id": "Q3169319"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1dPN0E",
+                        "name": "30527"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDY2ZDUzZmUtN2JiNS00MzA3LWE2YzgtM2NkMjMxOGJkYTY5",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.479577,
+                    "longitude": -83.773223
+                },
+                "feature_type": "street",
+                "full_address": "Main Street, Clermont, Georgia 30527, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDY2ZDUzZmUtN2JiNS00MzA3LWE2YzgtM2NkMjMxOGJkYTY5",
+                "name": "Main Street",
+                "name_preferred": "Main Street",
+                "place_formatted": "Clermont, Georgia 30527, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.75591,
+                    34.50486
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjNmYzQ2Y2YtYWM2OS00YmFkLTkyYmQtN2EyMDRkYTk4ODJm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHZHN0E",
+                        "name": "White County",
+                        "wikidata_id": "Q389365"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBODVvN0E",
+                        "name": "Cleveland",
+                        "wikidata_id": "Q2376316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1d1N0E",
+                        "name": "30528"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjNmYzQ2Y2YtYWM2OS00YmFkLTkyYmQtN2EyMDRkYTk4ODJm",
+                        "name": "S Main St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.50486,
+                    "longitude": -83.75591
+                },
+                "feature_type": "street",
+                "full_address": "S Main St, Cleveland, Georgia 30528, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjNmYzQ2Y2YtYWM2OS00YmFkLTkyYmQtN2EyMDRkYTk4ODJm",
+                "name": "S Main St",
+                "name_preferred": "S Main St",
+                "place_formatted": "Cleveland, Georgia 30528, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.539322,
+                    34.274169
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qQTFOU0lzSW5OMGNtVmxkQ0k2SWsxQlNVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSk1WVXhCSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05UVTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6NA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "6055",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qQTFOU0lzSW5OMGNtVmxkQ0k2SWsxQlNVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSk1WVXhCSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05UVTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6NA",
+                        "name": "6055 Main Street",
+                        "street_name": "Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPNmJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q108832"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCMUhvN0E",
+                        "name": "Gaylesville",
+                        "wikidata_id": "Q68252"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCekR1N0E",
+                        "name": "35973"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT1Rz",
+                        "name": "Alabama",
+                        "region_code": "AL",
+                        "region_code_full": "US-AL",
+                        "wikidata_id": "Q173"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOakExTlNJc0luTjBjbVZsZENJNklrMUJTVTRnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpNVlV4Qklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdOVFUwSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjQ",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.274169,
+                    "longitude": -85.539322,
+                    "routable_points": [
+                        {
+                            "latitude": 34.274169,
+                            "longitude": -85.539322,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "6055 Main Street, Gaylesville, Alabama 35973, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qQTFOU0lzSW5OMGNtVmxkQ0k2SWsxQlNVNGdVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSk1WVXhCSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05UVTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6NA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "6055 Main Street",
+                "name_preferred": "6055 Main Street",
+                "place_formatted": "Gaylesville, Alabama 35973, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

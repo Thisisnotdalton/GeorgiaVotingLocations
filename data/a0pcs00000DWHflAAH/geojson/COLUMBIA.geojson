@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "COLUMBIA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "610 RONALD REAGAN DRIVE, G3, EVANS, GA, 30809", "county": "COLUMBIA", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 33.543379, "lng": -82.135845, "name": "COLUMBIA COUNTY BOARD OF ELECTIONS, BUILDING G3", "schedule": "10/20/2025 - 10/24/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )\n10/25/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/24/2025 8:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/25/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/27/2025 - 10/31/2025 8:00 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -82.135845, 33.543379 ] } },
+{ "type": "Feature", "properties": { "address": "5907 EUCHEE CREEK DRIVE, GROVETOWN, GA, 30813", "county": "COLUMBIA", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 33.476893, "lng": -82.265581, "name": "THE FORMER EUCHEE CREEK LIBRARY", "schedule": "10/27/2025 - 10/31/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/24/2025 8:00 AM - 5:00 PM ( Advanced Polling Location )\n10/25/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/24/2025 8:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/27/2025 - 10/31/2025 8:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/25/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -82.265581, 33.476893 ] } }
+]
+}

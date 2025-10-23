@@ -1,0 +1,411 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.376722,
+                    33.959388
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozZTMzN2FlMS05YmM5LTQ1MzgtYWJiZS1kZGU0MThhYTJhYTI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "155",
+                        "mapbox_id": "dXJuOm1ieGFkcjozZTMzN2FlMS05YmM5LTQ1MzgtYWJiZS1kZGU0MThhYTJhYTI",
+                        "name": "155 East Washington Street",
+                        "street_name": "East Washington Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3VPN0E",
+                        "name": "30601"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2UzMzdhZTEtOWJjOS00NTM4LWFiYmUtZGRlNDE4YWEyYWEy",
+                        "name": "East Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.959388,
+                    "longitude": -83.376722,
+                    "routable_points": [
+                        {
+                            "latitude": 33.959201,
+                            "longitude": -83.376659,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "155 East Washington Street, Athens, Georgia 30601, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozZTMzN2FlMS05YmM5LTQ1MzgtYWJiZS1kZGU0MThhYTJhYTI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "155 East Washington Street",
+                "name_preferred": "155 East Washington Street",
+                "place_formatted": "Athens, Georgia 30601, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.967799,
+                    34.802227
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pUlM0Z1YwRlRTRWxPUjFSUFRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "155",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pUlM0Z1YwRlRTRWxPUjFSUFRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjE",
+                        "name": "155 Washington Street East",
+                        "street_name": "Washington Street East"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp6NmJz",
+                        "name": "Limestone County",
+                        "wikidata_id": "Q501108"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5c2pz",
+                        "name": "Athens",
+                        "wikidata_id": "Q79439"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCeUZ1N0E",
+                        "name": "35611"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT1Rz",
+                        "name": "Alabama",
+                        "region_code": "AL",
+                        "region_code_full": "US-AL",
+                        "wikidata_id": "Q173"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFUxSWl3aWMzUnlaV1YwSWpvaVJTNGdWMEZUU0VsT1IxUlBUaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa0ZVU0VWT1V5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFl3TVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+                        "name": "Washington Street East"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.802227,
+                    "longitude": -86.967799,
+                    "routable_points": [
+                        {
+                            "latitude": 34.802227,
+                            "longitude": -86.967799,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "155 Washington Street East, Athens, Alabama 35611, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pUlM0Z1YwRlRTRWxPUjFSUFRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "155 E Washington St",
+                "name_preferred": "155 Washington Street East",
+                "place_formatted": "Athens, Alabama 35611, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.721573,
+                    39.962032
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pUlM0Z1YwRlRTRWxPUjFSUFRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "155",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pUlM0Z1YwRlRTRWxPUjFSUFRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjI",
+                        "name": "155 Washington Street",
+                        "street_name": "Washington Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo3RWJz",
+                        "name": "Menard County",
+                        "wikidata_id": "Q486503"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5ZWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q578681"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETjl1N0E",
+                        "name": "62613"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpST3c",
+                        "name": "Illinois",
+                        "region_code": "IL",
+                        "region_code_full": "US-IL",
+                        "wikidata_id": "Q1204"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFUxSWl3aWMzUnlaV1YwSWpvaVJTNGdWMEZUU0VsT1IxUlBUaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa0ZVU0VWT1V5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFl3TVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToy",
+                        "name": "Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 39.962032,
+                    "longitude": -89.721573,
+                    "routable_points": [
+                        {
+                            "latitude": 39.962032,
+                            "longitude": -89.721573,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "155 Washington Street, Athens, Illinois 62613, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pUlM0Z1YwRlRTRWxPUjFSUFRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "155 E Washington St",
+                "name_preferred": "155 Washington Street",
+                "place_formatted": "Athens, Illinois 62613, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.738636,
+                    40.084339
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pUlM0Z1YwRlRTRWxPUjFSUFRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "155",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pUlM0Z1YwRlRTRWxPUjFSUFRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjM",
+                        "name": "155 East Washington Street",
+                        "street_name": "East Washington Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo3RWJz",
+                        "name": "Menard County",
+                        "wikidata_id": "Q486503"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCLzJvN0E",
+                        "name": "Greenview",
+                        "wikidata_id": "Q2122185"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpET0h1N0E",
+                        "name": "62642"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpST3c",
+                        "name": "Illinois",
+                        "region_code": "IL",
+                        "region_code_full": "US-IL",
+                        "wikidata_id": "Q1204"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFUxSWl3aWMzUnlaV1YwSWpvaVJTNGdWMEZUU0VsT1IxUlBUaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa0ZVU0VWT1V5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFl3TVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToz",
+                        "name": "East Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 40.084339,
+                    "longitude": -89.738636,
+                    "routable_points": [
+                        {
+                            "latitude": 40.084339,
+                            "longitude": -89.738636,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "155 East Washington Street, Greenview, Illinois 62642, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pUlM0Z1YwRlRTRWxPUjFSUFRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjM",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "155 East Washington Street",
+                "name_preferred": "155 East Washington Street",
+                "place_formatted": "Greenview, Illinois 62642, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.143581,
+                    31.888306
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pUlM0Z1YwRlRTRWxPUjFSUFRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "155",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pUlM0Z1YwRlRTRWxPUjFSUFRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjQ",
+                        "name": "155 East Washington Street",
+                        "street_name": "East Washington Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFSWJz",
+                        "name": "Barbour County",
+                        "wikidata_id": "Q109437"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCai9JN0E",
+                        "name": "Eufaula",
+                        "wikidata_id": "Q79648"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCelRPN0E",
+                        "name": "36027"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT1Rz",
+                        "name": "Alabama",
+                        "region_code": "AL",
+                        "region_code_full": "US-AL",
+                        "wikidata_id": "Q173"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFUxSWl3aWMzUnlaV1YwSWpvaVJTNGdWMEZUU0VsT1IxUlBUaUJUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa0ZVU0VWT1V5SXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFl3TVNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTo0",
+                        "name": "East Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.888306,
+                    "longitude": -85.143581,
+                    "routable_points": [
+                        {
+                            "latitude": 31.888306,
+                            "longitude": -85.143581,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "155 East Washington Street, Eufaula, Alabama 36027, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTFJaXdpYzNSeVpXVjBJam9pUlM0Z1YwRlRTRWxPUjFSUFRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrRlVTRVZPVXlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EWXdNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "155 East Washington Street",
+                "name_preferred": "155 East Washington Street",
+                "place_formatted": "Eufaula, Alabama 36027, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

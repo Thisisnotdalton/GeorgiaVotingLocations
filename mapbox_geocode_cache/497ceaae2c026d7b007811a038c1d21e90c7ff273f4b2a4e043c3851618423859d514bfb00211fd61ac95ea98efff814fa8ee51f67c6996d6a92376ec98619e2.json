@@ -1,0 +1,87 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.50616,
+                    33.875775
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1vc206Mjk3ODE5NDYy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3182",
+                        "mapbox_id": "dXJuOm1ieGFkci1vc206Mjk3ODE5NDYy",
+                        "name": "3182 Atlanta Road Southeast",
+                        "street_name": "Atlanta Road Southeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFamhJN0E",
+                        "name": "Smyrna",
+                        "wikidata_id": "Q958676"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDl1N0E",
+                        "name": "30080"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItb3NtOjI5NzgxOTQ2Mg",
+                        "name": "Atlanta Road Southeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 33.875775,
+                    "longitude": -84.50616,
+                    "routable_points": [
+                        {
+                            "latitude": 33.875673,
+                            "longitude": -84.50596,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3182 Atlanta Road Southeast, Smyrna, Georgia 30080, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1vc206Mjk3ODE5NDYy",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3182 Atlanta Road Southeast",
+                "name_preferred": "3182 Atlanta Road Southeast",
+                "place_formatted": "Smyrna, Georgia 30080, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

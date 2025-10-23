@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DADE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "71 CASE AVE, TRENTON, GA, 30752 0000", "county": "DADE", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 34.872017, "lng": -85.51084, "name": "ADMIN.BLDG CMM/ROOM", "schedule": "10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -85.51084, 34.872017 ] } }
+]
+}

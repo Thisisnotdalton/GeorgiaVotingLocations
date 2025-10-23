@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHATTOOGA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "10017 COMMERCE ST, SUMMERVILLE, GA, 30747", "county": "CHATTOOGA", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 34.480142, "lng": -85.348568, "name": "CHATTOOGA COUNTY REGISTRARS OFFICE", "schedule": "10/20/2025 - 10/24/2025 8:30 AM - 5:00 PM ( Advanced Polling Location )\n10/25/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 8:30 AM - 5:00 PM ( Advanced Polling Location )\n10/20/2025 - 10/24/2025 8:30 AM - 5:00 PM ( Dropbox Polling Location )\n10/25/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Dropbox Polling Location )\n10/27/2025 - 10/31/2025 8:30 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -85.348568, 34.480142 ] } }
+]
+}

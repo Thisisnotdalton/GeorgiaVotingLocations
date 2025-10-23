@@ -1,0 +1,390 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.109486,
+                    31.885769
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3ZTU4M2ExZS1lMzQzLTRlZmYtOGY0ZC0wNWE2MWIyMzBjYTM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "111",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3ZTU4M2ExZS1lMzQzLTRlZmYtOGY0ZC0wNWE2MWIyMzBjYTM",
+                        "name": "111 Main Street",
+                        "street_name": "Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU2dtN0E",
+                        "name": "Quitman County",
+                        "wikidata_id": "Q498684"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCMXFvN0E",
+                        "name": "Georgetown",
+                        "wikidata_id": "Q2855909"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXlPN0E",
+                        "name": "39854"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2U1ODNhMWUtZTM0My00ZWZmLThmNGQtMDVhNjFiMjMwY2Ez",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 31.885769,
+                    "longitude": -85.109486,
+                    "routable_points": [
+                        {
+                            "latitude": 31.885769,
+                            "longitude": -85.108774,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "111 Main Street, Georgetown, Georgia 39854, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3ZTU4M2ExZS1lMzQzLTRlZmYtOGY0ZC0wNWE2MWIyMzBjYTM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "111 Main Street",
+                "name_preferred": "111 Main Street",
+                "place_formatted": "Georgetown, Georgia 39854, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.2127,
+                    33.450464
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTRmN2RhOTItMWY4OS00OTQ1LTg4ZTYtNGM0MWUzYjRjNGNh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUR2Jz",
+                        "name": "Columbia County",
+                        "wikidata_id": "Q115307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQmtvN0E",
+                        "name": "Grovetown",
+                        "wikidata_id": "Q2728276"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGZPN0E",
+                        "name": "30813"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTRmN2RhOTItMWY4OS00OTQ1LTg4ZTYtNGM0MWUzYjRjNGNh",
+                        "name": "Main Street Court"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.450464,
+                    "longitude": -82.2127
+                },
+                "feature_type": "street",
+                "full_address": "Main Street Court, Grovetown, Georgia 30813, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTRmN2RhOTItMWY4OS00OTQ1LTg4ZTYtNGM0MWUzYjRjNGNh",
+                "name": "Main Street Court",
+                "name_preferred": "Main Street Court",
+                "place_formatted": "Grovetown, Georgia 30813, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.808781,
+                    39.008769
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozOTU0Y2Y1MC01ODdmLTRmMzctOGE5Zi1mYzM0MGVmMzgxZDQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "111",
+                        "mapbox_id": "dXJuOm1ieGFkcjozOTU0Y2Y1MC01ODdmLTRmMzctOGE5Zi1mYzM0MGVmMzgxZDQ",
+                        "name": "111 Main Street",
+                        "street_name": "Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKR2Jz",
+                        "name": "Brown County",
+                        "wikidata_id": "Q111575"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDcHpJN0E",
+                            "name": "Lake Waynoka"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWVNJN0E",
+                        "name": "Sardinia",
+                        "wikidata_id": "Q36879"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUUZPN0E",
+                        "name": "45171"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBaVRz",
+                        "name": "Ohio",
+                        "region_code": "OH",
+                        "region_code_full": "US-OH",
+                        "wikidata_id": "Q1397"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Mzk1NGNmNTAtNTg3Zi00ZjM3LThhOWYtZmMzNDBlZjM4MWQ0",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 39.008769,
+                    "longitude": -83.808781,
+                    "routable_points": [
+                        {
+                            "latitude": 39.008868,
+                            "longitude": -83.808768,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "111 Main Street, Sardinia, Ohio 45171, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozOTU0Y2Y1MC01ODdmLTRmMzctOGE5Zi1mYzM0MGVmMzgxZDQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "111 Main Street",
+                "name_preferred": "111 Main Street",
+                "place_formatted": "Sardinia, Ohio 45171, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.88107,
+                    42.71313
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2MWFmYzBmZS0wMjE0LTRjODQtYmQ2Yy1mZWU4MmQwZDIyMDQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "111",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2MWFmYzBmZS0wMjE0LTRjODQtYmQ2Yy1mZWU4MmQwZDIyMDQ",
+                        "name": "111 Main Street",
+                        "street_name": "Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpieWJz",
+                        "name": "Essex County",
+                        "wikidata_id": "Q54076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUDlvN0E",
+                        "name": "Rowley"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMdzdz",
+                        "name": "01969"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV1Rz",
+                        "name": "Massachusetts",
+                        "region_code": "MA",
+                        "region_code_full": "US-MA",
+                        "wikidata_id": "Q771"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFhZmMwZmUtMDIxNC00Yzg0LWJkNmMtZmVlODJkMGQyMjA0",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 42.71313,
+                    "longitude": -70.88107,
+                    "routable_points": [
+                        {
+                            "latitude": 42.713284,
+                            "longitude": -70.881591,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "111 Main Street, Rowley, Massachusetts 01969, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2MWFmYzBmZS0wMjE0LTRjODQtYmQ2Yy1mZWU4MmQwZDIyMDQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "111 Main Street",
+                "name_preferred": "111 Main Street",
+                "place_formatted": "Rowley, Massachusetts 01969, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.94539,
+                    42.76464
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyYTRiMTlhZC1hZDYyLTQ5OTYtOGQwMy1lMDlmMDI4MzhjZTc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "111",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyYTRiMTlhZC1hZDYyLTQ5OTYtOGQwMy1lMDlmMDI4MzhjZTc",
+                        "name": "111 Main Street",
+                        "street_name": "Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpieWJz",
+                        "name": "Essex County",
+                        "wikidata_id": "Q54076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEYkZvN0E",
+                        "name": "Newbury",
+                        "wikidata_id": "Q2302285"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMSzdz",
+                        "name": "01922"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV1Rz",
+                        "name": "Massachusetts",
+                        "region_code": "MA",
+                        "region_code_full": "US-MA",
+                        "wikidata_id": "Q771"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmE0YjE5YWQtYWQ2Mi00OTk2LThkMDMtZTA5ZjAyODM4Y2U3",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 42.76464,
+                    "longitude": -70.94539,
+                    "routable_points": [
+                        {
+                            "latitude": 42.764348,
+                            "longitude": -70.945435,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "111 Main Street, Newbury, Massachusetts 01922, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyYTRiMTlhZC1hZDYyLTQ5OTYtOGQwMy1lMDlmMDI4MzhjZTc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "unmatched"
+                },
+                "name": "111 Main Street",
+                "name_preferred": "111 Main Street",
+                "place_formatted": "Newbury, Massachusetts 01922, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

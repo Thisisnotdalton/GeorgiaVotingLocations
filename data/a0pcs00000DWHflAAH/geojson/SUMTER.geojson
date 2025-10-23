@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SUMTER",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "900 ADDERTON ST, AMERICUS, GA, 31709", "county": "SUMTER", "election": "11/04/2025 NOVEMBER 4, 2025 - MUNICIPAL GENERAL / SPECIAL ELECTION (PSC)", "lat": 32.08452, "lng": -84.24527, "name": "AMERICUS SUMTER EXPOSITION CENTER", "schedule": "10/20/2025 - 10/25/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )\n10/27/2025 - 10/31/2025 9:00 AM - 5:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.24527, 32.08452 ] } }
+]
+}

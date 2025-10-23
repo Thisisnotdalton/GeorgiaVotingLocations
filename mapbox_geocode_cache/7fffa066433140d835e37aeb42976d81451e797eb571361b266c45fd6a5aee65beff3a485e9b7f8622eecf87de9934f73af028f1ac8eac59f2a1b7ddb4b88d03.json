@@ -1,0 +1,152 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.37434,
+                    33.924095
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxMWU1YzBkMi01NGNiLTRhYzItYmFkYy03NmZjOTIxNmM4MGQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "395",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxMWU1YzBkMi01NGNiLTRhYzItYmFkYy03NmZjOTIxNmM4MGQ",
+                        "name": "395 Mount Vernon Highway",
+                        "street_name": "Mount Vernon Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFV3BJN0E",
+                        "name": "Sandy Springs",
+                        "wikidata_id": "Q914884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmF1N0E",
+                        "name": "30328"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTFlNWMwZDItNTRjYi00YWMyLWJhZGMtNzZmYzkyMTZjODBk",
+                        "name": "Mount Vernon Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.924095,
+                    "longitude": -84.37434,
+                    "routable_points": [
+                        {
+                            "latitude": 33.924409,
+                            "longitude": -84.374346,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "395 Mount Vernon Highway, Sandy Springs, Georgia 30328, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxMWU1YzBkMi01NGNiLTRhYzItYmFkYy03NmZjOTIxNmM4MGQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "395 Mount Vernon Hwy NE",
+                "name_preferred": "395 Mount Vernon Highway",
+                "place_formatted": "Sandy Springs, Georgia 30328, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.312808,
+                    33.919465
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGJmYTc4ZTMtMzkyMi00ZDI2LWFkNDItNDU0NTdhOWI1OTU4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBMWlvN0E",
+                        "name": "Chamblee",
+                        "wikidata_id": "Q2527605"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmdPN0E",
+                        "name": "30341"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGJmYTc4ZTMtMzkyMi00ZDI2LWFkNDItNDU0NTdhOWI1OTU4",
+                        "name": "Mount Vernon Hwy"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.919465,
+                    "longitude": -84.312808
+                },
+                "feature_type": "street",
+                "full_address": "Mount Vernon Hwy, Chamblee, Georgia 30341, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGJmYTc4ZTMtMzkyMi00ZDI2LWFkNDItNDU0NTdhOWI1OTU4",
+                "name": "Mount Vernon Hwy",
+                "name_preferred": "Mount Vernon Hwy",
+                "place_formatted": "Chamblee, Georgia 30341, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

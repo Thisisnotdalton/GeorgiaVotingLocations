@@ -1,0 +1,329 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.896457,
+                    33.554629
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkMTM2NTFhOC1iODRlLTQ1Y2UtYWE4Yy02NDljZGU5OTU2M2Y",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "113",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkMTM2NTFhOC1iODRlLTQ1Y2UtYWE4Yy02NDljZGU5OTU2M2Y",
+                        "name": "113 Monument Street",
+                        "street_name": "Monument Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmdtN0E",
+                        "name": "Taliaferro County",
+                        "wikidata_id": "Q134080"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCSGNvN0E",
+                        "name": "Crawfordville",
+                        "wikidata_id": "Q2258854"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzR1N0E",
+                        "name": "30631"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDEzNjUxYTgtYjg0ZS00NWNlLWFhOGMtNjQ5Y2RlOTk1NjNm",
+                        "name": "Monument Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 33.554629,
+                    "longitude": -82.896457,
+                    "routable_points": [
+                        {
+                            "latitude": 33.554604,
+                            "longitude": -82.896203,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "113 Monument Street, Crawfordville, Georgia 30631, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkMTM2NTFhOC1iODRlLTQ1Y2UtYWE4Yy02NDljZGU5OTU2M2Y",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "113 Monument Street",
+                "name_preferred": "113 Monument Street",
+                "place_formatted": "Crawfordville, Georgia 30631, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.896259,
+                    33.554211
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZzR1N0E",
+            "properties": {
+                "bbox": [
+                    -83.039358,
+                    33.438109,
+                    -82.679978,
+                    33.69337
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmdtN0E",
+                        "name": "Taliaferro County",
+                        "wikidata_id": "Q134080"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCSGNvN0E",
+                        "name": "Crawfordville",
+                        "wikidata_id": "Q2258854"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzR1N0E",
+                        "name": "30631"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.554211,
+                    "longitude": -82.896259
+                },
+                "feature_type": "postcode",
+                "full_address": "Crawfordville, Georgia 30631, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZzR1N0E",
+                "name": "30631",
+                "name_preferred": "30631",
+                "place_formatted": "Crawfordville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.961161,
+                    33.472408
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OGY4ZDQ0MmUtMmQ4OS00ZjhjLWI5NTYtNmNkNDVhOTE3Mzcw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEMStNN0E",
+                            "name": "Greene Street Historic District"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaWhNN0E",
+                        "name": "Downtown Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG11N0E",
+                        "name": "30901"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGY4ZDQ0MmUtMmQ4OS00ZjhjLWI5NTYtNmNkNDVhOTE3Mzcw",
+                        "name": "Monument Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.472408,
+                    "longitude": -81.961161
+                },
+                "feature_type": "street",
+                "full_address": "Monument Street, Augusta, Georgia 30901, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGY4ZDQ0MmUtMmQ4OS00ZjhjLWI5NTYtNmNkNDVhOTE3Mzcw",
+                "name": "Monument Street",
+                "name_preferred": "Monument Street",
+                "place_formatted": "Augusta, Georgia 30901, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.005866,
+                    33.480974
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWI4NWFiN2QtMTVkZC00YTBkLWJjMmItZTc2Mjk2YTVhZDZh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzppOGJz",
+                        "name": "Greene County",
+                        "wikidata_id": "Q486765"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGVUlvN0E",
+                        "name": "White Plains",
+                        "wikidata_id": "Q1938378"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEd1N0E",
+                        "name": "30678"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWI4NWFiN2QtMTVkZC00YTBkLWJjMmItZTc2Mjk2YTVhZDZh",
+                        "name": "Crawfordville Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.480974,
+                    "longitude": -83.005866
+                },
+                "feature_type": "street",
+                "full_address": "Crawfordville Road, White Plains, Georgia 30678, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWI4NWFiN2QtMTVkZC00YTBkLWJjMmItZTc2Mjk2YTVhZDZh",
+                "name": "Crawfordville Road",
+                "name_preferred": "Crawfordville Road",
+                "place_formatted": "White Plains, Georgia 30678, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.942582,
+                    32.346705
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzFkNTEzMjAtY2E4NS00ZDgyLWE3ZjQtMWU5ZTIyYjM5NTNi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyaWJz",
+                        "name": "Jasper County",
+                        "wikidata_id": "Q112957"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCRHRJN0E",
+                            "name": "Coosawhatchie"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFSW5JN0E",
+                        "name": "Ridgeland",
+                        "wikidata_id": "Q1975694"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZFd1N0E",
+                        "name": "29936"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzFkNTEzMjAtY2E4NS00ZDgyLWE3ZjQtMWU5ZTIyYjM5NTNi",
+                        "name": "Monument St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.346705,
+                    "longitude": -80.942582
+                },
+                "feature_type": "street",
+                "full_address": "Monument St, Ridgeland, South Carolina 29936, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzFkNTEzMjAtY2E4NS00ZDgyLWE3ZjQtMWU5ZTIyYjM5NTNi",
+                "name": "Monument St",
+                "name_preferred": "Monument St",
+                "place_formatted": "Ridgeland, South Carolina 29936, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,90 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.02777,
+                    30.703
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0ZDhhNzk1ZS01MDQ2LTRjZDktODU2NS1lYWQ1MDM1NzA3NjA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "110",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0ZDhhNzk1ZS01MDQ2LTRjZDktODU2NS1lYWQ1MDM1NzA3NjA",
+                        "name": "110 Georgia Highway 94",
+                        "street_name": "Georgia Highway 94"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzphWWJz",
+                        "name": "Echols County",
+                        "wikidata_id": "Q493029"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDY2VLN0E",
+                        "name": "Echols County"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFclNJN0E",
+                        "name": "Statenville"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanNPN0E",
+                        "name": "31648"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGQ4YTc5NWUtNTA0Ni00Y2Q5LTg1NjUtZWFkNTAzNTcwNzYw",
+                        "name": "Georgia Highway 94"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 30.703,
+                    "longitude": -83.02777,
+                    "routable_points": [
+                        {
+                            "latitude": 30.703429,
+                            "longitude": -83.027783,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "110 Georgia Highway 94, Statenville, Georgia 31648, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0ZDhhNzk1ZS01MDQ2LTRjZDktODU2NS1lYWQ1MDM1NzA3NjA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "110 Ga Highway 94 E",
+                "name_preferred": "110 Georgia Highway 94",
+                "place_formatted": "Statenville, Georgia 31648, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

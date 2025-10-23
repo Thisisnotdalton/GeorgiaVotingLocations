@@ -1,0 +1,424 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.433562,
+                    31.371476
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5NmVjZGYyNC02OTU0LTQ5OTEtOTVlOS01OGY0YjJiOGY4NWM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "103",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5NmVjZGYyNC02OTU0LTQ5OTEtOTVlOS01OGY0YjJiOGY4NWM",
+                        "name": "103 Jefferson Street",
+                        "street_name": "Jefferson Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2R2Jz",
+                        "name": "McIntosh County",
+                        "wikidata_id": "Q492652"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTXdJN0E",
+                        "name": "Darien",
+                        "wikidata_id": "Q1165884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXZPN0E",
+                        "name": "31305"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTZlY2RmMjQtNjk1NC00OTkxLTk1ZTktNThmNGIyYjhmODVj",
+                        "name": "Jefferson Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 31.371476,
+                    "longitude": -81.433562,
+                    "routable_points": [
+                        {
+                            "latitude": 31.371544,
+                            "longitude": -81.433538,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "103 Jefferson Street, Darien, Georgia 31305, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5NmVjZGYyNC02OTU0LTQ5OTEtOTVlOS01OGY0YjJiOGY4NWM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "103 Jefferson Street",
+                "name_preferred": "103 Jefferson Street",
+                "place_formatted": "Darien, Georgia 31305, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.313817,
+                    32.37186
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2MmVjZjVmMy1iNTdjLTQ2YTYtOTE5OC1jYTIwNzIyZDE0Y2E",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "103",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2MmVjZjVmMy1iNTdjLTQ2YTYtOTE5OC1jYTIwNzIyZDE0Y2E",
+                        "name": "103 Jefferson Street",
+                        "street_name": "Jefferson Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWJz",
+                        "name": "Effingham County",
+                        "wikidata_id": "Q156637"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbytvN0E",
+                        "name": "Springfield",
+                        "wikidata_id": "Q2206702"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTVPN0E",
+                        "name": "31329"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjJlY2Y1ZjMtYjU3Yy00NmE2LTkxOTgtY2EyMDcyMmQxNGNh",
+                        "name": "Jefferson Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.37186,
+                    "longitude": -81.313817,
+                    "routable_points": [
+                        {
+                            "latitude": 32.371987,
+                            "longitude": -81.31395,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "103 Jefferson Street, Springfield, Georgia 31329, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2MmVjZjVmMy1iNTdjLTQ2YTYtOTE5OC1jYTIwNzIyZDE0Y2E",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "medium",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "103 Jefferson Street",
+                "name_preferred": "103 Jefferson Street",
+                "place_formatted": "Springfield, Georgia 31329, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.095573,
+                    32.07915
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpJaXdpYzNSeVpXVjBJam9pU2tWR1JrVlNVMDlPSUZOVUlpd2ljR3hoWTJVaU9pSkVRVkpKUlU0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXpNRFVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "103",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpJaXdpYzNSeVpXVjBJam9pU2tWR1JrVlNVMDlPSUZOVUlpd2ljR3hoWTJVaU9pSkVRVkpKUlU0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXpNRFVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mg",
+                        "name": "103 Jefferson Street",
+                        "street_name": "Jefferson Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHcE5NN0E",
+                        "name": "North Historic District"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTZ1N0E",
+                        "name": "31401"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEF6SWl3aWMzUnlaV1YwSWpvaVNrVkdSa1ZTVTA5T0lGTlVJaXdpY0d4aFkyVWlPaUpFUVZKSlJVNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekV6TURVaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjI",
+                        "name": "Jefferson Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.07915,
+                    "longitude": -81.095573,
+                    "routable_points": [
+                        {
+                            "latitude": 32.07915,
+                            "longitude": -81.095573,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "103 Jefferson Street, Savannah, Georgia 31401, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpJaXdpYzNSeVpXVjBJam9pU2tWR1JrVlNVMDlPSUZOVUlpd2ljR3hoWTJVaU9pSkVRVkpKUlU0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXpNRFVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mg",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "103 Jefferson Street",
+                "name_preferred": "103 Jefferson Street",
+                "place_formatted": "Savannah, Georgia 31401, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.529887,
+                    41.049695
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpJaXdpYzNSeVpXVjBJam9pU2tWR1JrVlNVMDlPSUZOVUlpd2ljR3hoWTJVaU9pSkVRVkpKUlU0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXpNRFVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "103",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpJaXdpYzNSeVpXVjBJam9pU2tWR1JrVlNVMDlPSUZOVUlpd2ljR3hoWTJVaU9pSkVRVkpKUlU0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXpNRFVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+                        "name": "103 Jefferson Street",
+                        "street_name": "Jefferson Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjTWJz",
+                        "name": "Fairfield County",
+                        "wikidata_id": "Q54231"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJcjVNN0E",
+                        "name": "Shippan",
+                        "wikidata_id": "Q7498048"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFcU1JN0E",
+                        "name": "Stamford",
+                        "wikidata_id": "Q49169"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUnVPN0E",
+                        "name": "06902"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCWVRz",
+                        "name": "Connecticut",
+                        "region_code": "CT",
+                        "region_code_full": "US-CT",
+                        "wikidata_id": "Q779"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEF6SWl3aWMzUnlaV1YwSWpvaVNrVkdSa1ZTVTA5T0lGTlVJaXdpY0d4aFkyVWlPaUpFUVZKSlJVNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekV6TURVaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjM",
+                        "name": "Jefferson Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 41.049695,
+                    "longitude": -73.529887,
+                    "routable_points": [
+                        {
+                            "latitude": 41.049695,
+                            "longitude": -73.529887,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "103 Jefferson Street, Stamford, Connecticut 06902, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpJaXdpYzNSeVpXVjBJam9pU2tWR1JrVlNVMDlPSUZOVUlpd2ljR3hoWTJVaU9pSkVRVkpKUlU0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXpNRFVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "103 Jefferson Street",
+                "name_preferred": "103 Jefferson Street",
+                "place_formatted": "Stamford, Connecticut 06902, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.180863,
+                    32.792635
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpJaXdpYzNSeVpXVjBJam9pU2tWR1JrVlNVMDlPSUZOVUlpd2ljR3hoWTJVaU9pSkVRVkpKUlU0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXpNRFVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6NA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "103",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpJaXdpYzNSeVpXVjBJam9pU2tWR1JrVlNVMDlPSUZOVUlpd2ljR3hoWTJVaU9pSkVRVkpKUlU0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXpNRFVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6NA",
+                        "name": "103 Jefferson Street",
+                        "street_name": "Jefferson Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpONmJz",
+                        "name": "Chambers County",
+                        "wikidata_id": "Q111280"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEQ3pNN0E",
+                        "name": "Fairfax"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGQTNvN0E",
+                        "name": "Valley",
+                        "wikidata_id": "Q79239"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCMkR1N0E",
+                        "name": "36854"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT1Rz",
+                        "name": "Alabama",
+                        "region_code": "AL",
+                        "region_code_full": "US-AL",
+                        "wikidata_id": "Q173"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEF6SWl3aWMzUnlaV1YwSWpvaVNrVkdSa1ZTVTA5T0lGTlVJaXdpY0d4aFkyVWlPaUpFUVZKSlJVNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekV6TURVaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjQ",
+                        "name": "Jefferson Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.792635,
+                    "longitude": -85.180863,
+                    "routable_points": [
+                        {
+                            "latitude": 32.792635,
+                            "longitude": -85.180863,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "103 Jefferson Street, Valley, Alabama 36854, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQXpJaXdpYzNSeVpXVjBJam9pU2tWR1JrVlNVMDlPSUZOVUlpd2ljR3hoWTJVaU9pSkVRVkpKUlU0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RXpNRFVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6NA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "103 Jefferson Street",
+                "name_preferred": "103 Jefferson Street",
+                "place_formatted": "Valley, Alabama 36854, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

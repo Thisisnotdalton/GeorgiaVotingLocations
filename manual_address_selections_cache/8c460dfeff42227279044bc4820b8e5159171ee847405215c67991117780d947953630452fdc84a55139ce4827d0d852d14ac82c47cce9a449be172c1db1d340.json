@@ -1,0 +1,83 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -83.835947,
+                31.52798
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjpmOTEwZmE3OC1kYTE0LTRhMTktYTA0Zi1hZmY1M2VjODg5OWQ",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "201",
+                    "mapbox_id": "dXJuOm1ieGFkcjpmOTEwZmE3OC1kYTE0LTRhMTktYTA0Zi1hZmY1M2VjODg5OWQ",
+                    "name": "201 North Main Street",
+                    "street_name": "North Main Street"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBWVBHN0E",
+                    "name": "Worth County",
+                    "wikidata_id": "Q486154"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpFeTNJN0E",
+                    "name": "Sylvester",
+                    "wikidata_id": "Q2795652"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCa0tPN0E",
+                    "name": "31791"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjkxMGZhNzgtZGExNC00YTE5LWEwNGYtYWZmNTNlYzg4OTlk",
+                    "name": "North Main Street"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 31.52798,
+                "longitude": -83.835947,
+                "routable_points": [
+                    {
+                        "latitude": 31.527957,
+                        "longitude": -83.835511,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "201 North Main Street, Sylvester, Georgia 31791, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjpmOTEwZmE3OC1kYTE0LTRhMTktYTA0Zi1hZmY1M2VjODg5OWQ",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "exact",
+                "country": "inferred",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "201 North Main Street",
+            "name_preferred": "201 North Main Street",
+            "place_formatted": "Sylvester, Georgia 31791, United States"
+        },
+        "type": "Feature"
+    }
+]

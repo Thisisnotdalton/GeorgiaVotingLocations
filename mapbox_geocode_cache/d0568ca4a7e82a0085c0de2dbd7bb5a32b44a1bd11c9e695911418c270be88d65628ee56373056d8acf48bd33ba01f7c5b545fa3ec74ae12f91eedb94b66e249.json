@@ -1,0 +1,90 @@
+{
+    "attribution": "\u00a9 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.342966,
+                    33.605507
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiODJmZTRkOS1hNTkyLTRlNmMtODE4MS1kZjMyMDMxMzAyMTU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5471",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiODJmZTRkOS1hNTkyLTRlNmMtODE4MS1kZjMyMDMxMzAyMTU",
+                        "name": "5471 Jonesboro Road",
+                        "street_name": "Jonesboro Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEUzNJN0E",
+                            "name": "Morrow"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbjVvN0E",
+                        "name": "Lake City"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTl1N0E",
+                        "name": "30260"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjgyZmU0ZDktYTU5Mi00ZTZjLTgxODEtZGYzMjAzMTMwMjE1",
+                        "name": "Jonesboro Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 33.605507,
+                    "longitude": -84.342966,
+                    "routable_points": [
+                        {
+                            "latitude": 33.605776,
+                            "longitude": -84.342947,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5471 Jonesboro Road, Lake City, Georgia 30260, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiODJmZTRkOS1hNTkyLTRlNmMtODE4MS1kZjMyMDMxMzAyMTU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5471 Jonesboro Road",
+                "name_preferred": "5471 Jonesboro Road",
+                "place_formatted": "Lake City, Georgia 30260, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
