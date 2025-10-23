@@ -1,3 +1,4 @@
+import json
 import os
 import time
 import typing
@@ -124,6 +125,7 @@ def manually_choose_geocode(address: str, results: list, comment: str = '') -> l
                 results = [results[chosen]]
                 continue
             new_address = input('Please enter a new address: ')
+            new_address = json.loads(new_address)
             results = [geocode_address(new_address, interactive=True)]
         except Exception as e:
             print(f'Error: {e}')
@@ -156,17 +158,17 @@ def geocode_address(address: typing.Union[str, dict], comment: str = None, inter
             print('Dropping non exact matches.')
             results = only_exact_results
     if len(results) > 1:
-        dropped_low_confidence_results = list(
-            filter(lambda _x: _x['properties'].get('match_code', {}).get('confidence', 'low') != 'low', results))
-        if 0 < len(dropped_low_confidence_results) < len(results):
-            print('Dropping low confidence matches.')
-            results = dropped_low_confidence_results
-    if len(results) > 1:
         keep_only_postcode_results = list(
             filter(lambda _x: _x['properties'].get('match_code', {}).get('postcode') == 'matched', results))
         if 0 < len(keep_only_postcode_results) < len(results):
             print('Dropping matches with postcode mismatch.')
             results = keep_only_postcode_results
+    if len(results) > 1:
+        dropped_low_confidence_results = list(
+            filter(lambda _x: _x['properties'].get('match_code', {}).get('confidence', '') != 'low', results))
+        if 0 < len(dropped_low_confidence_results) < len(results):
+            print('Dropping low confidence matches.')
+            results = dropped_low_confidence_results
     if len(results) > 1:
         keep_only_high_results = list(
             filter(lambda _x: _x['properties'].get('match_code', {}).get('confidence') != 'high', results))
