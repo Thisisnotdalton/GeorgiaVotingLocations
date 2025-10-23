@@ -85,7 +85,7 @@ class StringValueSet {
 
 class DataSet {
     #jsonCache;
-    #electionID = 'a0p3d00000LWdF5AAL';
+    #electionID = 'a0pcs00000DWHflAAH';
     #stateName = 'Georgia';
     #dataPath;
     #counties = null;
