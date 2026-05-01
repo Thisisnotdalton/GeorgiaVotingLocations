@@ -16,6 +16,9 @@ dependencies = [
     "webdriver-manager>=4.0.2",
 ]
 
+[tool.setuptools.package-data]
+"fetch_voting_locations" = ["inputs/*"]
+
 [project.scripts]
 fetch = "fetch_voting_locations.main:app"
 

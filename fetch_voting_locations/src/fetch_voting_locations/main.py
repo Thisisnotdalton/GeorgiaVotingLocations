@@ -6,9 +6,9 @@ app = typer.Typer()
 
 @app.command()
 def fetch(election_id: str = typer.Argument('a0pcs00000J6e6HAAR', help="The election ID"),
-          scenarios_file_path: str = 'scenarios.json',
+          scenarios_file_path: str = '../scenarios.json',
           state='Georgia',
-          output_directory: str = 'data'
+          output_directory: str = '../data'
           ):
     """
     Fetch early voting locations for a specific election

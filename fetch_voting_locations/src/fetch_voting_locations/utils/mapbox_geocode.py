@@ -97,9 +97,11 @@ def mapbox_geocode(access_token: str = None, query: str = None, address_number: 
         result = response.json()
         return result
 
+bounding_box_type = typing.Optional[typing.Tuple[float, float, float, float]]
+
 
 @FileCachedFunction.decorate('./manual_address_selections_cache/')
-def manually_choose_geocode(address: str, results: list, comment: str = '') -> list:
+def manually_choose_geocode(address: str, results: list, comment: str = '', bounding_box: bounding_box_type = None) -> list:
     while len(results) > 1:
         print(f'Unable to determine single match for location at address: {address}.')
         if isinstance(comment, str) and len(comment) > 0:
@@ -128,19 +130,17 @@ def manually_choose_geocode(address: str, results: list, comment: str = '') -> l
             if '{' in new_address:
                 new_address = json.loads(new_address)
             print(f'Using new address: {new_address}')
-            results = [geocode_address(new_address, interactive=True)]
+            results = [geocode_address(new_address, interactive=True, bounding_box=bounding_box)]
         except Exception as e:
             print(f'Error: {e}')
     return results
 
-def geocode_address(address: typing.Union[str, dict], comment: str = None, interactive: bool = False) -> typing.Tuple[
+def geocode_address(address: typing.Union[str, dict], comment: str = None, interactive: bool = False, bounding_box: bounding_box_type = None) -> typing.Tuple[
     float, float]:
     if isinstance(address, dict):
         address = dict(address)
         if isinstance(address.get('postcode'), str):
-            address['postcode'] = address['postcode'].replace(' ', '-')
-            if len(address['postcode']) > 5 and address['postcode'].endswith('-0000'):
-                address['postcode'] = address['postcode'][:-5]
+            address['postcode'] = address['postcode'].replace(' ', '-').split('-')[0]
         kwargs = {
             k: address.get(k) for k in set(address.keys()).intersection(STRUCTURED_ADDRESS_KWARGS)
         }
@@ -148,6 +148,8 @@ def geocode_address(address: typing.Union[str, dict], comment: str = None, inter
         kwargs = dict(query=address)
     else:
         raise ValueError(f'Address must be a string query or a dictionary with keys: {STRUCTURED_ADDRESS_KWARGS}.')
+    if bounding_box is not None:
+        kwargs['bbox'] = bounding_box
     response = mapbox_geocode(**kwargs)
     assert isinstance(response, dict) and isinstance(response.get('features'),
                                                      list), f'Could not determine features from response: {response}'
@@ -184,7 +186,7 @@ def geocode_address(address: typing.Union[str, dict], comment: str = None, inter
                 address_str += f'{k}={address[k]},'
         else:
             address_str = str(address)
-        results = manually_choose_geocode(address_str, results, comment)
+        results = manually_choose_geocode(address_str, results, comment, bounding_box=bounding_box)
     assert len(results) == 1, f'Failed to reduce results to 1 for {address}.'
     return results[0]
 

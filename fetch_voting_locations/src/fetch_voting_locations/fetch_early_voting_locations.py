@@ -1,3 +1,5 @@
+from importlib.resources import files
+from pathlib import Path
 import json
 import os
 import time
@@ -14,7 +16,7 @@ import pandas as pd
 import geopandas as gpd
 from shapely import box
 
-from fetch_voting_locations.utils.mapbox_geocode import geocode_address
+from fetch_voting_locations.utils.mapbox_geocode import geocode_address, bounding_box_type
 
 
 @lru_cache()
@@ -221,7 +223,7 @@ address_re = re.compile(r'(?P<address_number>[\da-zA-Z]*)\s+(?P<street>[^,]+)((,
 postcode_re = re.compile(r'\s+(\d+[- ]?\d*)$')
 
 
-def geocode_location(location: dict):
+def geocode_location(location: dict, bounding_box: bounding_box_type = None):
     address = location['address'].strip().replace('\n', ', ')
     postcode = postcode_re.search(address).group(1)
     assert len(postcode) > 0, f'Failed to parse postcode: {address}'
@@ -247,7 +249,7 @@ def geocode_location(location: dict):
     else:
         address_query = address
     location['address'] = address
-    result = geocode_address(address_query, f'Geocoding polling location "{location["name"]}".', interactive=True)
+    result = geocode_address(address_query, f'Geocoding polling location "{location["name"]}".', interactive=True, bounding_box=bounding_box)
     if isinstance(result, dict) and result.get('geometry', {}).get('coordinates'):
         coordinates = result['geometry']['coordinates']
         location['lng'] = coordinates[0]
@@ -257,6 +259,7 @@ def geocode_location(location: dict):
 def geocode_locations(locations: typing.List[dict], county_name: str = '', max_attempts: int = 3,
                       retry_delay: float = 3) -> bool:
     updated_geocodes = False
+    county_bounding_box = get_county_bounding_boxes().get(county_name.lower())
     needs_geocode = list(range(len(locations)))
     for i in tqdm(needs_geocode, desc=f'Geocoding locations for {county_name}'):
         location = locations[i]
@@ -264,7 +267,7 @@ def geocode_locations(locations: typing.List[dict], county_name: str = '', max_a
         if needs_geocode:
             for attempt in range(max_attempts):
                 try:
-                    geocode_location(location)
+                    geocode_location(location, bounding_box=county_bounding_box)
                     if 'lat' in location and 'lng' in location:
                         updated_geocodes = True
                         break
@@ -454,7 +457,7 @@ def generate_polling_place_gdf(county_voting_locations: list) -> gpd.GeoDataFram
 def get_state_fips_codes(state_name_column='Name', usps_column='Official USPS Code',
                          state_fips_column='FIPS State Numeric Code'):
     # data fetched from https://www.census.gov/library/reference/code-lists/ansi/ansi-codes-for-states.html
-    state_fips_codes = pd.read_csv('./inputs/states_fips_codes.csv')
+    state_fips_codes = pd.read_csv(Path(str(files("fetch_voting_locations") / 'inputs/states_fips_codes.csv')))
     for column in [state_name_column, usps_column, state_fips_column]:
         assert column in state_fips_codes.columns, f'Missing column {column}'
     state_name_lookup_table = {}
@@ -485,9 +488,10 @@ def get_state_fips(state_name: str = None, state_usps: str = None) -> dict:
     return result
 
 
-def get_state_county_boundaries(state: str = 'Georgia', national_county_boundary_file = './inputs/cb_2025_us_county_500k.zip') -> gpd.GeoDataFrame:
+def get_state_county_boundaries(state: str = 'Georgia') -> gpd.GeoDataFrame:
     # data fetched from https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
-    assert os.path.isfile(national_county_boundary_file), 'Cannot find national county boundary file!'
+    national_county_boundary_file = Path(str(files("fetch_voting_locations") / 'inputs/cb_2025_us_county_500k.zip'))
+    assert os.path.isfile(national_county_boundary_file), f'Cannot find national county boundary file!: {national_county_boundary_file}'
     statefp_filter = str(get_state_fips(state_name=state))
     gdf = gpd.read_file(national_county_boundary_file)
     gdf = gdf.loc[gdf['STATEFP'] == statefp_filter, ['NAME', 'geometry']]
@@ -499,15 +503,25 @@ def get_state_county_boundaries(state: str = 'Georgia', national_county_boundary
     gdf.loc[:, 'lat'] = gdf.geometry.centroid.y
     return gdf
 
+@lru_cache
+def get_county_bounding_boxes(state: str = 'Georgia', lowercase: bool = True) -> dict:
+    state_county_boundaries = get_state_county_boundaries(state)
+    state_bounds = {}
+    for _, row in state_county_boundaries.iterrows():
+        name = row['NAME']
+        if lowercase:
+            name = name.lower()
+        state_bounds[name] = box(*row['geometry'].bounds).bounds
+    return state_bounds
+
 
 def save_state_county_boundaries(state: str = 'Georgia', output_directory: str = 'data'):
     county_boundaries_directory = os.path.join(output_directory, 'county_boundaries')
     os.makedirs(county_boundaries_directory, exist_ok=True)
     output_file = os.path.join(county_boundaries_directory, f'{state}.geojson')
-    if not os.path.isfile(output_file):
-        state_counties = get_state_county_boundaries(state)
-        state_counties.to_file(output_file)
     state_counties = get_state_county_boundaries(state)
+    if not os.path.isfile(output_file):
+        state_counties.to_file(output_file)
     output_file = os.path.join(county_boundaries_directory, f'{state}_bounds.json')
     if not os.path.isfile(output_file):
         state_bounding_boxes = state_counties.apply(lambda _x: {_x['NAME']: box(*_x['geometry'].bounds).bounds}, axis=1)
