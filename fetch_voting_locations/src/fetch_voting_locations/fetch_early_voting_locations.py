@@ -555,7 +555,7 @@ def spatially_check_polling_places(output_directory: str = 'data', state: str = 
 
 
 def main(scenarios_file_path: str = 'scenarios.json', state='Georgia',
-         election_id='a0pcs00000J6e6HAA', output_directory: str = 'data'):
+         election_id='a0pcs00000J6e6HAAR', output_directory: str = 'data'):
     election_output_directory = os.path.join(output_directory, election_id)
     os.makedirs(election_output_directory, exist_ok=True)
     all_county_voting_locations = aggregate_county_voting_locations(election_id=election_id,
