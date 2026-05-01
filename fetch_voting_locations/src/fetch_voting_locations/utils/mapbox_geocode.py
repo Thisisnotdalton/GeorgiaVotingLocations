@@ -125,7 +125,9 @@ def manually_choose_geocode(address: str, results: list, comment: str = '') -> l
                 results = [results[chosen]]
                 continue
             new_address = input('Please enter a new address: ')
-            new_address = json.loads(new_address)
+            if '{' in new_address:
+                new_address = json.loads(new_address)
+            print(f'Using new address: {new_address}')
             results = [geocode_address(new_address, interactive=True)]
         except Exception as e:
             print(f'Error: {e}')
