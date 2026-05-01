@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "COWETA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "65 LITERARY LANE, NEWNAN, GA, 30265", "county": "COWETA", "election": "05/19/2026 MAY 19, 2026 - GENERAL PRIMARY ELECTION", "lat": 33.385852, "lng": -84.670699, "name": "EAST SIDE ADV. VOTING SITE AT CENTRAL COMPLEX", "schedule": "04/27/2026 - 05/01/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/02/2026 - 05/02/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/04/2026 - 05/08/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/09/2026 - 05/09/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/11/2026 - 05/15/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.670699, 33.385852 ] } },
+{ "type": "Feature", "properties": { "address": "87 NEWNAN STATION DRIVE, NEWNAN, GA, 30265", "county": "COWETA", "election": "05/19/2026 MAY 19, 2026 - GENERAL PRIMARY ELECTION", "lat": 33.396511, "lng": -84.734809, "name": "VOTER REGISTRATION OFFICE", "schedule": "04/27/2026 - 05/01/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n04/27/2026 - 05/01/2026 9:00 AM - 5:00 PM ( Dropbox Polling Location )\n05/02/2026 - 05/02/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/02/2026 - 05/02/2026 9:00 AM - 5:00 PM ( Dropbox Polling Location )\n05/04/2026 - 05/08/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/04/2026 - 05/08/2026 9:00 AM - 5:00 PM ( Dropbox Polling Location )\n05/09/2026 - 05/09/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/09/2026 - 05/09/2026 9:00 AM - 5:00 PM ( Dropbox Polling Location )\n05/11/2026 - 05/15/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/11/2026 - 05/15/2026 9:00 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.734809, 33.396511 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WASHINGTON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "150 RIDDLEVILLE ROAD, SANDERSVILLE, GA, 31082", "county": "WASHINGTON", "election": "05/19/2026 MAY 19, 2026 - GENERAL PRIMARY ELECTION", "lat": 32.971491, "lng": -82.807616, "name": "WASHINGTON COUNTY BOARD OF ELECTIONS AND REGISTRATION", "schedule": "04/27/2026 - 05/02/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n04/27/2026 - 05/02/2026 9:00 AM - 5:00 PM ( Dropbox Polling Location )\n05/04/2026 - 05/09/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/04/2026 - 05/09/2026 9:00 AM - 5:00 PM ( Dropbox Polling Location )\n05/11/2026 - 05/15/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/11/2026 - 05/15/2026 9:00 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -82.807616, 32.971491 ] } }
+]
+}

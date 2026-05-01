@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TOOMBS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "100 COURTHOUSE SQ, STE 112, LYONS, GA, 30436", "county": "TOOMBS", "election": "05/19/2026 MAY 19, 2026 - GENERAL PRIMARY ELECTION", "lat": 32.202773, "lng": -82.328274, "name": "TOOMBS COUNTY ADVANCE VOTING LOCATION", "schedule": "04/20/2026 - 05/03/2026 8:30 AM - 5:00 PM ( Dropbox Polling Location )\n04/27/2026 - 05/01/2026 8:30 AM - 5:00 PM ( Advanced Polling Location )\n05/02/2026 - 05/02/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/04/2026 - 05/08/2026 8:30 AM - 5:00 PM ( Advanced Polling Location )\n05/04/2026 - 05/17/2026 8:30 AM - 5:00 PM ( Dropbox Polling Location )\n05/09/2026 - 05/09/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/11/2026 - 05/15/2026 8:30 AM - 5:00 PM ( Advanced Polling Location )\n05/18/2026 - 05/19/2026 8:30 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -82.328274, 32.202773 ] } }
+]
+}

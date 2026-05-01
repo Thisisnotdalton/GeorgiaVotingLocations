@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CHARLTON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "1520 THIRD STREET, FOLKSTON, GA, 31537", "county": "CHARLTON", "election": "05/19/2026 MAY 19, 2026 - GENERAL PRIMARY ELECTION", "lat": 30.831902, "lng": -82.004897, "name": "ELECTIONS OFFICE", "schedule": "04/27/2026 - 05/01/2026 8:30 AM - 5:00 PM ( Advanced Polling Location )\n04/27/2026 - 05/01/2026 8:30 AM - 5:00 PM ( Dropbox Polling Location )\n05/04/2026 - 05/09/2026 8:30 AM - 5:00 PM ( Advanced Polling Location )\n05/04/2026 - 05/09/2026 8:30 AM - 5:00 PM ( Dropbox Polling Location )\n05/11/2026 - 05/15/2026 8:30 AM - 5:00 PM ( Advanced Polling Location )\n05/11/2026 - 05/15/2026 8:30 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -82.004897, 30.831902 ] } },
+{ "type": "Feature", "properties": { "address": "13063 FLORIDA AVENUE, SST GEORGE, GA, 31562", "county": "CHARLTON", "election": "05/19/2026 MAY 19, 2026 - GENERAL PRIMARY ELECTION", "lat": 30.523082, "lng": -82.037884, "name": "ST GEORGE", "schedule": "05/02/2026 - 05/02/2026 9:00 AM - 5:00 PM ( Advanced Polling Location )\n05/02/2026 - 05/02/2026 9:00 AM - 5:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -82.037884, 30.523082 ] } }
+]
+}

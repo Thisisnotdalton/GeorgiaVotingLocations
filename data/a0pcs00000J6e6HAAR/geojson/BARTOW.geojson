@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BARTOW",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "6503 ALLATOONA GTWY, ACWORTH, GA, 30102", "county": "BARTOW", "election": "05/19/2026 MAY 19, 2026 - GENERAL PRIMARY ELECTION", "lat": 34.114394, "lng": -84.680974, "name": "ALLATOONA RESOURCE CENTER", "schedule": "05/11/2026 - 05/15/2026 8:00 AM - 6:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.680974, 34.114394 ] } },
+{ "type": "Feature", "properties": { "address": "435 WEST MAIN STREET, CARTERSVILLE, GA, 30120", "county": "BARTOW", "election": "05/19/2026 MAY 19, 2026 - GENERAL PRIMARY ELECTION", "lat": 34.163602, "lng": -84.806462, "name": "CARTERSVILLE CIVIC CENTER", "schedule": "05/11/2026 - 05/15/2026 8:00 AM - 6:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.806462, 34.163602 ] } },
+{ "type": "Feature", "properties": { "address": "163B MANNING MILL RD, ADAIRSVILLE, GA, 30103", "county": "BARTOW", "election": "05/19/2026 MAY 19, 2026 - GENERAL PRIMARY ELECTION", "lat": 34.345467, "lng": -84.90101, "name": "MANNING MILL PARK FACILITY", "schedule": "05/11/2026 - 05/15/2026 8:00 AM - 6:00 PM ( Advanced Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.90101, 34.345467 ] } },
+{ "type": "Feature", "properties": { "address": "1300 JOE FRANK HARRIS PWY, CARTERSVILLE, GA, 30120", "county": "BARTOW", "election": "05/19/2026 MAY 19, 2026 - GENERAL PRIMARY ELECTION", "lat": 34.20631, "lng": -84.81402, "name": "REGISTRATION OFFICE", "schedule": "04/27/2026 - 05/02/2026 8:00 AM - 5:00 PM ( Advanced Polling Location )\n04/27/2026 - 05/02/2026 8:00 AM - 5:00 PM ( Dropbox Polling Location )\n05/04/2026 - 05/09/2026 8:00 AM - 5:00 PM ( Advanced Polling Location )\n05/04/2026 - 05/09/2026 8:00 AM - 5:00 PM ( Dropbox Polling Location )\n05/11/2026 - 05/15/2026 8:00 AM - 6:00 PM ( Advanced Polling Location )\n05/11/2026 - 05/15/2026 8:00 AM - 6:00 PM ( Dropbox Polling Location )" }, "geometry": { "type": "Point", "coordinates": [ -84.81402, 34.20631 ] } }
+]
+}
