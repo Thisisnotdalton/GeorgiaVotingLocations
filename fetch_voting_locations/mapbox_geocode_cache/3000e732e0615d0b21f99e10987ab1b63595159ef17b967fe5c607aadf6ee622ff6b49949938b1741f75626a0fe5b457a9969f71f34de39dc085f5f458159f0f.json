@@ -1,0 +1,346 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.573972,
+                    33.672549
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1vc206MTA5OTM1NDcxOQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3100",
+                        "mapbox_id": "dXJuOm1ieGFkci1vc206MTA5OTM1NDcxOQ",
+                        "name": "3100 Enon Road",
+                        "street_name": "Enon Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLNWVLN0E",
+                        "name": "South Fulton",
+                        "wikidata_id": "Q7567323"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCQVJJN0E",
+                            "name": "College Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmJ1N0E",
+                        "name": "30331"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItb3NtOjEwOTkzNTQ3MTk",
+                        "name": "Enon Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 33.672549,
+                    "longitude": -84.573972,
+                    "routable_points": [
+                        {
+                            "latitude": 33.672239,
+                            "longitude": -84.574185,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3100 Enon Road, Atlanta, Georgia 30331, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1vc206MTA5OTM1NDcxOQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3100 Enon Road",
+                "name_preferred": "3100 Enon Road",
+                "place_formatted": "Atlanta, Georgia 30331, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.539924,
+                    33.620121
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHItb3NtOjI4NTM4MDMwMTM",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQVJvN0E",
+                        "name": "College Park",
+                        "wikidata_id": "Q388435"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmp1N0E",
+                        "name": "30349"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItb3NtOjI4NTM4MDMwMTM",
+                        "name": "South Fulton Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.620121,
+                    "longitude": -84.539924
+                },
+                "feature_type": "street",
+                "full_address": "South Fulton Parkway, College Park, Georgia 30349, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHItb3NtOjI4NTM4MDMwMTM",
+                "name": "South Fulton Parkway",
+                "name_preferred": "South Fulton Parkway",
+                "place_formatted": "College Park, Georgia 30349, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.410547,
+                    33.656471
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHItb3NtOjI4MjA1MTAyNjQ",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUjJzN0E",
+                        "name": "Asbury Park"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDRm5vN0E",
+                        "name": "Hapeville"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmxPN0E",
+                        "name": "30354"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItb3NtOjI4MjA1MTAyNjQ",
+                        "name": "South Fulton Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.656471,
+                    "longitude": -84.410547
+                },
+                "feature_type": "street",
+                "full_address": "South Fulton Avenue, Hapeville, Georgia 30354, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHItb3NtOjI4MjA1MTAyNjQ",
+                "name": "South Fulton Avenue",
+                "name_preferred": "South Fulton Avenue",
+                "place_formatted": "Hapeville, Georgia 30354, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.766268,
+                    34.0894
+                ],
+                "type": "Point"
+            },
+            "id": "address.893364651334030",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaWJz",
+                        "name": "Bartow County",
+                        "wikidata_id": "Q488181"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCa0RJN0E",
+                            "name": "Euharlee"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeEtJN0E",
+                        "name": "Cartersville",
+                        "wikidata_id": "Q932346"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVF1N0E",
+                        "name": "30120"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.893364651334030",
+                        "name": "Enon Ridge Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.0894,
+                    "longitude": -84.766268
+                },
+                "feature_type": "street",
+                "full_address": "Enon Ridge Road, Cartersville, Georgia 30120, United States",
+                "mapbox_id": "address.893364651334030",
+                "name": "Enon Ridge Road",
+                "name_preferred": "Enon Ridge Road",
+                "place_formatted": "Cartersville, Georgia 30120, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.510279,
+                    33.723863
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZmJ1N0E",
+            "properties": {
+                "bbox": [
+                    -84.667617,
+                    33.64541,
+                    -84.465631,
+                    33.808544
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLNWVLN0E",
+                        "name": "South Fulton",
+                        "wikidata_id": "Q7567323"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmJ1N0E",
+                        "name": "30331"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.723863,
+                    "longitude": -84.510279
+                },
+                "feature_type": "postcode",
+                "full_address": "Atlanta, Georgia 30331, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZmJ1N0E",
+                "name": "30331",
+                "name_preferred": "30331",
+                "place_formatted": "Atlanta, Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.707125,
+                    33.662202
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4N2NkMDJlNy05NTE1LTRkYjItYjUyNC0wMDEwMDI1MTM2ZGI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "573",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4N2NkMDJlNy05NTE1LTRkYjItYjUyNC0wMDEwMDI1MTM2ZGI",
+                        "name": "573 Fairplay Drive",
+                        "street_name": "Fairplay Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzFtN0E",
+                        "name": "Walton County",
+                        "wikidata_id": "Q498312"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVW9JN0E",
+                        "name": "Social Circle",
+                        "wikidata_id": "Q1852917"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGx1N0E",
+                        "name": "30025"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODdjZDAyZTctOTUxNS00ZGIyLWI1MjQtMDAxMDAyNTEzNmRi",
+                        "name": "Fairplay Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.662202,
+                    "longitude": -83.707125,
+                    "routable_points": [
+                        {
+                            "latitude": 33.661948,
+                            "longitude": -83.70702,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "573 Fairplay Drive, Social Circle, Georgia 30025, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4N2NkMDJlNy05NTE1LTRkYjItYjUyNC0wMDEwMDI1MTM2ZGI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "573 Fairplay Drive",
+                "name_preferred": "573 Fairplay Drive",
+                "place_formatted": "Social Circle, Georgia 30025, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.71857,
+                    33.6562
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZGx1N0E",
+            "properties": {
+                "bbox": [
+                    -83.793772,
+                    33.559972,
+                    -83.59554,
+                    33.735506
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzFtN0E",
+                        "name": "Walton County",
+                        "wikidata_id": "Q498312"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVW9JN0E",
+                        "name": "Social Circle",
+                        "wikidata_id": "Q1852917"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGx1N0E",
+                        "name": "30025"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.6562,
+                    "longitude": -83.71857
+                },
+                "feature_type": "postcode",
+                "full_address": "Social Circle, Georgia 30025, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZGx1N0E",
+                "name": "30025",
+                "name_preferred": "30025",
+                "place_formatted": "Social Circle, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.700465,
+                    33.640588
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Njc3Nzg0ZWMtOTA2Ni00ZDM4LTg5MzItZGQ4NDYyNjFhZjE1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzFtN0E",
+                        "name": "Walton County",
+                        "wikidata_id": "Q498312"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVW9JN0E",
+                        "name": "Social Circle",
+                        "wikidata_id": "Q1852917"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGx1N0E",
+                        "name": "30025"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Njc3Nzg0ZWMtOTA2Ni00ZDM4LTg5MzItZGQ4NDYyNjFhZjE1",
+                        "name": "Social Circle Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.640588,
+                    "longitude": -83.700465
+                },
+                "feature_type": "street",
+                "full_address": "Social Circle Parkway, Social Circle, Georgia 30025, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Njc3Nzg0ZWMtOTA2Ni00ZDM4LTg5MzItZGQ4NDYyNjFhZjE1",
+                "name": "Social Circle Parkway",
+                "name_preferred": "Social Circle Parkway",
+                "place_formatted": "Social Circle, Georgia 30025, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.723751,
+                    33.61884
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTA3MDRmODAtZTFjZi00N2Q5LWJkZjktZTg1NjFmZWNhNDFk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUU1tN0E",
+                        "name": "Newton County",
+                        "wikidata_id": "Q501101"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVW9JN0E",
+                        "name": "Social Circle",
+                        "wikidata_id": "Q1852917"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGx1N0E",
+                        "name": "30025"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTA3MDRmODAtZTFjZi00N2Q5LWJkZjktZTg1NjFmZWNhNDFk",
+                        "name": "Social Circle Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.61884,
+                    "longitude": -83.723751
+                },
+                "feature_type": "street",
+                "full_address": "Social Circle Road, Social Circle, Georgia 30025, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTA3MDRmODAtZTFjZi00N2Q5LWJkZjktZTg1NjFmZWNhNDFk",
+                "name": "Social Circle Road",
+                "name_preferred": "Social Circle Road",
+                "place_formatted": "Social Circle, Georgia 30025, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.719985,
+                    33.611127
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjIzNGJjZmItZGRhZC00ODUyLWIyZmEtODBkNjk0ZmQxMjU5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUU1tN0E",
+                        "name": "Newton County",
+                        "wikidata_id": "Q501101"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVW9JN0E",
+                        "name": "Social Circle",
+                        "wikidata_id": "Q1852917"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGx1N0E",
+                        "name": "30025"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjIzNGJjZmItZGRhZC00ODUyLWIyZmEtODBkNjk0ZmQxMjU5",
+                        "name": "Old Social Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.611127,
+                    "longitude": -83.719985
+                },
+                "feature_type": "street",
+                "full_address": "Old Social Circle, Social Circle, Georgia 30025, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjIzNGJjZmItZGRhZC00ODUyLWIyZmEtODBkNjk0ZmQxMjU5",
+                "name": "Old Social Circle",
+                "name_preferred": "Old Social Circle",
+                "place_formatted": "Social Circle, Georgia 30025, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

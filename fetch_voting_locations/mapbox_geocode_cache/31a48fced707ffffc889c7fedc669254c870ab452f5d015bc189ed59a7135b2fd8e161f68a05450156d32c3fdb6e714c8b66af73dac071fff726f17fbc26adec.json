@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.101172,
+                    33.889474
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0N2NkNWQwZC1iZDY1LTQ3ODEtODJkZC04M2JkN2IwYzk5YWY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "41",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0N2NkNWQwZC1iZDY1LTQ3ODEtODJkZC04M2JkN2IwYzk5YWY",
+                        "name": "41 Fairground Road",
+                        "street_name": "Fairground Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWptN0E",
+                        "name": "Oglethorpe County",
+                        "wikidata_id": "Q491525"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDeFlJN0E",
+                        "name": "Lexington",
+                        "wikidata_id": "Q972506"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZyt1N0E",
+                        "name": "30648"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDdjZDVkMGQtYmQ2NS00NzgxLTgyZGQtODNiZDdiMGM5OWFm",
+                        "name": "Fairground Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 33.889474,
+                    "longitude": -83.101172,
+                    "routable_points": [
+                        {
+                            "latitude": 33.889794,
+                            "longitude": -83.101026,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "41 Fairground Road, Lexington, Georgia 30648, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0N2NkNWQwZC1iZDY1LTQ3ODEtODJkZC04M2JkN2IwYzk5YWY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "41 Fairground Road",
+                "name_preferred": "41 Fairground Road",
+                "place_formatted": "Lexington, Georgia 30648, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.110964,
+                    33.869379
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZyt1N0E",
+            "properties": {
+                "bbox": [
+                    -83.15542,
+                    33.779167,
+                    -82.920079,
+                    33.981201
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWptN0E",
+                        "name": "Oglethorpe County",
+                        "wikidata_id": "Q491525"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDeFlJN0E",
+                        "name": "Lexington",
+                        "wikidata_id": "Q972506"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZyt1N0E",
+                        "name": "30648"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.869379,
+                    "longitude": -83.110964
+                },
+                "feature_type": "postcode",
+                "full_address": "Lexington, Georgia 30648, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZyt1N0E",
+                "name": "30648",
+                "name_preferred": "30648",
+                "place_formatted": "Lexington, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.110964,
+                    33.869379
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDeFlJN0E",
+            "properties": {
+                "bbox": [
+                    -83.15542,
+                    33.779167,
+                    -82.920079,
+                    33.981201
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWptN0E",
+                        "name": "Oglethorpe County",
+                        "wikidata_id": "Q491525"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDeFlJN0E",
+                        "name": "Lexington",
+                        "wikidata_id": "Q972506"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.869379,
+                    "longitude": -83.110964
+                },
+                "feature_type": "place",
+                "full_address": "Lexington, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDeFlJN0E",
+                "name": "Lexington",
+                "name_preferred": "Lexington",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.299743,
+                    33.773021
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTY3ZjZhYzMtNjc4Mi00OTNjLWE3NTgtYWY2Mjc3MWJhMDBm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q492026"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGS3VvN0E",
+                        "name": "Watkinsville",
+                        "wikidata_id": "Q426428"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEdPN0E",
+                        "name": "30677"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTY3ZjZhYzMtNjc4Mi00OTNjLWE3NTgtYWY2Mjc3MWJhMDBm",
+                        "name": "Fambrough Bridge Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.773021,
+                    "longitude": -83.299743
+                },
+                "feature_type": "street",
+                "full_address": "Fambrough Bridge Road, Watkinsville, Georgia 30677, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTY3ZjZhYzMtNjc4Mi00OTNjLWE3NTgtYWY2Mjc3MWJhMDBm",
+                "name": "Road",
+                "name_preferred": "Fambrough Bridge Road",
+                "place_formatted": "Watkinsville, Georgia 30677, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.304989,
+                    33.788939
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmM5ODM5YWQtZmM4Yy00Y2ZjLWEwZjctZDM3YTBmOWM3Mzll",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q492026"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGS3VvN0E",
+                        "name": "Watkinsville",
+                        "wikidata_id": "Q426428"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEdPN0E",
+                        "name": "30677"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmM5ODM5YWQtZmM4Yy00Y2ZjLWEwZjctZDM3YTBmOWM3Mzll",
+                        "name": "Wire Bridge Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.788939,
+                    "longitude": -83.304989
+                },
+                "feature_type": "street",
+                "full_address": "Wire Bridge Road, Watkinsville, Georgia 30677, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmM5ODM5YWQtZmM4Yy00Y2ZjLWEwZjctZDM3YTBmOWM3Mzll",
+                "name": "Road",
+                "name_preferred": "Wire Bridge Road",
+                "place_formatted": "Watkinsville, Georgia 30677, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

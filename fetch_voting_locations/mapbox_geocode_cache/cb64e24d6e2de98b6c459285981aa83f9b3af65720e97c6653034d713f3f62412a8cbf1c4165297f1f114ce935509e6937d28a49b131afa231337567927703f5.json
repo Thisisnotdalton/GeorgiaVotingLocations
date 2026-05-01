@@ -1,0 +1,209 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.422905,
+                    33.587442
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkN2VkMjExYi01MTE3LTQwZTMtYmY5Yi03MTE1NzBmNWVjM2U",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "6131",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkN2VkMjExYi01MTE3LTQwZTMtYmY5Yi03MTE1NzBmNWVjM2U",
+                        "name": "6131 Riverdale Road",
+                        "street_name": "Riverdale Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEdFJzN0E",
+                        "name": "Golden Meadows"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCQVJJN0E",
+                            "name": "College Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFS0dvN0E",
+                        "name": "Riverdale",
+                        "wikidata_id": "Q3260888"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkR1N0E",
+                        "name": "30274"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDdlZDIxMWItNTExNy00MGUzLWJmOWItNzExNTcwZjVlYzNl",
+                        "name": "Riverdale Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 33.587442,
+                    "longitude": -84.422905,
+                    "routable_points": [
+                        {
+                            "latitude": 33.587538,
+                            "longitude": -84.422841,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "6131 Riverdale Road, Riverdale, Georgia 30274, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkN2VkMjExYi01MTE3LTQwZTMtYmY5Yi03MTE1NzBmNWVjM2U",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "6131 Riverdale Road",
+                "name_preferred": "6131 Riverdale Road",
+                "place_formatted": "Riverdale, Georgia 30274, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.412536,
+                    33.572643
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZkR1N0E",
+            "properties": {
+                "bbox": [
+                    -84.425719,
+                    33.499661,
+                    -84.37093,
+                    33.605481
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFS0dvN0E",
+                        "name": "Riverdale",
+                        "wikidata_id": "Q3260888"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkR1N0E",
+                        "name": "30274"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.572643,
+                    "longitude": -84.412536
+                },
+                "feature_type": "postcode",
+                "full_address": "Riverdale, Georgia 30274, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZkR1N0E",
+                "name": "30274",
+                "name_preferred": "30274",
+                "place_formatted": "Riverdale, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.412536,
+                    33.572643
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpFS0dvN0E",
+            "properties": {
+                "bbox": [
+                    -84.490029,
+                    33.499661,
+                    -84.37093,
+                    33.605481
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFS0dvN0E",
+                        "name": "Riverdale",
+                        "wikidata_id": "Q3260888"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.572643,
+                    "longitude": -84.412536
+                },
+                "feature_type": "place",
+                "full_address": "Riverdale, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpFS0dvN0E",
+                "name": "Riverdale",
+                "name_preferred": "Riverdale",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

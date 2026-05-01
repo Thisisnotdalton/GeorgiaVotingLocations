@@ -1,0 +1,260 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.53562,
+                    32.65382
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyNGQ5ZWU1YS04ZTc3LTRhYjAtYWI2Yy0wZDVhMWEyMTI3NDU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1761",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyNGQ5ZWU1YS04ZTc3LTRhYjAtYWI2Yy0wZDVhMWEyMTI3NDU",
+                        "name": "1761 US Route 80",
+                        "street_name": "US Route 80"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmZtN0E",
+                        "name": "Talbot County",
+                        "wikidata_id": "Q498356"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFemNvN0E",
+                        "name": "Talbotton",
+                        "wikidata_id": "Q1383391"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1lPN0E",
+                        "name": "31827"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjRkOWVlNWEtOGU3Ny00YWIwLWFiNmMtMGQ1YTFhMjEyNzQ1",
+                        "name": "US Route 80"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.65382,
+                    "longitude": -84.53562,
+                    "routable_points": [
+                        {
+                            "latitude": 32.654308,
+                            "longitude": -84.536203,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1761 US Route 80, Talbotton, Georgia 31827, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyNGQ5ZWU1YS04ZTc3LTRhYjAtYWI2Yy0wZDVhMWEyMTI3NDU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1761 Geneva Hwy",
+                "name_preferred": "1761 US Route 80",
+                "place_formatted": "Talbotton, Georgia 31827, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.540143,
+                    32.677612
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCa1lPN0E",
+            "properties": {
+                "bbox": [
+                    -84.682987,
+                    32.590523,
+                    -84.336749,
+                    32.793753
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmZtN0E",
+                        "name": "Talbot County",
+                        "wikidata_id": "Q498356"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFemNvN0E",
+                        "name": "Talbotton",
+                        "wikidata_id": "Q1383391"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1lPN0E",
+                        "name": "31827"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.677612,
+                    "longitude": -84.540143
+                },
+                "feature_type": "postcode",
+                "full_address": "Talbotton, Georgia 31827, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCa1lPN0E",
+                "name": "31827",
+                "name_preferred": "31827",
+                "place_formatted": "Talbotton, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.552967,
+                    32.579608
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6M2NhMjI0ZmQtZjIyOC00MmMyLTkzYjItNmYzMzA3ZDgxMjQy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmZtN0E",
+                        "name": "Talbot County",
+                        "wikidata_id": "Q498356"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIZlpvN0E",
+                        "name": "Box Springs",
+                        "wikidata_id": "Q12888162"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa09PN0E",
+                        "name": "31801"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2NhMjI0ZmQtZjIyOC00MmMyLTkzYjItNmYzMzA3ZDgxMjQy",
+                        "name": "Geneva Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.579608,
+                    "longitude": -84.552967
+                },
+                "feature_type": "street",
+                "full_address": "Geneva Highway, Box Springs, Georgia 31801, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2NhMjI0ZmQtZjIyOC00MmMyLTkzYjItNmYzMzA3ZDgxMjQy",
+                "name": "Geneva Highway",
+                "name_preferred": "Geneva Highway",
+                "place_formatted": "Box Springs, Georgia 31801, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.29936,
+                    32.71316
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGE2OTRiNTQtM2RlOC00ZDViLWFhZWMtOTA0YWUwMzFlM2Vi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVm9HN0E",
+                        "name": "Taylor County",
+                        "wikidata_id": "Q505299"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcXVvN0E",
+                        "name": "Butler",
+                        "wikidata_id": "Q2571619"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHZ1N0E",
+                        "name": "31006"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGE2OTRiNTQtM2RlOC00ZDViLWFhZWMtOTA0YWUwMzFlM2Vi",
+                        "name": "Talbotton Hwy"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.71316,
+                    "longitude": -84.29936
+                },
+                "feature_type": "street",
+                "full_address": "Talbotton Hwy, Butler, Georgia 31006, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGE2OTRiNTQtM2RlOC00ZDViLWFhZWMtOTA0YWUwMzFlM2Vi",
+                "name": "Talbotton Hwy",
+                "name_preferred": "Talbotton Hwy",
+                "place_formatted": "Butler, Georgia 31006, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

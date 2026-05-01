@@ -1,0 +1,87 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -84.268553,
+                34.055974
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjpmZDhlM2QxMC01YmI0LTQxMTYtOGVkNS1iY2Q0YTc3YzRmMTI",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "4700",
+                    "mapbox_id": "dXJuOm1ieGFkcjpmZDhlM2QxMC01YmI0LTQxMTYtOGVkNS1iY2Q0YTc3YzRmMTI",
+                    "name": "4700 North Point Parkway",
+                    "street_name": "North Point Parkway"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                    "name": "Fulton County",
+                    "wikidata_id": "Q486633"
+                },
+                "place": {
+                    "alternate": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZFNJN0E",
+                        "name": "Johns Creek"
+                    },
+                    "mapbox_id": "dXJuOm1ieHBsYzpVdWpz",
+                    "name": "Alpharetta",
+                    "wikidata_id": "Q1003649"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZGtPN0E",
+                    "name": "30022"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmQ4ZTNkMTAtNWJiNC00MTE2LThlZDUtYmNkNGE3N2M0ZjEy",
+                    "name": "North Point Parkway"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 34.055974,
+                "longitude": -84.268553,
+                "routable_points": [
+                    {
+                        "latitude": 34.056202,
+                        "longitude": -84.26848,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "4700 North Point Parkway, Alpharetta, Georgia 30022, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjpmZDhlM2QxMC01YmI0LTQxMTYtOGVkNS1iY2Q0YTc3YzRmMTI",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "exact",
+                "country": "inferred",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "4700 North Point Parkway",
+            "name_preferred": "4700 North Point Parkway",
+            "place_formatted": "Alpharetta, Georgia 30022, United States"
+        },
+        "type": "Feature"
+    }
+]

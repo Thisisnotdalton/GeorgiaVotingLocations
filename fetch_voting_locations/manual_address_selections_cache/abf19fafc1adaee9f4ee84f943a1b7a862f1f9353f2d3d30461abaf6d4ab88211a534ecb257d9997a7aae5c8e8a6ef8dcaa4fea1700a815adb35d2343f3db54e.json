@@ -1,0 +1,87 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -84.32411,
+                33.799945
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjplZDNmNzc5Yi1mOGJjLTQ4MzItYmJkMi1lMDg3MzNkZTVjY2Q",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "1599",
+                    "mapbox_id": "dXJuOm1ieGFkcjplZDNmNzc5Yi1mOGJjLTQ4MzItYmJkMi1lMDg3MzNkZTVjY2Q",
+                    "name": "1599 Clifton Road Northeast",
+                    "street_name": "Clifton Road Northeast"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                    "name": "DeKalb County",
+                    "wikidata_id": "Q486398"
+                },
+                "place": {
+                    "alternate": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbHRvN0E",
+                        "name": "Brookhaven"
+                    },
+                    "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                    "name": "Atlanta",
+                    "wikidata_id": "Q23556"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZmJPN0E",
+                    "name": "30329"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWQzZjc3OWItZjhiYy00ODMyLWJiZDItZTA4NzMzZGU1Y2Nk",
+                    "name": "Clifton Road Northeast"
+                }
+            },
+            "coordinates": {
+                "accuracy": "point",
+                "latitude": 33.799945,
+                "longitude": -84.32411,
+                "routable_points": [
+                    {
+                        "latitude": 33.800048,
+                        "longitude": -84.324318,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "1599 Clifton Road Northeast, Atlanta, Georgia 30329, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjplZDNmNzc5Yi1mOGJjLTQ4MzItYmJkMi1lMDg3MzNkZTVjY2Q",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "medium",
+                "country": "matched",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "unmatched",
+                "region": "matched",
+                "street": "unmatched"
+            },
+            "name": "1599 Clifton Road Northeast",
+            "name_preferred": "1599 Clifton Road Northeast",
+            "place_formatted": "Atlanta, Georgia 30329, United States"
+        },
+        "type": "Feature"
+    }
+]

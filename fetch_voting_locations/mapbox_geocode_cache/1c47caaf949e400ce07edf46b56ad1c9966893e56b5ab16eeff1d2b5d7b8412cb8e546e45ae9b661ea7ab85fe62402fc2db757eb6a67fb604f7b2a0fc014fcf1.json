@@ -1,0 +1,367 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.17807,
+                    33.67796
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1MDU4NjY2ZC1iMDk5LTQwZjQtOGM4Ny1mMDdlZGM2OGMwNTM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5137",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1MDU4NjY2ZC1iMDk5LTQwZjQtOGM4Ny1mMDdlZGM2OGMwNTM",
+                        "name": "5137 Salem Road",
+                        "street_name": "Salem Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpILzBxN0E",
+                        "name": "Stonecrest",
+                        "wikidata_id": "Q28456847"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDejlvN0E",
+                        "name": "Lithonia",
+                        "wikidata_id": "Q2409037"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHJ1N0E",
+                        "name": "30038"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTA1ODY2NmQtYjA5OS00MGY0LThjODctZjA3ZWRjNjhjMDUz",
+                        "name": "Salem Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.67796,
+                    "longitude": -84.17807,
+                    "routable_points": [
+                        {
+                            "latitude": 33.678192,
+                            "longitude": -84.178,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5137 Salem Road, Lithonia, Georgia 30038, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1MDU4NjY2ZC1iMDk5LTQwZjQtOGM4Ny1mMDdlZGM2OGMwNTM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5137 Salem Road",
+                "name_preferred": "5137 Salem Road",
+                "place_formatted": "Lithonia, Georgia 30038, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.172918,
+                    33.68266
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzAzOTdhNjgtM2U5Yy00MmFhLWE2YTgtYWI0M2FlZGEwZjgy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpILzBxN0E",
+                        "name": "Stonecrest",
+                        "wikidata_id": "Q28456847"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDejlvN0E",
+                        "name": "Lithonia",
+                        "wikidata_id": "Q2409037"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHJ1N0E",
+                        "name": "30038"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzAzOTdhNjgtM2U5Yy00MmFhLWE2YTgtYWI0M2FlZGEwZjgy",
+                        "name": "Salem Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.68266,
+                    "longitude": -84.172918
+                },
+                "feature_type": "street",
+                "full_address": "Salem Rd, Lithonia, Georgia 30038, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzAzOTdhNjgtM2U5Yy00MmFhLWE2YTgtYWI0M2FlZGEwZjgy",
+                "name": "Salem Rd",
+                "name_preferred": "Salem Rd",
+                "place_formatted": "Lithonia, Georgia 30038, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.159092,
+                    33.6725
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmFmNzU2ZTUtNWU1Zi00NDA5LTkyNGItOTI1N2E5NDJmZmM5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpILzBxN0E",
+                        "name": "Stonecrest",
+                        "wikidata_id": "Q28456847"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBNjhzN0E",
+                        "name": "Bramblewood"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDejlvN0E",
+                        "name": "Lithonia",
+                        "wikidata_id": "Q2409037"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHJ1N0E",
+                        "name": "30038"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmFmNzU2ZTUtNWU1Zi00NDA5LTkyNGItOTI1N2E5NDJmZmM5",
+                        "name": "Salem Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.6725,
+                    "longitude": -84.159092
+                },
+                "feature_type": "street",
+                "full_address": "Salem Drive, Lithonia, Georgia 30038, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmFmNzU2ZTUtNWU1Zi00NDA5LTkyNGItOTI1N2E5NDJmZmM5",
+                "name": "Salem Drive",
+                "name_preferred": "Salem Drive",
+                "place_formatted": "Lithonia, Georgia 30038, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.115703,
+                    33.712501
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTRjZjJiZDktMGU2YS00YzU5LWI3ZGItMjU0MjY1MzU4ZTg4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpILzBxN0E",
+                        "name": "Stonecrest",
+                        "wikidata_id": "Q28456847"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDejlvN0E",
+                        "name": "Lithonia",
+                        "wikidata_id": "Q2409037"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHp1N0E",
+                        "name": "30058"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTRjZjJiZDktMGU2YS00YzU5LWI3ZGItMjU0MjY1MzU4ZTg4",
+                        "name": "Parkway Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.712501,
+                    "longitude": -84.115703
+                },
+                "feature_type": "street",
+                "full_address": "Parkway Drive, Lithonia, Georgia 30058, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTRjZjJiZDktMGU2YS00YzU5LWI3ZGItMjU0MjY1MzU4ZTg4",
+                "name": "Parkway Road",
+                "name_preferred": "Parkway Drive",
+                "place_formatted": "Lithonia, Georgia 30058, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.081751,
+                    33.786711
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5URXpOeUlzSW5OMGNtVmxkQ0k2SWxOQlRFVk5JRkpFSWl3aWNHeGhZMlVpT2lKTVNWUklUMDVKUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EQXpPQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRFF1TXpRNU9EYzFJaXdpTXpNdU5qRTBOalkySWl3aUxUZzBMakF5TXpjeE15SXNJak16TGprM01EZzRJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5137",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5URXpOeUlzSW5OMGNtVmxkQ0k2SWxOQlRFVk5JRkpFSWl3aWNHeGhZMlVpT2lKTVNWUklUMDVKUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EQXpPQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRFF1TXpRNU9EYzFJaXdpTXpNdU5qRTBOalkySWl3aUxUZzBMakF5TXpjeE15SXNJak16TGprM01EZzRJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjQ",
+                        "name": "5137 Salem Drive",
+                        "street_name": "Salem Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGNW5zN0E",
+                        "name": "Meadow Hills"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFdE9vN0E",
+                        "name": "Stone Mountain",
+                        "wikidata_id": "Q2073622"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUJPN0E",
+                        "name": "30087"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVEV6TnlJc0luTjBjbVZsZENJNklsTkJURVZOSUZKRUlpd2ljR3hoWTJVaU9pSk1TVlJJVDA1SlFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNREF6T0NJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RRdU16UTVPRGMxSWl3aU16TXVOakUwTmpZMklpd2lMVGcwTGpBeU16Y3hNeUlzSWpNekxqazNNRGc0SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTo0",
+                        "name": "Salem Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.786711,
+                    "longitude": -84.081751,
+                    "routable_points": [
+                        {
+                            "latitude": 33.786711,
+                            "longitude": -84.081751,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5137 Salem Drive, Stone Mountain, Georgia 30087, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5URXpOeUlzSW5OMGNtVmxkQ0k2SWxOQlRFVk5JRkpFSWl3aWNHeGhZMlVpT2lKTVNWUklUMDVKUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EQXpPQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRFF1TXpRNU9EYzFJaXdpTXpNdU5qRTBOalkySWl3aUxUZzBMakF5TXpjeE15SXNJak16TGprM01EZzRJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "5137 Salem Drive",
+                "name_preferred": "5137 Salem Drive",
+                "place_formatted": "Stone Mountain, Georgia 30087, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

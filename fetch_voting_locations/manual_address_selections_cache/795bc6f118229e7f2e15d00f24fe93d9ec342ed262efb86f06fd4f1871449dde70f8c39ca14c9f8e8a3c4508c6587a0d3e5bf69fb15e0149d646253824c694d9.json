@@ -1,0 +1,83 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -82.233919,
+                31.303605
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjphY2NiMTM2My03MjhkLTQwNTYtOTU3ZS0xYTA4MTViOTZjNDQ",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "312",
+                    "mapbox_id": "dXJuOm1ieGFkcjphY2NiMTM2My03MjhkLTQwNTYtOTU3ZS0xYTA4MTViOTZjNDQ",
+                    "name": "312 Nichols Street",
+                    "street_name": "Nichols Street"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBUm9tN0E",
+                    "name": "Pierce County",
+                    "wikidata_id": "Q486800"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBY09JN0E",
+                    "name": "Blackshear",
+                    "wikidata_id": "Q670594"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCakh1N0E",
+                    "name": "31516"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWNjYjEzNjMtNzI4ZC00MDU2LTk1N2UtMWEwODE1Yjk2YzQ0",
+                    "name": "Nichols Street"
+                }
+            },
+            "coordinates": {
+                "accuracy": "parcel",
+                "latitude": 31.303605,
+                "longitude": -82.233919,
+                "routable_points": [
+                    {
+                        "latitude": 31.30395,
+                        "longitude": -82.234286,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "312 Nichols Street, Blackshear, Georgia 31516, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjphY2NiMTM2My03MjhkLTQwNTYtOTU3ZS0xYTA4MTViOTZjNDQ",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "exact",
+                "country": "inferred",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "312 Nichols Street",
+            "name_preferred": "312 Nichols Street",
+            "place_formatted": "Blackshear, Georgia 31516, United States"
+        },
+        "type": "Feature"
+    }
+]

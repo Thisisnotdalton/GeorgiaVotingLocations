@@ -1,0 +1,280 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.357796,
+                    34.977328
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1MDY4OTJjMC01NmNlLTRjYjgtOTNjZS1kNDE1MGZiZTRmYWU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1214",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1MDY4OTJjMC01NmNlLTRjYjgtOTNjZS1kNDE1MGZiZTRmYWU",
+                        "name": "1214 Lula Lake Road",
+                        "street_name": "Lula Lake Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpKQThJN0E",
+                            "name": "Lookout Mountain"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpKQThvN0E",
+                        "name": "Lookout Mountain",
+                        "wikidata_id": "Q2183478"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFd1N0E",
+                        "name": "30750"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTA2ODkyYzAtNTZjZS00Y2I4LTkzY2UtZDQxNTBmYmU0ZmFl",
+                        "name": "Lula Lake Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 34.977328,
+                    "longitude": -85.357796,
+                    "routable_points": [
+                        {
+                            "latitude": 34.977293,
+                            "longitude": -85.357734,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1214 Lula Lake Road, Lookout Mountain, Georgia 30750, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1MDY4OTJjMC01NmNlLTRjYjgtOTNjZS1kNDE1MGZiZTRmYWU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1214 Lula Lake Road",
+                "name_preferred": "1214 Lula Lake Road",
+                "place_formatted": "Lookout Mountain, Georgia 30750, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.358004,
+                    34.976796
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaFd1N0E",
+            "properties": {
+                "bbox": [
+                    -85.432209,
+                    34.897997,
+                    -85.342458,
+                    34.983772
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpKQThJN0E",
+                            "name": "Lookout Mountain"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpKQThvN0E",
+                        "name": "Lookout Mountain",
+                        "wikidata_id": "Q2183478"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFd1N0E",
+                        "name": "30750"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.976796,
+                    "longitude": -85.358004
+                },
+                "feature_type": "postcode",
+                "full_address": "Lookout Mountain, Georgia 30750, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaFd1N0E",
+                "name": "30750",
+                "name_preferred": "30750",
+                "place_formatted": "Lookout Mountain, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.438729,
+                    34.589332
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDZmNTdiMzYtYzg0MC00YTI4LWFhMjEtNzdkYmE0YmUwZmU3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBK0RvN0E",
+                            "name": "Cloudland"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpESFhJN0E",
+                        "name": "Menlo",
+                        "wikidata_id": "Q2600988"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFFPN0E",
+                        "name": "30731"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZmNTdiMzYtYzg0MC00YTI4LWFhMjEtNzdkYmE0YmUwZmU3",
+                        "name": "Lula Lake Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.589332,
+                    "longitude": -85.438729
+                },
+                "feature_type": "street",
+                "full_address": "Lula Lake Road, Menlo, Georgia 30731, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZmNTdiMzYtYzg0MC00YTI4LWFhMjEtNzdkYmE0YmUwZmU3",
+                "name": "Lula Lake Road",
+                "name_preferred": "Lula Lake Road",
+                "place_formatted": "Menlo, Georgia 30731, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.354095,
+                    34.984125
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGQ3MDY2MTYtNzBkYS00ODc5LThmYjYtNjYxZGU4N2ZhYTU2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprYWJz",
+                        "name": "Hamilton County",
+                        "wikidata_id": "Q188376"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGaTFzN0E",
+                        "name": "Lookout Valley"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpGZlZJN0E",
+                            "name": "Lookout Mountain"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpGZlVvN0E",
+                        "name": "Lookout Mountain",
+                        "wikidata_id": "Q1851740"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCNENPN0E",
+                        "name": "37350"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBMFRz",
+                        "name": "Tennessee",
+                        "region_code": "TN",
+                        "region_code_full": "US-TN",
+                        "wikidata_id": "Q1509"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGQ3MDY2MTYtNzBkYS00ODc5LThmYjYtNjYxZGU4N2ZhYTU2",
+                        "name": "Lula Lake Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.984125,
+                    "longitude": -85.354095
+                },
+                "feature_type": "street",
+                "full_address": "Lula Lake Road, Lookout Mountain, Tennessee 37350, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGQ3MDY2MTYtNzBkYS00ODc5LThmYjYtNjYxZGU4N2ZhYTU2",
+                "name": "Lula Lake Road",
+                "name_preferred": "Lula Lake Road",
+                "place_formatted": "Lookout Mountain, Tennessee 37350, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

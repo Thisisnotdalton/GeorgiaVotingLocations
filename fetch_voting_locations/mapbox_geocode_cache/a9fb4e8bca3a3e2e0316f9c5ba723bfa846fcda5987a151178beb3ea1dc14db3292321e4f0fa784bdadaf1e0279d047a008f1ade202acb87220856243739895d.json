@@ -1,0 +1,321 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.33161,
+                    33.44772
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1ZGJiNjRhNi1jNGI0LTRkMWUtODA5Yy0yYjdjNmFkZTk3MjY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1837",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1ZGJiNjRhNi1jNGI0LTRkMWUtODA5Yy0yYjdjNmFkZTk3MjY",
+                        "name": "1837 Mcdonough Road",
+                        "street_name": "Mcdonough Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFRytzN0E",
+                        "name": "Hastings"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDRXVvN0E",
+                        "name": "Hampton",
+                        "wikidata_id": "Q926940"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTBPN0E",
+                        "name": "30228"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWRiYjY0YTYtYzRiNC00ZDFlLTgwOWMtMmI3YzZhZGU5NzI2",
+                        "name": "Mcdonough Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.44772,
+                    "longitude": -84.33161,
+                    "routable_points": [
+                        {
+                            "latitude": 33.448023,
+                            "longitude": -84.331459,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1837 Mcdonough Road, Hampton, Georgia 30228, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1ZGJiNjRhNi1jNGI0LTRkMWUtODA5Yy0yYjdjNmFkZTk3MjY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1837 Mcdonough Road",
+                "name_preferred": "1837 Mcdonough Road",
+                "place_formatted": "Hampton, Georgia 30228, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.282851,
+                    33.38511
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZTBPN0E",
+            "properties": {
+                "bbox": [
+                    -84.396335,
+                    33.330088,
+                    -84.213258,
+                    33.485278
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDRXVvN0E",
+                        "name": "Hampton",
+                        "wikidata_id": "Q926940"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTBPN0E",
+                        "name": "30228"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.38511,
+                    "longitude": -84.282851
+                },
+                "feature_type": "postcode",
+                "full_address": "Hampton, Georgia 30228, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZTBPN0E",
+                "name": "30228",
+                "name_preferred": "30228",
+                "place_formatted": "Hampton, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.34999,
+                    33.46382
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDk3YjAwODUtZWNiYS00Nzc5LWIwYTEtMzQ1Y2ZiZDljMTgw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZDFvN0E",
+                        "name": "Jonesboro",
+                        "wikidata_id": "Q1703398"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTN1N0E",
+                        "name": "30238"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDk3YjAwODUtZWNiYS00Nzc5LWIwYTEtMzQ1Y2ZiZDljMTgw",
+                        "name": "Mcdonough Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.46382,
+                    "longitude": -84.34999
+                },
+                "feature_type": "street",
+                "full_address": "Mcdonough Rd, Jonesboro, Georgia 30238, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDk3YjAwODUtZWNiYS00Nzc5LWIwYTEtMzQ1Y2ZiZDljMTgw",
+                "name": "Mcdonough Rd",
+                "name_preferred": "Mcdonough Rd",
+                "place_formatted": "Jonesboro, Georgia 30238, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.41991,
+                    33.456862
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDliZDEyMTYtMjkwYS00NDc4LTgzZjYtZDAzNzllZmU0OWM1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCb09vN0E",
+                        "name": "Fayetteville",
+                        "wikidata_id": "Q782494"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZ1N0E",
+                        "name": "30214"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDliZDEyMTYtMjkwYS00NDc4LTgzZjYtZDAzNzllZmU0OWM1",
+                        "name": "Mcdonough Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.456862,
+                    "longitude": -84.41991
+                },
+                "feature_type": "street",
+                "full_address": "Mcdonough Road, Fayetteville, Georgia 30214, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDliZDEyMTYtMjkwYS00NDc4LTgzZjYtZDAzNzllZmU0OWM1",
+                "name": "Mcdonough Road",
+                "name_preferred": "Mcdonough Road",
+                "place_formatted": "Fayetteville, Georgia 30214, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.296411,
+                    33.389536
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTJkOTliYjQtZTljMS00OGIyLWE5ZTAtMzQ5YzJkZDNkYzg5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDRXVvN0E",
+                        "name": "Hampton",
+                        "wikidata_id": "Q926940"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTBPN0E",
+                        "name": "30228"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTJkOTliYjQtZTljMS00OGIyLWE5ZTAtMzQ5YzJkZDNkYzg5",
+                        "name": "Hampton Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.389536,
+                    "longitude": -84.296411
+                },
+                "feature_type": "street",
+                "full_address": "Hampton Boulevard, Hampton, Georgia 30228, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTJkOTliYjQtZTljMS00OGIyLWE5ZTAtMzQ5YzJkZDNkYzg5",
+                "name": "Hampton Boulevard",
+                "name_preferred": "Hampton Boulevard",
+                "place_formatted": "Hampton, Georgia 30228, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.743201,
+                    31.707051
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjMzkyZDlmNy05MzIzLTRjMzMtYjI1NC00NjhhNDllNmRhZDU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "75",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjMzkyZDlmNy05MzIzLTRjMzMtYjI1NC00NjhhNDllNmRhZDU",
+                        "name": "75 West Academy Street",
+                        "street_name": "West Academy Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxZWJz",
+                        "name": "Long County",
+                        "wikidata_id": "Q493033"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNWhJN0E",
+                        "name": "Ludowici",
+                        "wikidata_id": "Q2734987"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXp1N0E",
+                        "name": "31316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzM5MmQ5ZjctOTMyMy00YzMzLWIyNTQtNDY4YTQ5ZTZkYWQ1",
+                        "name": "West Academy Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.707051,
+                    "longitude": -81.743201,
+                    "routable_points": [
+                        {
+                            "latitude": 31.707317,
+                            "longitude": -81.743392,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "75 West Academy Street, Ludowici, Georgia 31316, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjMzkyZDlmNy05MzIzLTRjMzMtYjI1NC00NjhhNDllNmRhZDU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "75 West Academy Street",
+                "name_preferred": "75 West Academy Street",
+                "place_formatted": "Ludowici, Georgia 31316, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.744075,
+                    31.706932
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjgyYzY2NTctYzZhNi00YTEzLWEzYzgtNTcwNDhlNzU0MzRl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxZWJz",
+                        "name": "Long County",
+                        "wikidata_id": "Q493033"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNWhJN0E",
+                        "name": "Ludowici",
+                        "wikidata_id": "Q2734987"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXp1N0E",
+                        "name": "31316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjgyYzY2NTctYzZhNi00YTEzLWEzYzgtNTcwNDhlNzU0MzRl",
+                        "name": "E Academy St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.706932,
+                    "longitude": -81.744075
+                },
+                "feature_type": "street",
+                "full_address": "E Academy St, Ludowici, Georgia 31316, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjgyYzY2NTctYzZhNi00YTEzLWEzYzgtNTcwNDhlNzU0MzRl",
+                "name": "E Academy St",
+                "name_preferred": "E Academy St",
+                "place_formatted": "Ludowici, Georgia 31316, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.736634,
+                    31.710001
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZGYxNTYxNDYtZTM5ZS00ZjQ4LTgxOTMtNGNlMTNiMTIyMDg5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxZWJz",
+                        "name": "Long County",
+                        "wikidata_id": "Q493033"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNWhJN0E",
+                        "name": "Ludowici",
+                        "wikidata_id": "Q2734987"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXp1N0E",
+                        "name": "31316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGYxNTYxNDYtZTM5ZS00ZjQ4LTgxOTMtNGNlMTNiMTIyMDg5",
+                        "name": "Mill Pond Road Southeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.710001,
+                    "longitude": -81.736634
+                },
+                "feature_type": "street",
+                "full_address": "Mill Pond Road Southeast, Ludowici, Georgia 31316, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGYxNTYxNDYtZTM5ZS00ZjQ4LTgxOTMtNGNlMTNiMTIyMDg5",
+                "name": "E Academy St",
+                "name_preferred": "Mill Pond Road Southeast",
+                "place_formatted": "Ludowici, Georgia 31316, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.74209,
+                    31.708014
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaXp1N0E",
+            "properties": {
+                "bbox": [
+                    -81.981474,
+                    31.538669,
+                    -81.491794,
+                    31.969518
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxZWJz",
+                        "name": "Long County",
+                        "wikidata_id": "Q493033"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNWhJN0E",
+                        "name": "Ludowici",
+                        "wikidata_id": "Q2734987"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXp1N0E",
+                        "name": "31316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.708014,
+                    "longitude": -81.74209
+                },
+                "feature_type": "postcode",
+                "full_address": "Ludowici, Georgia 31316, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaXp1N0E",
+                "name": "31316",
+                "name_preferred": "31316",
+                "place_formatted": "Ludowici, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.74209,
+                    31.708014
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDNWhJN0E",
+            "properties": {
+                "bbox": [
+                    -81.981474,
+                    31.538669,
+                    -81.491794,
+                    31.984415
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxZWJz",
+                        "name": "Long County",
+                        "wikidata_id": "Q493033"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNWhJN0E",
+                        "name": "Ludowici",
+                        "wikidata_id": "Q2734987"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.708014,
+                    "longitude": -81.74209
+                },
+                "feature_type": "place",
+                "full_address": "Ludowici, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDNWhJN0E",
+                "name": "Ludowici",
+                "name_preferred": "Ludowici",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,323 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.620951,
+                    34.021621
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkYWRlOWQ2YS01ZGYzLTRmYjQtYWEzNy00ZmM2MDI0NjFhYWY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2753",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkYWRlOWQ2YS01ZGYzLTRmYjQtYWEzNy00ZmM2MDI0NjFhYWY",
+                        "name": "2753 Watts Drive",
+                        "street_name": "Watts Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                        "name": "Kennesaw",
+                        "wikidata_id": "Q1001316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWF1N0E",
+                        "name": "30144"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGFkZTlkNmEtNWRmMy00ZmI0LWFhMzctNGZjNjAyNDYxYWFm",
+                        "name": "Watts Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.021621,
+                    "longitude": -84.620951,
+                    "routable_points": [
+                        {
+                            "latitude": 34.021652,
+                            "longitude": -84.620814,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2753 Watts Drive, Kennesaw, Georgia 30144, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkYWRlOWQ2YS01ZGYzLTRmYjQtYWEzNy00ZmM2MDI0NjFhYWY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2753 Watts Drive",
+                "name_preferred": "2753 Watts Drive",
+                "place_formatted": "Kennesaw, Georgia 30144, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.615276,
+                    34.022741
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZWF1N0E",
+            "properties": {
+                "bbox": [
+                    -84.675208,
+                    33.992195,
+                    -84.518883,
+                    34.075996
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                        "name": "Kennesaw",
+                        "wikidata_id": "Q1001316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWF1N0E",
+                        "name": "30144"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.022741,
+                    "longitude": -84.615276
+                },
+                "feature_type": "postcode",
+                "full_address": "Kennesaw, Georgia 30144, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZWF1N0E",
+                "name": "30144",
+                "name_preferred": "30144",
+                "place_formatted": "Kennesaw, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.554469,
+                    33.824185
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjM5MmIwNGUtMWVmMi00ZTcyLWFjYmYtNjUzMmQ2MDEzNDU1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFamhvN0E",
+                            "name": "Smyrna"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN0pvN0E",
+                        "name": "Mableton",
+                        "wikidata_id": "Q2656942"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVR1N0E",
+                        "name": "30126"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjM5MmIwNGUtMWVmMi00ZTcyLWFjYmYtNjUzMmQ2MDEzNDU1",
+                        "name": "Waits Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.824185,
+                    "longitude": -84.554469
+                },
+                "feature_type": "street",
+                "full_address": "Waits Drive, Mableton, Georgia 30126, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjM5MmIwNGUtMWVmMi00ZTcyLWFjYmYtNjUzMmQ2MDEzNDU1",
+                "name": "Waits Drive",
+                "name_preferred": "Waits Drive",
+                "place_formatted": "Mableton, Georgia 30126, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.615276,
+                    34.022741
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDaExvN0E",
+            "properties": {
+                "bbox": [
+                    -84.715156,
+                    33.949127,
+                    -84.518883,
+                    34.075996
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                        "name": "Kennesaw",
+                        "wikidata_id": "Q1001316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.022741,
+                    "longitude": -84.615276
+                },
+                "feature_type": "place",
+                "full_address": "Kennesaw, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                "name": "Kennesaw",
+                "name_preferred": "Kennesaw",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.486717,
+                    33.78906
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTI4MzZhYzYtMDEwZS00OTYyLWI5NjMtMjhkYzJjN2FlNTI4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCRm5zN0E",
+                        "name": "Brookview Heights"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZldPN0E",
+                        "name": "30318"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTI4MzZhYzYtMDEwZS00OTYyLWI5NjMtMjhkYzJjN2FlNTI4",
+                        "name": "Watts Road Northwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.78906,
+                    "longitude": -84.486717
+                },
+                "feature_type": "street",
+                "full_address": "Watts Road Northwest, Atlanta, Georgia 30318, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTI4MzZhYzYtMDEwZS00OTYyLWI5NjMtMjhkYzJjN2FlNTI4",
+                "name": "Watts Road Northwest",
+                "name_preferred": "Watts Road Northwest",
+                "place_formatted": "Atlanta, Georgia 30318, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

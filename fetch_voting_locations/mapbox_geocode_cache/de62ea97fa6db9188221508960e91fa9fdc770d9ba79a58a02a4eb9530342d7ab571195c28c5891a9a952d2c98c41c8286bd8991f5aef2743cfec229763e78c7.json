@@ -1,0 +1,321 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.594015,
+                    33.479236
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0NzUzMDJlNi00MWM3LTQzN2ItOWJjMi00NTc5NGE3YTdlN2U",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "950",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0NzUzMDJlNi00MWM3LTQzN2ItOWJjMi00NTc5NGE3YTdlN2U",
+                        "name": "950 Senoia Road",
+                        "street_name": "Senoia Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKUWpzN0E",
+                        "name": "Stop"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFK0VvN0E",
+                        "name": "Tyrone",
+                        "wikidata_id": "Q2919179"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkpPN0E",
+                        "name": "30290"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDc1MzAyZTYtNDFjNy00MzdiLTliYzItNDU3OTRhN2E3ZTdl",
+                        "name": "Senoia Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.479236,
+                    "longitude": -84.594015,
+                    "routable_points": [
+                        {
+                            "latitude": 33.478927,
+                            "longitude": -84.594206,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "950 Senoia Road, Tyrone, Georgia 30290, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0NzUzMDJlNi00MWM3LTQzN2ItOWJjMi00NTc5NGE3YTdlN2U",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "950 Senoia Road",
+                "name_preferred": "950 Senoia Road",
+                "place_formatted": "Tyrone, Georgia 30290, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.59734,
+                    33.47116
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZkpPN0E",
+            "properties": {
+                "bbox": [
+                    -84.62722,
+                    33.437067,
+                    -84.548105,
+                    33.525389
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFK0VvN0E",
+                        "name": "Tyrone",
+                        "wikidata_id": "Q2919179"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkpPN0E",
+                        "name": "30290"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.47116,
+                    "longitude": -84.59734
+                },
+                "feature_type": "postcode",
+                "full_address": "Tyrone, Georgia 30290, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZkpPN0E",
+                "name": "30290",
+                "name_preferred": "30290",
+                "place_formatted": "Tyrone, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.57131,
+                    33.53578
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDUwYTgxZGYtMGJlYi00YTg5LTkzODgtZDE5ODNlOWVkZTZi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHVW1vN0E",
+                        "name": "Fairburn",
+                        "wikidata_id": "Q3261359"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZPN0E",
+                        "name": "30213"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDUwYTgxZGYtMGJlYi00YTg5LTkzODgtZDE5ODNlOWVkZTZi",
+                        "name": "Senoia Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.53578,
+                    "longitude": -84.57131
+                },
+                "feature_type": "street",
+                "full_address": "Senoia Rd, Fairburn, Georgia 30213, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDUwYTgxZGYtMGJlYi00YTg5LTkzODgtZDE5ODNlOWVkZTZi",
+                "name": "Senoia Rd",
+                "name_preferred": "Senoia Rd",
+                "place_formatted": "Fairburn, Georgia 30213, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.577168,
+                    33.543843
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWM5OTU4YjgtNmFhMy00MzRlLWFjNjktNzQyMDVhNjhjODE0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHVW1vN0E",
+                        "name": "Fairburn",
+                        "wikidata_id": "Q3261359"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZPN0E",
+                        "name": "30213"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWM5OTU4YjgtNmFhMy00MzRlLWFjNjktNzQyMDVhNjhjODE0",
+                        "name": "Senoia Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.543843,
+                    "longitude": -84.577168
+                },
+                "feature_type": "street",
+                "full_address": "Senoia Road, Fairburn, Georgia 30213, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWM5OTU4YjgtNmFhMy00MzRlLWFjNjktNzQyMDVhNjhjODE0",
+                "name": "Senoia Road",
+                "name_preferred": "Senoia Road",
+                "place_formatted": "Fairburn, Georgia 30213, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.554397,
+                    33.463132
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDFjNmQ3MDQtZWEwZC00NGM0LWJiMDgtZWE4NGMwNjExZTlj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFK0VvN0E",
+                        "name": "Tyrone",
+                        "wikidata_id": "Q2919179"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkpPN0E",
+                        "name": "30290"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDFjNmQ3MDQtZWEwZC00NGM0LWJiMDgtZWE4NGMwNjExZTlj",
+                        "name": "Tyrone Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.463132,
+                    "longitude": -84.554397
+                },
+                "feature_type": "street",
+                "full_address": "Tyrone Road, Tyrone, Georgia 30290, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDFjNmQ3MDQtZWEwZC00NGM0LWJiMDgtZWE4NGMwNjExZTlj",
+                "name": "Tyrone Road",
+                "name_preferred": "Tyrone Road",
+                "place_formatted": "Tyrone, Georgia 30290, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

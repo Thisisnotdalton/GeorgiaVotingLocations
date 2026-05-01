@@ -1,0 +1,339 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.25801,
+                    31.647875
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5MWNmMWRiYS1iYzVkLTQyYWItYjhhZC1lZjY4MmRmMmRkOTk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "445",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5MWNmMWRiYS1iYzVkLTQyYWItYjhhZC1lZjY4MmRmMmRkOTk",
+                        "name": "445 Oakland Parkway",
+                        "street_name": "Oakland Parkway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5b2Jz",
+                        "name": "Lee County",
+                        "wikidata_id": "Q491508"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIOHdJN0E",
+                        "name": "Leesburg",
+                        "wikidata_id": "Q964678"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCai9PN0E",
+                        "name": "31763"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTFjZjFkYmEtYmM1ZC00MmFiLWI4YWQtZWY2ODJkZjJkZDk5",
+                        "name": "Oakland Parkway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.647875,
+                    "longitude": -84.25801,
+                    "routable_points": [
+                        {
+                            "latitude": 31.648158,
+                            "longitude": -84.257836,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "445 Oakland Parkway, Leesburg, Georgia 31763, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5MWNmMWRiYS1iYzVkLTQyYWItYjhhZC1lZjY4MmRmMmRkOTk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "445 Oakland Parkway",
+                "name_preferred": "445 Oakland Parkway",
+                "place_formatted": "Leesburg, Georgia 31763, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.27252,
+                    31.662748
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EUTFJaXdpYzNSeVpXVjBJam9pVDBGTFRFRk9SQ0JRUVZKTFYwRlpJRmRGVTFRaUxDSndiR0ZqWlNJNklreEZSVk5DVlZKSElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXhOell6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0ek16ZzJNU0lzSWpNeExqWXlNVGsxTVNJc0lpMDRNeTQ1TWpJME9UUWlMQ0l6TVM0NU1UWXhPU0pkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "445",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EUTFJaXdpYzNSeVpXVjBJam9pVDBGTFRFRk9SQ0JRUVZKTFYwRlpJRmRGVTFRaUxDSndiR0ZqWlNJNklreEZSVk5DVlZKSElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXhOell6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0ek16ZzJNU0lzSWpNeExqWXlNVGsxTVNJc0lpMDRNeTQ1TWpJME9UUWlMQ0l6TVM0NU1UWXhPU0pkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+                        "name": "445 Oakland Court",
+                        "street_name": "Oakland Court"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5b2Jz",
+                        "name": "Lee County",
+                        "wikidata_id": "Q491508"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIOHdJN0E",
+                        "name": "Leesburg",
+                        "wikidata_id": "Q964678"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCai9PN0E",
+                        "name": "31763"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORFExSWl3aWMzUnlaV1YwSWpvaVQwRkxURUZPUkNCUVFWSkxWMEZaSUZkRlUxUWlMQ0p3YkdGalpTSTZJa3hGUlZOQ1ZWSkhJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TnpZeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE5DNHpNemcyTVNJc0lqTXhMall5TVRrMU1TSXNJaTA0TXk0NU1qSTBPVFFpTENJek1TNDVNVFl4T1NKZExDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MQ",
+                        "name": "Oakland Court"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.662748,
+                    "longitude": -84.27252,
+                    "routable_points": [
+                        {
+                            "latitude": 31.662748,
+                            "longitude": -84.27252,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "445 Oakland Court, Leesburg, Georgia 31763, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EUTFJaXdpYzNSeVpXVjBJam9pVDBGTFRFRk9SQ0JRUVZKTFYwRlpJRmRGVTFRaUxDSndiR0ZqWlNJNklreEZSVk5DVlZKSElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXhOell6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0ek16ZzJNU0lzSWpNeExqWXlNVGsxTVNJc0lpMDRNeTQ1TWpJME9UUWlMQ0l6TVM0NU1UWXhPU0pkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "445 Oakland Court",
+                "name_preferred": "445 Oakland Court",
+                "place_formatted": "Leesburg, Georgia 31763, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.248357,
+                    31.684657
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzUyNDkxYzctNmEwNS00MDYxLTgyZjItMjBmMThiZDQ4ZWFi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5b2Jz",
+                        "name": "Lee County",
+                        "wikidata_id": "Q491508"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIOHdJN0E",
+                        "name": "Leesburg",
+                        "wikidata_id": "Q964678"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCai9PN0E",
+                        "name": "31763"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzUyNDkxYzctNmEwNS00MDYxLTgyZjItMjBmMThiZDQ4ZWFi",
+                        "name": "Oakland Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.684657,
+                    "longitude": -84.248357
+                },
+                "feature_type": "street",
+                "full_address": "Oakland Road, Leesburg, Georgia 31763, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzUyNDkxYzctNmEwNS00MDYxLTgyZjItMjBmMThiZDQ4ZWFi",
+                "name": "Oakland Road",
+                "name_preferred": "Oakland Road",
+                "place_formatted": "Leesburg, Georgia 31763, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.17163,
+                    31.732224
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCai9PN0E",
+            "properties": {
+                "bbox": [
+                    -84.314615,
+                    31.607122,
+                    -83.986173,
+                    31.881174
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5b2Jz",
+                        "name": "Lee County",
+                        "wikidata_id": "Q491508"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIOHdJN0E",
+                        "name": "Leesburg",
+                        "wikidata_id": "Q964678"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCai9PN0E",
+                        "name": "31763"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.732224,
+                    "longitude": -84.17163
+                },
+                "feature_type": "postcode",
+                "full_address": "Leesburg, Georgia 31763, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCai9PN0E",
+                "name": "31763",
+                "name_preferred": "31763",
+                "place_formatted": "Leesburg, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.17163,
+                    31.732224
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpIOHdJN0E",
+            "properties": {
+                "bbox": [
+                    -84.305201,
+                    31.607122,
+                    -83.986173,
+                    31.881174
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5b2Jz",
+                        "name": "Lee County",
+                        "wikidata_id": "Q491508"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIOHdJN0E",
+                        "name": "Leesburg",
+                        "wikidata_id": "Q964678"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.732224,
+                    "longitude": -84.17163
+                },
+                "feature_type": "place",
+                "full_address": "Leesburg, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpIOHdJN0E",
+                "name": "Leesburg",
+                "name_preferred": "Leesburg",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

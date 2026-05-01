@@ -1,0 +1,339 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.181756,
+                    33.802024
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxM2M3NjEyZC00NWM2LTQzYzctODI2NC00MDdiOTE1ZmQyZGQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4485",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxM2M3NjEyZC00NWM2LTQzYzctODI2NC00MDdiOTE1ZmQyZGQ",
+                        "name": "4485 Georgia Highway 120",
+                        "street_name": "Georgia Highway 120"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsS2Jz",
+                        "name": "Haralson County",
+                        "wikidata_id": "Q544539"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbnpvN0E",
+                        "name": "Buchanan",
+                        "wikidata_id": "Q2854542"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU5PN0E",
+                        "name": "30113"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTNjNzYxMmQtNDVjNi00M2M3LTgyNjQtNDA3YjkxNWZkMmRk",
+                        "name": "Georgia Highway 120"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.802024,
+                    "longitude": -85.181756,
+                    "routable_points": [
+                        {
+                            "latitude": 33.801963,
+                            "longitude": -85.182023,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4485 Georgia Highway 120, Buchanan, Georgia 30113, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxM2M3NjEyZC00NWM2LTQzYzctODI2NC00MDdiOTE1ZmQyZGQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "4485 Georgia Highway 120",
+                "name_preferred": "4485 Georgia Highway 120",
+                "place_formatted": "Buchanan, Georgia 30113, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.173818,
+                    33.804166
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EUTROU0lzSW5OMGNtVmxkQ0k2SWtkRlQxSkhTVUVnU0VsSFNGZEJXU0F4TWpBaUxDSndiR0ZqWlNJNklrSlZRMGhCVGtGT0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVEV6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TlM0ek9EWTBOek0wTnpJeE5qZzBJaXdpTXpNdU5qVXlNRGczSWl3aUxUZzFMakF6TmpZNE5DSXNJak16TGprd05qTXdNaUpkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4485",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EUTROU0lzSW5OMGNtVmxkQ0k2SWtkRlQxSkhTVUVnU0VsSFNGZEJXU0F4TWpBaUxDSndiR0ZqWlNJNklrSlZRMGhCVGtGT0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVEV6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TlM0ek9EWTBOek0wTnpJeE5qZzBJaXdpTXpNdU5qVXlNRGczSWl3aUxUZzFMakF6TmpZNE5DSXNJak16TGprd05qTXdNaUpkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+                        "name": "4485 Dallas Road",
+                        "street_name": "Dallas Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsS2Jz",
+                        "name": "Haralson County",
+                        "wikidata_id": "Q544539"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbnpvN0E",
+                        "name": "Buchanan",
+                        "wikidata_id": "Q2854542"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU5PN0E",
+                        "name": "30113"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lORFE0TlNJc0luTjBjbVZsZENJNklrZEZUMUpIU1VFZ1NFbEhTRmRCV1NBeE1qQWlMQ0p3YkdGalpTSTZJa0pWUTBoQlRrRk9JaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TVRFeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE5TNHpPRFkwTnpNME56SXhOamcwSWl3aU16TXVOalV5TURnM0lpd2lMVGcxTGpBek5qWTROQ0lzSWpNekxqa3dOak13TWlKZExDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MQ",
+                        "name": "Dallas Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.804166,
+                    "longitude": -85.173818,
+                    "routable_points": [
+                        {
+                            "latitude": 33.804166,
+                            "longitude": -85.173818,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4485 Dallas Road, Buchanan, Georgia 30113, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5EUTROU0lzSW5OMGNtVmxkQ0k2SWtkRlQxSkhTVUVnU0VsSFNGZEJXU0F4TWpBaUxDSndiR0ZqWlNJNklrSlZRMGhCVGtGT0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNVEV6SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TlM0ek9EWTBOek0wTnpJeE5qZzBJaXdpTXpNdU5qVXlNRGczSWl3aUxUZzFMakF6TmpZNE5DSXNJak16TGprd05qTXdNaUpkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "4485 Georgia Highway 120",
+                "name_preferred": "4485 Dallas Road",
+                "place_formatted": "Buchanan, Georgia 30113, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.081855,
+                    33.821819
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGIxYWNmMTMtZTEwZS00NzM2LTkyZGUtNWMwMjJkZjZhZDMw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsS2Jz",
+                        "name": "Haralson County",
+                        "wikidata_id": "Q544539"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbnpvN0E",
+                        "name": "Buchanan",
+                        "wikidata_id": "Q2854542"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU5PN0E",
+                        "name": "30113"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGIxYWNmMTMtZTEwZS00NzM2LTkyZGUtNWMwMjJkZjZhZDMw",
+                        "name": "Georgia Highway 120"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.821819,
+                    "longitude": -85.081855
+                },
+                "feature_type": "street",
+                "full_address": "Georgia Highway 120, Buchanan, Georgia 30113, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGIxYWNmMTMtZTEwZS00NzM2LTkyZGUtNWMwMjJkZjZhZDMw",
+                "name": "Georgia Highway 120",
+                "name_preferred": "Georgia Highway 120",
+                "place_formatted": "Buchanan, Georgia 30113, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.186567,
+                    33.802417
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTkwZDQ2NzYtNmM4MS00NjQ4LWEzNTItZWU4MDFkOWE4Zjhm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsS2Jz",
+                        "name": "Haralson County",
+                        "wikidata_id": "Q544539"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbnpvN0E",
+                        "name": "Buchanan",
+                        "wikidata_id": "Q2854542"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU5PN0E",
+                        "name": "30113"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTkwZDQ2NzYtNmM4MS00NjQ4LWEzNTItZWU4MDFkOWE4Zjhm",
+                        "name": "Dallas Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.802417,
+                    "longitude": -85.186567
+                },
+                "feature_type": "street",
+                "full_address": "Dallas Road, Buchanan, Georgia 30113, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTkwZDQ2NzYtNmM4MS00NjQ4LWEzNTItZWU4MDFkOWE4Zjhm",
+                "name": "Georgia Highway 120",
+                "name_preferred": "Dallas Road",
+                "place_formatted": "Buchanan, Georgia 30113, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.196873,
+                    33.799674
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGM5NjRkOTMtYTg1MS00M2IxLTg3N2ItMDM5ZGFjMWRkMDQ2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsS2Jz",
+                        "name": "Haralson County",
+                        "wikidata_id": "Q544539"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbnpvN0E",
+                        "name": "Buchanan",
+                        "wikidata_id": "Q2854542"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU5PN0E",
+                        "name": "30113"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGM5NjRkOTMtYTg1MS00M2IxLTg3N2ItMDM5ZGFjMWRkMDQ2",
+                        "name": "Tallapoosa Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.799674,
+                    "longitude": -85.196873
+                },
+                "feature_type": "street",
+                "full_address": "Tallapoosa Road, Buchanan, Georgia 30113, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGM5NjRkOTMtYTg1MS00M2IxLTg3N2ItMDM5ZGFjMWRkMDQ2",
+                "name": "Georgia Highway 120",
+                "name_preferred": "Tallapoosa Road",
+                "place_formatted": "Buchanan, Georgia 30113, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

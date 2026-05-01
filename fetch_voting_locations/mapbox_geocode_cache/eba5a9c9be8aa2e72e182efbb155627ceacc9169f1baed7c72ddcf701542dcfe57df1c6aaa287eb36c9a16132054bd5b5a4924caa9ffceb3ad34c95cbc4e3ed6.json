@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.107931,
+                    33.33699
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowZjRiY2FlYy1iNzg4LTQ1M2MtYWRkNS03ZjI3MmZjMDZhMjc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "115",
+                        "mapbox_id": "dXJuOm1ieGFkcjowZjRiY2FlYy1iNzg4LTQ1M2MtYWRkNS03ZjI3MmZjMDZhMjc",
+                        "name": "115 Martin Luther King Jr Boulevard",
+                        "street_name": "Martin Luther King Jr Boulevard"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDMVlJN0E",
+                        "name": "Locust Grove",
+                        "wikidata_id": "Q2721225"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTVPN0E",
+                        "name": "30248"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGY0YmNhZWMtYjc4OC00NTNjLWFkZDUtN2YyNzJmYzA2YTI3",
+                        "name": "Martin Luther King Jr Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.33699,
+                    "longitude": -84.107931,
+                    "routable_points": [
+                        {
+                            "latitude": 33.336981,
+                            "longitude": -84.1078,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "115 Martin Luther King Jr Boulevard, Locust Grove, Georgia 30248, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowZjRiY2FlYy1iNzg4LTQ1M2MtYWRkNS03ZjI3MmZjMDZhMjc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "115 MLK Jr Boulevard",
+                "name_preferred": "115 Martin Luther King Jr Boulevard",
+                "place_formatted": "Locust Grove, Georgia 30248, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.109374,
+                    33.345884
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZTVPN0E",
+            "properties": {
+                "bbox": [
+                    -84.247214,
+                    33.272133,
+                    -83.975465,
+                    33.411973
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDMVlJN0E",
+                        "name": "Locust Grove",
+                        "wikidata_id": "Q2721225"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTVPN0E",
+                        "name": "30248"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.345884,
+                    "longitude": -84.109374
+                },
+                "feature_type": "postcode",
+                "full_address": "Locust Grove, Georgia 30248, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZTVPN0E",
+                "name": "30248",
+                "name_preferred": "30248",
+                "place_formatted": "Locust Grove, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.085609,
+                    33.314307
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjU1YWRlMTgtZWZjZS00ODFiLWEyY2QtMTA1NjA5NGI5OWY2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDMVlJN0E",
+                        "name": "Locust Grove",
+                        "wikidata_id": "Q2721225"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTVPN0E",
+                        "name": "30248"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjU1YWRlMTgtZWZjZS00ODFiLWEyY2QtMTA1NjA5NGI5OWY2",
+                        "name": "Locust Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.314307,
+                    "longitude": -84.085609
+                },
+                "feature_type": "street",
+                "full_address": "Locust Road, Locust Grove, Georgia 30248, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjU1YWRlMTgtZWZjZS00ODFiLWEyY2QtMTA1NjA5NGI5OWY2",
+                "name": "Locust Road",
+                "name_preferred": "Locust Road",
+                "place_formatted": "Locust Grove, Georgia 30248, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.096979,
+                    33.345254
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmJjNWM4NDEtZjFhZi00ZDI4LTliNWEtYzVhN2M0NDU0ZGQz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDMVlJN0E",
+                        "name": "Locust Grove",
+                        "wikidata_id": "Q2721225"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTVPN0E",
+                        "name": "30248"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmJjNWM4NDEtZjFhZi00ZDI4LTliNWEtYzVhN2M0NDU0ZGQz",
+                        "name": "Grove Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.345254,
+                    "longitude": -84.096979
+                },
+                "feature_type": "street",
+                "full_address": "Grove Road, Locust Grove, Georgia 30248, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmJjNWM4NDEtZjFhZi00ZDI4LTliNWEtYzVhN2M0NDU0ZGQz",
+                "name": "Grove Road",
+                "name_preferred": "Grove Road",
+                "place_formatted": "Locust Grove, Georgia 30248, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.109374,
+                    33.345884
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDMVlJN0E",
+            "properties": {
+                "bbox": [
+                    -84.247214,
+                    33.272133,
+                    -83.975465,
+                    33.411973
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDMVlJN0E",
+                        "name": "Locust Grove",
+                        "wikidata_id": "Q2721225"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.345884,
+                    "longitude": -84.109374
+                },
+                "feature_type": "place",
+                "full_address": "Locust Grove, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDMVlJN0E",
+                "name": "Locust Grove",
+                "name_preferred": "Locust Grove",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

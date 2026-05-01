@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.764661,
+                    32.308385
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5MGJmODJhMy1jMDM0LTRmYmMtOWQzMi01OTA3YjQxNjljNDY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "215",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5MGJmODJhMy1jMDM0LTRmYmMtOWQzMi01OTA3YjQxNjljNDY",
+                        "name": "215 Mcnaughton Street",
+                        "street_name": "Mcnaughton Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPY2Jz",
+                        "name": "Chattahoochee County",
+                        "wikidata_id": "Q486394"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIb2FJN0E",
+                        "name": "Cusseta",
+                        "wikidata_id": "Q2153623"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1B1N0E",
+                        "name": "31805"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTBiZjgyYTMtYzAzNC00ZmJjLTlkMzItNTkwN2I0MTY5YzQ2",
+                        "name": "Mcnaughton Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 32.308385,
+                    "longitude": -84.764661,
+                    "routable_points": [
+                        {
+                            "latitude": 32.30829,
+                            "longitude": -84.764821,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "215 Mcnaughton Street, Cusseta, Georgia 31805, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5MGJmODJhMy1jMDM0LTRmYmMtOWQzMi01OTA3YjQxNjljNDY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "215 Mcnaughton Street",
+                "name_preferred": "215 Mcnaughton Street",
+                "place_formatted": "Cusseta, Georgia 31805, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.777098,
+                    32.306129
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCa1B1N0E",
+            "properties": {
+                "bbox": [
+                    -84.940453,
+                    32.180405,
+                    -84.626492,
+                    32.525689
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPY2Jz",
+                        "name": "Chattahoochee County",
+                        "wikidata_id": "Q486394"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIb2FJN0E",
+                        "name": "Cusseta",
+                        "wikidata_id": "Q2153623"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1B1N0E",
+                        "name": "31805"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.306129,
+                    "longitude": -84.777098
+                },
+                "feature_type": "postcode",
+                "full_address": "Cusseta, Georgia 31805, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCa1B1N0E",
+                "name": "31805",
+                "name_preferred": "31805",
+                "place_formatted": "Cusseta, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.667592,
+                    32.3098
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NmE4ZWYzNWUtMGMxZS00MmJiLTgwNDYtNzgwOTIxMzcyZTA2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPY2Jz",
+                        "name": "Chattahoochee County",
+                        "wikidata_id": "Q486394"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIb2FJN0E",
+                        "name": "Cusseta",
+                        "wikidata_id": "Q2153623"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1B1N0E",
+                        "name": "31805"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmE4ZWYzNWUtMGMxZS00MmJiLTgwNDYtNzgwOTIxMzcyZTA2",
+                        "name": "Clarke Duncan Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.3098,
+                    "longitude": -84.667592
+                },
+                "feature_type": "street",
+                "full_address": "Clarke Duncan Highway, Cusseta, Georgia 31805, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmE4ZWYzNWUtMGMxZS00MmJiLTgwNDYtNzgwOTIxMzcyZTA2",
+                "name": "Ga Hwy",
+                "name_preferred": "Clarke Duncan Highway",
+                "place_formatted": "Cusseta, Georgia 31805, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.720539,
+                    32.313189
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmFiYzM4ZGMtYWU5ZS00NzY2LWJhODYtNmVhMjVjOTUyZTdk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPY2Jz",
+                        "name": "Chattahoochee County",
+                        "wikidata_id": "Q486394"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIb2FJN0E",
+                        "name": "Cusseta",
+                        "wikidata_id": "Q2153623"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1B1N0E",
+                        "name": "31805"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmFiYzM4ZGMtYWU5ZS00NzY2LWJhODYtNmVhMjVjOTUyZTdk",
+                        "name": "Old Georgia Highway 137"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.313189,
+                    "longitude": -84.720539
+                },
+                "feature_type": "street",
+                "full_address": "Old Georgia Highway 137, Cusseta, Georgia 31805, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmFiYzM4ZGMtYWU5ZS00NzY2LWJhODYtNmVhMjVjOTUyZTdk",
+                "name": "Ga Hwy",
+                "name_preferred": "Old Georgia Highway 137",
+                "place_formatted": "Cusseta, Georgia 31805, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.751726,
+                    32.307437
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzI5ZmIyYTktNjM2ZS00N2EzLTg2ZWYtNzFlMGY4OGY3OGI2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPY2Jz",
+                        "name": "Chattahoochee County",
+                        "wikidata_id": "Q486394"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIb2FJN0E",
+                        "name": "Cusseta",
+                        "wikidata_id": "Q2153623"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1B1N0E",
+                        "name": "31805"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzI5ZmIyYTktNjM2ZS00N2EzLTg2ZWYtNzFlMGY4OGY3OGI2",
+                        "name": "Broad Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.307437,
+                    "longitude": -84.751726
+                },
+                "feature_type": "street",
+                "full_address": "Broad Street, Cusseta, Georgia 31805, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzI5ZmIyYTktNjM2ZS00N2EzLTg2ZWYtNzFlMGY4OGY3OGI2",
+                "name": "Ga Hwy",
+                "name_preferred": "Broad Street",
+                "place_formatted": "Cusseta, Georgia 31805, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

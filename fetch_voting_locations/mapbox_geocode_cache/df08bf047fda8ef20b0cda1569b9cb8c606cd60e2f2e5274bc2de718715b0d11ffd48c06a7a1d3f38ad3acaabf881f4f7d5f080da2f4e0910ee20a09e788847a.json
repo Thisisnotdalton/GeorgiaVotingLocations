@@ -1,0 +1,262 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.09596,
+                    31.65301
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5MjEyYjU0NS0wYTJhLTQ3MzYtOWYwYS1hZGU2YTM5YjcwODk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1286",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5MjEyYjU0NS0wYTJhLTQ3MzYtOWYwYS1hZGU2YTM5YjcwODk",
+                        "name": "1286 Graves Spring Road",
+                        "street_name": "Graves Spring Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5b2Jz",
+                        "name": "Lee County",
+                        "wikidata_id": "Q491508"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKTmZNN0E",
+                        "name": "Stocks"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIOHdJN0E",
+                        "name": "Leesburg",
+                        "wikidata_id": "Q964678"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCai9PN0E",
+                        "name": "31763"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTIxMmI1NDUtMGEyYS00NzM2LTlmMGEtYWRlNmEzOWI3MDg5",
+                        "name": "Graves Spring Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.65301,
+                    "longitude": -84.09596,
+                    "routable_points": [
+                        {
+                            "latitude": 31.653149,
+                            "longitude": -84.095367,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1286 Graves Spring Road, Leesburg, Georgia 31763, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5MjEyYjU0NS0wYTJhLTQ3MzYtOWYwYS1hZGU2YTM5YjcwODk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1286 Graves Springs Road",
+                "name_preferred": "1286 Graves Spring Road",
+                "place_formatted": "Leesburg, Georgia 31763, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.17163,
+                    31.732224
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCai9PN0E",
+            "properties": {
+                "bbox": [
+                    -84.314615,
+                    31.607122,
+                    -83.986173,
+                    31.881174
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5b2Jz",
+                        "name": "Lee County",
+                        "wikidata_id": "Q491508"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIOHdJN0E",
+                        "name": "Leesburg",
+                        "wikidata_id": "Q964678"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCai9PN0E",
+                        "name": "31763"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.732224,
+                    "longitude": -84.17163
+                },
+                "feature_type": "postcode",
+                "full_address": "Leesburg, Georgia 31763, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCai9PN0E",
+                "name": "31763",
+                "name_preferred": "31763",
+                "place_formatted": "Leesburg, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.17163,
+                    31.732224
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpIOHdJN0E",
+            "properties": {
+                "bbox": [
+                    -84.305201,
+                    31.607122,
+                    -83.986173,
+                    31.881174
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5b2Jz",
+                        "name": "Lee County",
+                        "wikidata_id": "Q491508"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIOHdJN0E",
+                        "name": "Leesburg",
+                        "wikidata_id": "Q964678"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.732224,
+                    "longitude": -84.17163
+                },
+                "feature_type": "place",
+                "full_address": "Leesburg, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpIOHdJN0E",
+                "name": "Leesburg",
+                "name_preferred": "Leesburg",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.332714,
+                    31.760854
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6M2VhNzljMTMtMjA1Yi00MjBkLWI1YmQtNTEzMWNlODJmZmFj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnRHN0E",
+                        "name": "Terrell County",
+                        "wikidata_id": "Q503492"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTmZJN0E",
+                        "name": "Dawson",
+                        "wikidata_id": "Q1028058"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXZ1N0E",
+                        "name": "39842"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2VhNzljMTMtMjA1Yi00MjBkLWI1YmQtNTEzMWNlODJmZmFj",
+                        "name": "Leesburg Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.760854,
+                    "longitude": -84.332714
+                },
+                "feature_type": "street",
+                "full_address": "Leesburg Highway, Dawson, Georgia 39842, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2VhNzljMTMtMjA1Yi00MjBkLWI1YmQtNTEzMWNlODJmZmFj",
+                "name": "Leesburg Highway",
+                "name_preferred": "Leesburg Highway",
+                "place_formatted": "Dawson, Georgia 39842, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

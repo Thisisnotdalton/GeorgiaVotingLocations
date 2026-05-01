@@ -1,0 +1,258 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.123042,
+                    34.420197
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyYjE0Mjc2Mi04NWQ2LTRjMDYtYjVlMi01MGU0MjJiMjJjYWU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "96",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyYjE0Mjc2Mi04NWQ2LTRjMDYtYjVlMi01MGU0MjJiMjJjYWU",
+                        "name": "96 Academy Avenue",
+                        "street_name": "Academy Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYQWJz",
+                        "name": "Dawson County",
+                        "wikidata_id": "Q492032"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGdkZvN0E",
+                        "name": "Dawsonville",
+                        "wikidata_id": "Q1178896"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1pPN0E",
+                        "name": "30534"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmIxNDI3NjItODVkNi00YzA2LWI1ZTItNTBlNDIyYjIyY2Fl",
+                        "name": "Academy Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.420197,
+                    "longitude": -84.123042,
+                    "routable_points": [
+                        {
+                            "latitude": 34.420106,
+                            "longitude": -84.123164,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "96 Academy Avenue, Dawsonville, Georgia 30534, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyYjE0Mjc2Mi04NWQ2LTRjMDYtYjVlMi01MGU0MjJiMjJjYWU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "96 Academy Avenue",
+                "name_preferred": "96 Academy Avenue",
+                "place_formatted": "Dawsonville, Georgia 30534, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.118756,
+                    34.421179
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ1pPN0E",
+            "properties": {
+                "bbox": [
+                    -84.329689,
+                    34.30546,
+                    -83.945569,
+                    34.597495
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYQWJz",
+                        "name": "Dawson County",
+                        "wikidata_id": "Q492032"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGdkZvN0E",
+                        "name": "Dawsonville",
+                        "wikidata_id": "Q1178896"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1pPN0E",
+                        "name": "30534"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.421179,
+                    "longitude": -84.118756
+                },
+                "feature_type": "postcode",
+                "full_address": "Dawsonville, Georgia 30534, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ1pPN0E",
+                "name": "30534",
+                "name_preferred": "30534",
+                "place_formatted": "Dawsonville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.118756,
+                    34.421179
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpGdkZvN0E",
+            "properties": {
+                "bbox": [
+                    -84.329689,
+                    34.30546,
+                    -83.945425,
+                    34.597495
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYQWJz",
+                        "name": "Dawson County",
+                        "wikidata_id": "Q492032"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGdkZvN0E",
+                        "name": "Dawsonville",
+                        "wikidata_id": "Q1178896"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.421179,
+                    "longitude": -84.118756
+                },
+                "feature_type": "place",
+                "full_address": "Dawsonville, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpGdkZvN0E",
+                "name": "Dawsonville",
+                "name_preferred": "Dawsonville",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.060564,
+                    34.513464
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjUzZWYzYjktNzMyMi00NTVmLWJhYTMtYmZiOWYwYWIwNDY0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyRWJz",
+                        "name": "Lumpkin County",
+                        "wikidata_id": "Q492040"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTFBJN0E",
+                        "name": "Dahlonega",
+                        "wikidata_id": "Q1003662"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1l1N0E",
+                        "name": "30533"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjUzZWYzYjktNzMyMi00NTVmLWJhYTMtYmZiOWYwYWIwNDY0",
+                        "name": "Dawsonville Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.513464,
+                    "longitude": -84.060564
+                },
+                "feature_type": "street",
+                "full_address": "Dawsonville Highway, Dahlonega, Georgia 30533, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjUzZWYzYjktNzMyMi00NTVmLWJhYTMtYmZiOWYwYWIwNDY0",
+                "name": "Dawsonville Highway",
+                "name_preferred": "Dawsonville Highway",
+                "place_formatted": "Dahlonega, Georgia 30533, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

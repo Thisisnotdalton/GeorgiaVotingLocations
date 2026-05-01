@@ -1,0 +1,337 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.171657,
+                    33.738578
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxMGI1MzUyNi1kZmQ1LTRjMGYtYjQyMS01MzBmZmI3MzljOTE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2201",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxMGI1MzUyNi1kZmQ1LTRjMGYtYjQyMS01MzBmZmI3MzljOTE",
+                        "name": "2201 Young Road",
+                        "street_name": "Young Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHM1pxN0E",
+                        "name": "Redan",
+                        "wikidata_id": "Q2111226"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFdE9vN0E",
+                        "name": "Stone Mountain",
+                        "wikidata_id": "Q2073622"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUJ1N0E",
+                        "name": "30088"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTBiNTM1MjYtZGZkNS00YzBmLWI0MjEtNTMwZmZiNzM5Yzkx",
+                        "name": "Young Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.738578,
+                    "longitude": -84.171657,
+                    "routable_points": [
+                        {
+                            "latitude": 33.738624,
+                            "longitude": -84.171329,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2201 Young Road, Stone Mountain, Georgia 30088, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxMGI1MzUyNi1kZmQ1LTRjMGYtYjQyMS01MzBmZmI3MzljOTE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2201 Young Road",
+                "name_preferred": "2201 Young Road",
+                "place_formatted": "Stone Mountain, Georgia 30088, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.17829,
+                    33.73464
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MmJjMzJjMGEtN2VkZC00NWRkLThiMjEtNjE4Njc3NjhhM2Iw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHM1pxN0E",
+                        "name": "Redan",
+                        "wikidata_id": "Q2111226"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFdE9vN0E",
+                        "name": "Stone Mountain",
+                        "wikidata_id": "Q2073622"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUJ1N0E",
+                        "name": "30088"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmJjMzJjMGEtN2VkZC00NWRkLThiMjEtNjE4Njc3NjhhM2Iw",
+                        "name": "Young Lane"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.73464,
+                    "longitude": -84.17829
+                },
+                "feature_type": "street",
+                "full_address": "Young Lane, Stone Mountain, Georgia 30088, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmJjMzJjMGEtN2VkZC00NWRkLThiMjEtNjE4Njc3NjhhM2Iw",
+                "name": "Young Lane",
+                "name_preferred": "Young Lane",
+                "place_formatted": "Stone Mountain, Georgia 30088, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.196499,
+                    33.761797
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZUJ1N0E",
+            "properties": {
+                "bbox": [
+                    -84.199424,
+                    33.724202,
+                    -84.154059,
+                    33.798556
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFdE9vN0E",
+                        "name": "Stone Mountain",
+                        "wikidata_id": "Q2073622"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUJ1N0E",
+                        "name": "30088"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.761797,
+                    "longitude": -84.196499
+                },
+                "feature_type": "postcode",
+                "full_address": "Stone Mountain, Georgia 30088, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZUJ1N0E",
+                "name": "30088",
+                "name_preferred": "30088",
+                "place_formatted": "Stone Mountain, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.15239,
+                    33.73627
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzhjYTgyNDQtNTRhMC00NGNhLWFlYjItNzQ0NjI2ZDRjYjM1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHM1pxN0E",
+                        "name": "Redan",
+                        "wikidata_id": "Q2111226"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDejlvN0E",
+                        "name": "Lithonia",
+                        "wikidata_id": "Q2409037"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHp1N0E",
+                        "name": "30058"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzhjYTgyNDQtNTRhMC00NGNhLWFlYjItNzQ0NjI2ZDRjYjM1",
+                        "name": "Young Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.73627,
+                    "longitude": -84.15239
+                },
+                "feature_type": "street",
+                "full_address": "Young Road, Lithonia, Georgia 30058, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzhjYTgyNDQtNTRhMC00NGNhLWFlYjItNzQ0NjI2ZDRjYjM1",
+                "name": "Young Road",
+                "name_preferred": "Young Road",
+                "place_formatted": "Lithonia, Georgia 30058, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.115703,
+                    33.712501
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTRjZjJiZDktMGU2YS00YzU5LWI3ZGItMjU0MjY1MzU4ZTg4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpILzBxN0E",
+                        "name": "Stonecrest",
+                        "wikidata_id": "Q28456847"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDejlvN0E",
+                        "name": "Lithonia",
+                        "wikidata_id": "Q2409037"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHp1N0E",
+                        "name": "30058"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTRjZjJiZDktMGU2YS00YzU5LWI3ZGItMjU0MjY1MzU4ZTg4",
+                        "name": "Parkway Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.712501,
+                    "longitude": -84.115703
+                },
+                "feature_type": "street",
+                "full_address": "Parkway Drive, Lithonia, Georgia 30058, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTRjZjJiZDktMGU2YS00YzU5LWI3ZGItMjU0MjY1MzU4ZTg4",
+                "name": "Parkway Road",
+                "name_preferred": "Parkway Drive",
+                "place_formatted": "Lithonia, Georgia 30058, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

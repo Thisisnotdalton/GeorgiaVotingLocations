@@ -1,0 +1,201 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.384443,
+                    33.412964
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2YjYxNzdlZi0xODU3LTQ0NmUtYjc0OC03NDUyZWZkOWI2MTc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4614",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2YjYxNzdlZi0xODU3LTQ0NmUtYjc0OC03NDUyZWZkOWI2MTc",
+                        "name": "4614 Augusta Highway",
+                        "street_name": "Augusta Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2QWJz",
+                        "name": "McDuffie County",
+                        "wikidata_id": "Q492066"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT0ZvN0E",
+                        "name": "Dearing",
+                        "wikidata_id": "Q1941889"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGN1N0E",
+                        "name": "30808"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmI2MTc3ZWYtMTg1Ny00NDZlLWI3NDgtNzQ1MmVmZDliNjE3",
+                        "name": "Augusta Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.412964,
+                    "longitude": -82.384443,
+                    "routable_points": [
+                        {
+                            "latitude": 33.412781,
+                            "longitude": -82.38448,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4614 Augusta Highway, Dearing, Georgia 30808, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2YjYxNzdlZi0xODU3LTQ0NmUtYjc0OC03NDUyZWZkOWI2MTc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "4614 Augusta Highway",
+                "name_preferred": "4614 Augusta Highway",
+                "place_formatted": "Dearing, Georgia 30808, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.385446,
+                    33.412918
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaGN1N0E",
+            "properties": {
+                "bbox": [
+                    -82.472844,
+                    33.310879,
+                    -82.329105,
+                    33.463862
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2QWJz",
+                        "name": "McDuffie County",
+                        "wikidata_id": "Q492066"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT0ZvN0E",
+                        "name": "Dearing",
+                        "wikidata_id": "Q1941889"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGN1N0E",
+                        "name": "30808"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.412918,
+                    "longitude": -82.385446
+                },
+                "feature_type": "postcode",
+                "full_address": "Dearing, Georgia 30808, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaGN1N0E",
+                "name": "30808",
+                "name_preferred": "30808",
+                "place_formatted": "Dearing, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.385446,
+                    33.412918
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCT0ZvN0E",
+            "properties": {
+                "bbox": [
+                    -82.472844,
+                    33.311367,
+                    -82.335662,
+                    33.463892
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2QWJz",
+                        "name": "McDuffie County",
+                        "wikidata_id": "Q492066"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT0ZvN0E",
+                        "name": "Dearing",
+                        "wikidata_id": "Q1941889"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.412918,
+                    "longitude": -82.385446
+                },
+                "feature_type": "place",
+                "full_address": "Dearing, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCT0ZvN0E",
+                "name": "Dearing",
+                "name_preferred": "Dearing",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,201 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.03125,
+                    33.00908
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxOTI0NjMyOS0zODQ2LTQ1ZGItODg1ZS1lMTliZGZjOWIzYWI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1700",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxOTI0NjMyOS0zODQ2LTQ1ZGItODg1ZS1lMTliZGZjOWIzYWI",
+                        "name": "1700 Whitesville Street",
+                        "street_name": "Whitesville Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0dtN0E",
+                        "name": "Troup County",
+                        "wikidata_id": "Q498295"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbS9JN0E",
+                        "name": "Lagrange",
+                        "wikidata_id": "Q593529"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTRPN0E",
+                        "name": "30240"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTkyNDYzMjktMzg0Ni00NWRiLTg4NWUtZTE5YmRmYzliM2Fi",
+                        "name": "Whitesville Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.00908,
+                    "longitude": -85.03125,
+                    "routable_points": [
+                        {
+                            "latitude": 33.009248,
+                            "longitude": -85.030957,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1700 Whitesville Street, Lagrange, Georgia 30240, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxOTI0NjMyOS0zODQ2LTQ1ZGItODg1ZS1lMTliZGZjOWIzYWI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1700 Whitesville Rd",
+                "name_preferred": "1700 Whitesville Street",
+                "place_formatted": "Lagrange, Georgia 30240, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.028935,
+                    33.022288
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjcwMTI5ZmEtNjlkMi00NjBmLWIzZDctM2I1MTc1OTUzOThi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0dtN0E",
+                        "name": "Troup County",
+                        "wikidata_id": "Q498295"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbS9JN0E",
+                        "name": "Lagrange",
+                        "wikidata_id": "Q593529"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTRPN0E",
+                        "name": "30240"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjcwMTI5ZmEtNjlkMi00NjBmLWIzZDctM2I1MTc1OTUzOThi",
+                        "name": "Whitesville Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.022288,
+                    "longitude": -85.028935
+                },
+                "feature_type": "street",
+                "full_address": "Whitesville Street, Lagrange, Georgia 30240, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjcwMTI5ZmEtNjlkMi00NjBmLWIzZDctM2I1MTc1OTUzOThi",
+                "name": "Whitesville Rd",
+                "name_preferred": "Whitesville Street",
+                "place_formatted": "Lagrange, Georgia 30240, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.032524,
+                    32.894503
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NWZhYmFmYTgtMzBhYy00MWQ4LThhODktZjY2YzM4OThiYzA4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0dtN0E",
+                        "name": "Troup County",
+                        "wikidata_id": "Q498295"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGUmZJN0E",
+                        "name": "West Point",
+                        "wikidata_id": "Q2480425"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2F1N0E",
+                        "name": "31833"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWZhYmFmYTgtMzBhYy00MWQ4LThhODktZjY2YzM4OThiYzA4",
+                        "name": "Whitesville Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.894503,
+                    "longitude": -85.032524
+                },
+                "feature_type": "street",
+                "full_address": "Whitesville Street, West Point, Georgia 31833, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWZhYmFmYTgtMzBhYy00MWQ4LThhODktZjY2YzM4OThiYzA4",
+                "name": "Whitesville Rd",
+                "name_preferred": "Whitesville Street",
+                "place_formatted": "West Point, Georgia 31833, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

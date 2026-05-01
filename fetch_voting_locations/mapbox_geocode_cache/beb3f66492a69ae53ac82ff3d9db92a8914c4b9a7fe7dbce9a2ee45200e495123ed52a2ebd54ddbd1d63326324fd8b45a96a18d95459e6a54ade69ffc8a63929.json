@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.826739,
+                    34.311116
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiOTVhMDYzMS0wM2M1LTQ3MGItYTFmOC1lNjc4Yjk4OThmMTU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "830",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiOTVhMDYzMS0wM2M1LTQ3MGItYTFmOC1lNjc4Yjk4OThmMTU",
+                        "name": "830 Green Street Northeast",
+                        "street_name": "Green Street Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprS2Jz",
+                        "name": "Hall County",
+                        "wikidata_id": "Q492012"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCeXBJN0E",
+                        "name": "Gainesville",
+                        "wikidata_id": "Q651051"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0x1N0E",
+                        "name": "30501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Yjk1YTA2MzEtMDNjNS00NzBiLWExZjgtZTY3OGI5ODk4ZjE1",
+                        "name": "Green Street Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.311116,
+                    "longitude": -83.826739,
+                    "routable_points": [
+                        {
+                            "latitude": 34.311206,
+                            "longitude": -83.826515,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "830 Green Street Northeast, Gainesville, Georgia 30501, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiOTVhMDYzMS0wM2M1LTQ3MGItYTFmOC1lNjc4Yjk4OThmMTU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "830 Green Street Northeast",
+                "name_preferred": "830 Green Street Northeast",
+                "place_formatted": "Gainesville, Georgia 30501, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.826059,
+                    34.300669
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjVjZjU3NWMtYWU3Yi00Y2E5LTlhYzctZmM5MDk1YWIyY2I0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprS2Jz",
+                        "name": "Hall County",
+                        "wikidata_id": "Q492012"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCeXBJN0E",
+                        "name": "Gainesville",
+                        "wikidata_id": "Q651051"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0x1N0E",
+                        "name": "30501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjVjZjU3NWMtYWU3Yi00Y2E5LTlhYzctZmM5MDk1YWIyY2I0",
+                        "name": "Green Street Northeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.300669,
+                    "longitude": -83.826059
+                },
+                "feature_type": "street",
+                "full_address": "Green Street Northeast, Gainesville, Georgia 30501, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjVjZjU3NWMtYWU3Yi00Y2E5LTlhYzctZmM5MDk1YWIyY2I0",
+                "name": "Green St",
+                "name_preferred": "Green Street Northeast",
+                "place_formatted": "Gainesville, Georgia 30501, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.824921,
+                    34.299104
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODFhYjRkYjQtNDVhYS00MmIzLThlNzEtZjQ3ZThkOTc0NDQw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprS2Jz",
+                        "name": "Hall County",
+                        "wikidata_id": "Q492012"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCeXBJN0E",
+                        "name": "Gainesville",
+                        "wikidata_id": "Q651051"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0x1N0E",
+                        "name": "30501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODFhYjRkYjQtNDVhYS00MmIzLThlNzEtZjQ3ZThkOTc0NDQw",
+                        "name": "Green St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.299104,
+                    "longitude": -83.824921
+                },
+                "feature_type": "street",
+                "full_address": "Green St, Gainesville, Georgia 30501, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODFhYjRkYjQtNDVhYS00MmIzLThlNzEtZjQ3ZThkOTc0NDQw",
+                "name": "Green St",
+                "name_preferred": "Green St",
+                "place_formatted": "Gainesville, Georgia 30501, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.824129,
+                    34.297968
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWRmOGExOTItYTkyYS00YzI3LTlkZTUtOWFjMmU1NzJiYjdl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprS2Jz",
+                        "name": "Hall County",
+                        "wikidata_id": "Q492012"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCeXBJN0E",
+                        "name": "Gainesville",
+                        "wikidata_id": "Q651051"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0x1N0E",
+                        "name": "30501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWRmOGExOTItYTkyYS00YzI3LTlkZTUtOWFjMmU1NzJiYjdl",
+                        "name": "Green Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.297968,
+                    "longitude": -83.824129
+                },
+                "feature_type": "street",
+                "full_address": "Green Street, Gainesville, Georgia 30501, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWRmOGExOTItYTkyYS00YzI3LTlkZTUtOWFjMmU1NzJiYjdl",
+                "name": "Green Street",
+                "name_preferred": "Green Street",
+                "place_formatted": "Gainesville, Georgia 30501, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.826866,
+                    34.301818
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NTU2NzZhYmQtZDUzMi00MmQyLWEwM2EtMzM0ZDVmZTBhOGM5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprS2Jz",
+                        "name": "Hall County",
+                        "wikidata_id": "Q492012"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCeXBJN0E",
+                        "name": "Gainesville",
+                        "wikidata_id": "Q651051"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0x1N0E",
+                        "name": "30501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTU2NzZhYmQtZDUzMi00MmQyLWEwM2EtMzM0ZDVmZTBhOGM5",
+                        "name": "Green Street Northwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.301818,
+                    "longitude": -83.826866
+                },
+                "feature_type": "street",
+                "full_address": "Green Street Northwest, Gainesville, Georgia 30501, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTU2NzZhYmQtZDUzMi00MmQyLWEwM2EtMzM0ZDVmZTBhOGM5",
+                "name": "Green St",
+                "name_preferred": "Green Street Northwest",
+                "place_formatted": "Gainesville, Georgia 30501, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

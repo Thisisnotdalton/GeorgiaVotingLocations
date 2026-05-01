@@ -1,0 +1,331 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.373917,
+                    34.251133
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiOTkzZGJhZC1iNDMwLTQ5ZjYtYWY0YS05YmMyYTIxYWE2NDk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "7345",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiOTkzZGJhZC1iNDMwLTQ5ZjYtYWY0YS05YmMyYTIxYWE2NDk",
+                        "name": "7345 Cumming Highway",
+                        "street_name": "Cumming Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJL1ZxN0E",
+                        "name": "White City"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdXlvN0E",
+                        "name": "Canton",
+                        "wikidata_id": "Q2207351"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU9PN0E",
+                        "name": "30115"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Yjk5M2RiYWQtYjQzMC00OWY2LWFmNGEtOWJjMmEyMWFhNjQ5",
+                        "name": "Cumming Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 34.251133,
+                    "longitude": -84.373917,
+                    "routable_points": [
+                        {
+                            "latitude": 34.251164,
+                            "longitude": -84.373644,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "7345 Cumming Highway, Canton, Georgia 30115, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiOTkzZGJhZC1iNDMwLTQ5ZjYtYWY0YS05YmMyYTIxYWE2NDk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "7345 Cumming Highway",
+                "name_preferred": "7345 Cumming Highway",
+                "place_formatted": "Canton, Georgia 30115, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.480636,
+                    34.236607
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Y2NmYmRiMWYtMjk2OC00ZWU2LWEzY2ItNzk5NjMzNDRlZWYz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdXlvN0E",
+                        "name": "Canton",
+                        "wikidata_id": "Q2207351"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU51N0E",
+                        "name": "30114"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2NmYmRiMWYtMjk2OC00ZWU2LWEzY2ItNzk5NjMzNDRlZWYz",
+                        "name": "East Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.236607,
+                    "longitude": -84.480636
+                },
+                "feature_type": "street",
+                "full_address": "East Main Street, Canton, Georgia 30114, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2NmYmRiMWYtMjk2OC00ZWU2LWEzY2ItNzk5NjMzNDRlZWYz",
+                "name": "Cumming Highway",
+                "name_preferred": "East Main Street",
+                "place_formatted": "Canton, Georgia 30114, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.503748,
+                    34.180274
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZU9PN0E",
+            "properties": {
+                "bbox": [
+                    -84.516583,
+                    34.139032,
+                    -84.273346,
+                    34.288466
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEMldLN0E",
+                        "name": "Holly Springs",
+                        "wikidata_id": "Q1940673"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdXlvN0E",
+                        "name": "Canton",
+                        "wikidata_id": "Q2207351"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU9PN0E",
+                        "name": "30115"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.180274,
+                    "longitude": -84.503748
+                },
+                "feature_type": "postcode",
+                "full_address": "Canton, Georgia 30115, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZU9PN0E",
+                "name": "30115",
+                "name_preferred": "30115",
+                "place_formatted": "Canton, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.509242,
+                    34.154795
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWFmMzI3NmItZTQ0Mi00MDM5LWI4OGItNjIwZGQxM2FhYzEw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEMldLN0E",
+                        "name": "Holly Springs",
+                        "wikidata_id": "Q1940673"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdXlvN0E",
+                        "name": "Canton",
+                        "wikidata_id": "Q2207351"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU9PN0E",
+                        "name": "30115"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWFmMzI3NmItZTQ0Mi00MDM5LWI4OGItNjIwZGQxM2FhYzEw",
+                        "name": "Holly Springs Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.154795,
+                    "longitude": -84.509242
+                },
+                "feature_type": "street",
+                "full_address": "Holly Springs Parkway, Canton, Georgia 30115, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWFmMzI3NmItZTQ0Mi00MDM5LWI4OGItNjIwZGQxM2FhYzEw",
+                "name": "Canton Highway",
+                "name_preferred": "Holly Springs Parkway",
+                "place_formatted": "Canton, Georgia 30115, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.417006,
+                    34.295827
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OGIyZWM5MmItMTE2Yy00NGY3LTg4M2ItMjdkY2RmZmQxNTE2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhJN0E",
+                        "name": "Ball Ground",
+                        "wikidata_id": "Q2895677"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUtPN0E",
+                        "name": "30107"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGIyZWM5MmItMTE2Yy00NGY3LTg4M2ItMjdkY2RmZmQxNTE2",
+                        "name": "Ball Ground Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.295827,
+                    "longitude": -84.417006
+                },
+                "feature_type": "street",
+                "full_address": "Ball Ground Highway, Ball Ground, Georgia 30107, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGIyZWM5MmItMTE2Yy00NGY3LTg4M2ItMjdkY2RmZmQxNTE2",
+                "name": "Canton Highway",
+                "name_preferred": "Ball Ground Highway",
+                "place_formatted": "Ball Ground, Georgia 30107, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,266 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.64501,
+                    32.750756
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3MDc4NTFiYy03MjFiLTQ1ZTMtYjEyYy04MTgwNWU5ZjVhY2U",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "216",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3MDc4NTFiYy03MjFiLTQ1ZTMtYjEyYy04MTgwNWU5ZjVhY2U",
+                        "name": "216 Mims Road",
+                        "street_name": "Mims Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVUFtN0E",
+                        "name": "Screven County",
+                        "wikidata_id": "Q503511"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDTzlvN0E",
+                            "name": "Hiltonia"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeTBJN0E",
+                        "name": "Sylvania",
+                        "wikidata_id": "Q953354"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0h1N0E",
+                        "name": "30467"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzA3ODUxYmMtNzIxYi00NWUzLWIxMmMtODE4MDVlOWY1YWNl",
+                        "name": "Mims Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.750756,
+                    "longitude": -81.64501,
+                    "routable_points": [
+                        {
+                            "latitude": 32.750586,
+                            "longitude": -81.644887,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "216 Mims Road, Sylvania, Georgia 30467, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3MDc4NTFiYy03MjFiLTQ1ZTMtYjEyYy04MTgwNWU5ZjVhY2U",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "216 Mims Road",
+                "name_preferred": "216 Mims Road",
+                "place_formatted": "Sylvania, Georgia 30467, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.636628,
+                    32.750518
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ0h1N0E",
+            "properties": {
+                "bbox": [
+                    -81.816229,
+                    32.512835,
+                    -81.393033,
+                    32.989023
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVUFtN0E",
+                        "name": "Screven County",
+                        "wikidata_id": "Q503511"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDTzlvN0E",
+                            "name": "Hiltonia"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeTBJN0E",
+                        "name": "Sylvania",
+                        "wikidata_id": "Q953354"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0h1N0E",
+                        "name": "30467"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.750518,
+                    "longitude": -81.636628
+                },
+                "feature_type": "postcode",
+                "full_address": "Sylvania, Georgia 30467, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ0h1N0E",
+                "name": "30467",
+                "name_preferred": "30467",
+                "place_formatted": "Sylvania, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.673865,
+                    32.514515
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTQ5OGY4MWEtNTAwZC00ZTdiLWExNzctNzMyMWY4ZDEzN2Zj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKc2Jz",
+                        "name": "Bulloch County",
+                        "wikidata_id": "Q488166"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFclVJN0E",
+                        "name": "Statesboro",
+                        "wikidata_id": "Q988919"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0d1N0E",
+                        "name": "30461"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTQ5OGY4MWEtNTAwZC00ZTdiLWExNzctNzMyMWY4ZDEzN2Zj",
+                        "name": "Lane Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.514515,
+                    "longitude": -81.673865
+                },
+                "feature_type": "street",
+                "full_address": "Lane Road, Statesboro, Georgia 30461, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTQ5OGY4MWEtNTAwZC00ZTdiLWExNzctNzMyMWY4ZDEzN2Zj",
+                "name": "Lane Road",
+                "name_preferred": "Lane Road",
+                "place_formatted": "Statesboro, Georgia 30461, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.636628,
+                    32.750518
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpFeTBJN0E",
+            "properties": {
+                "bbox": [
+                    -81.816229,
+                    32.512835,
+                    -81.393033,
+                    32.989023
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVUFtN0E",
+                        "name": "Screven County",
+                        "wikidata_id": "Q503511"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeTBJN0E",
+                        "name": "Sylvania",
+                        "wikidata_id": "Q953354"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.750518,
+                    "longitude": -81.636628
+                },
+                "feature_type": "place",
+                "full_address": "Sylvania, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpFeTBJN0E",
+                "name": "Sylvania",
+                "name_preferred": "Sylvania",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

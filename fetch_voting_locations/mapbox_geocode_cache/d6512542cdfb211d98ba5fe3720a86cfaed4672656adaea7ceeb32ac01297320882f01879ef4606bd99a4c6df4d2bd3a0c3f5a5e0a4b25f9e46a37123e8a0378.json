@@ -1,0 +1,308 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.35553,
+                    33.95926
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkYTRiZWYyOS1jMmRkLTQxYWEtYWUyNS00Y2MwODg2NTFiYTA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "410",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkYTRiZWYyOS1jMmRkLTQxYWEtYWUyNS00Y2MwODg2NTFiYTA",
+                        "name": "410 Mckinley Drive",
+                        "street_name": "Mckinley Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3VPN0E",
+                        "name": "30601"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGE0YmVmMjktYzJkZC00MWFhLWFlMjUtNGNjMDg4NjUxYmEw",
+                        "name": "Mckinley Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.95926,
+                    "longitude": -83.35553,
+                    "routable_points": [
+                        {
+                            "latitude": 33.959427,
+                            "longitude": -83.355685,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "410 Mckinley Drive, Athens, Georgia 30601, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkYTRiZWYyOS1jMmRkLTQxYWEtYWUyNS00Y2MwODg2NTFiYTA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "410 Mckinley Drive",
+                "name_preferred": "410 Mckinley Drive",
+                "place_formatted": "Athens, Georgia 30601, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.386604,
+                    33.939171
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ3dPN0E",
+            "properties": {
+                "bbox": [
+                    -83.393437,
+                    33.83147,
+                    -83.250444,
+                    33.985849
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3dPN0E",
+                        "name": "30605"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.939171,
+                    "longitude": -83.386604
+                },
+                "feature_type": "postcode",
+                "full_address": "Athens, Georgia 30605, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ3dPN0E",
+                "name": "30605",
+                "name_preferred": "30605",
+                "place_formatted": "Athens, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.37524,
+                    33.957715
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzp5dWpz",
+            "properties": {
+                "bbox": [
+                    -83.523702,
+                    33.83147,
+                    -83.250444,
+                    34.085036
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.957715,
+                    "longitude": -83.37524
+                },
+                "feature_type": "place",
+                "full_address": "Athens, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                "name": "Athens",
+                "name_preferred": "Athens",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.962166,
+                    33.972603
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDTFJLN0E",
+            "properties": {
+                "bbox": [
+                    -84.968904,
+                    33.967014,
+                    -84.955429,
+                    33.978188
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUk9HN0E",
+                        "name": "Paulding County",
+                        "wikidata_id": "Q501140"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDTFJLN0E",
+                        "name": "Divide"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIQXpvN0E",
+                            "name": "Rockmart"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBaW1JN0E",
+                        "name": "Braswell"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.972603,
+                    "longitude": -84.962166
+                },
+                "feature_type": "locality",
+                "full_address": "Divide, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDTFJLN0E",
+                "name": "Divide",
+                "name_preferred": "Divide",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.257256,
+                    32.330571
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpBcVRz",
+            "properties": {
+                "bbox": [
+                    -85.605165,
+                    30.356001,
+                    -80.745158,
+                    35.001303
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.330571,
+                    "longitude": -83.257256
+                },
+                "feature_type": "region",
+                "full_address": "Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                "name": "Georgia",
+                "name_preferred": "Georgia",
+                "place_formatted": "United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

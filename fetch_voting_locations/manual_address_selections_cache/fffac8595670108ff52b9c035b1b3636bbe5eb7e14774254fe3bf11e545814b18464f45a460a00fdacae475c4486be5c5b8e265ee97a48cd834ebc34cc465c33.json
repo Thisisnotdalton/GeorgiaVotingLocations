@@ -1,0 +1,83 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -81.783767,
+                32.451772
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjo4YmE5NjNhMS0zZjVlLTRlYjYtOWIyZi1lNGQyOGUyNjg0MDM",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "113",
+                    "mapbox_id": "dXJuOm1ieGFkcjo4YmE5NjNhMS0zZjVlLTRlYjYtOWIyZi1lNGQyOGUyNjg0MDM",
+                    "name": "113 North Main Street",
+                    "street_name": "North Main Street"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpKc2Jz",
+                    "name": "Bulloch County",
+                    "wikidata_id": "Q488166"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpFclVJN0E",
+                    "name": "Statesboro",
+                    "wikidata_id": "Q988919"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZ0ZPN0E",
+                    "name": "30458"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGJhOTYzYTEtM2Y1ZS00ZWI2LTliMmYtZTRkMjhlMjY4NDAz",
+                    "name": "North Main Street"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 32.451772,
+                "longitude": -81.783767,
+                "routable_points": [
+                    {
+                        "latitude": 32.451793,
+                        "longitude": -81.784201,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "113 North Main Street, Statesboro, Georgia 30458, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjo4YmE5NjNhMS0zZjVlLTRlYjYtOWIyZi1lNGQyOGUyNjg0MDM",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "exact",
+                "country": "inferred",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "113 North Main Street",
+            "name_preferred": "113 North Main Street",
+            "place_formatted": "Statesboro, Georgia 30458, United States"
+        },
+        "type": "Feature"
+    }
+]

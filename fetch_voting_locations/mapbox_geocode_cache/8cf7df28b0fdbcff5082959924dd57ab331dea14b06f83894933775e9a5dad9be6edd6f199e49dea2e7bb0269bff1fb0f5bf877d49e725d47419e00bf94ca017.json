@@ -1,0 +1,319 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.730606,
+                    33.743627
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1N2MxZTUxYi03M2I3LTQyMjYtOWZlOC1jNTRiNjdiMDUyN2E",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "8700",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1N2MxZTUxYi03M2I3LTQyMjYtOWZlOC1jNTRiNjdiMDUyN2E",
+                        "name": "8700 Hospital Drive",
+                        "street_name": "Hospital Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpzYXpz",
+                        "name": "Anneewakee Heights"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVdPN0E",
+                        "name": "30134"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTdjMWU1MWItNzNiNy00MjI2LTlmZTgtYzU0YjY3YjA1Mjdh",
+                        "name": "Hospital Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.743627,
+                    "longitude": -84.730606,
+                    "routable_points": [
+                        {
+                            "latitude": 33.743817,
+                            "longitude": -84.730936,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "8700 Hospital Drive, Douglasville, Georgia 30134, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1N2MxZTUxYi03M2I3LTQyMjYtOWZlOC1jNTRiNjdiMDUyN2E",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "8700 Hospital Drive",
+                "name_preferred": "8700 Hospital Drive",
+                "place_formatted": "Douglasville, Georgia 30134, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.749151,
+                    33.750991
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZVdPN0E",
+            "properties": {
+                "bbox": [
+                    -84.874984,
+                    33.721229,
+                    -84.672809,
+                    33.838499
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVdPN0E",
+                        "name": "30134"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.750991,
+                    "longitude": -84.749151
+                },
+                "feature_type": "postcode",
+                "full_address": "Douglasville, Georgia 30134, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZVdPN0E",
+                "name": "30134",
+                "name_preferred": "30134",
+                "place_formatted": "Douglasville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.753829,
+                    33.727594
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjI5MGU2ZTgtZjc5Ny00Mjc0LThkZWYtM2UwNTczZjMxOGVk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVd1N0E",
+                        "name": "30135"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjI5MGU2ZTgtZjc5Ny00Mjc0LThkZWYtM2UwNTczZjMxOGVk",
+                        "name": "Parkway Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.727594,
+                    "longitude": -84.753829
+                },
+                "feature_type": "street",
+                "full_address": "Parkway Drive, Douglasville, Georgia 30135, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjI5MGU2ZTgtZjc5Ny00Mjc0LThkZWYtM2UwNTczZjMxOGVk",
+                "name": "Parkway Drive",
+                "name_preferred": "Parkway Drive",
+                "place_formatted": "Douglasville, Georgia 30135, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.749151,
+                    33.750991
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCVXFvN0E",
+            "properties": {
+                "bbox": [
+                    -84.874975,
+                    33.573565,
+                    -84.605184,
+                    33.838395
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.750991,
+                    "longitude": -84.749151
+                },
+                "feature_type": "place",
+                "full_address": "Douglasville, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                "name": "Douglasville",
+                "name_preferred": "Douglasville",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.599352,
+                    33.588414
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDI1Y2U1OWYtYWVmYy00NTBkLTk1NDctOGIyZWNhN2RmYWVl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHVW1vN0E",
+                        "name": "Fairburn",
+                        "wikidata_id": "Q3261359"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZPN0E",
+                        "name": "30213"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDI1Y2U1OWYtYWVmYy00NTBkLTk1NDctOGIyZWNhN2RmYWVl",
+                        "name": "Parkway Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.588414,
+                    "longitude": -84.599352
+                },
+                "feature_type": "street",
+                "full_address": "Parkway Drive, Fairburn, Georgia 30213, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDI1Y2U1OWYtYWVmYy00NTBkLTk1NDctOGIyZWNhN2RmYWVl",
+                "name": "Parkway Drive",
+                "name_preferred": "Parkway Drive",
+                "place_formatted": "Fairburn, Georgia 30213, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

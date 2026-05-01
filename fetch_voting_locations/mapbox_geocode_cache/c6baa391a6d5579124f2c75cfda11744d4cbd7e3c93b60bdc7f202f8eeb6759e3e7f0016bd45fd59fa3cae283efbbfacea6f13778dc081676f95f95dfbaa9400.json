@@ -1,0 +1,365 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.357972,
+                    34.025135
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiOTY2OTMxOS1iMDc1LTQwNWUtYjBiOC02Yzg0ODcwOTlhNmY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "115",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiOTY2OTMxOS1iMDc1LTQwNWUtYjBiOC02Yzg0ODcwOTlhNmY",
+                        "name": "115 Norcross Street",
+                        "street_name": "Norcross Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEVDdJN0E",
+                            "name": "Mountain Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUGJJN0E",
+                        "name": "Roswell",
+                        "wikidata_id": "Q585176"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDdPN0E",
+                        "name": "30075"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Yjk2NjkzMTktYjA3NS00MDVlLWIwYjgtNmM4NDg3MDk5YTZm",
+                        "name": "Norcross Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.025135,
+                    "longitude": -84.357972,
+                    "routable_points": [
+                        {
+                            "latitude": 34.025418,
+                            "longitude": -84.357998,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "115 Norcross Street, Roswell, Georgia 30075, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiOTY2OTMxOS1iMDc1LTQwNWUtYjBiOC02Yzg0ODcwOTlhNmY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "115 Norcross Street",
+                "name_preferred": "115 Norcross Street",
+                "place_formatted": "Roswell, Georgia 30075, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.294444,
+                    34.071614
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URTFJaXdpYzNSeVpXVjBJam9pVGs5U1ExSlBVMU1nVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpTVDFOWFJVeE1JaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TURjMUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE5DNDROVEV4TlRnaUxDSXpNeTQxTURJMU1UVWlMQ0l0T0RRdU1EazNOamMwSWl3aU16UXVNVGcyTWpnNUlsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6MQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "115",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URTFJaXdpYzNSeVpXVjBJam9pVGs5U1ExSlBVMU1nVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpTVDFOWFJVeE1JaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TURjMUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE5DNDROVEV4TlRnaUxDSXpNeTQxTURJMU1UVWlMQ0l0T0RRdU1EazNOamMwSWl3aU16UXVNVGcyTWpnNUlsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6MQ",
+                        "name": "115 Norcross Street",
+                        "street_name": "Norcross Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpETVpJN0E",
+                            "name": "Milton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpVdWpz",
+                        "name": "Alpharetta",
+                        "wikidata_id": "Q1003649"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGVPN0E",
+                        "name": "30009"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEUxSWl3aWMzUnlaV1YwSWpvaVRrOVNRMUpQVTFNZ1UxUlNSVVZVSWl3aWNHeGhZMlVpT2lKU1QxTlhSVXhNSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EYzFJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzQ0TlRFeE5UZ2lMQ0l6TXk0MU1ESTFNVFVpTENJdE9EUXVNRGszTmpjMElpd2lNelF1TVRnMk1qZzVJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjE",
+                        "name": "Norcross Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.071614,
+                    "longitude": -84.294444,
+                    "routable_points": [
+                        {
+                            "latitude": 34.071614,
+                            "longitude": -84.294444,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "115 Norcross Street, Alpharetta, Georgia 30009, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URTFJaXdpYzNSeVpXVjBJam9pVGs5U1ExSlBVMU1nVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpTVDFOWFJVeE1JaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TURjMUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE5DNDROVEV4TlRnaUxDSXpNeTQxTURJMU1UVWlMQ0l0T0RRdU1EazNOamMwSWl3aU16UXVNVGcyTWpnNUlsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6MQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "115 Norcross Street",
+                "name_preferred": "115 Norcross Street",
+                "place_formatted": "Alpharetta, Georgia 30009, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.361557,
+                    34.023212
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZDdPN0E",
+            "properties": {
+                "bbox": [
+                    -84.434783,
+                    33.992537,
+                    -84.324415,
+                    34.119743
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEVDdJN0E",
+                            "name": "Mountain Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUGJJN0E",
+                        "name": "Roswell",
+                        "wikidata_id": "Q585176"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDdPN0E",
+                        "name": "30075"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.023212,
+                    "longitude": -84.361557
+                },
+                "feature_type": "postcode",
+                "full_address": "Roswell, Georgia 30075, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZDdPN0E",
+                "name": "30075",
+                "name_preferred": "30075",
+                "place_formatted": "Roswell, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.29318,
+                    34.06756
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDU1OTk1MDEtMjNhNy00MzBlLThhMjItZDA2NzdlNGZjODJm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjWXpz",
+                        "name": "Alpha Park"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpETVpJN0E",
+                            "name": "Milton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpVdWpz",
+                        "name": "Alpharetta",
+                        "wikidata_id": "Q1003649"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGVPN0E",
+                        "name": "30009"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDU1OTk1MDEtMjNhNy00MzBlLThhMjItZDA2NzdlNGZjODJm",
+                        "name": "Norcross Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.06756,
+                    "longitude": -84.29318
+                },
+                "feature_type": "street",
+                "full_address": "Norcross Street, Alpharetta, Georgia 30009, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDU1OTk1MDEtMjNhNy00MzBlLThhMjItZDA2NzdlNGZjODJm",
+                "name": "Norcross Street",
+                "name_preferred": "Norcross Street",
+                "place_formatted": "Alpharetta, Georgia 30009, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.348948,
+                    34.013182
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjBkYjUyYTctM2NkOS00YzRjLWFjNWQtOWU3NGNjMjI3NjIz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEVDdJN0E",
+                            "name": "Mountain Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUGJJN0E",
+                        "name": "Roswell",
+                        "wikidata_id": "Q585176"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDdPN0E",
+                        "name": "30075"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjBkYjUyYTctM2NkOS00YzRjLWFjNWQtOWU3NGNjMjI3NjIz",
+                        "name": "Roswell Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.013182,
+                    "longitude": -84.348948
+                },
+                "feature_type": "street",
+                "full_address": "Roswell Rd, Roswell, Georgia 30075, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjBkYjUyYTctM2NkOS00YzRjLWFjNWQtOWU3NGNjMjI3NjIz",
+                "name": "Roswell Rd",
+                "name_preferred": "Roswell Rd",
+                "place_formatted": "Roswell, Georgia 30075, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

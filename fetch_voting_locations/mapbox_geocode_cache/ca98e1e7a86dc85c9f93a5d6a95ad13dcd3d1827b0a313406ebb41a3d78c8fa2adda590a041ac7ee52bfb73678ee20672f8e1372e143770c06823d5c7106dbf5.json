@@ -1,0 +1,360 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.470193,
+                    33.805247
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozYjQ2ZWJmYy1lZTRkLTQzN2EtYWVjYy0wNzE1NmE4MGM3Y2E",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2489",
+                        "mapbox_id": "dXJuOm1ieGFkcjozYjQ2ZWJmYy1lZTRkLTQzN2EtYWVjYy0wNzE1NmE4MGM3Y2E",
+                        "name": "2489 Perry Boulevard Northwest",
+                        "street_name": "Perry Boulevard Northwest"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJZm1zN0E",
+                        "name": "Scotts Crossing",
+                        "wikidata_id": "Q7438151"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZldPN0E",
+                        "name": "30318"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2I0NmViZmMtZWU0ZC00MzdhLWFlY2MtMDcxNTZhODBjN2Nh",
+                        "name": "Perry Boulevard Northwest"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.805247,
+                    "longitude": -84.470193,
+                    "routable_points": [
+                        {
+                            "latitude": 33.804937,
+                            "longitude": -84.470193,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2489 Perry Boulevard Northwest, Atlanta, Georgia 30318, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozYjQ2ZWJmYy1lZTRkLTQzN2EtYWVjYy0wNzE1NmE4MGM3Y2E",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "2489 Perry Boulevard Northwest",
+                "name_preferred": "2489 Perry Boulevard Northwest",
+                "place_formatted": "Atlanta, Georgia 30318, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.448612,
+                    33.789004
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzBhOGFkM2EtNDY2NC00NWQ2LTg5NTctYzUzN2U1MmQ0N2Rm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLZmdzN0E",
+                        "name": "West Highlands"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZldPN0E",
+                        "name": "30318"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzBhOGFkM2EtNDY2NC00NWQ2LTg5NTctYzUzN2U1MmQ0N2Rm",
+                        "name": "Kerry Place Northwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.789004,
+                    "longitude": -84.448612
+                },
+                "feature_type": "street",
+                "full_address": "Kerry Place Northwest, Atlanta, Georgia 30318, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzBhOGFkM2EtNDY2NC00NWQ2LTg5NTctYzUzN2U1MmQ0N2Rm",
+                "name": "Perry Blvd",
+                "name_preferred": "Kerry Place Northwest",
+                "place_formatted": "Atlanta, Georgia 30318, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.420466,
+                    33.768923
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZldPN0E",
+            "properties": {
+                "bbox": [
+                    -84.496048,
+                    33.756331,
+                    -84.390837,
+                    33.831911
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZldPN0E",
+                        "name": "30318"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.768923,
+                    "longitude": -84.420466
+                },
+                "feature_type": "postcode",
+                "full_address": "Atlanta, Georgia 30318, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZldPN0E",
+                "name": "30318",
+                "name_preferred": "30318",
+                "place_formatted": "Atlanta, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.368627,
+                    33.725667
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzY3MjM5YzktNDcyZi00MTcwLWFiMDUtNzU5NjhiNDY2MGUz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdFBzN0E",
+                        "name": "Chosewood Park",
+                        "wikidata_id": "Q5105351"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlRPN0E",
+                        "name": "30312"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzY3MjM5YzktNDcyZi00MTcwLWFiMDUtNzU5NjhiNDY2MGUz",
+                        "name": "Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.725667,
+                    "longitude": -84.368627
+                },
+                "feature_type": "street",
+                "full_address": "Boulevard, Atlanta, Georgia 30312, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzY3MjM5YzktNDcyZi00MTcwLWFiMDUtNzU5NjhiNDY2MGUz",
+                "name": "Boulevard",
+                "name_preferred": "Boulevard",
+                "place_formatted": "Atlanta, Georgia 30312, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.363175,
+                    33.740971
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qUTRPU0lzSW5OMGNtVmxkQ0k2SWxCRlVsSlpJRUpQVlV4RlZrRlNSQ0lzSW5Cc1lXTmxJam9pUVZSTVFVNVVRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURNeE9DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVPRFV4TVRVNElpd2lNek11TlRBeU5URTFJaXdpTFRnMExqQTVOelkzTkNJc0lqTTBMakU0TmpJNE9TSmRMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "30318",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qUTRPU0lzSW5OMGNtVmxkQ0k2SWxCRlVsSlpJRUpQVlV4RlZrRlNSQ0lzSW5Cc1lXTmxJam9pUVZSTVFVNVVRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURNeE9DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVPRFV4TVRVNElpd2lNek11TlRBeU5URTFJaXdpTFRnMExqQTVOelkzTkNJc0lqTTBMakU0TmpJNE9TSmRMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjQ",
+                        "name": "30318 Glenwood Avenue Southeast",
+                        "street_name": "Glenwood Avenue Southeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeVZzN0E",
+                        "name": "Grant Park",
+                        "wikidata_id": "Q5596396"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlRPN0E",
+                        "name": "30312"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNalE0T1NJc0luTjBjbVZsZENJNklsQkZVbEpaSUVKUFZVeEZWa0ZTUkNJc0luQnNZV05sSWpvaVFWUk1RVTVVUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ETXhPQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRFF1T0RVeE1UVTRJaXdpTXpNdU5UQXlOVEUxSWl3aUxUZzBMakE1TnpZM05DSXNJak0wTGpFNE5qSTRPU0pkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDo0",
+                        "name": "Glenwood Avenue Southeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.740971,
+                    "longitude": -84.363175,
+                    "routable_points": [
+                        {
+                            "latitude": 33.740971,
+                            "longitude": -84.363175,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "30318 Glenwood Avenue Southeast, Atlanta, Georgia 30312, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qUTRPU0lzSW5OMGNtVmxkQ0k2SWxCRlVsSlpJRUpQVlV4RlZrRlNSQ0lzSW5Cc1lXTmxJam9pUVZSTVFVNVVRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURNeE9DSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVPRFV4TVRVNElpd2lNek11TlRBeU5URTFJaXdpTFRnMExqQTVOelkzTkNJc0lqTTBMakU0TmpJNE9TSmRMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjQ",
+                "match_code": {
+                    "address_number": "unmatched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "30318 GA 260 Highway",
+                "name_preferred": "30318 Glenwood Avenue Southeast",
+                "place_formatted": "Atlanta, Georgia 30312, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,201 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.328274,
+                    32.202773
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozMWU2NmRmNS02NTViLTQyYjctOGZmYi01NTgxMDY1YzJmMWY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "100",
+                        "mapbox_id": "dXJuOm1ieGFkcjozMWU2NmRmNS02NTViLTQyYjctOGZmYi01NTgxMDY1YzJmMWY",
+                        "name": "100 Courthouse Sq",
+                        "street_name": "Courthouse Sq"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVitHN0E",
+                        "name": "Toombs County",
+                        "wikidata_id": "Q376822"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNjlJN0E",
+                        "name": "Lyons",
+                        "wikidata_id": "Q2549934"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjhPN0E",
+                        "name": "30436"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzFlNjZkZjUtNjU1Yi00MmI3LThmZmItNTU4MTA2NWMyZjFm",
+                        "name": "Courthouse Sq"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 32.202773,
+                    "longitude": -82.328274,
+                    "routable_points": [
+                        {
+                            "latitude": 32.202811,
+                            "longitude": -82.328064,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "100 Courthouse Sq, Lyons, Georgia 30436, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozMWU2NmRmNS02NTViLTQyYjctOGZmYi01NTgxMDY1YzJmMWY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "100 Courthouse Sq",
+                "name_preferred": "100 Courthouse Sq",
+                "place_formatted": "Lyons, Georgia 30436, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.321588,
+                    32.202893
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZjhPN0E",
+            "properties": {
+                "bbox": [
+                    -82.410267,
+                    31.911796,
+                    -82.171845,
+                    32.414015
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVitHN0E",
+                        "name": "Toombs County",
+                        "wikidata_id": "Q376822"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNjlJN0E",
+                        "name": "Lyons",
+                        "wikidata_id": "Q2549934"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjhPN0E",
+                        "name": "30436"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.202893,
+                    "longitude": -82.321588
+                },
+                "feature_type": "postcode",
+                "full_address": "Lyons, Georgia 30436, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZjhPN0E",
+                "name": "30436",
+                "name_preferred": "30436",
+                "place_formatted": "Lyons, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.321588,
+                    32.202893
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDNjlJN0E",
+            "properties": {
+                "bbox": [
+                    -82.408974,
+                    31.911796,
+                    -82.171845,
+                    32.414015
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVitHN0E",
+                        "name": "Toombs County",
+                        "wikidata_id": "Q376822"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNjlJN0E",
+                        "name": "Lyons",
+                        "wikidata_id": "Q2549934"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.202893,
+                    "longitude": -82.321588
+                },
+                "feature_type": "place",
+                "full_address": "Lyons, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDNjlJN0E",
+                "name": "Lyons",
+                "name_preferred": "Lyons",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

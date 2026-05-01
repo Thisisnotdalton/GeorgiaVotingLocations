@@ -1,0 +1,323 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.95755,
+                    30.852667
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1NDIyMGEwNi03ZjJjLTRhYzgtYTRlMi0yODQwZmI2ZmY1NmM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1402",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1NDIyMGEwNi03ZjJjLTRhYzgtYTRlMi0yODQwZmI2ZmY1NmM",
+                        "name": "1402 East Jackson Street",
+                        "street_name": "East Jackson Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnhtN0E",
+                        "name": "Thomas County",
+                        "wikidata_id": "Q498327"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpESXVvN0E",
+                            "name": "Metcalf"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMnZJN0E",
+                        "name": "Thomasville",
+                        "wikidata_id": "Q1192860"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0t1N0E",
+                        "name": "31792"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTQyMjBhMDYtN2YyYy00YWM4LWE0ZTItMjg0MGZiNmZmNTZj",
+                        "name": "East Jackson Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 30.852667,
+                    "longitude": -83.95755,
+                    "routable_points": [
+                        {
+                            "latitude": 30.852587,
+                            "longitude": -83.957643,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1402 East Jackson Street, Thomasville, Georgia 31792, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1NDIyMGEwNi03ZjJjLTRhYzgtYTRlMi0yODQwZmI2ZmY1NmM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1402 East Jackson Street",
+                "name_preferred": "1402 East Jackson Street",
+                "place_formatted": "Thomasville, Georgia 31792, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.788581,
+                    30.788836
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Y2VjM2Q4YjMtNTFkNy00ZWU0LWJlMTMtMmY4MDY3YjE2YWMy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnhtN0E",
+                        "name": "Thomas County",
+                        "wikidata_id": "Q498327"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZ1NvN0E",
+                        "name": "Boston",
+                        "wikidata_id": "Q2496879"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamp1N0E",
+                        "name": "31626"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2VjM2Q4YjMtNTFkNy00ZWU0LWJlMTMtMmY4MDY3YjE2YWMy",
+                        "name": "East Jackson Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.788836,
+                    "longitude": -83.788581
+                },
+                "feature_type": "street",
+                "full_address": "East Jackson Street, Boston, Georgia 31626, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2VjM2Q4YjMtNTFkNy00ZWU0LWJlMTMtMmY4MDY3YjE2YWMy",
+                "name": "East Jackson Street",
+                "name_preferred": "East Jackson Street",
+                "place_formatted": "Boston, Georgia 31626, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.791025,
+                    30.789072
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWYwZjgxOTQtMmVlZS00NzU0LWJhNjctY2M3ZWRlMDUwYWY1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnhtN0E",
+                        "name": "Thomas County",
+                        "wikidata_id": "Q498327"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZ1NvN0E",
+                        "name": "Boston",
+                        "wikidata_id": "Q2496879"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamp1N0E",
+                        "name": "31626"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWYwZjgxOTQtMmVlZS00NzU0LWJhNjctY2M3ZWRlMDUwYWY1",
+                        "name": "W Jackson St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.789072,
+                    "longitude": -83.791025
+                },
+                "feature_type": "street",
+                "full_address": "W Jackson St, Boston, Georgia 31626, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWYwZjgxOTQtMmVlZS00NzU0LWJhNjctY2M3ZWRlMDUwYWY1",
+                "name": "W Jackson St",
+                "name_preferred": "W Jackson St",
+                "place_formatted": "Boston, Georgia 31626, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.980991,
+                    30.836941
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCa0t1N0E",
+            "properties": {
+                "bbox": [
+                    -84.281305,
+                    30.668377,
+                    -83.895075,
+                    30.945667
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnhtN0E",
+                        "name": "Thomas County",
+                        "wikidata_id": "Q498327"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpESXVvN0E",
+                            "name": "Metcalf"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMnZJN0E",
+                        "name": "Thomasville",
+                        "wikidata_id": "Q1192860"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0t1N0E",
+                        "name": "31792"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.836941,
+                    "longitude": -83.980991
+                },
+                "feature_type": "postcode",
+                "full_address": "Thomasville, Georgia 31792, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCa0t1N0E",
+                "name": "31792",
+                "name_preferred": "31792",
+                "place_formatted": "Thomasville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.980991,
+                    30.836941
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpFMnZJN0E",
+            "properties": {
+                "bbox": [
+                    -84.281305,
+                    30.668377,
+                    -83.812376,
+                    30.966228
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnhtN0E",
+                        "name": "Thomas County",
+                        "wikidata_id": "Q498327"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMnZJN0E",
+                        "name": "Thomasville",
+                        "wikidata_id": "Q1192860"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.836941,
+                    "longitude": -83.980991
+                },
+                "feature_type": "place",
+                "full_address": "Thomasville, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpFMnZJN0E",
+                "name": "Thomasville",
+                "name_preferred": "Thomasville",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

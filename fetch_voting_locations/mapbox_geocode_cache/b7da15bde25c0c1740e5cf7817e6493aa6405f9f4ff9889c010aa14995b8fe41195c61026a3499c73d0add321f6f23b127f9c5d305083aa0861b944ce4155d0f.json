@@ -1,0 +1,201 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.702123,
+                    33.999016
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0OTg5NTI4Zi01YTdkLTRkYjgtYjU5ZC0xOTQwN2ZlODBjOGE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1750",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0OTg5NTI4Zi01YTdkLTRkYjgtYjU5ZC0xOTQwN2ZlODBjOGE",
+                        "name": "1750 Dennis Kemp Lane",
+                        "street_name": "Dennis Kemp Lane"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                        "name": "Kennesaw",
+                        "wikidata_id": "Q1001316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWV1N0E",
+                        "name": "30152"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDk4OTUyOGYtNWE3ZC00ZGI4LWI1OWQtMTk0MDdmZTgwYzhh",
+                        "name": "Dennis Kemp Lane"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.999016,
+                    "longitude": -84.702123,
+                    "routable_points": [
+                        {
+                            "latitude": 33.999138,
+                            "longitude": -84.701921,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1750 Dennis Kemp Lane, Kennesaw, Georgia 30152, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0OTg5NTI4Zi01YTdkLTRkYjgtYjU5ZC0xOTQwN2ZlODBjOGE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1750 Dennis Kemp Ln NW",
+                "name_preferred": "1750 Dennis Kemp Lane",
+                "place_formatted": "Kennesaw, Georgia 30152, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.590758,
+                    34.000215
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZWV1N0E",
+            "properties": {
+                "bbox": [
+                    -84.727786,
+                    33.949127,
+                    -84.577471,
+                    34.036588
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                        "name": "Kennesaw",
+                        "wikidata_id": "Q1001316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWV1N0E",
+                        "name": "30152"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.000215,
+                    "longitude": -84.590758
+                },
+                "feature_type": "postcode",
+                "full_address": "Kennesaw, Georgia 30152, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZWV1N0E",
+                "name": "30152",
+                "name_preferred": "30152",
+                "place_formatted": "Kennesaw, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.615276,
+                    34.022741
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDaExvN0E",
+            "properties": {
+                "bbox": [
+                    -84.715156,
+                    33.949127,
+                    -84.518883,
+                    34.075996
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                        "name": "Kennesaw",
+                        "wikidata_id": "Q1001316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.022741,
+                    "longitude": -84.615276
+                },
+                "feature_type": "place",
+                "full_address": "Kennesaw, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                "name": "Kennesaw",
+                "name_preferred": "Kennesaw",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

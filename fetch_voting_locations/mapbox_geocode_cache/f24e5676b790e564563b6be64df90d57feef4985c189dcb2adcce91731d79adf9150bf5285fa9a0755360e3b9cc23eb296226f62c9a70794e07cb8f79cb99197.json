@@ -1,0 +1,339 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.40123,
+                    34.87595
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowMjllYzcxMi01NzE4LTQxNjgtYWQ1Zi1kNmFkNGU0NjdlZTU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "184",
+                        "mapbox_id": "dXJuOm1ieGFkcjowMjllYzcxMi01NzE4LTQxNjgtYWQ1Zi1kNmFkNGU0NjdlZTU",
+                        "name": "184 South Main Street",
+                        "street_name": "South Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU2htN0E",
+                        "name": "Rabun County",
+                        "wikidata_id": "Q503546"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBOERJN0E",
+                        "name": "Clayton",
+                        "wikidata_id": "Q2600941"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1Z1N0E",
+                        "name": "30525"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDI5ZWM3MTItNTcxOC00MTY4LWFkNWYtZDZhZDRlNDY3ZWU1",
+                        "name": "South Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.87595,
+                    "longitude": -83.40123,
+                    "routable_points": [
+                        {
+                            "latitude": 34.875779,
+                            "longitude": -83.401356,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "184 South Main Street, Clayton, Georgia 30525, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowMjllYzcxMi01NzE4LTQxNjgtYWQ1Zi1kNmFkNGU0NjdlZTU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "184 South Main Street",
+                "name_preferred": "184 South Main Street",
+                "place_formatted": "Clayton, Georgia 30525, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.4071,
+                    34.867925
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2YxNDE2MjQtMjk1ZC00NjlhLWEwZmQtNjU5MTkxODk3ZTUx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU2htN0E",
+                        "name": "Rabun County",
+                        "wikidata_id": "Q503546"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBOERJN0E",
+                        "name": "Clayton",
+                        "wikidata_id": "Q2600941"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1Z1N0E",
+                        "name": "30525"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2YxNDE2MjQtMjk1ZC00NjlhLWEwZmQtNjU5MTkxODk3ZTUx",
+                        "name": "Old 441 South"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.867925,
+                    "longitude": -83.4071
+                },
+                "feature_type": "street",
+                "full_address": "Old 441 South, Clayton, Georgia 30525, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2YxNDE2MjQtMjk1ZC00NjlhLWEwZmQtNjU5MTkxODk3ZTUx",
+                "name": "South Main Street",
+                "name_preferred": "Old 441 South",
+                "place_formatted": "Clayton, Georgia 30525, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.427377,
+                    34.860503
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UZzBJaXdpYzNSeVpXVjBJam9pVXlCTlFVbE9JRk5VTGlCVFZVbFVSU0F4TURJaUxDSndiR0ZqWlNJNklrTk1RVmxVVDA0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QTFNalVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbUppYjNnaU9sc2lMVGd6TGpZMk1UWTNNaUlzSWpNMExqY3hOakExTXlJc0lpMDRNeTR3T1Rnek9ERWlMQ0l6TlM0d01ERXlORFFpWFN3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "184",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UZzBJaXdpYzNSeVpXVjBJam9pVXlCTlFVbE9JRk5VTGlCVFZVbFVSU0F4TURJaUxDSndiR0ZqWlNJNklrTk1RVmxVVDA0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QTFNalVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbUppYjNnaU9sc2lMVGd6TGpZMk1UWTNNaUlzSWpNMExqY3hOakExTXlJc0lpMDRNeTR3T1Rnek9ERWlMQ0l6TlM0d01ERXlORFFpWFN3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mg",
+                        "name": "184 Old 441 South",
+                        "street_name": "Old 441 South"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU2htN0E",
+                        "name": "Rabun County",
+                        "wikidata_id": "Q503546"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMzBvN0E",
+                        "name": "Tiger",
+                        "wikidata_id": "Q2049015"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3FPN0E",
+                        "name": "30576"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVGcwSWl3aWMzUnlaV1YwSWpvaVV5Qk5RVWxPSUZOVUxpQlRWVWxVUlNBeE1ESWlMQ0p3YkdGalpTSTZJa05NUVZsVVQwNGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekExTWpVaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW1KaWIzZ2lPbHNpTFRnekxqWTJNVFkzTWlJc0lqTTBMamN4TmpBMU15SXNJaTA0TXk0d09UZ3pPREVpTENJek5TNHdNREV5TkRRaVhTd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjI",
+                        "name": "Old 441 South"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.860503,
+                    "longitude": -83.427377,
+                    "routable_points": [
+                        {
+                            "latitude": 34.860503,
+                            "longitude": -83.427377,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "184 Old 441 South, Tiger, Georgia 30576, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UZzBJaXdpYzNSeVpXVjBJam9pVXlCTlFVbE9JRk5VTGlCVFZVbFVSU0F4TURJaUxDSndiR0ZqWlNJNklrTk1RVmxVVDA0aUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16QTFNalVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbUppYjNnaU9sc2lMVGd6TGpZMk1UWTNNaUlzSWpNMExqY3hOakExTXlJc0lpMDRNeTR3T1Rnek9ERWlMQ0l6TlM0d01ERXlORFFpWFN3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mg",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "184 South Main Street",
+                "name_preferred": "184 Old 441 South",
+                "place_formatted": "Tiger, Georgia 30576, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.368296,
+                    34.859307
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZWY0YmUwY2QtMTljNy00ODA5LThiZWUtNjA3ZjlmODI3MTg0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU2htN0E",
+                        "name": "Rabun County",
+                        "wikidata_id": "Q503546"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBOERJN0E",
+                        "name": "Clayton",
+                        "wikidata_id": "Q2600941"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1Z1N0E",
+                        "name": "30525"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWY0YmUwY2QtMTljNy00ODA5LThiZWUtNjA3ZjlmODI3MTg0",
+                        "name": "St Andrews Court"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.859307,
+                    "longitude": -83.368296
+                },
+                "feature_type": "street",
+                "full_address": "St Andrews Court, Clayton, Georgia 30525, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWY0YmUwY2QtMTljNy00ODA5LThiZWUtNjA3ZjlmODI3MTg0",
+                "name": "St",
+                "name_preferred": "St Andrews Court",
+                "place_formatted": "Clayton, Georgia 30525, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.393621,
+                    34.896524
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NmI3M2Q5OGQtNWE1NC00OGFlLTg0YjAtMTZhNjBhNTFlYmMy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU2htN0E",
+                        "name": "Rabun County",
+                        "wikidata_id": "Q503546"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBOERJN0E",
+                        "name": "Clayton",
+                        "wikidata_id": "Q2600941"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1Z1N0E",
+                        "name": "30525"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmI3M2Q5OGQtNWE1NC00OGFlLTg0YjAtMTZhNjBhNTFlYmMy",
+                        "name": "Saint Lane"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.896524,
+                    "longitude": -83.393621
+                },
+                "feature_type": "street",
+                "full_address": "Saint Lane, Clayton, Georgia 30525, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmI3M2Q5OGQtNWE1NC00OGFlLTg0YjAtMTZhNjBhNTFlYmMy",
+                "name": "Saint Lane",
+                "name_preferred": "Saint Lane",
+                "place_formatted": "Clayton, Georgia 30525, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

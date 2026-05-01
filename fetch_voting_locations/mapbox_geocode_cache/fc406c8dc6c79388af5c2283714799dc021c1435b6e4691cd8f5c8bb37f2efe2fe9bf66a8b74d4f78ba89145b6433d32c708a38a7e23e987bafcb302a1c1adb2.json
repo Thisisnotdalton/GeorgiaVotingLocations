@@ -1,0 +1,314 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.876806,
+                    32.763647
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiYWZkZjdlZC1kMTA5LTRjOGItOTc0MC00ZjUwMDJiNWQ0ZTI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "757",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiYWZkZjdlZC1kMTA5LTRjOGItOTc0MC00ZjUwMDJiNWQ0ZTI",
+                        "name": "757 Carver Circle",
+                        "street_name": "Carver Circle"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsMmJz",
+                        "name": "Harris County",
+                        "wikidata_id": "Q486133"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDRUVvN0E",
+                        "name": "Hamilton",
+                        "wikidata_id": "Q1027758"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1NPN0E",
+                        "name": "31811"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmFmZGY3ZWQtZDEwOS00YzhiLTk3NDAtNGY1MDAyYjVkNGUy",
+                        "name": "Carver Circle"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.763647,
+                    "longitude": -84.876806,
+                    "routable_points": [
+                        {
+                            "latitude": 32.763644,
+                            "longitude": -84.877246,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "757 Carver Circle, Hamilton, Georgia 31811, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiYWZkZjdlZC1kMTA5LTRjOGItOTc0MC00ZjUwMDJiNWQ0ZTI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "757 Carver Circle",
+                "name_preferred": "757 Carver Circle",
+                "place_formatted": "Hamilton, Georgia 31811, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.875015,
+                    32.757856
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCa1NPN0E",
+            "properties": {
+                "bbox": [
+                    -85.142987,
+                    32.665732,
+                    -84.754753,
+                    32.850605
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsMmJz",
+                        "name": "Harris County",
+                        "wikidata_id": "Q486133"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDRUVvN0E",
+                        "name": "Hamilton",
+                        "wikidata_id": "Q1027758"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1NPN0E",
+                        "name": "31811"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.757856,
+                    "longitude": -84.875015
+                },
+                "feature_type": "postcode",
+                "full_address": "Hamilton, Georgia 31811, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCa1NPN0E",
+                "name": "31811",
+                "name_preferred": "31811",
+                "place_formatted": "Hamilton, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.875015,
+                    32.757856
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDRUVvN0E",
+            "properties": {
+                "bbox": [
+                    -85.143023,
+                    32.668983,
+                    -84.754753,
+                    32.850605
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsMmJz",
+                        "name": "Harris County",
+                        "wikidata_id": "Q486133"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDRUVvN0E",
+                        "name": "Hamilton",
+                        "wikidata_id": "Q1027758"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.757856,
+                    "longitude": -84.875015
+                },
+                "feature_type": "place",
+                "full_address": "Hamilton, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDRUVvN0E",
+                "name": "Hamilton",
+                "name_preferred": "Hamilton",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.904174,
+                    32.627261
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NTAxMjQzMmEtMWQ5ZS00NGE2LWE5ZWItMzM0MDdiYjc0Yjc4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsMmJz",
+                        "name": "Harris County",
+                        "wikidata_id": "Q486133"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeWxvN0E",
+                        "name": "Cataula",
+                        "wikidata_id": "Q3709528"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1BPN0E",
+                        "name": "31804"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTAxMjQzMmEtMWQ5ZS00NGE2LWE5ZWItMzM0MDdiYjc0Yjc4",
+                        "name": "Carver Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.627261,
+                    "longitude": -84.904174
+                },
+                "feature_type": "street",
+                "full_address": "Carver Road, Cataula, Georgia 31804, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTAxMjQzMmEtMWQ5ZS00NGE2LWE5ZWItMzM0MDdiYjc0Yjc4",
+                "name": "Carver Road",
+                "name_preferred": "Carver Road",
+                "place_formatted": "Cataula, Georgia 31804, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.90705,
+                    32.58623
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjczMjhkNTktNTMwMC00M2ZlLWE5ZDMtMzYxNzI2MzkyYjU0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpsMmJz",
+                        "name": "Harris County",
+                        "wikidata_id": "Q486133"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpES0lvN0E",
+                        "name": "Midland"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1V1N0E",
+                        "name": "31820"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjczMjhkNTktNTMwMC00M2ZlLWE5ZDMtMzYxNzI2MzkyYjU0",
+                        "name": "Hamilton Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.58623,
+                    "longitude": -84.90705
+                },
+                "feature_type": "street",
+                "full_address": "Hamilton Rd, Midland, Georgia 31820, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjczMjhkNTktNTMwMC00M2ZlLWE5ZDMtMzYxNzI2MzkyYjU0",
+                "name": "Hamilton Rd",
+                "name_preferred": "Hamilton Rd",
+                "place_formatted": "Midland, Georgia 31820, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

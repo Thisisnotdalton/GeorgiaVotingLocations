@@ -1,0 +1,341 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.090173,
+                    31.042372
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxYTA4NzhlZS1iYjQ5LTQxYTAtOTFmYi01ZTAwMjk1N2MwODE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "162",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxYTA4NzhlZS1iYjQ5LTQxYTAtOTFmYi01ZTAwMjk1N2MwODE",
+                        "name": "162 West Thigpen Avenue",
+                        "street_name": "West Thigpen Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp4ZWJz",
+                        "name": "Lanier County",
+                        "wikidata_id": "Q492070"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDb2ZvN0E",
+                        "name": "Lakeland",
+                        "wikidata_id": "Q921477"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCam5PN0E",
+                        "name": "31635"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWEwODc4ZWUtYmI0OS00MWEwLTkxZmItNWUwMDI5NTdjMDgx",
+                        "name": "West Thigpen Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.042372,
+                    "longitude": -83.090173,
+                    "routable_points": [
+                        {
+                            "latitude": 31.041888,
+                            "longitude": -83.090225,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "162 West Thigpen Avenue, Lakeland, Georgia 31635, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxYTA4NzhlZS1iYjQ5LTQxYTAtOTFmYi01ZTAwMjk1N2MwODE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "162 West Thigpen Avenue",
+                "name_preferred": "162 West Thigpen Avenue",
+                "place_formatted": "Lakeland, Georgia 31635, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.075298,
+                    31.041065
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCam5PN0E",
+            "properties": {
+                "bbox": [
+                    -83.186232,
+                    30.97953,
+                    -82.92007,
+                    31.2754
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp4ZWJz",
+                        "name": "Lanier County",
+                        "wikidata_id": "Q492070"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDb2ZvN0E",
+                        "name": "Lakeland",
+                        "wikidata_id": "Q921477"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCam5PN0E",
+                        "name": "31635"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.041065,
+                    "longitude": -83.075298
+                },
+                "feature_type": "postcode",
+                "full_address": "Lakeland, Georgia 31635, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCam5PN0E",
+                "name": "31635",
+                "name_preferred": "31635",
+                "place_formatted": "Lakeland, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.97197,
+                    31.04469
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTkzMGEzYTctYzg3OC00ZTExLWExOWItMmZlNjYzOTg3YTA4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp4ZWJz",
+                        "name": "Lanier County",
+                        "wikidata_id": "Q492070"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDb2ZvN0E",
+                        "name": "Lakeland",
+                        "wikidata_id": "Q921477"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCam5PN0E",
+                        "name": "31635"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTkzMGEzYTctYzg3OC00ZTExLWExOWItMmZlNjYzOTg3YTA4",
+                        "name": "Lakeland Hwy"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.04469,
+                    "longitude": -82.97197
+                },
+                "feature_type": "street",
+                "full_address": "Lakeland Hwy, Lakeland, Georgia 31635, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTkzMGEzYTctYzg3OC00ZTExLWExOWItMmZlNjYzOTg3YTA4",
+                "name": "Lakeland Hwy",
+                "name_preferred": "Lakeland Hwy",
+                "place_formatted": "Lakeland, Georgia 31635, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.137969,
+                    30.945338
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDAxMjYzZjItOTVlNi00MzRmLWE1NjUtMDVmZDhhYjQ4OTE5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxMmJz",
+                        "name": "Lowndes County",
+                        "wikidata_id": "Q493134"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEWXpvN0E",
+                        "name": "Naylor",
+                        "wikidata_id": "Q6983156"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanB1N0E",
+                        "name": "31641"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDAxMjYzZjItOTVlNi00MzRmLWE1NjUtMDVmZDhhYjQ4OTE5",
+                        "name": "Lakeland Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.945338,
+                    "longitude": -83.137969
+                },
+                "feature_type": "street",
+                "full_address": "Lakeland Highway, Naylor, Georgia 31641, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDAxMjYzZjItOTVlNi00MzRmLWE1NjUtMDVmZDhhYjQ4OTE5",
+                "name": "Lakeland Highway",
+                "name_preferred": "Lakeland Highway",
+                "place_formatted": "Naylor, Georgia 31641, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.190917,
+                    31.042133
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWXlJaXdpYzNSeVpXVjBJam9pVjFSSVNVZFFSVTRnUVZaRklGTlVSU0JESWl3aWNHeGhZMlVpT2lKTVFVdEZURUZPUkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UWXpOU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRE11TVRrM09UazFJaXdpTXpBdU9EUTBOekE1SWl3aUxUZ3lMamszTURBMU5pSXNJak14TGpFNE5EQXdNeUpkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "162",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWXlJaXdpYzNSeVpXVjBJam9pVjFSSVNVZFFSVTRnUVZaRklGTlVSU0JESWl3aWNHeGhZMlVpT2lKTVFVdEZURUZPUkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UWXpOU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRE11TVRrM09UazFJaXdpTXpBdU9EUTBOekE1SWl3aUxUZ3lMamszTURBMU5pSXNJak14TGpFNE5EQXdNeUpkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDo0",
+                        "name": "162 Thigpen Circle",
+                        "street_name": "Thigpen Circle"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp4ZWJz",
+                        "name": "Lanier County",
+                        "wikidata_id": "Q492070"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFRU5vN0E",
+                        "name": "Ray City",
+                        "wikidata_id": "Q2346246"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanJPN0E",
+                        "name": "31645"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFl5SWl3aWMzUnlaV1YwSWpvaVYxUklTVWRRUlU0Z1FWWkZJRk5VUlNCRElpd2ljR3hoWTJVaU9pSk1RVXRGVEVGT1JDSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNVFl6TlNJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RNdU1UazNPVGsxSWl3aU16QXVPRFEwTnpBNUlpd2lMVGd5TGprM01EQTFOaUlzSWpNeExqRTROREF3TXlKZExDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6NA",
+                        "name": "Thigpen Circle"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.042133,
+                    "longitude": -83.190917,
+                    "routable_points": [
+                        {
+                            "latitude": 31.042133,
+                            "longitude": -83.190917,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "162 Thigpen Circle, Ray City, Georgia 31645, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UWXlJaXdpYzNSeVpXVjBJam9pVjFSSVNVZFFSVTRnUVZaRklGTlVSU0JESWl3aWNHeGhZMlVpT2lKTVFVdEZURUZPUkNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UWXpOU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRE11TVRrM09UazFJaXdpTXpBdU9EUTBOekE1SWl3aUxUZ3lMamszTURBMU5pSXNJak14TGpFNE5EQXdNeUpkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "162 Thigpen Circle",
+                "name_preferred": "162 Thigpen Circle",
+                "place_formatted": "Ray City, Georgia 31645, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

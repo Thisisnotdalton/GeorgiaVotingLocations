@@ -1,0 +1,339 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.209765,
+                    31.232132
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmMzVkMWI0NS00NWJjLTRhM2QtYmJlNS1mMThmM2ZmYzI2YmI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "32",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmMzVkMWI0NS00NWJjLTRhM2QtYmJlNS1mMThmM2ZmYzI2YmI",
+                        "name": "32 North Court Avenue",
+                        "street_name": "North Court Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo4cWJz",
+                        "name": "Mitchell County",
+                        "wikidata_id": "Q493102"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdGpJN0E",
+                        "name": "Camilla",
+                        "wikidata_id": "Q2872512"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajN1N0E",
+                        "name": "31730"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjM1ZDFiNDUtNDViYy00YTNkLWJiZTUtZjE4ZjNmZmMyNmJi",
+                        "name": "North Court Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.232132,
+                    "longitude": -84.209765,
+                    "routable_points": [
+                        {
+                            "latitude": 31.232131,
+                            "longitude": -84.209548,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "32 North Court Avenue, Camilla, Georgia 31730, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmMzVkMWI0NS00NWJjLTRhM2QtYmJlNS1mMThmM2ZmYzI2YmI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "32 North Court Avenue",
+                "name_preferred": "32 North Court Avenue",
+                "place_formatted": "Camilla, Georgia 31730, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.210471,
+                    31.231105
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCajN1N0E",
+            "properties": {
+                "bbox": [
+                    -84.514346,
+                    31.051091,
+                    -84.028627,
+                    31.355453
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo4cWJz",
+                        "name": "Mitchell County",
+                        "wikidata_id": "Q493102"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdGpJN0E",
+                        "name": "Camilla",
+                        "wikidata_id": "Q2872512"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajN1N0E",
+                        "name": "31730"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.231105,
+                    "longitude": -84.210471
+                },
+                "feature_type": "postcode",
+                "full_address": "Camilla, Georgia 31730, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCajN1N0E",
+                "name": "31730",
+                "name_preferred": "31730",
+                "place_formatted": "Camilla, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.335689,
+                    31.314594
+                ],
+                "type": "Point"
+            },
+            "id": "address.5090111078816002",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEc2Jz",
+                        "name": "Baker County",
+                        "wikidata_id": "Q376990"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZVBJN0E",
+                        "name": "Newton",
+                        "wikidata_id": "Q2372254"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQTFPN0E",
+                        "name": "39870"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.5090111078816002",
+                        "name": "Court Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.314594,
+                    "longitude": -84.335689
+                },
+                "feature_type": "street",
+                "full_address": "Court Avenue, Newton, Georgia 39870, United States",
+                "mapbox_id": "address.5090111078816002",
+                "name": "Court Avenue",
+                "name_preferred": "Court Avenue",
+                "place_formatted": "Newton, Georgia 39870, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.399729,
+                    31.150099
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16SWlMQ0p6ZEhKbFpYUWlPaUpEYjNWeWRDQkJkbVV1SWl3aWNHeGhZMlVpT2lKRFlXMXBiR3hoSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE56TXdJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzQxTURnd056Z2lMQ0l6TVM0d056Y3hPVElpTENJdE9ETXVPVGszTnprMklpd2lNekV1TkRRek56VXpJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "31730",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16SWlMQ0p6ZEhKbFpYUWlPaUpEYjNWeWRDQkJkbVV1SWl3aWNHeGhZMlVpT2lKRFlXMXBiR3hoSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE56TXdJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzQxTURnd056Z2lMQ0l6TVM0d056Y3hPVElpTENJdE9ETXVPVGszTnprMklpd2lNekV1TkRRek56VXpJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjM",
+                        "name": "31730 Georgia Highway 97",
+                        "street_name": "Georgia Highway 97"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo4cWJz",
+                        "name": "Mitchell County",
+                        "wikidata_id": "Q493102"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdGpJN0E",
+                        "name": "Camilla",
+                        "wikidata_id": "Q2872512"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajN1N0E",
+                        "name": "31730"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNeklpTENKemRISmxaWFFpT2lKRGIzVnlkQ0JCZG1VdUlpd2ljR3hoWTJVaU9pSkRZVzFwYkd4aElpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXhOek13SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0MU1EZ3dOemdpTENJek1TNHdOemN4T1RJaUxDSXRPRE11T1RrM056azJJaXdpTXpFdU5EUXpOelV6SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToz",
+                        "name": "Georgia Highway 97"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.150099,
+                    "longitude": -84.399729,
+                    "routable_points": [
+                        {
+                            "latitude": 31.150099,
+                            "longitude": -84.399729,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "31730 Georgia Highway 97, Camilla, Georgia 31730, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16SWlMQ0p6ZEhKbFpYUWlPaUpEYjNWeWRDQkJkbVV1SWl3aWNHeGhZMlVpT2lKRFlXMXBiR3hoSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE56TXdJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzQxTURnd056Z2lMQ0l6TVM0d056Y3hPVElpTENJdE9ETXVPVGszTnprMklpd2lNekV1TkRRek56VXpJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjM",
+                "match_code": {
+                    "address_number": "unmatched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "31730 Ga Highway 97",
+                "name_preferred": "31730 Georgia Highway 97",
+                "place_formatted": "Camilla, Georgia 31730, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.210471,
+                    31.231105
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpBdGpJN0E",
+            "properties": {
+                "bbox": [
+                    -84.514346,
+                    31.049451,
+                    -84.028627,
+                    31.355445
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo4cWJz",
+                        "name": "Mitchell County",
+                        "wikidata_id": "Q493102"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdGpJN0E",
+                        "name": "Camilla",
+                        "wikidata_id": "Q2872512"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.231105,
+                    "longitude": -84.210471
+                },
+                "feature_type": "place",
+                "full_address": "Camilla, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpBdGpJN0E",
+                "name": "Camilla",
+                "name_preferred": "Camilla",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

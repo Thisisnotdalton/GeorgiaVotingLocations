@@ -1,0 +1,327 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.135801,
+                    33.543374
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2NmU0ODA1NC01NDMxLTRmMzAtYWU1MS1jZTVhNjAzNDg4OGI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "610",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2NmU0ODA1NC01NDMxLTRmMzAtYWU1MS1jZTVhNjAzNDg4OGI",
+                        "name": "610 Ronald Reagan Drive",
+                        "street_name": "Ronald Reagan Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUR2Jz",
+                        "name": "Columbia County",
+                        "wikidata_id": "Q115307"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCUTBNN0E",
+                        "name": "Camelot"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2NvN0E",
+                        "name": "Evans",
+                        "wikidata_id": "Q2437337"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGRPN0E",
+                        "name": "30809"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjZlNDgwNTQtNTQzMS00ZjMwLWFlNTEtY2U1YTYwMzQ4ODhi",
+                        "name": "Ronald Reagan Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.543374,
+                    "longitude": -82.135801,
+                    "routable_points": [
+                        {
+                            "latitude": 33.543192,
+                            "longitude": -82.135902,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "610 Ronald Reagan Drive, Evans, Georgia 30809, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2NmU0ODA1NC01NDMxLTRmMzAtYWU1MS1jZTVhNjAzNDg4OGI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "610 Ronald Reagan Drive",
+                "name_preferred": "610 Ronald Reagan Drive",
+                "place_formatted": "Evans, Georgia 30809, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.130254,
+                    33.533488
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaGRPN0E",
+            "properties": {
+                "bbox": [
+                    -82.24248,
+                    33.508006,
+                    -82.072501,
+                    33.611145
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUR2Jz",
+                        "name": "Columbia County",
+                        "wikidata_id": "Q115307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2NvN0E",
+                        "name": "Evans",
+                        "wikidata_id": "Q2437337"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGRPN0E",
+                        "name": "30809"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.533488,
+                    "longitude": -82.130254
+                },
+                "feature_type": "postcode",
+                "full_address": "Evans, Georgia 30809, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaGRPN0E",
+                "name": "30809",
+                "name_preferred": "30809",
+                "place_formatted": "Evans, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.130254,
+                    33.533488
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCa2NvN0E",
+            "properties": {
+                "bbox": [
+                    -82.253727,
+                    33.508006,
+                    -82.072501,
+                    33.611145
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUR2Jz",
+                        "name": "Columbia County",
+                        "wikidata_id": "Q115307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa2NvN0E",
+                        "name": "Evans",
+                        "wikidata_id": "Q2437337"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.533488,
+                    "longitude": -82.130254
+                },
+                "feature_type": "place",
+                "full_address": "Evans, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCa2NvN0E",
+                "name": "Evans",
+                "name_preferred": "Evans",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.031366,
+                    33.461126
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODhmMmJjNTMtZTFkMS00ZmViLWFlMWYtNTY0YjE0YWFhNTJh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVE5NN0E",
+                        "name": "Highland Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG51N0E",
+                        "name": "30904"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODhmMmJjNTMtZTFkMS00ZmViLWFlMWYtNTY0YjE0YWFhNTJh",
+                        "name": "Parkway Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.461126,
+                    "longitude": -82.031366
+                },
+                "feature_type": "street",
+                "full_address": "Parkway Drive, Augusta, Georgia 30904, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODhmMmJjNTMtZTFkMS00ZmViLWFlMWYtNTY0YjE0YWFhNTJh",
+                "name": "Parkway Drive",
+                "name_preferred": "Parkway Drive",
+                "place_formatted": "Augusta, Georgia 30904, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.099984,
+                    33.475385
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTFiZDdhNzEtNTViNy00MDM2LTk4MWItMmFiM2IwYTEwYWQw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBajZNN0E",
+                        "name": "Belair"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHB1N0E",
+                        "name": "30909"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTFiZDdhNzEtNTViNy00MDM2LTk4MWItMmFiM2IwYTEwYWQw",
+                        "name": "Reagan Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.475385,
+                    "longitude": -82.099984
+                },
+                "feature_type": "street",
+                "full_address": "Reagan Circle, Augusta, Georgia 30909, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTFiZDdhNzEtNTViNy00MDM2LTk4MWItMmFiM2IwYTEwYWQw",
+                "name": "Reagan Circle",
+                "name_preferred": "Reagan Circle",
+                "place_formatted": "Augusta, Georgia 30909, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

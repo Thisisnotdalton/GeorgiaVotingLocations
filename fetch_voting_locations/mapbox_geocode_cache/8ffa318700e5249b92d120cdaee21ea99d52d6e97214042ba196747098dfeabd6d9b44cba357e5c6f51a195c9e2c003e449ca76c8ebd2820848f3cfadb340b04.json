@@ -1,0 +1,351 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.051739,
+                    33.430027
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5OGIzNTJlNi1jZTc4LTRhZDMtOGY5Yi00Njc5YmYwYTMzODY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2463",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5OGIzNTJlNi1jZTc4LTRhZDMtOGY5Yi00Njc5YmYwYTMzODY",
+                        "name": "2463 Golden Camp Road",
+                        "street_name": "Golden Camp Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJMnZzN0E",
+                        "name": "South Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG91N0E",
+                        "name": "30906"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OThiMzUyZTYtY2U3OC00YWQzLThmOWItNDY3OWJmMGEzMzg2",
+                        "name": "Golden Camp Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.430027,
+                    "longitude": -82.051739,
+                    "routable_points": [
+                        {
+                            "latitude": 33.429869,
+                            "longitude": -82.051663,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2463 Golden Camp Road, Augusta, Georgia 30906, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5OGIzNTJlNi1jZTc4LTRhZDMtOGY5Yi00Njc5YmYwYTMzODY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2463 Golden Camp Road",
+                "name_preferred": "2463 Golden Camp Road",
+                "place_formatted": "Augusta, Georgia 30906, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.050749,
+                    33.429085
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjMDE3NzhmNS1kYmU1LTQ2NjctYjg3Zi03NWJiOTMxMjExYTc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2463c",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjMDE3NzhmNS1kYmU1LTQ2NjctYjg3Zi03NWJiOTMxMjExYTc",
+                        "name": "2463c Golden Camp Road",
+                        "street_name": "Golden Camp Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJMnZzN0E",
+                        "name": "South Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG91N0E",
+                        "name": "30906"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzAxNzc4ZjUtZGJlNS00NjY3LWI4N2YtNzViYjkzMTIxMWE3",
+                        "name": "Golden Camp Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 33.429085,
+                    "longitude": -82.050749,
+                    "routable_points": [
+                        {
+                            "latitude": 33.42964,
+                            "longitude": -82.050104,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2463c Golden Camp Road, Augusta, Georgia 30906, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjMDE3NzhmNS1kYmU1LTQ2NjctYjg3Zi03NWJiOTMxMjExYTc",
+                "match_code": {
+                    "address_number": "unmatched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2463c Golden Camp Road",
+                "name_preferred": "2463c Golden Camp Road",
+                "place_formatted": "Augusta, Georgia 30906, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.021543,
+                    33.420254
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaG91N0E",
+            "properties": {
+                "bbox": [
+                    -82.101543,
+                    33.242003,
+                    -81.828339,
+                    33.448198
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG91N0E",
+                        "name": "30906"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.420254,
+                    "longitude": -82.021543
+                },
+                "feature_type": "postcode",
+                "full_address": "Augusta, Georgia 30906, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaG91N0E",
+                "name": "30906",
+                "name_preferred": "30906",
+                "place_formatted": "Augusta, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.965412,
+                    33.475142
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzozeWpz",
+            "properties": {
+                "bbox": [
+                    -82.16977,
+                    33.242003,
+                    -81.828339,
+                    33.544932
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.475142,
+                    "longitude": -81.965412
+                },
+                "feature_type": "place",
+                "full_address": "Augusta, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                "name": "Augusta",
+                "name_preferred": "Augusta",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.987342,
+                    33.464209
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDJmMTliYjUtMDE3ZS00ZTg4LTlmYjgtMTY2MTI1MDIxMmZj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJMnZzN0E",
+                        "name": "South Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG11N0E",
+                        "name": "30901"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDJmMTliYjUtMDE3ZS00ZTg4LTlmYjgtMTY2MTI1MDIxMmZj",
+                        "name": "Augusta Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.464209,
+                    "longitude": -81.987342
+                },
+                "feature_type": "street",
+                "full_address": "Augusta Avenue, Augusta, Georgia 30901, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDJmMTliYjUtMDE3ZS00ZTg4LTlmYjgtMTY2MTI1MDIxMmZj",
+                "name": "Augusta Avenue",
+                "name_preferred": "Augusta Avenue",
+                "place_formatted": "Augusta, Georgia 30901, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

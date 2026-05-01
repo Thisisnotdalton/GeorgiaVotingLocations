@@ -1,0 +1,328 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.208587,
+                    33.857304
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4YWM4ZDczOC0yMDNkLTRiMTYtODU5NS0wZGVjZmZkY2UzMGU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5234",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4YWM4ZDczOC0yMDNkLTRiMTYtODU5NS0wZGVjZmZkY2UzMGU",
+                        "name": "5234 Lavista Road",
+                        "street_name": "Lavista Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFOFVvN0E",
+                        "name": "Tucker",
+                        "wikidata_id": "Q2051179"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZC91N0E",
+                        "name": "30084"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGFjOGQ3MzgtMjAzZC00YjE2LTg1OTUtMGRlY2ZmZGNlMzBl",
+                        "name": "Lavista Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.857304,
+                    "longitude": -84.208587,
+                    "routable_points": [
+                        {
+                            "latitude": 33.857563,
+                            "longitude": -84.208586,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5234 Lavista Road, Tucker, Georgia 30084, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4YWM4ZDczOC0yMDNkLTRiMTYtODU5NS0wZGVjZmZkY2UzMGU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5234 Lavista Road",
+                "name_preferred": "5234 Lavista Road",
+                "place_formatted": "Tucker, Georgia 30084, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.239494,
+                    33.846787
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmE4MjBiMjYtNThmNi00NDUxLTgzMTYtM2QwYzg5Mzg5MzBl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFOFVvN0E",
+                        "name": "Tucker",
+                        "wikidata_id": "Q2051179"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZC91N0E",
+                        "name": "30084"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmE4MjBiMjYtNThmNi00NDUxLTgzMTYtM2QwYzg5Mzg5MzBl",
+                        "name": "Lavista Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.846787,
+                    "longitude": -84.239494
+                },
+                "feature_type": "street",
+                "full_address": "Lavista Circle, Tucker, Georgia 30084, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmE4MjBiMjYtNThmNi00NDUxLTgzMTYtM2QwYzg5Mzg5MzBl",
+                "name": "Lavista Circle",
+                "name_preferred": "Lavista Circle",
+                "place_formatted": "Tucker, Georgia 30084, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.282142,
+                    33.827653
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OGMxOGM1ZTQtODlkNC00ZDlkLTkzZGMtNDA4YzdlMjY5MTUz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT1VvN0E",
+                        "name": "Decatur",
+                        "wikidata_id": "Q986200"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHBPN0E",
+                        "name": "30033"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGMxOGM1ZTQtODlkNC00ZDlkLTkzZGMtNDA4YzdlMjY5MTUz",
+                        "name": "Lavista Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.827653,
+                    "longitude": -84.282142
+                },
+                "feature_type": "street",
+                "full_address": "Lavista Road, Decatur, Georgia 30033, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGMxOGM1ZTQtODlkNC00ZDlkLTkzZGMtNDA4YzdlMjY5MTUz",
+                "name": "Lavista Road",
+                "name_preferred": "Lavista Road",
+                "place_formatted": "Decatur, Georgia 30033, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.260698,
+                    33.836081
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDEyOWE5ZmUtZDZkNi00NjgzLTkxZjEtMzY2MDI1NWUwNTQ5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBOTZzN0E",
+                            "name": "Briarcliff"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpHTkVzN0E",
+                        "name": "Montreal"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT1VvN0E",
+                        "name": "Decatur",
+                        "wikidata_id": "Q986200"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHBPN0E",
+                        "name": "30033"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDEyOWE5ZmUtZDZkNi00NjgzLTkxZjEtMzY2MDI1NWUwNTQ5",
+                        "name": "Lavista Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.836081,
+                    "longitude": -84.260698
+                },
+                "feature_type": "street",
+                "full_address": "Lavista Rd, Decatur, Georgia 30033, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDEyOWE5ZmUtZDZkNi00NjgzLTkxZjEtMzY2MDI1NWUwNTQ5",
+                "name": "Lavista Rd",
+                "name_preferred": "Lavista Rd",
+                "place_formatted": "Decatur, Georgia 30033, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.285959,
+                    33.823194
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Y2I5N2FkYzYtMDk3Zi00YzBkLWE0MjYtOGQwYTcwZTdhNWU0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGNUlLN0E",
+                        "name": "North Decatur",
+                        "wikidata_id": "Q3302345"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT1VvN0E",
+                        "name": "Decatur",
+                        "wikidata_id": "Q986200"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHBPN0E",
+                        "name": "30033"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2I5N2FkYzYtMDk3Zi00YzBkLWE0MjYtOGQwYTcwZTdhNWU0",
+                        "name": "Lavista Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.823194,
+                    "longitude": -84.285959
+                },
+                "feature_type": "street",
+                "full_address": "Lavista Drive, Decatur, Georgia 30033, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2I5N2FkYzYtMDk3Zi00YzBkLWE0MjYtOGQwYTcwZTdhNWU0",
+                "name": "Lavista Drive",
+                "name_preferred": "Lavista Drive",
+                "place_formatted": "Decatur, Georgia 30033, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

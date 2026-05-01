@@ -1,0 +1,201 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.533512,
+                    32.065817
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0YzljMmI2MC0yMGFlLTQ4MGMtOGFmNS1kNDJjZGU2NzdiYzQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "40",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0YzljMmI2MC0yMGFlLTQ4MGMtOGFmNS1kNDJjZGU2NzdiYzQ",
+                        "name": "40 Cemetery Road",
+                        "street_name": "Cemetery Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWGpHN0E",
+                        "name": "Webster County",
+                        "wikidata_id": "Q491514"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEL2RvN0E",
+                        "name": "Preston",
+                        "wikidata_id": "Q951376"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1d1N0E",
+                        "name": "31824"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGM5YzJiNjAtMjBhZS00ODBjLThhZjUtZDQyY2RlNjc3YmM0",
+                        "name": "Cemetery Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 32.065817,
+                    "longitude": -84.533512,
+                    "routable_points": [
+                        {
+                            "latitude": 32.066345,
+                            "longitude": -84.533491,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "40 Cemetery Road, Preston, Georgia 31824, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0YzljMmI2MC0yMGFlLTQ4MGMtOGFmNS1kNDJjZGU2NzdiYzQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "40 Cemetery Road",
+                "name_preferred": "40 Cemetery Road",
+                "place_formatted": "Preston, Georgia 31824, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.537646,
+                    32.065906
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCa1d1N0E",
+            "properties": {
+                "bbox": [
+                    -84.622207,
+                    31.936156,
+                    -84.431216,
+                    32.190433
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWGpHN0E",
+                        "name": "Webster County",
+                        "wikidata_id": "Q491514"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEL2RvN0E",
+                        "name": "Preston",
+                        "wikidata_id": "Q951376"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1d1N0E",
+                        "name": "31824"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.065906,
+                    "longitude": -84.537646
+                },
+                "feature_type": "postcode",
+                "full_address": "Preston, Georgia 31824, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCa1d1N0E",
+                "name": "31824",
+                "name_preferred": "31824",
+                "place_formatted": "Preston, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.537646,
+                    32.065906
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpEL2RvN0E",
+            "properties": {
+                "bbox": [
+                    -84.622207,
+                    31.936156,
+                    -84.431216,
+                    32.190433
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWGpHN0E",
+                        "name": "Webster County",
+                        "wikidata_id": "Q491514"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEL2RvN0E",
+                        "name": "Preston",
+                        "wikidata_id": "Q951376"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.065906,
+                    "longitude": -84.537646
+                },
+                "feature_type": "place",
+                "full_address": "Preston, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpEL2RvN0E",
+                "name": "Preston",
+                "name_preferred": "Preston",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,258 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.786887,
+                    31.76671
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmOWE3MmQ3ZC1lMGMwLTQ0NDQtYTdlNy1mZGQ5YWE1MjY1ZGI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "93",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmOWE3MmQ3ZC1lMGMwLTQ0NDQtYTdlNy1mZGQ5YWE1MjY1ZGI",
+                        "name": "93 Front Street",
+                        "street_name": "Front Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU21HN0E",
+                        "name": "Randolph County",
+                        "wikidata_id": "Q498307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHTmdvN0E",
+                        "name": "Cuthbert",
+                        "wikidata_id": "Q2369328"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXV1N0E",
+                        "name": "39840"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjlhNzJkN2QtZTBjMC00NDQ0LWE3ZTctZmRkOWFhNTI2NWRi",
+                        "name": "Front Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.76671,
+                    "longitude": -84.786887,
+                    "routable_points": [
+                        {
+                            "latitude": 31.767381,
+                            "longitude": -84.786879,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "93 Front Street, Cuthbert, Georgia 39840, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmOWE3MmQ3ZC1lMGMwLTQ0NDQtYTdlNy1mZGQ5YWE1MjY1ZGI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "93 Front Street",
+                "name_preferred": "93 Front Street",
+                "place_formatted": "Cuthbert, Georgia 39840, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.78972,
+                    31.771375
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDQXV1N0E",
+            "properties": {
+                "bbox": [
+                    -84.908931,
+                    31.60973,
+                    -84.605768,
+                    31.931841
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU21HN0E",
+                        "name": "Randolph County",
+                        "wikidata_id": "Q498307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHTmdvN0E",
+                        "name": "Cuthbert",
+                        "wikidata_id": "Q2369328"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXV1N0E",
+                        "name": "39840"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.771375,
+                    "longitude": -84.78972
+                },
+                "feature_type": "postcode",
+                "full_address": "Cuthbert, Georgia 39840, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDQXV1N0E",
+                "name": "39840",
+                "name_preferred": "39840",
+                "place_formatted": "Cuthbert, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.74626,
+                    31.867909
+                ],
+                "type": "Point"
+            },
+            "id": "address.2781534178354134",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU21HN0E",
+                        "name": "Randolph County",
+                        "wikidata_id": "Q498307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHTmdvN0E",
+                        "name": "Cuthbert",
+                        "wikidata_id": "Q2369328"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXV1N0E",
+                        "name": "39840"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.2781534178354134",
+                        "name": "Cuthbert Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.867909,
+                    "longitude": -84.74626
+                },
+                "feature_type": "street",
+                "full_address": "Cuthbert Road, Cuthbert, Georgia 39840, United States",
+                "mapbox_id": "address.2781534178354134",
+                "name": "Cuthbert Road",
+                "name_preferred": "Cuthbert Road",
+                "place_formatted": "Cuthbert, Georgia 39840, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.78972,
+                    31.771375
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpHTmdvN0E",
+            "properties": {
+                "bbox": [
+                    -84.908931,
+                    31.619415,
+                    -84.612721,
+                    31.933549
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU21HN0E",
+                        "name": "Randolph County",
+                        "wikidata_id": "Q498307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHTmdvN0E",
+                        "name": "Cuthbert",
+                        "wikidata_id": "Q2369328"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.771375,
+                    "longitude": -84.78972
+                },
+                "feature_type": "place",
+                "full_address": "Cuthbert, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpHTmdvN0E",
+                "name": "Cuthbert",
+                "name_preferred": "Cuthbert",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

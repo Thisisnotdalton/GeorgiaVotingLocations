@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.067578,
+                    34.305279
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1MWMzZGYxYy03MDEyLTRkZTAtODY1MC0wNjlmYjMxZWUwMGM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5345",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1MWMzZGYxYy03MDEyLTRkZTAtODY1MC0wNjlmYjMxZWUwMGM",
+                        "name": "5345 Settingdown Road",
+                        "street_name": "Settingdown Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkdWJz",
+                        "name": "Forsyth County",
+                        "wikidata_id": "Q493092"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS0ZJN0E",
+                        "name": "Cumming",
+                        "wikidata_id": "Q1003686"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHRPN0E",
+                        "name": "30041"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTFjM2RmMWMtNzAxMi00ZGUwLTg2NTAtMDY5ZmIzMWVlMDBj",
+                        "name": "Settingdown Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.305279,
+                    "longitude": -84.067578,
+                    "routable_points": [
+                        {
+                            "latitude": 34.305329,
+                            "longitude": -84.067892,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5345 Settingdown Road, Cumming, Georgia 30041, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1MWMzZGYxYy03MDEyLTRkZTAtODY1MC0wNjlmYjMxZWUwMGM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5345 Settingdown Road",
+                "name_preferred": "5345 Settingdown Road",
+                "place_formatted": "Cumming, Georgia 30041, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.133622,
+                    34.180016
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZHRPN0E",
+            "properties": {
+                "bbox": [
+                    -84.206898,
+                    34.074999,
+                    -84.010355,
+                    34.334403
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkdWJz",
+                        "name": "Forsyth County",
+                        "wikidata_id": "Q493092"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS0ZJN0E",
+                        "name": "Cumming",
+                        "wikidata_id": "Q1003686"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHRPN0E",
+                        "name": "30041"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.180016,
+                    "longitude": -84.133622
+                },
+                "feature_type": "postcode",
+                "full_address": "Cumming, Georgia 30041, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZHRPN0E",
+                "name": "30041",
+                "name_preferred": "30041",
+                "place_formatted": "Cumming, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.080005,
+                    34.288831
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YWE1NWUxM2QtMDhmNi00ZWQ5LTk4OTgtOWFmNTg2MmJhYjBh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkdWJz",
+                        "name": "Forsyth County",
+                        "wikidata_id": "Q493092"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS0ZJN0E",
+                        "name": "Cumming",
+                        "wikidata_id": "Q1003686"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZG11N0E",
+                        "name": "30028"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWE1NWUxM2QtMDhmNi00ZWQ5LTk4OTgtOWFmNTg2MmJhYjBh",
+                        "name": "Settingdown Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.288831,
+                    "longitude": -84.080005
+                },
+                "feature_type": "street",
+                "full_address": "Settingdown Circle, Cumming, Georgia 30028, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWE1NWUxM2QtMDhmNi00ZWQ5LTk4OTgtOWFmNTg2MmJhYjBh",
+                "name": "Settingdown Circle",
+                "name_preferred": "Settingdown Circle",
+                "place_formatted": "Cumming, Georgia 30028, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.098485,
+                    34.318876
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2Q3YTg5OTQtZjRkNi00YzU0LTk4NTQtMzUxODUzNDZiMDhj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkdWJz",
+                        "name": "Forsyth County",
+                        "wikidata_id": "Q493092"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGdkZvN0E",
+                        "name": "Dawsonville",
+                        "wikidata_id": "Q1178896"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1pPN0E",
+                        "name": "30534"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2Q3YTg5OTQtZjRkNi00YzU0LTk4NTQtMzUxODUzNDZiMDhj",
+                        "name": "Settingdown Creek Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.318876,
+                    "longitude": -84.098485
+                },
+                "feature_type": "street",
+                "full_address": "Settingdown Creek Drive, Dawsonville, Georgia 30534, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2Q3YTg5OTQtZjRkNi00YzU0LTk4NTQtMzUxODUzNDZiMDhj",
+                "name": "Settingdown Creek Drive",
+                "name_preferred": "Settingdown Creek Drive",
+                "place_formatted": "Dawsonville, Georgia 30534, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.204061,
+                    34.237255
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTJkNTViYWYtNjg1Yy00OGE2LWI3OWUtMWY2OTc1ZWQ0Y2Fi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpkdWJz",
+                        "name": "Forsyth County",
+                        "wikidata_id": "Q493092"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCS0ZJN0E",
+                        "name": "Cumming",
+                        "wikidata_id": "Q1003686"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHN1N0E",
+                        "name": "30040"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTJkNTViYWYtNjg1Yy00OGE2LWI3OWUtMWY2OTc1ZWQ0Y2Fi",
+                        "name": "Canton Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.237255,
+                    "longitude": -84.204061
+                },
+                "feature_type": "street",
+                "full_address": "Canton Highway, Cumming, Georgia 30040, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTJkNTViYWYtNjg1Yy00OGE2LWI3OWUtMWY2OTc1ZWQ0Y2Fi",
+                "name": "Cumming",
+                "name_preferred": "Canton Highway",
+                "place_formatted": "Cumming, Georgia 30040, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

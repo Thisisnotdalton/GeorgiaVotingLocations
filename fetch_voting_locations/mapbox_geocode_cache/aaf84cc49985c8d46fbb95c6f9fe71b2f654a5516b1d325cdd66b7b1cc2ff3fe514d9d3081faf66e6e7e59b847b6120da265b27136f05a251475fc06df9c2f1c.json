@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.097917,
+                    33.279316
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5NzU0YTk0OS1mZTNkLTQ5MWUtOWFhNi05NmJiMDliNmM0MDM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "215",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5NzU0YTk0OS1mZTNkLTQ5MWUtOWFhNi05NmJiMDliNmM0MDM",
+                        "name": "215 E Court Sq",
+                        "street_name": "E Court Sq"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptbWJz",
+                        "name": "Heard County",
+                        "wikidata_id": "Q486348"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdnBvN0E",
+                        "name": "Franklin",
+                        "wikidata_id": "Q775102"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXhPN0E",
+                        "name": "30217"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTc1NGE5NDktZmUzZC00OTFlLTlhYTYtOTZiYjA5YjZjNDAz",
+                        "name": "E Court Sq"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.279316,
+                    "longitude": -85.097917,
+                    "routable_points": [
+                        {
+                            "latitude": 33.279493,
+                            "longitude": -85.09792,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "215 E Court Sq, Franklin, Georgia 30217, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5NzU0YTk0OS1mZTNkLTQ5MWUtOWFhNi05NmJiMDliNmM0MDM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "215 E Court Sq",
+                "name_preferred": "215 E Court Sq",
+                "place_formatted": "Franklin, Georgia 30217, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.098667,
+                    33.2787
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDE5NjEzNmYtNTUzNy00NzllLWE1YTktZmZlOTdkNzA1YTE5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptbWJz",
+                        "name": "Heard County",
+                        "wikidata_id": "Q486348"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdnBvN0E",
+                        "name": "Franklin",
+                        "wikidata_id": "Q775102"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXhPN0E",
+                        "name": "30217"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDE5NjEzNmYtNTUzNy00NzllLWE1YTktZmZlOTdkNzA1YTE5",
+                        "name": "East Court Sq"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.2787,
+                    "longitude": -85.098667
+                },
+                "feature_type": "street",
+                "full_address": "East Court Sq, Franklin, Georgia 30217, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDE5NjEzNmYtNTUzNy00NzllLWE1YTktZmZlOTdkNzA1YTE5",
+                "name": "East Court Sq",
+                "name_preferred": "East Court Sq",
+                "place_formatted": "Franklin, Georgia 30217, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.098973,
+                    33.279424
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmVhMWU4NDktODU2ZS00ZDhjLWFkOGMtZTE2YTYyMjNhNTVj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptbWJz",
+                        "name": "Heard County",
+                        "wikidata_id": "Q486348"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdnBvN0E",
+                        "name": "Franklin",
+                        "wikidata_id": "Q775102"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXhPN0E",
+                        "name": "30217"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmVhMWU4NDktODU2ZS00ZDhjLWFkOGMtZTE2YTYyMjNhNTVj",
+                        "name": "Court Square"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.279424,
+                    "longitude": -85.098973
+                },
+                "feature_type": "street",
+                "full_address": "Court Square, Franklin, Georgia 30217, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmVhMWU4NDktODU2ZS00ZDhjLWFkOGMtZTE2YTYyMjNhNTVj",
+                "name": "Court Square",
+                "name_preferred": "Court Square",
+                "place_formatted": "Franklin, Georgia 30217, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.0985,
+                    33.27933
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjJiYmM2YjQtYzkwMC00M2Q1LTk3YmYtZjNlYmY4YjJlY2M4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptbWJz",
+                        "name": "Heard County",
+                        "wikidata_id": "Q486348"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdnBvN0E",
+                        "name": "Franklin",
+                        "wikidata_id": "Q775102"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXhPN0E",
+                        "name": "30217"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjJiYmM2YjQtYzkwMC00M2Q1LTk3YmYtZjNlYmY4YjJlY2M4",
+                        "name": "S Court Sq"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.27933,
+                    "longitude": -85.0985
+                },
+                "feature_type": "street",
+                "full_address": "S Court Sq, Franklin, Georgia 30217, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjJiYmM2YjQtYzkwMC00M2Q1LTk3YmYtZjNlYmY4YjJlY2M4",
+                "name": "S Court Sq",
+                "name_preferred": "S Court Sq",
+                "place_formatted": "Franklin, Georgia 30217, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.09831,
+                    33.27953
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZXhPN0E",
+            "properties": {
+                "bbox": [
+                    -85.286323,
+                    33.129556,
+                    -84.980401,
+                    33.426631
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptbWJz",
+                        "name": "Heard County",
+                        "wikidata_id": "Q486348"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdnBvN0E",
+                        "name": "Franklin",
+                        "wikidata_id": "Q775102"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXhPN0E",
+                        "name": "30217"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.27953,
+                    "longitude": -85.09831
+                },
+                "feature_type": "postcode",
+                "full_address": "Franklin, Georgia 30217, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZXhPN0E",
+                "name": "30217",
+                "name_preferred": "30217",
+                "place_formatted": "Franklin, Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

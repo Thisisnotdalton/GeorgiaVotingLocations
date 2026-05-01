@@ -1,0 +1,349 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.187315,
+                    33.608481
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkZDNlY2EyYi1jZDY5LTRkZGUtYjdjNy1lNDBmNzA0MjNiZjQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "35",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkZDNlY2EyYi1jZDY5LTRkZGUtYjdjNy1lNDBmNzA0MjNiZjQ",
+                        "name": "35 Austin Road",
+                        "street_name": "Austin Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUUtNN0E",
+                        "name": "Hidden Lakes"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFc3VvN0E",
+                        "name": "Stockbridge",
+                        "wikidata_id": "Q3260995"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkZ1N0E",
+                        "name": "30281"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGQzZWNhMmItY2Q2OS00ZGRlLWI3YzctZTQwZjcwNDIzYmY0",
+                        "name": "Austin Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.608481,
+                    "longitude": -84.187315,
+                    "routable_points": [
+                        {
+                            "latitude": 33.608232,
+                            "longitude": -84.187132,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "35 Austin Road, Stockbridge, Georgia 30281, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkZDNlY2EyYi1jZDY5LTRkZGUtYjdjNy1lNDBmNzA0MjNiZjQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "35 Austin Road",
+                "name_preferred": "35 Austin Road",
+                "place_formatted": "Stockbridge, Georgia 30281, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.016712,
+                    33.453967
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16VWlMQ0p6ZEhKbFpYUWlPaUpCVlZOVVNVNGdVa1FpTENKd2JHRmpaU0k2SWxOVVQwTkxRbEpKUkVkRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamd4SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0ek5UUTBJaXdpTXpNdU1qazNOak14SWl3aUxUZ3pMamt5TWprd015SXNJak16TGpZME56TXdOeUpkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "35",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16VWlMQ0p6ZEhKbFpYUWlPaUpCVlZOVVNVNGdVa1FpTENKd2JHRmpaU0k2SWxOVVQwTkxRbEpKUkVkRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamd4SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0ek5UUTBJaXdpTXpNdU1qazNOak14SWl3aUxUZ3pMamt5TWprd015SXNJak16TGpZME56TXdOeUpkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+                        "name": "35 Austin Drive",
+                        "street_name": "Austin Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERW1vN0E",
+                        "name": "McDonough",
+                        "wikidata_id": "Q2075251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTZ1N0E",
+                        "name": "30252"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNelVpTENKemRISmxaWFFpT2lKQlZWTlVTVTRnVWtRaUxDSndiR0ZqWlNJNklsTlVUME5MUWxKSlJFZEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWpneElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE5DNHpOVFEwSWl3aU16TXVNamszTmpNeElpd2lMVGd6TGpreU1qa3dNeUlzSWpNekxqWTBOek13TnlKZExDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MQ",
+                        "name": "Austin Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.453967,
+                    "longitude": -84.016712,
+                    "routable_points": [
+                        {
+                            "latitude": 33.453967,
+                            "longitude": -84.016712,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "35 Austin Drive, McDonough, Georgia 30252, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16VWlMQ0p6ZEhKbFpYUWlPaUpCVlZOVVNVNGdVa1FpTENKd2JHRmpaU0k2SWxOVVQwTkxRbEpKUkVkRklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamd4SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0ek5UUTBJaXdpTXpNdU1qazNOak14SWl3aUxUZ3pMamt5TWprd015SXNJak16TGpZME56TXdOeUpkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "35 Austin Drive",
+                "name_preferred": "35 Austin Drive",
+                "place_formatted": "McDonough, Georgia 30252, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.235301,
+                    33.544337
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZkZ1N0E",
+            "properties": {
+                "bbox": [
+                    -84.293073,
+                    33.464409,
+                    -84.082068,
+                    33.645821
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFc3VvN0E",
+                        "name": "Stockbridge",
+                        "wikidata_id": "Q3260995"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkZ1N0E",
+                        "name": "30281"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.544337,
+                    "longitude": -84.235301
+                },
+                "feature_type": "postcode",
+                "full_address": "Stockbridge, Georgia 30281, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZkZ1N0E",
+                "name": "30281",
+                "name_preferred": "30281",
+                "place_formatted": "Stockbridge, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.162791,
+                    33.608964
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Y2ZkZThjYjEtM2VmZC00ODhiLWFjMzUtNzBmZDRmM2QyN2Y0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFc3VvN0E",
+                        "name": "Stockbridge",
+                        "wikidata_id": "Q3260995"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkZ1N0E",
+                        "name": "30281"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2ZkZThjYjEtM2VmZC00ODhiLWFjMzUtNzBmZDRmM2QyN2Y0",
+                        "name": "Snapfinger Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.608964,
+                    "longitude": -84.162791
+                },
+                "feature_type": "street",
+                "full_address": "Snapfinger Road, Stockbridge, Georgia 30281, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2ZkZThjYjEtM2VmZC00ODhiLWFjMzUtNzBmZDRmM2QyN2Y0",
+                "name": "Stockbridge Hwy",
+                "name_preferred": "Snapfinger Road",
+                "place_formatted": "Stockbridge, Georgia 30281, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.138011,
+                    33.591611
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MmJjYjZkOGYtZTY1Mi00Y2I2LTk2NzItZGI5NzVlNzZjYjM1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVEptN0E",
+                        "name": "Rockdale County",
+                        "wikidata_id": "Q498621"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHOWhLN0E",
+                        "name": "Richardson"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFc3VvN0E",
+                        "name": "Stockbridge",
+                        "wikidata_id": "Q3260995"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkZ1N0E",
+                        "name": "30281"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmJjYjZkOGYtZTY1Mi00Y2I2LTk2NzItZGI5NzVlNzZjYjM1",
+                        "name": "Stockbridge Hwy"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.591611,
+                    "longitude": -84.138011
+                },
+                "feature_type": "street",
+                "full_address": "Stockbridge Hwy, Stockbridge, Georgia 30281, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmJjYjZkOGYtZTY1Mi00Y2I2LTk2NzItZGI5NzVlNzZjYjM1",
+                "name": "Stockbridge Hwy",
+                "name_preferred": "Stockbridge Hwy",
+                "place_formatted": "Stockbridge, Georgia 30281, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

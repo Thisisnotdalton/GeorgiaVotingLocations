@@ -1,0 +1,339 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.641433,
+                    31.68307
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphZjhiZTYzMC05OTcwLTQyZWQtYjI2Yy00NjZkNjYxN2ExODU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1807",
+                        "mapbox_id": "dXJuOm1ieGFkcjphZjhiZTYzMC05OTcwLTQyZWQtYjI2Yy00NjZkNjYxN2ExODU",
+                        "name": "1807 US Route 41",
+                        "street_name": "US Route 41"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0ttN0E",
+                        "name": "Turner County",
+                        "wikidata_id": "Q498336"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeW1vN0E",
+                        "name": "Sycamore",
+                        "wikidata_id": "Q2932218"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0p1N0E",
+                        "name": "31790"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWY4YmU2MzAtOTk3MC00MmVkLWIyNmMtNDY2ZDY2MTdhMTg1",
+                        "name": "US Route 41"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.68307,
+                    "longitude": -83.641433,
+                    "routable_points": [
+                        {
+                            "latitude": 31.682998,
+                            "longitude": -83.641559,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1807 US Route 41, Sycamore, Georgia 31790, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphZjhiZTYzMC05OTcwLTQyZWQtYjI2Yy00NjZkNjYxN2ExODU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1807 US Highway 41 N",
+                "name_preferred": "1807 US Route 41",
+                "place_formatted": "Sycamore, Georgia 31790, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.637436,
+                    31.674244
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjVkMjEwNDUtNDBjNC00Njk5LWJmM2MtMDA0MjM3NWE3NWQ0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0ttN0E",
+                        "name": "Turner County",
+                        "wikidata_id": "Q498336"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeW1vN0E",
+                        "name": "Sycamore",
+                        "wikidata_id": "Q2932218"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0p1N0E",
+                        "name": "31790"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjVkMjEwNDUtNDBjNC00Njk5LWJmM2MtMDA0MjM3NWE3NWQ0",
+                        "name": "US Highway 41 N"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.674244,
+                    "longitude": -83.637436
+                },
+                "feature_type": "street",
+                "full_address": "US Highway 41 N, Sycamore, Georgia 31790, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjVkMjEwNDUtNDBjNC00Njk5LWJmM2MtMDA0MjM3NWE3NWQ0",
+                "name": "US Highway 41 N",
+                "name_preferred": "US Highway 41 N",
+                "place_formatted": "Sycamore, Georgia 31790, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.644011,
+                    31.687179
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UZ3dOeUlzSW5OMGNtVmxkQ0k2SWxWVElFaEpSMGhYUVZrZ05ERWdUaUlzSW5Cc1lXTmxJam9pVTFsRFFVMVBVa1VpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpFM09UQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0ltSmliM2dpT2xzaUxUZ3pMamd3TWpjeU15SXNJak14TGpVMk5UWXlPU0lzSWkwNE15NDBOVEl4TnpraUxDSXpNUzQ0TlRRd09Ea2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1807",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UZ3dOeUlzSW5OMGNtVmxkQ0k2SWxWVElFaEpSMGhYUVZrZ05ERWdUaUlzSW5Cc1lXTmxJam9pVTFsRFFVMVBVa1VpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpFM09UQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0ltSmliM2dpT2xzaUxUZ3pMamd3TWpjeU15SXNJak14TGpVMk5UWXlPU0lzSWkwNE15NDBOVEl4TnpraUxDSXpNUzQ0TlRRd09Ea2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToy",
+                        "name": "1807 South Main Street",
+                        "street_name": "South Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0ttN0E",
+                        "name": "Turner County",
+                        "wikidata_id": "Q498336"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp1UWpz",
+                        "name": "Ashburn",
+                        "wikidata_id": "Q2396088"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajBPN0E",
+                        "name": "31714"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVGd3TnlJc0luTjBjbVZsZENJNklsVlRJRWhKUjBoWFFWa2dOREVnVGlJc0luQnNZV05sSWpvaVUxbERRVTFQVWtVaUxDSnlaV2RwYjI0aU9pSkhRU0lzSW5CdmMzUmpiMlJsSWpvaU16RTNPVEFpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbUppYjNnaU9sc2lMVGd6TGpnd01qY3lNeUlzSWpNeExqVTJOVFl5T1NJc0lpMDRNeTQwTlRJeE56a2lMQ0l6TVM0NE5UUXdPRGtpWFN3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mg",
+                        "name": "South Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.687179,
+                    "longitude": -83.644011,
+                    "routable_points": [
+                        {
+                            "latitude": 31.687179,
+                            "longitude": -83.644011,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1807 South Main Street, Ashburn, Georgia 31714, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UZ3dOeUlzSW5OMGNtVmxkQ0k2SWxWVElFaEpSMGhYUVZrZ05ERWdUaUlzSW5Cc1lXTmxJam9pVTFsRFFVMVBVa1VpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpFM09UQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0ltSmliM2dpT2xzaUxUZ3pMamd3TWpjeU15SXNJak14TGpVMk5UWXlPU0lzSWkwNE15NDBOVEl4TnpraUxDSXpNUzQ0TlRRd09Ea2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1807 US Highway 41",
+                "name_preferred": "1807 South Main Street",
+                "place_formatted": "Ashburn, Georgia 31714, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.642714,
+                    31.685165
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTU3MzJlODItOWI5ZC00ZGQ5LTgzMzUtOTY5OTQzMGUwNjg2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0ttN0E",
+                        "name": "Turner County",
+                        "wikidata_id": "Q498336"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp1UWpz",
+                        "name": "Ashburn",
+                        "wikidata_id": "Q2396088"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajBPN0E",
+                        "name": "31714"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTU3MzJlODItOWI5ZC00ZGQ5LTgzMzUtOTY5OTQzMGUwNjg2",
+                        "name": "US Highway 41 N"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.685165,
+                    "longitude": -83.642714
+                },
+                "feature_type": "street",
+                "full_address": "US Highway 41 N, Ashburn, Georgia 31714, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTU3MzJlODItOWI5ZC00ZGQ5LTgzMzUtOTY5OTQzMGUwNjg2",
+                "name": "US Highway 41 N",
+                "name_preferred": "US Highway 41 N",
+                "place_formatted": "Ashburn, Georgia 31714, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.666789,
+                    31.737957
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTA0ZjBkMTMtYjFhNi00ZDkwLTg2ZjItMmJiYzdhMzU1NGM2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0ttN0E",
+                        "name": "Turner County",
+                        "wikidata_id": "Q498336"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp1UWpz",
+                        "name": "Ashburn",
+                        "wikidata_id": "Q2396088"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajBPN0E",
+                        "name": "31714"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTA0ZjBkMTMtYjFhNi00ZDkwLTg2ZjItMmJiYzdhMzU1NGM2",
+                        "name": "US Route 41"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.737957,
+                    "longitude": -83.666789
+                },
+                "feature_type": "street",
+                "full_address": "US Route 41, Ashburn, Georgia 31714, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTA0ZjBkMTMtYjFhNi00ZDkwLTg2ZjItMmJiYzdhMzU1NGM2",
+                "name": "US Highway 41 N",
+                "name_preferred": "US Route 41",
+                "place_formatted": "Ashburn, Georgia 31714, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

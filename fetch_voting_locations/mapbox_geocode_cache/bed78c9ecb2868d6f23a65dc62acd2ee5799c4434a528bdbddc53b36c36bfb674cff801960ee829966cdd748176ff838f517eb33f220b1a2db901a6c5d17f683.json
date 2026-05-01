@@ -1,0 +1,365 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.34572,
+                    32.687676
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0ZDNiNjQyNS02N2Y0LTQ3NGEtOGY4Zi1kNjg3ZDUyZWY0Y2Q",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "425",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0ZDNiNjQyNS02N2Y0LTQ3NGEtOGY4Zi1kNjg3ZDUyZWY0Y2Q",
+                        "name": "425 North Railroad Street",
+                        "street_name": "North Railroad Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV05HN0E",
+                        "name": "Twiggs County",
+                        "wikidata_id": "Q503551"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDY1FJN0E",
+                        "name": "Jeffersonville",
+                        "wikidata_id": "Q2038010"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUNPN0E",
+                        "name": "31044"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGQzYjY0MjUtNjdmNC00NzRhLThmOGYtZDY4N2Q1MmVmNGNk",
+                        "name": "North Railroad Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.687676,
+                    "longitude": -83.34572,
+                    "routable_points": [
+                        {
+                            "latitude": 32.68744,
+                            "longitude": -83.345929,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "425 North Railroad Street, Jeffersonville, Georgia 31044, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0ZDNiNjQyNS02N2Y0LTQ3NGEtOGY4Zi1kNjg3ZDUyZWY0Y2Q",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "425 Railroad St N",
+                "name_preferred": "425 North Railroad Street",
+                "place_formatted": "Jeffersonville, Georgia 31044, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.325909,
+                    32.669306
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ESTFJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJRTVQVWxRaUxDSndiR0ZqWlNJNklrcEZSa1pGVWxOUFRsWkpURXhGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE1EUTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDRNeTQyTVRFMU5qa2lMQ0l6TWk0ME5USXhPVGdpTENJdE9ETXVNakkyTlRNMklpd2lNekl1T0RrNE1qSWlYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "425",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ESTFJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJRTVQVWxRaUxDSndiR0ZqWlNJNklrcEZSa1pGVWxOUFRsWkpURXhGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE1EUTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDRNeTQyTVRFMU5qa2lMQ0l6TWk0ME5USXhPVGdpTENJdE9ETXVNakkyTlRNMklpd2lNekl1T0RrNE1qSWlYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+                        "name": "425 East Railroad Street",
+                        "street_name": "East Railroad Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV05HN0E",
+                        "name": "Twiggs County",
+                        "wikidata_id": "Q503551"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDY1FJN0E",
+                        "name": "Jeffersonville",
+                        "wikidata_id": "Q2038010"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUNPN0E",
+                        "name": "31044"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOREkxSWl3aWMzUnlaV1YwSWpvaVVrRkpURkpQUVVRZ1UxUlNSVVZVSUU1UFVsUWlMQ0p3YkdGalpTSTZJa3BGUmtaRlVsTlBUbFpKVEV4Rklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXhNRFEwSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TXk0Mk1URTFOamtpTENJek1pNDBOVEl4T1RnaUxDSXRPRE11TWpJMk5UTTJJaXdpTXpJdU9EazRNaklpWFN3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6MQ",
+                        "name": "East Railroad Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.669306,
+                    "longitude": -83.325909,
+                    "routable_points": [
+                        {
+                            "latitude": 32.669306,
+                            "longitude": -83.325909,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "425 East Railroad Street, Jeffersonville, Georgia 31044, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ESTFJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJRTVQVWxRaUxDSndiR0ZqWlNJNklrcEZSa1pGVWxOUFRsWkpURXhGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE1EUTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDRNeTQyTVRFMU5qa2lMQ0l6TWk0ME5USXhPVGdpTENJdE9ETXVNakkyTlRNMklpd2lNekl1T0RrNE1qSWlYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "425 East Railroad Street",
+                "name_preferred": "425 East Railroad Street",
+                "place_formatted": "Jeffersonville, Georgia 31044, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.336304,
+                    32.679571
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDQ2ZGVhYWQtY2NmMC00OGY2LTk1YzctMTNhNGZiNjVjOGFj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV05HN0E",
+                        "name": "Twiggs County",
+                        "wikidata_id": "Q503551"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDY1FJN0E",
+                        "name": "Jeffersonville",
+                        "wikidata_id": "Q2038010"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUNPN0E",
+                        "name": "31044"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDQ2ZGVhYWQtY2NmMC00OGY2LTk1YzctMTNhNGZiNjVjOGFj",
+                        "name": "Railroad Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.679571,
+                    "longitude": -83.336304
+                },
+                "feature_type": "street",
+                "full_address": "Railroad Street, Jeffersonville, Georgia 31044, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDQ2ZGVhYWQtY2NmMC00OGY2LTk1YzctMTNhNGZiNjVjOGFj",
+                "name": "Railroad Street",
+                "name_preferred": "Railroad Street",
+                "place_formatted": "Jeffersonville, Georgia 31044, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.240181,
+                    32.602156
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ESTFJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJRTVQVWxRaUxDSndiR0ZqWlNJNklrcEZSa1pGVWxOUFRsWkpURXhGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE1EUTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDRNeTQyTVRFMU5qa2lMQ0l6TWk0ME5USXhPVGdpTENJdE9ETXVNakkyTlRNMklpd2lNekl1T0RrNE1qSWlYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "425",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ESTFJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJRTVQVWxRaUxDSndiR0ZqWlNJNklrcEZSa1pGVWxOUFRsWkpURXhGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE1EUTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDRNeTQyTVRFMU5qa2lMQ0l6TWk0ME5USXhPVGdpTENJdE9ETXVNakkyTlRNMklpd2lNekl1T0RrNE1qSWlYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToz",
+                        "name": "425 Railroad Street",
+                        "street_name": "Railroad Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV05HN0E",
+                        "name": "Twiggs County",
+                        "wikidata_id": "Q503551"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTWpJN0E",
+                        "name": "Danville",
+                        "wikidata_id": "Q1906737"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDFPN0E",
+                        "name": "31017"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOREkxSWl3aWMzUnlaV1YwSWpvaVVrRkpURkpQUVVRZ1UxUlNSVVZVSUU1UFVsUWlMQ0p3YkdGalpTSTZJa3BGUmtaRlVsTlBUbFpKVEV4Rklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXhNRFEwSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TXk0Mk1URTFOamtpTENJek1pNDBOVEl4T1RnaUxDSXRPRE11TWpJMk5UTTJJaXdpTXpJdU9EazRNaklpWFN3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mw",
+                        "name": "Railroad Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.602156,
+                    "longitude": -83.240181,
+                    "routable_points": [
+                        {
+                            "latitude": 32.602156,
+                            "longitude": -83.240181,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "425 Railroad Street, Danville, Georgia 31017, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5ESTFJaXdpYzNSeVpXVjBJam9pVWtGSlRGSlBRVVFnVTFSU1JVVlVJRTVQVWxRaUxDSndiR0ZqWlNJNklrcEZSa1pGVWxOUFRsWkpURXhGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE1EUTBJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDRNeTQyTVRFMU5qa2lMQ0l6TWk0ME5USXhPVGdpTENJdE9ETXVNakkyTlRNMklpd2lNekl1T0RrNE1qSWlYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "425 Railroad Street",
+                "name_preferred": "425 Railroad Street",
+                "place_formatted": "Danville, Georgia 31017, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.344227,
+                    32.685749
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaUNPN0E",
+            "properties": {
+                "bbox": [
+                    -83.469606,
+                    32.511403,
+                    -83.224707,
+                    32.798858
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV05HN0E",
+                        "name": "Twiggs County",
+                        "wikidata_id": "Q503551"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDY1FJN0E",
+                        "name": "Jeffersonville",
+                        "wikidata_id": "Q2038010"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUNPN0E",
+                        "name": "31044"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.685749,
+                    "longitude": -83.344227
+                },
+                "feature_type": "postcode",
+                "full_address": "Jeffersonville, Georgia 31044, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaUNPN0E",
+                "name": "31044",
+                "name_preferred": "31044",
+                "place_formatted": "Jeffersonville, Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

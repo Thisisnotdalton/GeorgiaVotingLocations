@@ -1,0 +1,82 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -84.654388,
+                34.050397
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjplYjViYjNlMC03ZTM5LTQ5ZWMtYTk0NC1lNzhlZGE0YzM3MDM",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "3900",
+                    "mapbox_id": "dXJuOm1ieGFkcjplYjViYjNlMC03ZTM5LTQ5ZWMtYTk0NC1lNzhlZGE0YzM3MDM",
+                    "name": "3900 S Main St",
+                    "street_name": "S Main St"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                    "name": "Cobb County",
+                    "wikidata_id": "Q484247"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpIWVBJN0E",
+                    "name": "Acworth"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZUhPN0E",
+                    "name": "30101"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWI1YmIzZTAtN2UzOS00OWVjLWE5NDQtZTc4ZWRhNGMzNzAz",
+                    "name": "S Main St"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 34.050397,
+                "longitude": -84.654388,
+                "routable_points": [
+                    {
+                        "latitude": 34.050507,
+                        "longitude": -84.654462,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "3900 S Main St, Acworth, Georgia 30101, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjplYjViYjNlMC03ZTM5LTQ5ZWMtYTk0NC1lNzhlZGE0YzM3MDM",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "exact",
+                "country": "matched",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "3900 S Main St",
+            "name_preferred": "3900 S Main St",
+            "place_formatted": "Acworth, Georgia 30101, United States"
+        },
+        "type": "Feature"
+    }
+]

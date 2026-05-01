@@ -1,0 +1,341 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.961668,
+                    33.471072
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiYjcyZGI2NC01ZjIzLTQ0MDMtOWM4ZC1iNGQ5MzUxOGI2OTQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "535",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiYjcyZGI2NC01ZjIzLTQ0MDMtOWM4ZC1iNGQ5MzUxOGI2OTQ",
+                        "name": "535 Telfair Street",
+                        "street_name": "Telfair Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEMStNN0E",
+                            "name": "Greene Street Historic District"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaWhNN0E",
+                        "name": "Downtown Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG11N0E",
+                        "name": "30901"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmI3MmRiNjQtNWYyMy00NDAzLTljOGQtYjRkOTM1MThiNjk0",
+                        "name": "Telfair Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.471072,
+                    "longitude": -81.961668,
+                    "routable_points": [
+                        {
+                            "latitude": 33.470878,
+                            "longitude": -81.96158,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "535 Telfair Street, Augusta, Georgia 30901, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiYjcyZGI2NC01ZjIzLTQ0MDMtOWM4ZC1iNGQ5MzUxOGI2OTQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "535 Telfair Street",
+                "name_preferred": "535 Telfair Street",
+                "place_formatted": "Augusta, Georgia 30901, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.951186,
+                    33.466644
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODQyN2ExZjEtOTg1Ni00YjQ5LTgzN2UtZTRiN2QxNzliZmNh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDcWlNN0E",
+                        "name": "East Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG11N0E",
+                        "name": "30901"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODQyN2ExZjEtOTg1Ni00YjQ5LTgzN2UtZTRiN2QxNzliZmNh",
+                        "name": "East Telfair Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.466644,
+                    "longitude": -81.951186
+                },
+                "feature_type": "street",
+                "full_address": "East Telfair Street, Augusta, Georgia 30901, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODQyN2ExZjEtOTg1Ni00YjQ5LTgzN2UtZTRiN2QxNzliZmNh",
+                "name": "Telfair St",
+                "name_preferred": "East Telfair Street",
+                "place_formatted": "Augusta, Georgia 30901, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.999777,
+                    33.48315
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2E1MDg3NWMtZDZlNS00NTViLTkxYjgtYWZiOWEyYzJlYmY4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFWWhNN0E",
+                            "name": "Hillside Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpHOU9zN0E",
+                        "name": "Old City"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG51N0E",
+                        "name": "30904"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2E1MDg3NWMtZDZlNS00NTViLTkxYjgtYWZiOWEyYzJlYmY4",
+                        "name": "Telfair Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.48315,
+                    "longitude": -81.999777
+                },
+                "feature_type": "street",
+                "full_address": "Telfair Street, Augusta, Georgia 30904, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2E1MDg3NWMtZDZlNS00NTViLTkxYjgtYWZiOWEyYzJlYmY4",
+                "name": "Telfair Street",
+                "name_preferred": "Telfair Street",
+                "place_formatted": "Augusta, Georgia 30904, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.965412,
+                    33.475142
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaG11N0E",
+            "properties": {
+                "bbox": [
+                    -82.005406,
+                    33.395594,
+                    -81.909681,
+                    33.484551
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG11N0E",
+                        "name": "30901"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.475142,
+                    "longitude": -81.965412
+                },
+                "feature_type": "postcode",
+                "full_address": "Augusta, Georgia 30901, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaG11N0E",
+                "name": "30901",
+                "name_preferred": "30901",
+                "place_formatted": "Augusta, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.987342,
+                    33.464209
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDJmMTliYjUtMDE3ZS00ZTg4LTlmYjgtMTY2MTI1MDIxMmZj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJMnZzN0E",
+                        "name": "South Augusta"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG11N0E",
+                        "name": "30901"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDJmMTliYjUtMDE3ZS00ZTg4LTlmYjgtMTY2MTI1MDIxMmZj",
+                        "name": "Augusta Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.464209,
+                    "longitude": -81.987342
+                },
+                "feature_type": "street",
+                "full_address": "Augusta Avenue, Augusta, Georgia 30901, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDJmMTliYjUtMDE3ZS00ZTg4LTlmYjgtMTY2MTI1MDIxMmZj",
+                "name": "Augusta Avenue",
+                "name_preferred": "Augusta Avenue",
+                "place_formatted": "Augusta, Georgia 30901, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

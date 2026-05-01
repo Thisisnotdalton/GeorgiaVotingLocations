@@ -1,0 +1,258 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.925617,
+                    31.93348
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1YWUwYTA2Yi1lY2FmLTQ3NTMtODZkMC05ZjY4MjE5NjNmNTQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "209",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1YWUwYTA2Yi1lY2FmLTQ3NTMtODZkMC05ZjY4MjE5NjNmNTQ",
+                        "name": "209 Bolton Street",
+                        "street_name": "Bolton Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmxtN0E",
+                        "name": "Tattnall County",
+                        "wikidata_id": "Q505310"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHYVhJN0E",
+                        "name": "Glennville",
+                        "wikidata_id": "Q956735"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjZPN0E",
+                        "name": "30427"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWFlMGEwNmItZWNhZi00NzUzLTg2ZDAtOWY2ODIxOTYzZjU0",
+                        "name": "Bolton Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.93348,
+                    "longitude": -81.925617,
+                    "routable_points": [
+                        {
+                            "latitude": 31.93367,
+                            "longitude": -81.92552,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "209 Bolton Street, Glennville, Georgia 30427, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1YWUwYTA2Yi1lY2FmLTQ3NTMtODZkMC05ZjY4MjE5NjNmNTQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "209 Bolton Street",
+                "name_preferred": "209 Bolton Street",
+                "place_formatted": "Glennville, Georgia 30427, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.928881,
+                    31.936665
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZjZPN0E",
+            "properties": {
+                "bbox": [
+                    -82.131996,
+                    31.782705,
+                    -81.653293,
+                    32.092433
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmxtN0E",
+                        "name": "Tattnall County",
+                        "wikidata_id": "Q505310"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHYVhJN0E",
+                        "name": "Glennville",
+                        "wikidata_id": "Q956735"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjZPN0E",
+                        "name": "30427"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.936665,
+                    "longitude": -81.928881
+                },
+                "feature_type": "postcode",
+                "full_address": "Glennville, Georgia 30427, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZjZPN0E",
+                "name": "30427",
+                "name_preferred": "30427",
+                "place_formatted": "Glennville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.928881,
+                    31.936665
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpHYVhJN0E",
+            "properties": {
+                "bbox": [
+                    -82.131996,
+                    31.782705,
+                    -81.76861,
+                    32.069766
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmxtN0E",
+                        "name": "Tattnall County",
+                        "wikidata_id": "Q505310"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHYVhJN0E",
+                        "name": "Glennville",
+                        "wikidata_id": "Q956735"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.936665,
+                    "longitude": -81.928881
+                },
+                "feature_type": "place",
+                "full_address": "Glennville, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpHYVhJN0E",
+                "name": "Glennville",
+                "name_preferred": "Glennville",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.912261,
+                    32.154837
+                ],
+                "type": "Point"
+            },
+            "id": "address.6559910520553558",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjQWJz",
+                        "name": "Evans County",
+                        "wikidata_id": "Q493044"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHSmNvN0E",
+                        "name": "Claxton",
+                        "wikidata_id": "Q2052424"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjJ1N0E",
+                        "name": "30417"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.6559910520553558",
+                        "name": "Circle Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.154837,
+                    "longitude": -81.912261
+                },
+                "feature_type": "street",
+                "full_address": "Circle Street, Claxton, Georgia 30417, United States",
+                "mapbox_id": "address.6559910520553558",
+                "name": "Circle Street",
+                "name_preferred": "Circle Street",
+                "place_formatted": "Claxton, Georgia 30417, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

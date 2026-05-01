@@ -1,0 +1,329 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.00227,
+                    34.01554
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxNzVhMzcyYy0wMzBiLTRhM2MtODg4NC0wOTMzOWEwMmIyODI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "455",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxNzVhMzcyYy0wMzBiLTRhM2MtODg4NC0wOTMzOWEwMmIyODI",
+                        "name": "455 Camp Perrin Road",
+                        "street_name": "Camp Perrin Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIZEZNN0E",
+                        "name": "Pine Ridge Country Club Estates"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDdHBJN0E",
+                        "name": "Lawrenceville",
+                        "wikidata_id": "Q970174"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHVPN0E",
+                        "name": "30043"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTc1YTM3MmMtMDMwYi00YTNjLTg4ODQtMDkzMzlhMDJiMjgy",
+                        "name": "Camp Perrin Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.01554,
+                    "longitude": -84.00227,
+                    "routable_points": [
+                        {
+                            "latitude": 34.015329,
+                            "longitude": -84.002567,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "455 Camp Perrin Road, Lawrenceville, Georgia 30043, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxNzVhMzcyYy0wMzBiLTRhM2MtODg4NC0wOTMzOWEwMmIyODI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "455 Camp Perrin Road",
+                "name_preferred": "455 Camp Perrin Road",
+                "place_formatted": "Lawrenceville, Georgia 30043, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.999607,
+                    34.022024
+                ],
+                "type": "Point"
+            },
+            "id": "address.7418297449106742",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIZElzN0E",
+                        "name": "Pine Ridge Point"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDdHBJN0E",
+                        "name": "Lawrenceville",
+                        "wikidata_id": "Q970174"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHVPN0E",
+                        "name": "30043"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.7418297449106742",
+                        "name": "Camp Perrin Road Northeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.022024,
+                    "longitude": -83.999607
+                },
+                "feature_type": "street",
+                "full_address": "Camp Perrin Road Northeast, Lawrenceville, Georgia 30043, United States",
+                "mapbox_id": "address.7418297449106742",
+                "name": "Camp Perrin Road Northeast",
+                "name_preferred": "Camp Perrin Road Northeast",
+                "place_formatted": "Lawrenceville, Georgia 30043, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.994567,
+                    34.022559
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjdlZTAzNzQtMzE1My00MTQxLTgwOTYtZGIwNDZiNmE0NDM2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIZElzN0E",
+                        "name": "Pine Ridge Point"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDdHBJN0E",
+                        "name": "Lawrenceville",
+                        "wikidata_id": "Q970174"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHVPN0E",
+                        "name": "30043"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjdlZTAzNzQtMzE1My00MTQxLTgwOTYtZGIwNDZiNmE0NDM2",
+                        "name": "Perrin Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.022559,
+                    "longitude": -83.994567
+                },
+                "feature_type": "street",
+                "full_address": "Perrin Drive, Lawrenceville, Georgia 30043, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjdlZTAzNzQtMzE1My00MTQxLTgwOTYtZGIwNDZiNmE0NDM2",
+                "name": "Perrin Drive",
+                "name_preferred": "Perrin Drive",
+                "place_formatted": "Lawrenceville, Georgia 30043, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.022934,
+                    33.967587
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZHVPN0E",
+            "properties": {
+                "bbox": [
+                    -84.094474,
+                    33.958612,
+                    -83.924656,
+                    34.056008
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDdHBJN0E",
+                        "name": "Lawrenceville",
+                        "wikidata_id": "Q970174"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHVPN0E",
+                        "name": "30043"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.967587,
+                    "longitude": -84.022934
+                },
+                "feature_type": "postcode",
+                "full_address": "Lawrenceville, Georgia 30043, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZHVPN0E",
+                "name": "30043",
+                "name_preferred": "30043",
+                "place_formatted": "Lawrenceville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.917202,
+                    33.993434
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzA5NWFkNWEtMjk1Mi00MDU5LWI4YmYtYTg5OWZkZGM5N2Fj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTEdJN0E",
+                        "name": "Dacula",
+                        "wikidata_id": "Q2380846"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGpPN0E",
+                        "name": "30019"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzA5NWFkNWEtMjk1Mi00MDU5LWI4YmYtYTg5OWZkZGM5N2Fj",
+                        "name": "Circle Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.993434,
+                    "longitude": -83.917202
+                },
+                "feature_type": "street",
+                "full_address": "Circle Road, Dacula, Georgia 30019, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzA5NWFkNWEtMjk1Mi00MDU5LWI4YmYtYTg5OWZkZGM5N2Fj",
+                "name": "Circle Road",
+                "name_preferred": "Circle Road",
+                "place_formatted": "Dacula, Georgia 30019, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

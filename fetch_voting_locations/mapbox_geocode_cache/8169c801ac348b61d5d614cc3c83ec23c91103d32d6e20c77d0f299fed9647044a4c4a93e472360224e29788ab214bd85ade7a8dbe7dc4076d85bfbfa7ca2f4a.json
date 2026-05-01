@@ -1,0 +1,367 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.620951,
+                    34.021621
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkYWRlOWQ2YS01ZGYzLTRmYjQtYWEzNy00ZmM2MDI0NjFhYWY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2753",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkYWRlOWQ2YS01ZGYzLTRmYjQtYWEzNy00ZmM2MDI0NjFhYWY",
+                        "name": "2753 Watts Drive",
+                        "street_name": "Watts Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                        "name": "Kennesaw",
+                        "wikidata_id": "Q1001316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWF1N0E",
+                        "name": "30144"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGFkZTlkNmEtNWRmMy00ZmI0LWFhMzctNGZjNjAyNDYxYWFm",
+                        "name": "Watts Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.021621,
+                    "longitude": -84.620951,
+                    "routable_points": [
+                        {
+                            "latitude": 34.021652,
+                            "longitude": -84.620814,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2753 Watts Drive, Kennesaw, Georgia 30144, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkYWRlOWQ2YS01ZGYzLTRmYjQtYWEzNy00ZmM2MDI0NjFhYWY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2753 Watts Drive",
+                "name_preferred": "2753 Watts Drive",
+                "place_formatted": "Kennesaw, Georgia 30144, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.066824,
+                    33.261569
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl5TnpVeklGZGhkSFJ6SUVSeUxDQkxaVzV1WlhOaGR5d2dSMEVnTXpBeE5EUWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2753",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl5TnpVeklGZGhkSFJ6SUVSeUxDQkxaVzV1WlhOaGR5d2dSMEVnTXpBeE5EUWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTox",
+                        "name": "2753 Watts Road",
+                        "street_name": "Watts Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprMmJz",
+                        "name": "Hancock County",
+                        "wikidata_id": "Q493112"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbnFJN0E",
+                        "name": "Sparta",
+                        "wikidata_id": "Q2670509"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVV1N0E",
+                        "name": "31087"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbkVpT2lJeU56VXpJRmRoZEhSeklFUnlMQ0JMWlc1dVpYTmhkeXdnUjBFZ016QXhORFFpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6MQ",
+                        "name": "Watts Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.261569,
+                    "longitude": -83.066824,
+                    "routable_points": [
+                        {
+                            "latitude": 33.261569,
+                            "longitude": -83.066824,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2753 Watts Road, Sparta, Georgia 31087, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl5TnpVeklGZGhkSFJ6SUVSeUxDQkxaVzV1WlhOaGR5d2dSMEVnTXpBeE5EUWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "2753 Watts Road",
+                "name_preferred": "2753 Watts Road",
+                "place_formatted": "Sparta, Georgia 31087, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.575852,
+                    32.855848
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl5TnpVeklGZGhkSFJ6SUVSeUxDQkxaVzV1WlhOaGR5d2dSMEVnTXpBeE5EUWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2753",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl5TnpVeklGZGhkSFJ6SUVSeUxDQkxaVzV1WlhOaGR5d2dSMEVnTXpBeE5EUWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToy",
+                        "name": "2753 Watts Road",
+                        "street_name": "Watts Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSndNN0E",
+                        "name": "Lakeside Hill"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXB1N0E",
+                        "name": "31217"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbkVpT2lJeU56VXpJRmRoZEhSeklFUnlMQ0JMWlc1dVpYTmhkeXdnUjBFZ016QXhORFFpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mg",
+                        "name": "Watts Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.855848,
+                    "longitude": -83.575852,
+                    "routable_points": [
+                        {
+                            "latitude": 32.855848,
+                            "longitude": -83.575852,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2753 Watts Road, Macon, Georgia 31217, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl5TnpVeklGZGhkSFJ6SUVSeUxDQkxaVzV1WlhOaGR5d2dSMEVnTXpBeE5EUWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "2753 Watts Road",
+                "name_preferred": "2753 Watts Road",
+                "place_formatted": "Macon, Georgia 31217, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.615276,
+                    34.022741
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZWF1N0E",
+            "properties": {
+                "bbox": [
+                    -84.675208,
+                    33.992195,
+                    -84.518883,
+                    34.075996
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                        "name": "Kennesaw",
+                        "wikidata_id": "Q1001316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWF1N0E",
+                        "name": "30144"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.022741,
+                    "longitude": -84.615276
+                },
+                "feature_type": "postcode",
+                "full_address": "Kennesaw, Georgia 30144, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZWF1N0E",
+                "name": "30144",
+                "name_preferred": "30144",
+                "place_formatted": "Kennesaw, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.615276,
+                    34.022741
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDaExvN0E",
+            "properties": {
+                "bbox": [
+                    -84.715156,
+                    33.949127,
+                    -84.518883,
+                    34.075996
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                        "name": "Kennesaw",
+                        "wikidata_id": "Q1001316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.022741,
+                    "longitude": -84.615276
+                },
+                "feature_type": "place",
+                "full_address": "Kennesaw, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                "name": "Kennesaw",
+                "name_preferred": "Kennesaw",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

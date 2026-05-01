@@ -1,0 +1,335 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.281842,
+                    34.701614
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmZmI3YTAxOC05NjdkLTRjZDgtODMxMS1iNzY3YzQ2ZDgyMDU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "311",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmZmI3YTAxOC05NjdkLTRjZDgtODMxMS1iNzY3YzQ2ZDgyMDU",
+                        "name": "311 S Main St",
+                        "street_name": "S Main St"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbXpvN0E",
+                        "name": "La Fayette"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFBPN0E",
+                        "name": "30728"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmZiN2EwMTgtOTY3ZC00Y2Q4LTgzMTEtYjc2N2M0NmQ4MjA1",
+                        "name": "S Main St"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.701614,
+                    "longitude": -85.281842,
+                    "routable_points": [
+                        {
+                            "latitude": 34.701722,
+                            "longitude": -85.281834,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "311 S Main St, La Fayette, Georgia 30728, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmZmI3YTAxOC05NjdkLTRjZDgtODMxMS1iNzY3YzQ2ZDgyMDU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "311 S Main St",
+                "name_preferred": "311 S Main St",
+                "place_formatted": "La Fayette, Georgia 30728, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.273797,
+                    34.691511
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16RXhJaXdpYzNSeVpXVjBJam9pVTA5VlZFZ2dUVUZKVGlCVFZGSkZSVlFpTENKd2JHRmpaU0k2SWt4QlJrRlpSVlJVUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EY3lPQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRFV1TlRNME1EZzVNemMxTXpjd05DSXNJak0wTGpVNE1UazJPU0lzSWkwNE5TNHdOVEEwTkRZaUxDSXpOQzQ1T0RVd056VWlYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "311",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16RXhJaXdpYzNSeVpXVjBJam9pVTA5VlZFZ2dUVUZKVGlCVFZGSkZSVlFpTENKd2JHRmpaU0k2SWt4QlJrRlpSVlJVUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EY3lPQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRFV1TlRNME1EZzVNemMxTXpjd05DSXNJak0wTGpVNE1UazJPU0lzSWkwNE5TNHdOVEEwTkRZaUxDSXpOQzQ1T0RVd056VWlYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+                        "name": "311 South Main Street",
+                        "street_name": "South Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbXpvN0E",
+                        "name": "La Fayette"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFBPN0E",
+                        "name": "30728"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNekV4SWl3aWMzUnlaV1YwSWpvaVUwOVZWRWdnVFVGSlRpQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklreEJSa0ZaUlZSVVJTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRGN5T0NJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RVdU5UTTBNRGc1TXpjMU16Y3dOQ0lzSWpNMExqVTRNVGsyT1NJc0lpMDROUzR3TlRBME5EWWlMQ0l6TkM0NU9EVXdOelVpWFN3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6MQ",
+                        "name": "South Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.691511,
+                    "longitude": -85.273797,
+                    "routable_points": [
+                        {
+                            "latitude": 34.691511,
+                            "longitude": -85.273797,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "311 South Main Street, La Fayette, Georgia 30728, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU16RXhJaXdpYzNSeVpXVjBJam9pVTA5VlZFZ2dUVUZKVGlCVFZGSkZSVlFpTENKd2JHRmpaU0k2SWt4QlJrRlpSVlJVUlNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EY3lPQ0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRFV1TlRNME1EZzVNemMxTXpjd05DSXNJak0wTGpVNE1UazJPU0lzSWkwNE5TNHdOVEEwTkRZaUxDSXpOQzQ1T0RVd056VWlYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "311 South Main Street",
+                "name_preferred": "311 South Main Street",
+                "place_formatted": "La Fayette, Georgia 30728, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.282231,
+                    34.70011
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODFhOGI1MzItM2EzNy00YzUzLWI4OGItYjg3ODViNThmNDQ2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbXpvN0E",
+                        "name": "La Fayette"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFBPN0E",
+                        "name": "30728"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODFhOGI1MzItM2EzNy00YzUzLWI4OGItYjg3ODViNThmNDQ2",
+                        "name": "S Main St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.70011,
+                    "longitude": -85.282231
+                },
+                "feature_type": "street",
+                "full_address": "S Main St, La Fayette, Georgia 30728, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODFhOGI1MzItM2EzNy00YzUzLWI4OGItYjg3ODViNThmNDQ2",
+                "name": "S Main St",
+                "name_preferred": "S Main St",
+                "place_formatted": "La Fayette, Georgia 30728, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.514318,
+                    34.865108
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDA0NTBmNTMtYjA1NS00OGQ0LTk1OWYtZDUyNTMzNWVkOWQz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpXQ2Jz",
+                        "name": "Dade County",
+                        "wikidata_id": "Q486654"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFN0FvN0E",
+                        "name": "Trenton",
+                        "wikidata_id": "Q2856209"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFh1N0E",
+                        "name": "30752"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDA0NTBmNTMtYjA1NS00OGQ0LTk1OWYtZDUyNTMzNWVkOWQz",
+                        "name": "South Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.865108,
+                    "longitude": -85.514318
+                },
+                "feature_type": "street",
+                "full_address": "South Main Street, Trenton, Georgia 30752, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDA0NTBmNTMtYjA1NS00OGQ0LTk1OWYtZDUyNTMzNWVkOWQz",
+                "name": "South Main Street",
+                "name_preferred": "South Main Street",
+                "place_formatted": "Trenton, Georgia 30752, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.281646,
+                    34.701202
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODY4Mzc0NzItYmU2Zi00YjgxLWI4MDgtM2Q0NzY2N2Y2Yjhh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbXpvN0E",
+                        "name": "La Fayette"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFBPN0E",
+                        "name": "30728"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODY4Mzc0NzItYmU2Zi00YjgxLWI4MDgtM2Q0NzY2N2Y2Yjhh",
+                        "name": "East Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.701202,
+                    "longitude": -85.281646
+                },
+                "feature_type": "street",
+                "full_address": "East Main Street, La Fayette, Georgia 30728, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODY4Mzc0NzItYmU2Zi00YjgxLWI4MDgtM2Q0NzY2N2Y2Yjhh",
+                "name": "Main St",
+                "name_preferred": "East Main Street",
+                "place_formatted": "La Fayette, Georgia 30728, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

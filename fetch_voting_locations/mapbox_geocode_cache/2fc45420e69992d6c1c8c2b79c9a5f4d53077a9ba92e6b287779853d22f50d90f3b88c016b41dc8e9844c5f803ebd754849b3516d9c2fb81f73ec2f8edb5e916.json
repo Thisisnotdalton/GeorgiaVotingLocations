@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.705117,
+                    33.78525
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2ZTY1NzNhMS05NTdjLTQ3MmYtYjQzYy05MzlkNDc4NGU4ODI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "725",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2ZTY1NzNhMS05NTdjLTQ3MmYtYjQzYy05MzlkNDc4NGU4ODI",
+                        "name": "725 South Madison Avenue",
+                        "street_name": "South Madison Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzFtN0E",
+                        "name": "Walton County",
+                        "wikidata_id": "Q498312"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUFJJN0E",
+                        "name": "Monroe",
+                        "wikidata_id": "Q1150751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy91N0E",
+                        "name": "30655"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmU2NTczYTEtOTU3Yy00NzJmLWI0M2MtOTM5ZDQ3ODRlODgy",
+                        "name": "South Madison Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 33.78525,
+                    "longitude": -83.705117,
+                    "routable_points": [
+                        {
+                            "latitude": 33.785209,
+                            "longitude": -83.705104,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "725 South Madison Avenue, Monroe, Georgia 30655, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2ZTY1NzNhMS05NTdjLTQ3MmYtYjQzYy05MzlkNDc4NGU4ODI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "725 South Madison Avenue",
+                "name_preferred": "725 South Madison Avenue",
+                "place_formatted": "Monroe, Georgia 30655, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.711635,
+                    33.799522
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MzY2MDA1ODAtMTAyNS00N2FkLWI1NTgtNjI5MGYwOWY2ZWJk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzFtN0E",
+                        "name": "Walton County",
+                        "wikidata_id": "Q498312"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUFJJN0E",
+                        "name": "Monroe",
+                        "wikidata_id": "Q1150751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy91N0E",
+                        "name": "30655"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzY2MDA1ODAtMTAyNS00N2FkLWI1NTgtNjI5MGYwOWY2ZWJk",
+                        "name": "North Madison Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.799522,
+                    "longitude": -83.711635
+                },
+                "feature_type": "street",
+                "full_address": "North Madison Avenue, Monroe, Georgia 30655, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzY2MDA1ODAtMTAyNS00N2FkLWI1NTgtNjI5MGYwOWY2ZWJk",
+                "name": "North Madison Avenue",
+                "name_preferred": "North Madison Avenue",
+                "place_formatted": "Monroe, Georgia 30655, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.713184,
+                    33.794779
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZy91N0E",
+            "properties": {
+                "bbox": [
+                    -83.8331,
+                    33.704446,
+                    -83.544184,
+                    33.884032
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzFtN0E",
+                        "name": "Walton County",
+                        "wikidata_id": "Q498312"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUFJJN0E",
+                        "name": "Monroe",
+                        "wikidata_id": "Q1150751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy91N0E",
+                        "name": "30655"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.794779,
+                    "longitude": -83.713184
+                },
+                "feature_type": "postcode",
+                "full_address": "Monroe, Georgia 30655, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZy91N0E",
+                "name": "30655",
+                "name_preferred": "30655",
+                "place_formatted": "Monroe, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.773163,
+                    33.798246
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTNmN2Q1MTctMjFhMC00OTdjLTg4MTUtN2IyY2EwNWVkZTIy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzFtN0E",
+                        "name": "Walton County",
+                        "wikidata_id": "Q498312"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEUFJJN0E",
+                        "name": "Monroe",
+                        "wikidata_id": "Q1150751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy91N0E",
+                        "name": "30655"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTNmN2Q1MTctMjFhMC00OTdjLTg4MTUtN2IyY2EwNWVkZTIy",
+                        "name": "Monroe Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.798246,
+                    "longitude": -83.773163
+                },
+                "feature_type": "street",
+                "full_address": "Monroe Drive, Monroe, Georgia 30655, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTNmN2Q1MTctMjFhMC00OTdjLTg4MTUtN2IyY2EwNWVkZTIy",
+                "name": "Monroe Drive",
+                "name_preferred": "Monroe Drive",
+                "place_formatted": "Monroe, Georgia 30655, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.555704,
+                    33.913021
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzQwMGRhYWMtYzUzNC00OGU3LTlmM2ItODE4ODcxNGQ5MzY4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q492026"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBZXpJN0E",
+                        "name": "Bogart",
+                        "wikidata_id": "Q2251342"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzB1N0E",
+                        "name": "30622"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzQwMGRhYWMtYzUzNC00OGU3LTlmM2ItODE4ODcxNGQ5MzY4",
+                        "name": "Monroe Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.913021,
+                    "longitude": -83.555704
+                },
+                "feature_type": "street",
+                "full_address": "Monroe Highway, Bogart, Georgia 30622, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzQwMGRhYWMtYzUzNC00OGU3LTlmM2ItODE4ODcxNGQ5MzY4",
+                "name": "Monroe Highway",
+                "name_preferred": "Monroe Highway",
+                "place_formatted": "Bogart, Georgia 30622, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

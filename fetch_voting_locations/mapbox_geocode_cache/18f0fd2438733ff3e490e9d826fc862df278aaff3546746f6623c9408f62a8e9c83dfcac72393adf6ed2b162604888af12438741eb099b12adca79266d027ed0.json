@@ -1,0 +1,334 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.580459,
+                    33.400575
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowNzdmMjE5MC1hZjczLTRhNTEtOTE4Ni0zMzc0NDhmN2U5YTM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "201",
+                        "mapbox_id": "dXJuOm1ieGFkcjowNzdmMjE5MC1hZjczLTRhNTEtOTE4Ni0zMzc0NDhmN2U5YTM",
+                        "name": "201 Willowbend Road",
+                        "street_name": "Willowbend Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIK1NNN0E",
+                        "name": "Ridgelake"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeU9JN0E",
+                        "name": "Peachtree City",
+                        "wikidata_id": "Q2467256"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkJPN0E",
+                        "name": "30269"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDc3ZjIxOTAtYWY3My00YTUxLTkxODYtMzM3NDQ4ZjdlOWEz",
+                        "name": "Willowbend Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.400575,
+                    "longitude": -84.580459,
+                    "routable_points": [
+                        {
+                            "latitude": 33.400855,
+                            "longitude": -84.580166,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "201 Willowbend Road, Peachtree City, Georgia 30269, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowNzdmMjE5MC1hZjczLTRhNTEtOTE4Ni0zMzc0NDhmN2U5YTM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "201 Willowbend Road",
+                "name_preferred": "201 Willowbend Road",
+                "place_formatted": "Peachtree City, Georgia 30269, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.572995,
+                    33.401701
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGI2NGMyZTEtNmIyMS00N2MyLWFhZGMtZmM5NDAwMmI4Mzdj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDMXdNN0E",
+                        "name": "Edgewater"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeU9JN0E",
+                        "name": "Peachtree City",
+                        "wikidata_id": "Q2467256"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkJPN0E",
+                        "name": "30269"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGI2NGMyZTEtNmIyMS00N2MyLWFhZGMtZmM5NDAwMmI4Mzdj",
+                        "name": "Willowbend Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.401701,
+                    "longitude": -84.572995
+                },
+                "feature_type": "street",
+                "full_address": "Willowbend Rd, Peachtree City, Georgia 30269, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGI2NGMyZTEtNmIyMS00N2MyLWFhZGMtZmM5NDAwMmI4Mzdj",
+                "name": "Willowbend Rd",
+                "name_preferred": "Willowbend Rd",
+                "place_formatted": "Peachtree City, Georgia 30269, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.591149,
+                    33.397331
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZkJPN0E",
+            "properties": {
+                "bbox": [
+                    -84.627004,
+                    33.329743,
+                    -84.512828,
+                    33.447659
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeU9JN0E",
+                        "name": "Peachtree City",
+                        "wikidata_id": "Q2467256"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkJPN0E",
+                        "name": "30269"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.397331,
+                    "longitude": -84.591149
+                },
+                "feature_type": "postcode",
+                "full_address": "Peachtree City, Georgia 30269, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZkJPN0E",
+                "name": "30269",
+                "name_preferred": "30269",
+                "place_formatted": "Peachtree City, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.541616,
+                    33.368025
+                ],
+                "type": "Point"
+            },
+            "id": "address.854807994760708",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBNm5NN0E",
+                            "name": "Braelinn",
+                            "wikidata_id": "Q4955317"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpKb1JNN0E",
+                        "name": "The Marks"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeU9JN0E",
+                        "name": "Peachtree City",
+                        "wikidata_id": "Q2467256"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkJPN0E",
+                        "name": "30269"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.854807994760708",
+                        "name": "Peachtree Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.368025,
+                    "longitude": -84.541616
+                },
+                "feature_type": "street",
+                "full_address": "Peachtree Parkway, Peachtree City, Georgia 30269, United States",
+                "mapbox_id": "address.854807994760708",
+                "name": "Peachtree Parkway",
+                "name_preferred": "Peachtree Parkway",
+                "place_formatted": "Peachtree City, Georgia 30269, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.592,
+                    33.395998
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTVmYjZlZDMtNWI3ZS00NjE4LTgyMmItMzVlNDk5ODY3OGRk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpjd2Jz",
+                        "name": "Fayette County",
+                        "wikidata_id": "Q501115"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeU9JN0E",
+                        "name": "Peachtree City",
+                        "wikidata_id": "Q2467256"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkJPN0E",
+                        "name": "30269"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTVmYjZlZDMtNWI3ZS00NjE4LTgyMmItMzVlNDk5ODY3OGRk",
+                        "name": "City Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.395998,
+                    "longitude": -84.592
+                },
+                "feature_type": "street",
+                "full_address": "City Circle, Peachtree City, Georgia 30269, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTVmYjZlZDMtNWI3ZS00NjE4LTgyMmItMzVlNDk5ODY3OGRk",
+                "name": "City Circle",
+                "name_preferred": "City Circle",
+                "place_formatted": "Peachtree City, Georgia 30269, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

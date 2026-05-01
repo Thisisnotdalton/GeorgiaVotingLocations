@@ -1,0 +1,345 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.331903,
+                    33.944495
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowYTAwMzQ4ZS1iN2ZmLTQwN2UtYTBhNC00NzdjYmY5MTVhMmU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5339",
+                        "mapbox_id": "dXJuOm1ieGFkcjowYTAwMzQ4ZS1iN2ZmLTQwN2UtYTBhNC00NzdjYmY5MTVhMmU",
+                        "name": "5339 Chamblee Dunwoody Road",
+                        "street_name": "Chamblee Dunwoody Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCWGdJN0E",
+                        "name": "Dunwoody",
+                        "wikidata_id": "Q1208436"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmV1N0E",
+                        "name": "30338"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGEwMDM0OGUtYjdmZi00MDdlLWEwYTQtNDc3Y2JmOTE1YTJl",
+                        "name": "Chamblee Dunwoody Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.944495,
+                    "longitude": -84.331903,
+                    "routable_points": [
+                        {
+                            "latitude": 33.944402,
+                            "longitude": -84.332067,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5339 Chamblee Dunwoody Road, Dunwoody, Georgia 30338, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowYTAwMzQ4ZS1iN2ZmLTQwN2UtYTBhNC00NzdjYmY5MTVhMmU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5339 Chamblee Dunwoody Road",
+                "name_preferred": "5339 Chamblee Dunwoody Road",
+                "place_formatted": "Dunwoody, Georgia 30338, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.314809,
+                    33.930466
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjRlOThiMmUtMTVlZC00ZWU2LWEwZjMtOTc2ZWFhZDQ1MTdm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCWGdJN0E",
+                        "name": "Dunwoody",
+                        "wikidata_id": "Q1208436"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmV1N0E",
+                        "name": "30338"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjRlOThiMmUtMTVlZC00ZWU2LWEwZjMtOTc2ZWFhZDQ1MTdm",
+                        "name": "Chamblee Dunwoody Way"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.930466,
+                    "longitude": -84.314809
+                },
+                "feature_type": "street",
+                "full_address": "Chamblee Dunwoody Way, Dunwoody, Georgia 30338, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjRlOThiMmUtMTVlZC00ZWU2LWEwZjMtOTc2ZWFhZDQ1MTdm",
+                "name": "Chamblee Dunwoody Road",
+                "name_preferred": "Chamblee Dunwoody Way",
+                "place_formatted": "Dunwoody, Georgia 30338, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.335421,
+                    33.94757
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZmV1N0E",
+            "properties": {
+                "bbox": [
+                    -84.35424,
+                    33.916369,
+                    -84.282877,
+                    33.970883
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCWGdJN0E",
+                        "name": "Dunwoody",
+                        "wikidata_id": "Q1208436"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmV1N0E",
+                        "name": "30338"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.94757,
+                    "longitude": -84.335421
+                },
+                "feature_type": "postcode",
+                "full_address": "Dunwoody, Georgia 30338, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZmV1N0E",
+                "name": "30338",
+                "name_preferred": "30338",
+                "place_formatted": "Dunwoody, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.28764,
+                    33.90983
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjY2Yjg0ZDMtMGU0NC00NDhkLWI2Y2UtODAwZWUxMDZlY2I5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVUVvN0E",
+                        "name": "Doraville",
+                        "wikidata_id": "Q2111734"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmdPN0E",
+                        "name": "30341"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjY2Yjg0ZDMtMGU0NC00NDhkLWI2Y2UtODAwZWUxMDZlY2I5",
+                        "name": "Chamblee Dunwoody Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.90983,
+                    "longitude": -84.28764
+                },
+                "feature_type": "street",
+                "full_address": "Chamblee Dunwoody Road, Doraville, Georgia 30341, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjY2Yjg0ZDMtMGU0NC00NDhkLWI2Y2UtODAwZWUxMDZlY2I5",
+                "name": "Chamblee Dunwoody Road",
+                "name_preferred": "Chamblee Dunwoody Road",
+                "place_formatted": "Doraville, Georgia 30341, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.34787,
+                    33.960294
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDc2OGM0OTItYmMzMi00MjljLWE5NTYtMDk4YjA4YzJlMjdl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpHNDdzN0E",
+                            "name": "Oak Point"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpKa3lNN0E",
+                        "name": "The Branches"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFV3BJN0E",
+                        "name": "Sandy Springs",
+                        "wikidata_id": "Q914884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmtPN0E",
+                        "name": "30350"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDc2OGM0OTItYmMzMi00MjljLWE5NTYtMDk4YjA4YzJlMjdl",
+                        "name": "Dunwoody Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.960294,
+                    "longitude": -84.34787
+                },
+                "feature_type": "street",
+                "full_address": "Dunwoody Road, Sandy Springs, Georgia 30350, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDc2OGM0OTItYmMzMi00MjljLWE5NTYtMDk4YjA4YzJlMjdl",
+                "name": "Dunwoody Road",
+                "name_preferred": "Dunwoody Road",
+                "place_formatted": "Sandy Springs, Georgia 30350, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

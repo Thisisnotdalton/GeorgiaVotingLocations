@@ -1,0 +1,365 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.981608,
+                    34.535022
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplZjE3MzY2Zi04ZGUyLTQzNzctYmE0My01YTE4ZDdjNTJhOTM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "56",
+                        "mapbox_id": "dXJuOm1ieGFkcjplZjE3MzY2Zi04ZGUyLTQzNzctYmE0My01YTE4ZDdjNTJhOTM",
+                        "name": "56 Short Street",
+                        "street_name": "Short Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyRWJz",
+                        "name": "Lumpkin County",
+                        "wikidata_id": "Q492040"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTFBJN0E",
+                        "name": "Dahlonega",
+                        "wikidata_id": "Q1003662"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1l1N0E",
+                        "name": "30533"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWYxNzM2NmYtOGRlMi00Mzc3LWJhNDMtNWExOGQ3YzUyYTkz",
+                        "name": "Short Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.535022,
+                    "longitude": -83.981608,
+                    "routable_points": [
+                        {
+                            "latitude": 34.535035,
+                            "longitude": -83.981423,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "56 Short Street, Dahlonega, Georgia 30533, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplZjE3MzY2Zi04ZGUyLTQzNzctYmE0My01YTE4ZDdjNTJhOTM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "56 Short Street",
+                "name_preferred": "56 Short Street",
+                "place_formatted": "Dahlonega, Georgia 30533, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.977891,
+                    34.427187
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWWlMQ0p6ZEhKbFpYUWlPaUpUU0U5U1ZDQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrUkJTRXhQVGtWSFFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV6TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RRdU1Ua3hNRFFpTENJek5DNDBNVGd6T0RraUxDSXRPRE11T0RNeU9ETXhJaXdpTXpRdU56TTBPRGt6SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "56",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWWlMQ0p6ZEhKbFpYUWlPaUpUU0U5U1ZDQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrUkJTRXhQVGtWSFFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV6TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RRdU1Ua3hNRFFpTENJek5DNDBNVGd6T0RraUxDSXRPRE11T0RNeU9ETXhJaXdpTXpRdU56TTBPRGt6SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTox",
+                        "name": "56 Shore Drive",
+                        "street_name": "Shore Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyRWJz",
+                        "name": "Lumpkin County",
+                        "wikidata_id": "Q492040"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTFBJN0E",
+                        "name": "Dahlonega",
+                        "wikidata_id": "Q1003662"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1l1N0E",
+                        "name": "30533"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVFlpTENKemRISmxaWFFpT2lKVFNFOVNWQ0JUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa1JCU0V4UFRrVkhRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURVek15SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVNVGt4TURRaUxDSXpOQzQwTVRnek9Ea2lMQ0l0T0RNdU9ETXlPRE14SWl3aU16UXVOek0wT0RreklsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6MQ",
+                        "name": "Shore Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.427187,
+                    "longitude": -83.977891,
+                    "routable_points": [
+                        {
+                            "latitude": 34.427187,
+                            "longitude": -83.977891,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "56 Shore Drive, Dahlonega, Georgia 30533, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWWlMQ0p6ZEhKbFpYUWlPaUpUU0U5U1ZDQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrUkJTRXhQVGtWSFFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV6TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RRdU1Ua3hNRFFpTENJek5DNDBNVGd6T0RraUxDSXRPRE11T0RNeU9ETXhJaXdpTXpRdU56TTBPRGt6SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "56 Shore Drive",
+                "name_preferred": "56 Shore Drive",
+                "place_formatted": "Dahlonega, Georgia 30533, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.060963,
+                    34.511147
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWWlMQ0p6ZEhKbFpYUWlPaUpUU0U5U1ZDQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrUkJTRXhQVGtWSFFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV6TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RRdU1Ua3hNRFFpTENJek5DNDBNVGd6T0RraUxDSXRPRE11T0RNeU9ETXhJaXdpTXpRdU56TTBPRGt6SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "56",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWWlMQ0p6ZEhKbFpYUWlPaUpUU0U5U1ZDQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrUkJTRXhQVGtWSFFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV6TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RRdU1Ua3hNRFFpTENJek5DNDBNVGd6T0RraUxDSXRPRE11T0RNeU9ETXhJaXdpTXpRdU56TTBPRGt6SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToy",
+                        "name": "56 Shore Lane",
+                        "street_name": "Shore Lane"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyRWJz",
+                        "name": "Lumpkin County",
+                        "wikidata_id": "Q492040"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTFBJN0E",
+                        "name": "Dahlonega",
+                        "wikidata_id": "Q1003662"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1l1N0E",
+                        "name": "30533"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOVFlpTENKemRISmxaWFFpT2lKVFNFOVNWQ0JUVkZKRlJWUWlMQ0p3YkdGalpTSTZJa1JCU0V4UFRrVkhRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURVek15SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVNVGt4TURRaUxDSXpOQzQwTVRnek9Ea2lMQ0l0T0RNdU9ETXlPRE14SWl3aU16UXVOek0wT0RreklsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mg",
+                        "name": "Shore Lane"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.511147,
+                    "longitude": -84.060963,
+                    "routable_points": [
+                        {
+                            "latitude": 34.511147,
+                            "longitude": -84.060963,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "56 Shore Lane, Dahlonega, Georgia 30533, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5UWWlMQ0p6ZEhKbFpYUWlPaUpUU0U5U1ZDQlRWRkpGUlZRaUxDSndiR0ZqWlNJNklrUkJTRXhQVGtWSFFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFV6TXlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RRdU1Ua3hNRFFpTENJek5DNDBNVGd6T0RraUxDSXRPRE11T0RNeU9ETXhJaXdpTXpRdU56TTBPRGt6SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "56 Shore Lane",
+                "name_preferred": "56 Shore Lane",
+                "place_formatted": "Dahlonega, Georgia 30533, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.03266,
+                    34.54641
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NTllZDIyZjQtYWNhMy00ZWY0LWJjMmItZWVkMTRiYWY1YjZh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyRWJz",
+                        "name": "Lumpkin County",
+                        "wikidata_id": "Q492040"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTFBJN0E",
+                        "name": "Dahlonega",
+                        "wikidata_id": "Q1003662"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1l1N0E",
+                        "name": "30533"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTllZDIyZjQtYWNhMy00ZWY0LWJjMmItZWVkMTRiYWY1YjZh",
+                        "name": "Shorty Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.54641,
+                    "longitude": -84.03266
+                },
+                "feature_type": "street",
+                "full_address": "Shorty Dr, Dahlonega, Georgia 30533, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTllZDIyZjQtYWNhMy00ZWY0LWJjMmItZWVkMTRiYWY1YjZh",
+                "name": "Shorty Dr",
+                "name_preferred": "Shorty Dr",
+                "place_formatted": "Dahlonega, Georgia 30533, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.985117,
+                    34.532342
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ1l1N0E",
+            "properties": {
+                "bbox": [
+                    -84.224226,
+                    34.418391,
+                    -83.852863,
+                    34.679638
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyRWJz",
+                        "name": "Lumpkin County",
+                        "wikidata_id": "Q492040"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTFBJN0E",
+                        "name": "Dahlonega",
+                        "wikidata_id": "Q1003662"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1l1N0E",
+                        "name": "30533"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.532342,
+                    "longitude": -83.985117
+                },
+                "feature_type": "postcode",
+                "full_address": "Dahlonega, Georgia 30533, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ1l1N0E",
+                "name": "30533",
+                "name_preferred": "30533",
+                "place_formatted": "Dahlonega, Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

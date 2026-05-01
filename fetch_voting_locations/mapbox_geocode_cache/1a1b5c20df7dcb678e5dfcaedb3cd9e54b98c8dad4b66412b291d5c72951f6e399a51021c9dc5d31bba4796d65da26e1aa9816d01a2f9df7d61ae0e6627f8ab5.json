@@ -1,0 +1,321 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.583179,
+                    33.566882
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjNjQwMWJhOC1lYWIzLTQyYmMtOWMwZi0yOGExODc0ZWRhOWU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "40",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjNjQwMWJhOC1lYWIzLTQyYmMtOWMwZi0yOGExODc0ZWRhOWU",
+                        "name": "40 Washington Street",
+                        "street_name": "Washington Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHVW1vN0E",
+                        "name": "Fairburn",
+                        "wikidata_id": "Q3261359"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZPN0E",
+                        "name": "30213"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzY0MDFiYTgtZWFiMy00MmJjLTljMGYtMjhhMTg3NGVkYTll",
+                        "name": "Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.566882,
+                    "longitude": -84.583179,
+                    "routable_points": [
+                        {
+                            "latitude": 33.567009,
+                            "longitude": -84.58311,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "40 Washington Street, Fairburn, Georgia 30213, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjNjQwMWJhOC1lYWIzLTQyYmMtOWMwZi0yOGExODc0ZWRhOWU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "40 Washington Street",
+                "name_preferred": "40 Washington Street",
+                "place_formatted": "Fairburn, Georgia 30213, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.581539,
+                    33.566904
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZXZPN0E",
+            "properties": {
+                "bbox": [
+                    -84.756721,
+                    33.516394,
+                    -84.458669,
+                    33.659408
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHVW1vN0E",
+                        "name": "Fairburn",
+                        "wikidata_id": "Q3261359"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZPN0E",
+                        "name": "30213"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.566904,
+                    "longitude": -84.581539
+                },
+                "feature_type": "postcode",
+                "full_address": "Fairburn, Georgia 30213, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZXZPN0E",
+                "name": "30213",
+                "name_preferred": "30213",
+                "place_formatted": "Fairburn, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.552955,
+                    33.582141
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjNmZWEzMDMtOTA0Ni00MDkzLTk2ZjctZDNiNmQ0NmNhNmZm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpITnVJN0E",
+                        "name": "Union City",
+                        "wikidata_id": "Q3261692"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkp1N0E",
+                        "name": "30291"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjNmZWEzMDMtOTA0Ni00MDkzLTk2ZjctZDNiNmQ0NmNhNmZm",
+                        "name": "Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.582141,
+                    "longitude": -84.552955
+                },
+                "feature_type": "street",
+                "full_address": "Washington Street, Union City, Georgia 30291, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjNmZWEzMDMtOTA0Ni00MDkzLTk2ZjctZDNiNmQ0NmNhNmZm",
+                "name": "Washington Street",
+                "name_preferred": "Washington Street",
+                "place_formatted": "Union City, Georgia 30291, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.135473,
+                    33.999995
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGMzNmNlOGYtZGU1ZS00OTE1LWFjNjctOTg1YmU1MWUyMDJj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBWXFvN0E",
+                            "name": "Berkeley Lake"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV2tvN0E",
+                        "name": "Duluth",
+                        "wikidata_id": "Q285751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUZPN0E",
+                        "name": "30096"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGMzNmNlOGYtZGU1ZS00OTE1LWFjNjctOTg1YmU1MWUyMDJj",
+                        "name": "Washington Street Northwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.999995,
+                    "longitude": -84.135473
+                },
+                "feature_type": "street",
+                "full_address": "Washington Street Northwest, Duluth, Georgia 30096, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGMzNmNlOGYtZGU1ZS00OTE1LWFjNjctOTg1YmU1MWUyMDJj",
+                "name": "Washington St",
+                "name_preferred": "Washington Street Northwest",
+                "place_formatted": "Duluth, Georgia 30096, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.272727,
+                    33.777081
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZGY4YmY4NWUtNmUzZS00NzlhLThkNmUtYjYzZDg3Y2U5OTk0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo4cWpz",
+                        "name": "Avondale Estates",
+                        "wikidata_id": "Q2090004"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGF1N0E",
+                        "name": "30002"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGY4YmY4NWUtNmUzZS00NzlhLThkNmUtYjYzZDg3Y2U5OTk0",
+                        "name": "Washington Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.777081,
+                    "longitude": -84.272727
+                },
+                "feature_type": "street",
+                "full_address": "Washington Street, Avondale Estates, Georgia 30002, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGY4YmY4NWUtNmUzZS00NzlhLThkNmUtYjYzZDg3Y2U5OTk0",
+                "name": "Washington Street",
+                "name_preferred": "Washington Street",
+                "place_formatted": "Avondale Estates, Georgia 30002, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

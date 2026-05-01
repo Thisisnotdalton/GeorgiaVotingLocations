@@ -1,0 +1,319 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.265579,
+                    33.476881
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3OTBmOTRiNC05YmMwLTQ2NjAtYmMyYy0yN2JkZTljMDZlY2Q",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5907",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3OTBmOTRiNC05YmMwLTQ2NjAtYmMyYy0yN2JkZTljMDZlY2Q",
+                        "name": "5907 Euchee Creek Drive",
+                        "street_name": "Euchee Creek Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUR2Jz",
+                        "name": "Columbia County",
+                        "wikidata_id": "Q115307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQmtvN0E",
+                        "name": "Grovetown",
+                        "wikidata_id": "Q2728276"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGZPN0E",
+                        "name": "30813"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzkwZjk0YjQtOWJjMC00NjYwLWJjMmMtMjdiZGU5YzA2ZWNk",
+                        "name": "Euchee Creek Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.476881,
+                    "longitude": -82.265579,
+                    "routable_points": [
+                        {
+                            "latitude": 33.47671,
+                            "longitude": -82.265748,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5907 Euchee Creek Drive, Grovetown, Georgia 30813, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3OTBmOTRiNC05YmMwLTQ2NjAtYmMyYy0yN2JkZTljMDZlY2Q",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5907 Euchee Creek Drive",
+                "name_preferred": "5907 Euchee Creek Drive",
+                "place_formatted": "Grovetown, Georgia 30813, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.198915,
+                    33.450699
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaGZPN0E",
+            "properties": {
+                "bbox": [
+                    -82.308892,
+                    33.394334,
+                    -82.128744,
+                    33.53868
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUR2Jz",
+                        "name": "Columbia County",
+                        "wikidata_id": "Q115307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQmtvN0E",
+                        "name": "Grovetown",
+                        "wikidata_id": "Q2728276"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGZPN0E",
+                        "name": "30813"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.450699,
+                    "longitude": -82.198915
+                },
+                "feature_type": "postcode",
+                "full_address": "Grovetown, Georgia 30813, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaGZPN0E",
+                "name": "30813",
+                "name_preferred": "30813",
+                "place_formatted": "Grovetown, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.198915,
+                    33.450699
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDQmtvN0E",
+            "properties": {
+                "bbox": [
+                    -82.308892,
+                    33.394334,
+                    -82.128744,
+                    33.53868
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUR2Jz",
+                        "name": "Columbia County",
+                        "wikidata_id": "Q115307"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQmtvN0E",
+                        "name": "Grovetown",
+                        "wikidata_id": "Q2728276"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.450699,
+                    "longitude": -82.198915
+                },
+                "feature_type": "place",
+                "full_address": "Grovetown, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDQmtvN0E",
+                "name": "Grovetown",
+                "name_preferred": "Grovetown",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.031366,
+                    33.461126
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODhmMmJjNTMtZTFkMS00ZmViLWFlMWYtNTY0YjE0YWFhNTJh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVE5NN0E",
+                        "name": "Highland Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG51N0E",
+                        "name": "30904"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODhmMmJjNTMtZTFkMS00ZmViLWFlMWYtNTY0YjE0YWFhNTJh",
+                        "name": "Parkway Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.461126,
+                    "longitude": -82.031366
+                },
+                "feature_type": "street",
+                "full_address": "Parkway Drive, Augusta, Georgia 30904, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODhmMmJjNTMtZTFkMS00ZmViLWFlMWYtNTY0YjE0YWFhNTJh",
+                "name": "Parkway Drive",
+                "name_preferred": "Parkway Drive",
+                "place_formatted": "Augusta, Georgia 30904, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.034474,
+                    33.613945
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NTU5MmQyNTAtZjI5ZS00ZTVlLWEzMWEtNWQ4MTRkNzUyY2M0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpha2Jz",
+                        "name": "Edgefield County",
+                        "wikidata_id": "Q495096"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBN1FJN0E",
+                        "name": "Clarks Hill",
+                        "wikidata_id": "Q2517417"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYzN1N0E",
+                        "name": "29821"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTU5MmQyNTAtZjI5ZS00ZTVlLWEzMWEtNWQ4MTRkNzUyY2M0",
+                        "name": "Creek Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.613945,
+                    "longitude": -82.034474
+                },
+                "feature_type": "street",
+                "full_address": "Creek Drive, Clarks Hill, South Carolina 29821, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTU5MmQyNTAtZjI5ZS00ZTVlLWEzMWEtNWQ4MTRkNzUyY2M0",
+                "name": "Creek Drive",
+                "name_preferred": "Creek Drive",
+                "place_formatted": "Clarks Hill, South Carolina 29821, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

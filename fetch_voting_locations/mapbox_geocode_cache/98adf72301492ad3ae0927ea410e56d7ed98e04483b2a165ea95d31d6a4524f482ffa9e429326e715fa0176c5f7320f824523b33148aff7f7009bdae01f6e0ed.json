@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.137841,
+                    33.429375
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozNzcwYmVjNi03YjdmLTQ5ZmMtYWNhOC00NTVjYjJjMTliZGI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1550",
+                        "mapbox_id": "dXJuOm1ieGFkcjozNzcwYmVjNi03YjdmLTQ5ZmMtYWNhOC00NTVjYjJjMTliZGI",
+                        "name": "1550 South Zack Hinton Parkway",
+                        "street_name": "South Zack Hinton Parkway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERW1vN0E",
+                        "name": "McDonough",
+                        "wikidata_id": "Q2075251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTdPN0E",
+                        "name": "30253"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Mzc3MGJlYzYtN2I3Zi00OWZjLWFjYTgtNDU1Y2IyYzE5YmRi",
+                        "name": "South Zack Hinton Parkway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.429375,
+                    "longitude": -84.137841,
+                    "routable_points": [
+                        {
+                            "latitude": 33.429381,
+                            "longitude": -84.138053,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1550 South Zack Hinton Parkway, McDonough, Georgia 30253, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozNzcwYmVjNi03YjdmLTQ5ZmMtYWNhOC00NTVjYjJjMTliZGI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1550 South Zack Hinton Parkway",
+                "name_preferred": "1550 South Zack Hinton Parkway",
+                "place_formatted": "McDonough, Georgia 30253, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.152138,
+                    33.428432
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTAyOWNjNzItMWRkZi00ZGIwLTkyNDQtYTAxODJlNWFmZmZh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERW1vN0E",
+                        "name": "McDonough",
+                        "wikidata_id": "Q2075251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTdPN0E",
+                        "name": "30253"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTAyOWNjNzItMWRkZi00ZGIwLTkyNDQtYTAxODJlNWFmZmZh",
+                        "name": "Hinton Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.428432,
+                    "longitude": -84.152138
+                },
+                "feature_type": "street",
+                "full_address": "Hinton Drive, McDonough, Georgia 30253, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTAyOWNjNzItMWRkZi00ZGIwLTkyNDQtYTAxODJlNWFmZmZh",
+                "name": "Hinton Drive",
+                "name_preferred": "Hinton Drive",
+                "place_formatted": "McDonough, Georgia 30253, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.153909,
+                    33.428791
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjA1MGM4YzAtMjM3My00MjRmLTkxYzYtMWNkNTY0MTVmOGEy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERW1vN0E",
+                        "name": "McDonough",
+                        "wikidata_id": "Q2075251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTdPN0E",
+                        "name": "30253"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjA1MGM4YzAtMjM3My00MjRmLTkxYzYtMWNkNTY0MTVmOGEy",
+                        "name": "Ward Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.428791,
+                    "longitude": -84.153909
+                },
+                "feature_type": "street",
+                "full_address": "Ward Drive, McDonough, Georgia 30253, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjA1MGM4YzAtMjM3My00MjRmLTkxYzYtMWNkNTY0MTVmOGEy",
+                "name": "Hinton Drive",
+                "name_preferred": "Ward Drive",
+                "place_formatted": "McDonough, Georgia 30253, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.153315,
+                    33.456671
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTNlNjc0NDktNGUwYi00ZjdiLWE5NzUtYjNmNGFmMTMxNGI3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERW1vN0E",
+                        "name": "McDonough",
+                        "wikidata_id": "Q2075251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTdPN0E",
+                        "name": "30253"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTNlNjc0NDktNGUwYi00ZjdiLWE5NzUtYjNmNGFmMTMxNGI3",
+                        "name": "Hinton Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.456671,
+                    "longitude": -84.153315
+                },
+                "feature_type": "street",
+                "full_address": "Hinton Street, McDonough, Georgia 30253, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTNlNjc0NDktNGUwYi00ZjdiLWE5NzUtYjNmNGFmMTMxNGI3",
+                "name": "Hinton Street",
+                "name_preferred": "Hinton Street",
+                "place_formatted": "McDonough, Georgia 30253, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.14639,
+                    33.447687
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZTdPN0E",
+            "properties": {
+                "bbox": [
+                    -84.253467,
+                    33.377165,
+                    -84.127631,
+                    33.52479
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERW1vN0E",
+                        "name": "McDonough",
+                        "wikidata_id": "Q2075251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTdPN0E",
+                        "name": "30253"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.447687,
+                    "longitude": -84.14639
+                },
+                "feature_type": "postcode",
+                "full_address": "McDonough, Georgia 30253, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZTdPN0E",
+                "name": "30253",
+                "name_preferred": "30253",
+                "place_formatted": "McDonough, Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

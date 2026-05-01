@@ -1,0 +1,333 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.454383,
+                    31.798137
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozYmQ5MjdhNC1lZjYxLTRiYTUtODk0My03MGU4Mzg2ZDU5MDg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "9397",
+                        "mapbox_id": "dXJuOm1ieGFkcjozYmQ5MjdhNC1lZjYxLTRiYTUtODk0My03MGU4Mzg2ZDU5MDg",
+                        "name": "9397 East Oglethorpe Highway",
+                        "street_name": "East Oglethorpe Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp6dWJz",
+                        "name": "Liberty County",
+                        "wikidata_id": "Q487692"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpES1NvN0E",
+                        "name": "Midway",
+                        "wikidata_id": "Q3261544"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTFPN0E",
+                        "name": "31320"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2JkOTI3YTQtZWY2MS00YmE1LTg5NDMtNzBlODM4NmQ1OTA4",
+                        "name": "East Oglethorpe Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 31.798137,
+                    "longitude": -81.454383,
+                    "routable_points": [
+                        {
+                            "latitude": 31.798107,
+                            "longitude": -81.454301,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "9397 East Oglethorpe Highway, Midway, Georgia 31320, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozYmQ5MjdhNC1lZjYxLTRiYTUtODk0My03MGU4Mzg2ZDU5MDg",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "9397 East Oglethorpe Highway",
+                "name_preferred": "9397 East Oglethorpe Highway",
+                "place_formatted": "Midway, Georgia 31320, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.548783,
+                    31.846994
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTc2ZmUzMGMtMDRjNy00NjA0LWE2MWQtZDQ5YzNkZWU4MjQy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp6dWJz",
+                        "name": "Liberty County",
+                        "wikidata_id": "Q487692"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDUEtvN0E",
+                            "name": "Hinesville"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCcWJJN0E",
+                        "name": "Flemington"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXlPN0E",
+                        "name": "31313"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTc2ZmUzMGMtMDRjNy00NjA0LWE2MWQtZDQ5YzNkZWU4MjQy",
+                        "name": "East Oglethorpe Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.846994,
+                    "longitude": -81.548783
+                },
+                "feature_type": "street",
+                "full_address": "East Oglethorpe Highway, Flemington, Georgia 31313, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTc2ZmUzMGMtMDRjNy00NjA0LWE2MWQtZDQ5YzNkZWU4MjQy",
+                "name": "East Oglethorpe Highway",
+                "name_preferred": "East Oglethorpe Highway",
+                "place_formatted": "Flemington, Georgia 31313, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.430711,
+                    31.805398
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaTFPN0E",
+            "properties": {
+                "bbox": [
+                    -81.586072,
+                    31.558642,
+                    -81.128848,
+                    31.8809
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp6dWJz",
+                        "name": "Liberty County",
+                        "wikidata_id": "Q487692"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpES1NvN0E",
+                        "name": "Midway",
+                        "wikidata_id": "Q3261544"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTFPN0E",
+                        "name": "31320"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.805398,
+                    "longitude": -81.430711
+                },
+                "feature_type": "postcode",
+                "full_address": "Midway, Georgia 31320, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaTFPN0E",
+                "name": "31320",
+                "name_preferred": "31320",
+                "place_formatted": "Midway, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.526382,
+                    31.827777
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Y2NmNDJlMTgtNGMxOS00NjNiLThiMTMtYzQ3OTdjZDc0NDcz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp6dWJz",
+                        "name": "Liberty County",
+                        "wikidata_id": "Q487692"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDUEtvN0E",
+                            "name": "Hinesville"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdUhJN0E",
+                        "name": "Fort Stewart",
+                        "wikidata_id": "Q1438754"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXlPN0E",
+                        "name": "31313"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2NmNDJlMTgtNGMxOS00NjNiLThiMTMtYzQ3OTdjZDc0NDcz",
+                        "name": "Oglethorpe Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.827777,
+                    "longitude": -81.526382
+                },
+                "feature_type": "street",
+                "full_address": "Oglethorpe Highway, Fort Stewart, Georgia 31313, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2NmNDJlMTgtNGMxOS00NjNiLThiMTMtYzQ3OTdjZDc0NDcz",
+                "name": "Oglethorpe Highway",
+                "name_preferred": "Oglethorpe Highway",
+                "place_formatted": "Fort Stewart, Georgia 31313, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.63557,
+                    31.772319
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmE5NzIwNTAtOTdhZS00MTViLTliOGItNzMyMzRjNDYwNWU3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp6dWJz",
+                        "name": "Liberty County",
+                        "wikidata_id": "Q487692"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLNk1xN0E",
+                        "name": "Walthourville",
+                        "wikidata_id": "Q304642"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCdUhvN0E",
+                            "name": "Fort Stewart"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUExJN0E",
+                        "name": "Hinesville",
+                        "wikidata_id": "Q1994691"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXlPN0E",
+                        "name": "31313"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmE5NzIwNTAtOTdhZS00MTViLTliOGItNzMyMzRjNDYwNWU3",
+                        "name": "Oglethorpe Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.772319,
+                    "longitude": -81.63557
+                },
+                "feature_type": "street",
+                "full_address": "Oglethorpe Highway, Hinesville, Georgia 31313, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmE5NzIwNTAtOTdhZS00MTViLTliOGItNzMyMzRjNDYwNWU3",
+                "name": "Oglethorpe Highway",
+                "name_preferred": "Oglethorpe Highway",
+                "place_formatted": "Hinesville, Georgia 31313, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

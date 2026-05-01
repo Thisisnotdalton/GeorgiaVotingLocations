@@ -1,0 +1,339 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.782419,
+                    33.828903
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkMzUxOTQ0Mi0yZDY3LTRlOWYtOWIyOC04ZTEzMzRmY2Q3MWE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "140",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkMzUxOTQ0Mi0yZDY3LTRlOWYtOWIyOC04ZTEzMzRmY2Q3MWE",
+                        "name": "140 Bethel Church Road",
+                        "street_name": "Bethel Church Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUk9HN0E",
+                        "name": "Paulding County",
+                        "wikidata_id": "Q501140"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUFhvN0E",
+                        "name": "Hiram",
+                        "wikidata_id": "Q2342376"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVpPN0E",
+                        "name": "30141"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDM1MTk0NDItMmQ2Ny00ZTlmLTliMjgtOGUxMzM0ZmNkNzFh",
+                        "name": "Bethel Church Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 33.828903,
+                    "longitude": -84.782419,
+                    "routable_points": [
+                        {
+                            "latitude": 33.828898,
+                            "longitude": -84.782466,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "140 Bethel Church Road, Hiram, Georgia 30141, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkMzUxOTQ0Mi0yZDY3LTRlOWYtOWIyOC04ZTEzMzRmY2Q3MWE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "140 Bethel Church Road",
+                "name_preferred": "140 Bethel Church Road",
+                "place_formatted": "Hiram, Georgia 30141, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.762331,
+                    33.875784
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZVpPN0E",
+            "properties": {
+                "bbox": [
+                    -84.832018,
+                    33.807693,
+                    -84.719333,
+                    33.922482
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUk9HN0E",
+                        "name": "Paulding County",
+                        "wikidata_id": "Q501140"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUFhvN0E",
+                        "name": "Hiram",
+                        "wikidata_id": "Q2342376"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVpPN0E",
+                        "name": "30141"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.875784,
+                    "longitude": -84.762331
+                },
+                "feature_type": "postcode",
+                "full_address": "Hiram, Georgia 30141, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZVpPN0E",
+                "name": "30141",
+                "name_preferred": "30141",
+                "place_formatted": "Hiram, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.774198,
+                    33.903501
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OGQ5MzdmODUtODYwOS00Nzc3LTg1MTQtMThhNjJiZGVlMzgx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUk9HN0E",
+                        "name": "Paulding County",
+                        "wikidata_id": "Q501140"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUFhvN0E",
+                        "name": "Hiram",
+                        "wikidata_id": "Q2342376"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVpPN0E",
+                        "name": "30141"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGQ5MzdmODUtODYwOS00Nzc3LTg1MTQtMThhNjJiZGVlMzgx",
+                        "name": "Hiram Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.903501,
+                    "longitude": -84.774198
+                },
+                "feature_type": "street",
+                "full_address": "Hiram Drive, Hiram, Georgia 30141, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGQ5MzdmODUtODYwOS00Nzc3LTg1MTQtMThhNjJiZGVlMzgx",
+                "name": "Hiram Drive",
+                "name_preferred": "Hiram Drive",
+                "place_formatted": "Hiram, Georgia 30141, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.862204,
+                    33.826535
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UUXdJaXdpYzNSeVpXVjBJam9pUWtWVVNFVk1JRU5JVlZKRFNDQlNSQ0lzSW5Cc1lXTmxJam9pU0VsU1FVMGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF4TkRFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW1KaWIzZ2lPbHNpTFRnMUxqQTFNRE14SWl3aU16TXVOemMwTnpVNElpd2lMVGcwTGpjeU1qazNOeUlzSWpNMExqQTRNall3T1NKZExDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "140",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UUXdJaXdpYzNSeVpXVjBJam9pUWtWVVNFVk1JRU5JVlZKRFNDQlNSQ0lzSW5Cc1lXTmxJam9pU0VsU1FVMGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF4TkRFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW1KaWIzZ2lPbHNpTFRnMUxqQTFNRE14SWl3aU16TXVOemMwTnpVNElpd2lMVGcwTGpjeU1qazNOeUlzSWpNMExqQTRNall3T1NKZExDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6Mw",
+                        "name": "140 Bethel Drive",
+                        "street_name": "Bethel Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUk9HN0E",
+                        "name": "Paulding County",
+                        "wikidata_id": "Q501140"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTGhvN0E",
+                        "name": "Dallas",
+                        "wikidata_id": "Q1003667"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZWd1N0E",
+                        "name": "30157"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFF3SWl3aWMzUnlaV1YwSWpvaVFrVlVTRVZNSUVOSVZWSkRTQ0JTUkNJc0luQnNZV05sSWpvaVNFbFNRVTBpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBeE5ERWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0ltSmliM2dpT2xzaUxUZzFMakExTURNeElpd2lNek11TnpjME56VTRJaXdpTFRnMExqY3lNamszTnlJc0lqTTBMakE0TWpZd09TSmRMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjM",
+                        "name": "Bethel Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.826535,
+                    "longitude": -84.862204,
+                    "routable_points": [
+                        {
+                            "latitude": 33.826535,
+                            "longitude": -84.862204,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "140 Bethel Drive, Dallas, Georgia 30157, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UUXdJaXdpYzNSeVpXVjBJam9pUWtWVVNFVk1JRU5JVlZKRFNDQlNSQ0lzSW5Cc1lXTmxJam9pU0VsU1FVMGlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF4TkRFaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW1KaWIzZ2lPbHNpTFRnMUxqQTFNRE14SWl3aU16TXVOemMwTnpVNElpd2lMVGcwTGpjeU1qazNOeUlzSWpNMExqQTRNall3T1NKZExDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "140 Bethel Drive",
+                "name_preferred": "140 Bethel Drive",
+                "place_formatted": "Dallas, Georgia 30157, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.762331,
+                    33.875784
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDUFhvN0E",
+            "properties": {
+                "bbox": [
+                    -84.832018,
+                    33.807693,
+                    -84.719333,
+                    33.922482
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUk9HN0E",
+                        "name": "Paulding County",
+                        "wikidata_id": "Q501140"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUFhvN0E",
+                        "name": "Hiram",
+                        "wikidata_id": "Q2342376"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.875784,
+                    "longitude": -84.762331
+                },
+                "feature_type": "place",
+                "full_address": "Hiram, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDUFhvN0E",
+                "name": "Hiram",
+                "name_preferred": "Hiram",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

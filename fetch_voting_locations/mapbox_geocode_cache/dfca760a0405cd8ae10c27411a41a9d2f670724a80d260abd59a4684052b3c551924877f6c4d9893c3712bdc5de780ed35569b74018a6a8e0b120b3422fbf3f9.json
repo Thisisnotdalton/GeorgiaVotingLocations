@@ -1,0 +1,333 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.440651,
+                    33.680368
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjMTUxYjU0Yy1lNGUzLTQ0MTQtYjk3Yy0xYTQwODE2NDQ3YjY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2757",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjMTUxYjU0Yy1lNGUzLTQ0MTQtYjk3Yy0xYTQwODE2NDQ3YjY",
+                        "name": "2757 Main Street",
+                        "street_name": "Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYTBJN0E",
+                        "name": "East Point",
+                        "wikidata_id": "Q2933940"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmh1N0E",
+                        "name": "30344"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzE1MWI1NGMtZTRlMy00NDE0LWI5N2MtMWE0MDgxNjQ0N2I2",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.680368,
+                    "longitude": -84.440651,
+                    "routable_points": [
+                        {
+                            "latitude": 33.680372,
+                            "longitude": -84.440411,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2757 Main Street, East Point, Georgia 30344, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjMTUxYjU0Yy1lNGUzLTQ0MTQtYjk3Yy0xYTQwODE2NDQ3YjY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2757 Main Street",
+                "name_preferred": "2757 Main Street",
+                "place_formatted": "East Point, Georgia 30344, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.44056,
+                    33.677433
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZThlOWYwYTctMjA1MS00NjU1LWIwZGEtNGY1MzUzZjVmM2E2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYTBJN0E",
+                        "name": "East Point",
+                        "wikidata_id": "Q2933940"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmh1N0E",
+                        "name": "30344"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZThlOWYwYTctMjA1MS00NjU1LWIwZGEtNGY1MzUzZjVmM2E2",
+                        "name": "E Main St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.677433,
+                    "longitude": -84.44056
+                },
+                "feature_type": "street",
+                "full_address": "E Main St, East Point, Georgia 30344, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZThlOWYwYTctMjA1MS00NjU1LWIwZGEtNGY1MzUzZjVmM2E2",
+                "name": "E Main St",
+                "name_preferred": "E Main St",
+                "place_formatted": "East Point, Georgia 30344, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.43786,
+                    33.68141
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NWNlMjI1ZDMtYTgyOS00OWNiLTkxOWUtYzM3MzkwNTk4Yzgw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYTBJN0E",
+                        "name": "East Point",
+                        "wikidata_id": "Q2933940"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmh1N0E",
+                        "name": "30344"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWNlMjI1ZDMtYTgyOS00OWNiLTkxOWUtYzM3MzkwNTk4Yzgw",
+                        "name": "N Main St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.68141,
+                    "longitude": -84.43786
+                },
+                "feature_type": "street",
+                "full_address": "N Main St, East Point, Georgia 30344, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWNlMjI1ZDMtYTgyOS00OWNiLTkxOWUtYzM3MzkwNTk4Yzgw",
+                "name": "N Main St",
+                "name_preferred": "N Main St",
+                "place_formatted": "East Point, Georgia 30344, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.442016,
+                    33.678747
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZmh1N0E",
+            "properties": {
+                "bbox": [
+                    -84.521614,
+                    33.628126,
+                    -84.415118,
+                    33.705709
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYTBJN0E",
+                        "name": "East Point",
+                        "wikidata_id": "Q2933940"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmh1N0E",
+                        "name": "30344"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.678747,
+                    "longitude": -84.442016
+                },
+                "feature_type": "postcode",
+                "full_address": "East Point, Georgia 30344, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZmh1N0E",
+                "name": "30344",
+                "name_preferred": "30344",
+                "place_formatted": "East Point, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.547312,
+                    33.579951
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWIzYWEyYmItNWVjYS00MGYxLTg2NzEtMTlkYWNjMmY3NGZl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpITnVJN0E",
+                        "name": "Union City",
+                        "wikidata_id": "Q3261692"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkp1N0E",
+                        "name": "30291"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWIzYWEyYmItNWVjYS00MGYxLTg2NzEtMTlkYWNjMmY3NGZl",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.579951,
+                    "longitude": -84.547312
+                },
+                "feature_type": "street",
+                "full_address": "Main Street, Union City, Georgia 30291, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWIzYWEyYmItNWVjYS00MGYxLTg2NzEtMTlkYWNjMmY3NGZl",
+                "name": "Main Street",
+                "name_preferred": "Main Street",
+                "place_formatted": "Union City, Georgia 30291, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

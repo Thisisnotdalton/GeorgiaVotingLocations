@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.394092,
+                    33.00994
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjozYWI5YjM5NC0zYWRhLTQzYjItOTJlNS1iYWI2NDA5MGVjNGM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1200",
+                        "mapbox_id": "dXJuOm1ieGFkcjozYWI5YjM5NC0zYWRhLTQzYjItOTJlNS1iYWI2NDA5MGVjNGM",
+                        "name": "1200 School Street",
+                        "street_name": "School Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpzU2Jz",
+                        "name": "Jefferson County",
+                        "wikidata_id": "Q486386"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNExvN0E",
+                        "name": "Louisville",
+                        "wikidata_id": "Q2931901"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjd1N0E",
+                        "name": "30434"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2FiOWIzOTQtM2FkYS00M2IyLTkyZTUtYmFiNjQwOTBlYzRj",
+                        "name": "School Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 33.00994,
+                    "longitude": -82.394092,
+                    "routable_points": [
+                        {
+                            "latitude": 33.010239,
+                            "longitude": -82.394372,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1200 School Street, Louisville, Georgia 30434, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjozYWI5YjM5NC0zYWRhLTQzYjItOTJlNS1iYWI2NDA5MGVjNGM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1200 School Street",
+                "name_preferred": "1200 School Street",
+                "place_formatted": "Louisville, Georgia 30434, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.408422,
+                    32.999061
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZjd1N0E",
+            "properties": {
+                "bbox": [
+                    -82.618272,
+                    32.866527,
+                    -82.184907,
+                    33.148707
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpzU2Jz",
+                        "name": "Jefferson County",
+                        "wikidata_id": "Q486386"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDNExvN0E",
+                        "name": "Louisville",
+                        "wikidata_id": "Q2931901"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjd1N0E",
+                        "name": "30434"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.999061,
+                    "longitude": -82.408422
+                },
+                "feature_type": "postcode",
+                "full_address": "Louisville, Georgia 30434, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZjd1N0E",
+                "name": "30434",
+                "name_preferred": "30434",
+                "place_formatted": "Louisville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.461885,
+                    33.209607
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzQ0MjRmMjItNmJkMy00YzkyLTg1NWUtMzA3YzlkNjAzMzQz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpzU2Jz",
+                        "name": "Jefferson County",
+                        "wikidata_id": "Q486386"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFcTNJN0E",
+                        "name": "Stapleton"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGtPN0E",
+                        "name": "30823"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzQ0MjRmMjItNmJkMy00YzkyLTg1NWUtMzA3YzlkNjAzMzQz",
+                        "name": "School Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.209607,
+                    "longitude": -82.461885
+                },
+                "feature_type": "street",
+                "full_address": "School Street, Stapleton, Georgia 30823, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzQ0MjRmMjItNmJkMy00YzkyLTg1NWUtMzA3YzlkNjAzMzQz",
+                "name": "School Street",
+                "name_preferred": "School Street",
+                "place_formatted": "Stapleton, Georgia 30823, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.38622,
+                    33.21201
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWI3NWZjZWEtNWIwNC00NGM4LWJjOTctODk2NTg0NjY5MzY0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpzU2Jz",
+                        "name": "Jefferson County",
+                        "wikidata_id": "Q486386"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGY2FvN0E",
+                        "name": "Wrens",
+                        "wikidata_id": "Q2140189"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG1PN0E",
+                        "name": "30833"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWI3NWZjZWEtNWIwNC00NGM4LWJjOTctODk2NTg0NjY5MzY0",
+                        "name": "School Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.21201,
+                    "longitude": -82.38622
+                },
+                "feature_type": "street",
+                "full_address": "School Street, Wrens, Georgia 30833, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWI3NWZjZWEtNWIwNC00NGM4LWJjOTctODk2NTg0NjY5MzY0",
+                "name": "School Street",
+                "name_preferred": "School Street",
+                "place_formatted": "Wrens, Georgia 30833, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.530078,
+                    33.190162
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OGRkNjA4NTEtNGYzMi00NjAwLWFjOWEtNDkxZDk0NmUzMDI3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpzU2Jz",
+                        "name": "Jefferson County",
+                        "wikidata_id": "Q486386"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2K2pz",
+                        "name": "Avera"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGF1N0E",
+                        "name": "30803"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGRkNjA4NTEtNGYzMi00NjAwLWFjOWEtNDkxZDk0NmUzMDI3",
+                        "name": "Louisville Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.190162,
+                    "longitude": -82.530078
+                },
+                "feature_type": "street",
+                "full_address": "Louisville Road, Avera, Georgia 30803, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGRkNjA4NTEtNGYzMi00NjAwLWFjOWEtNDkxZDk0NmUzMDI3",
+                "name": "Louisville Road",
+                "name_preferred": "Louisville Road",
+                "place_formatted": "Avera, Georgia 30803, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,310 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.45537,
+                    31.94255
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmZTgwZTdmMy00MTJiLTRiNTItOGU5Yi0xYjI3OTQ0ZDQ3MDA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "239",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmZTgwZTdmMy00MTJiLTRiNTItOGU5Yi0xYjI3OTQ0ZDQ3MDA",
+                        "name": "239 Gordon Street",
+                        "street_name": "Gordon Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDJHN0E",
+                        "name": "Wilcox County",
+                        "wikidata_id": "Q486791"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTGZJN0E",
+                        "name": "Rochelle"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVJPN0E",
+                        "name": "31079"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmU4MGU3ZjMtNDEyYi00YjUyLThlOWItMWIyNzk0NGQ0NzAw",
+                        "name": "Gordon Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.94255,
+                    "longitude": -83.45537,
+                    "routable_points": [
+                        {
+                            "latitude": 31.942565,
+                            "longitude": -83.455122,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "239 Gordon Street, Rochelle, Georgia 31079, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmZTgwZTdmMy00MTJiLTRiNTItOGU5Yi0xYjI3OTQ0ZDQ3MDA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "239 Gordon Street",
+                "name_preferred": "239 Gordon Street",
+                "place_formatted": "Rochelle, Georgia 31079, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.482456,
+                    32.01508
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDdiYjFmZWQtMjdmNC00N2RhLTkzZjktMGMwYTVlM2JmZjBi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDJHN0E",
+                        "name": "Wilcox County",
+                        "wikidata_id": "Q486791"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTGZJN0E",
+                        "name": "Rochelle"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVJPN0E",
+                        "name": "31079"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDdiYjFmZWQtMjdmNC00N2RhLTkzZjktMGMwYTVlM2JmZjBi",
+                        "name": "Gordon Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.01508,
+                    "longitude": -83.482456
+                },
+                "feature_type": "street",
+                "full_address": "Gordon Rd, Rochelle, Georgia 31079, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDdiYjFmZWQtMjdmNC00N2RhLTkzZjktMGMwYTVlM2JmZjBi",
+                "name": "Gordon Rd",
+                "name_preferred": "Gordon Rd",
+                "place_formatted": "Rochelle, Georgia 31079, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.458588,
+                    32.019206
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzQ4MmExZDAtNGYzNi00MmQ5LTg4ZDAtZDg2NmJhNGVlZjlj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDJHN0E",
+                        "name": "Wilcox County",
+                        "wikidata_id": "Q486791"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTGZJN0E",
+                        "name": "Rochelle"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVJPN0E",
+                        "name": "31079"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzQ4MmExZDAtNGYzNi00MmQ5LTg4ZDAtZDg2NmJhNGVlZjlj",
+                        "name": "Gordon Phinney Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.019206,
+                    "longitude": -83.458588
+                },
+                "feature_type": "street",
+                "full_address": "Gordon Phinney Road, Rochelle, Georgia 31079, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzQ4MmExZDAtNGYzNi00MmQ5LTg4ZDAtZDg2NmJhNGVlZjlj",
+                "name": "Gordon Rd",
+                "name_preferred": "Gordon Phinney Road",
+                "place_formatted": "Rochelle, Georgia 31079, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.454694,
+                    31.950864
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaVJPN0E",
+            "properties": {
+                "bbox": [
+                    -83.609123,
+                    31.785974,
+                    -83.354361,
+                    32.095454
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDJHN0E",
+                        "name": "Wilcox County",
+                        "wikidata_id": "Q486791"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTGZJN0E",
+                        "name": "Rochelle"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVJPN0E",
+                        "name": "31079"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.950864,
+                    "longitude": -83.454694
+                },
+                "feature_type": "postcode",
+                "full_address": "Rochelle, Georgia 31079, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaVJPN0E",
+                "name": "31079",
+                "name_preferred": "31079",
+                "place_formatted": "Rochelle, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.454694,
+                    31.950864
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpFTGZJN0E",
+            "properties": {
+                "bbox": [
+                    -83.609123,
+                    31.78285,
+                    -83.354361,
+                    32.098354
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDJHN0E",
+                        "name": "Wilcox County",
+                        "wikidata_id": "Q486791"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFTGZJN0E",
+                        "name": "Rochelle"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.950864,
+                    "longitude": -83.454694
+                },
+                "feature_type": "place",
+                "full_address": "Rochelle, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpFTGZJN0E",
+                "name": "Rochelle",
+                "name_preferred": "Rochelle",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

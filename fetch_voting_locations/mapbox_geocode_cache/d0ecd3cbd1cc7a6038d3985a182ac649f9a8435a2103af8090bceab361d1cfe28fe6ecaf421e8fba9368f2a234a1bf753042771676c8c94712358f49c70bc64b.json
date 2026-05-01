@@ -1,0 +1,331 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.224263,
+                    34.014197
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowNTYwZjAxNi04NDI4LTQ3NjgtOTIwMS1kZjI5NjQ4Zjk3NjY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "9560",
+                        "mapbox_id": "dXJuOm1ieGFkcjowNTYwZjAxNi04NDI4LTQ3NjgtOTIwMS1kZjI5NjQ4Zjk3NjY",
+                        "name": "9560 Spruill Road",
+                        "street_name": "Spruill Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpVc2pz",
+                            "name": "Alpharetta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZFNvN0E",
+                        "name": "Johns Creek",
+                        "wikidata_id": "Q1191460"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGtPN0E",
+                        "name": "30022"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDU2MGYwMTYtODQyOC00NzY4LTkyMDEtZGYyOTY0OGY5NzY2",
+                        "name": "Spruill Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.014197,
+                    "longitude": -84.224263,
+                    "routable_points": [
+                        {
+                            "latitude": 34.014484,
+                            "longitude": -84.224319,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "9560 Spruill Road, Johns Creek, Georgia 30022, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowNTYwZjAxNi04NDI4LTQ3NjgtOTIwMS1kZjI5NjQ4Zjk3NjY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "9560 Spruill Road",
+                "name_preferred": "9560 Spruill Road",
+                "place_formatted": "Johns Creek, Georgia 30022, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.270004,
+                    34.021399
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZGtPN0E",
+            "properties": {
+                "bbox": [
+                    -84.31572,
+                    33.971755,
+                    -84.185536,
+                    34.0679
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpVc2pz",
+                            "name": "Alpharetta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZFNvN0E",
+                        "name": "Johns Creek",
+                        "wikidata_id": "Q1191460"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGtPN0E",
+                        "name": "30022"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.021399,
+                    "longitude": -84.270004
+                },
+                "feature_type": "postcode",
+                "full_address": "Johns Creek, Georgia 30022, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZGtPN0E",
+                "name": "30022",
+                "name_preferred": "30022",
+                "place_formatted": "Johns Creek, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.217409,
+                    34.006821
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWUwZGQ2ZmYtNmM3My00ZTQ4LWJlYWEtZGVhYmY2M2UxZTIx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpVc2pz",
+                            "name": "Alpharetta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZFNvN0E",
+                        "name": "Johns Creek",
+                        "wikidata_id": "Q1191460"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGtPN0E",
+                        "name": "30022"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWUwZGQ2ZmYtNmM3My00ZTQ4LWJlYWEtZGVhYmY2M2UxZTIx",
+                        "name": "Johns Creek Court"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.006821,
+                    "longitude": -84.217409
+                },
+                "feature_type": "street",
+                "full_address": "Johns Creek Court, Johns Creek, Georgia 30022, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWUwZGQ2ZmYtNmM3My00ZTQ4LWJlYWEtZGVhYmY2M2UxZTIx",
+                "name": "Johns Creek Court",
+                "name_preferred": "Johns Creek Court",
+                "place_formatted": "Johns Creek, Georgia 30022, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.25678,
+                    34.049595
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDI2NTVmMTctZDMxOC00OTBkLWE1OGEtMzE3NzUzMzk3N2Ji",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDZFNJN0E",
+                            "name": "Johns Creek"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpVdWpz",
+                        "name": "Alpharetta",
+                        "wikidata_id": "Q1003649"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGtPN0E",
+                        "name": "30022"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDI2NTVmMTctZDMxOC00OTBkLWE1OGEtMzE3NzUzMzk3N2Ji",
+                        "name": "Spruill Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.049595,
+                    "longitude": -84.25678
+                },
+                "feature_type": "street",
+                "full_address": "Spruill Circle, Alpharetta, Georgia 30022, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDI2NTVmMTctZDMxOC00OTBkLWE1OGEtMzE3NzUzMzk3N2Ji",
+                "name": "Spruill Circle",
+                "name_preferred": "Spruill Circle",
+                "place_formatted": "Alpharetta, Georgia 30022, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.190068,
+                    34.018138
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDZFNvN0E",
+            "properties": {
+                "bbox": [
+                    -84.281287,
+                    33.985342,
+                    -84.097833,
+                    34.090601
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZFNvN0E",
+                        "name": "Johns Creek",
+                        "wikidata_id": "Q1191460"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.018138,
+                    "longitude": -84.190068
+                },
+                "feature_type": "place",
+                "full_address": "Johns Creek, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDZFNvN0E",
+                "name": "Johns Creek",
+                "name_preferred": "Johns Creek",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

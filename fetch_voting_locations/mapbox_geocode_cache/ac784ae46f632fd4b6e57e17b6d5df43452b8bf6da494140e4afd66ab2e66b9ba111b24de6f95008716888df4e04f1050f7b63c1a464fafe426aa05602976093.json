@@ -1,0 +1,201 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.43371,
+                    31.37146
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5NmVjZGYyNC02OTU0LTQ5OTEtOTVlOS01OGY0YjJiOGY4NWM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "103",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5NmVjZGYyNC02OTU0LTQ5OTEtOTVlOS01OGY0YjJiOGY4NWM",
+                        "name": "103 Jefferson Street",
+                        "street_name": "Jefferson Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2R2Jz",
+                        "name": "McIntosh County",
+                        "wikidata_id": "Q492652"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTXdJN0E",
+                        "name": "Darien",
+                        "wikidata_id": "Q1165884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXZPN0E",
+                        "name": "31305"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTZlY2RmMjQtNjk1NC00OTkxLTk1ZTktNThmNGIyYjhmODVj",
+                        "name": "Jefferson Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.37146,
+                    "longitude": -81.43371,
+                    "routable_points": [
+                        {
+                            "latitude": 31.371577,
+                            "longitude": -81.433669,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "103 Jefferson Street, Darien, Georgia 31305, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5NmVjZGYyNC02OTU0LTQ5OTEtOTVlOS01OGY0YjJiOGY4NWM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "103 Jefferson Street",
+                "name_preferred": "103 Jefferson Street",
+                "place_formatted": "Darien, Georgia 31305, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.434221,
+                    31.370834
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaXZPN0E",
+            "properties": {
+                "bbox": [
+                    -81.539009,
+                    31.290954,
+                    -81.271653,
+                    31.472596
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2R2Jz",
+                        "name": "McIntosh County",
+                        "wikidata_id": "Q492652"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTXdJN0E",
+                        "name": "Darien",
+                        "wikidata_id": "Q1165884"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaXZPN0E",
+                        "name": "31305"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.370834,
+                    "longitude": -81.434221
+                },
+                "feature_type": "postcode",
+                "full_address": "Darien, Georgia 31305, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaXZPN0E",
+                "name": "31305",
+                "name_preferred": "31305",
+                "place_formatted": "Darien, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.434221,
+                    31.370834
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCTXdJN0E",
+            "properties": {
+                "bbox": [
+                    -81.539009,
+                    31.290954,
+                    -81.244707,
+                    31.472596
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo2R2Jz",
+                        "name": "McIntosh County",
+                        "wikidata_id": "Q492652"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTXdJN0E",
+                        "name": "Darien",
+                        "wikidata_id": "Q1165884"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.370834,
+                    "longitude": -81.434221
+                },
+                "feature_type": "place",
+                "full_address": "Darien, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCTXdJN0E",
+                "name": "Darien",
+                "name_preferred": "Darien",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

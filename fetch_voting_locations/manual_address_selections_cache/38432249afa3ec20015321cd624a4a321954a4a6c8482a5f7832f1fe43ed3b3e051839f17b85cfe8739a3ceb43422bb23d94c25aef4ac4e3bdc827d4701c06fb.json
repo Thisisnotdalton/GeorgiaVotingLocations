@@ -1,0 +1,87 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -81.192052,
+                32.117125
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjo1MjVlMDI2Yy03YWJkLTQ2NWEtYTY1Ny04OTZkNDYwNThlYjg",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "65",
+                    "mapbox_id": "dXJuOm1ieGFkcjo1MjVlMDI2Yy03YWJkLTQ2NWEtYTY1Ny04OTZkNDYwNThlYjg",
+                    "name": "65 Billy B Hair Drive",
+                    "street_name": "Billy B Hair Drive"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                    "name": "Chatham County",
+                    "wikidata_id": "Q384890"
+                },
+                "place": {
+                    "alternate": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCenZvN0E",
+                        "name": "Garden City"
+                    },
+                    "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                    "name": "Savannah",
+                    "wikidata_id": "Q83813"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCaStPN0E",
+                    "name": "31408"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTI1ZTAyNmMtN2FiZC00NjVhLWE2NTctODk2ZDQ2MDU4ZWI4",
+                    "name": "Billy B Hair Drive"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 32.117125,
+                "longitude": -81.192052,
+                "routable_points": [
+                    {
+                        "latitude": 32.116907,
+                        "longitude": -81.19217,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "65 Billy B Hair Drive, Savannah, Georgia 31408, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjo1MjVlMDI2Yy03YWJkLTQ2NWEtYTY1Ny04OTZkNDYwNThlYjg",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "exact",
+                "country": "inferred",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "65 Billy B Hair Drive",
+            "name_preferred": "65 Billy B Hair Drive",
+            "place_formatted": "Savannah, Georgia 31408, United States"
+        },
+        "type": "Feature"
+    }
+]

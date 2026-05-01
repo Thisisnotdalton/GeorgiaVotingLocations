@@ -1,0 +1,313 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.903969,
+                    32.54086
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4MDU2OGEwNi1mZmY4LTQxN2UtOTZjNC1lMzU2MWE5ZjAwMWM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "117",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4MDU2OGEwNi1mZmY4LTQxN2UtOTZjNC1lMzU2MWE5ZjAwMWM",
+                        "name": "117 East Jackson Street",
+                        "street_name": "East Jackson Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5R2Jz",
+                        "name": "Laurens County",
+                        "wikidata_id": "Q491556"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV0ZJN0E",
+                        "name": "Dublin",
+                        "wikidata_id": "Q2671021"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDNPN0E",
+                        "name": "31021"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODA1NjhhMDYtZmZmOC00MTdlLTk2YzQtZTM1NjFhOWYwMDFj",
+                        "name": "East Jackson Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.54086,
+                    "longitude": -82.903969,
+                    "routable_points": [
+                        {
+                            "latitude": 32.540624,
+                            "longitude": -82.903827,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "117 East Jackson Street, Dublin, Georgia 31021, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4MDU2OGEwNi1mZmY4LTQxN2UtOTZjNC1lMzU2MWE5ZjAwMWM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "117 East Jackson Street",
+                "name_preferred": "117 East Jackson Street",
+                "place_formatted": "Dublin, Georgia 31021, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.903827,
+                    32.540624
+                ],
+                "type": "Point"
+            },
+            "id": "address.5625428853536062",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5R2Jz",
+                        "name": "Laurens County",
+                        "wikidata_id": "Q491556"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV0ZJN0E",
+                        "name": "Dublin",
+                        "wikidata_id": "Q2671021"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDNPN0E",
+                        "name": "31021"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.5625428853536062",
+                        "name": "North Jackson Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.540624,
+                    "longitude": -82.903827
+                },
+                "feature_type": "street",
+                "full_address": "North Jackson Street, Dublin, Georgia 31021, United States",
+                "mapbox_id": "address.5625428853536062",
+                "name": "Jackson Square",
+                "name_preferred": "North Jackson Street",
+                "place_formatted": "Dublin, Georgia 31021, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.90349,
+                    32.539945
+                ],
+                "type": "Point"
+            },
+            "id": "address.4991102921937472",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5R2Jz",
+                        "name": "Laurens County",
+                        "wikidata_id": "Q491556"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV0ZJN0E",
+                        "name": "Dublin",
+                        "wikidata_id": "Q2671021"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDNPN0E",
+                        "name": "31021"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.4991102921937472",
+                        "name": "South Jackson Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.539945,
+                    "longitude": -82.90349
+                },
+                "feature_type": "street",
+                "full_address": "South Jackson Street, Dublin, Georgia 31021, United States",
+                "mapbox_id": "address.4991102921937472",
+                "name": "Jackson Square",
+                "name_preferred": "South Jackson Street",
+                "place_formatted": "Dublin, Georgia 31021, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.870461,
+                    32.554726
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDI0NjlkNGEtMjhkNS00ZjRiLWIzN2EtYmM1MmM4MDA3MmY0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5R2Jz",
+                        "name": "Laurens County",
+                        "wikidata_id": "Q491556"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV0VvN0E",
+                        "name": "Dublin"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDZPN0E",
+                        "name": "31027"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDI0NjlkNGEtMjhkNS00ZjRiLWIzN2EtYmM1MmM4MDA3MmY0",
+                        "name": "Jackson Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.554726,
+                    "longitude": -82.870461
+                },
+                "feature_type": "street",
+                "full_address": "Jackson Street, Dublin, Georgia 31027, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDI0NjlkNGEtMjhkNS00ZjRiLWIzN2EtYmM1MmM4MDA3MmY0",
+                "name": "Jackson Street",
+                "name_preferred": "Jackson Street",
+                "place_formatted": "Dublin, Georgia 31027, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.799395,
+                    32.619915
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTFhMWYyMDMtYTgwNy00ZjY1LWE2ZDQtNDc0ZTNmODRmZWRi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5R2Jz",
+                        "name": "Laurens County",
+                        "wikidata_id": "Q491556"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV0VvN0E",
+                        "name": "Dublin"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDZPN0E",
+                        "name": "31027"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTFhMWYyMDMtYTgwNy00ZjY1LWE2ZDQtNDc0ZTNmODRmZWRi",
+                        "name": "Jackson Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.619915,
+                    "longitude": -82.799395
+                },
+                "feature_type": "street",
+                "full_address": "Jackson Road, Dublin, Georgia 31027, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTFhMWYyMDMtYTgwNy00ZjY1LWE2ZDQtNDc0ZTNmODRmZWRi",
+                "name": "Jackson Road",
+                "name_preferred": "Jackson Road",
+                "place_formatted": "Dublin, Georgia 31027, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

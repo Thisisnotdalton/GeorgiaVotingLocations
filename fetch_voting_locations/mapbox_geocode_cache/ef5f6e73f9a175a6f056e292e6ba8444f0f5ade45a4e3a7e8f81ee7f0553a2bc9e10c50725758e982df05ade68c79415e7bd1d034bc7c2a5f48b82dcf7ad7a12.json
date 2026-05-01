@@ -1,0 +1,343 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.362673,
+                    33.965987
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmNDMxM2FhMy04YTYwLTRhY2YtOGYyMS1hZjA2NzMwYzVhMjk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "7741",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmNDMxM2FhMy04YTYwLTRhY2YtOGYyMS1hZjA2NzMwYzVhMjk",
+                        "name": "7741 Roswell Road",
+                        "street_name": "Roswell Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCWGZvN0E",
+                            "name": "Dunwoody"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                        "name": "Atlanta"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmtPN0E",
+                        "name": "30350"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjQzMTNhYTMtOGE2MC00YWNmLThmMjEtYWYwNjczMGM1YTI5",
+                        "name": "Roswell Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.965987,
+                    "longitude": -84.362673,
+                    "routable_points": [
+                        {
+                            "latitude": 33.966158,
+                            "longitude": -84.362995,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "7741 Roswell Road, Atlanta, Georgia 30350, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmNDMxM2FhMy04YTYwLTRhY2YtOGYyMS1hZjA2NzMwYzVhMjk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "7741 Roswell Road",
+                "name_preferred": "7741 Roswell Road",
+                "place_formatted": "Atlanta, Georgia 30350, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.3728,
+                    33.96328
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDdhYzE4MWMtY2Q1Zi00MmM5LTk2ZGEtNWZlNmMxNGE4YWRh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCWGZvN0E",
+                            "name": "Dunwoody"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                        "name": "Atlanta"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmtPN0E",
+                        "name": "30350"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDdhYzE4MWMtY2Q1Zi00MmM5LTk2ZGEtNWZlNmMxNGE4YWRh",
+                        "name": "Roswell Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.96328,
+                    "longitude": -84.3728
+                },
+                "feature_type": "street",
+                "full_address": "Roswell Rd, Atlanta, Georgia 30350, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDdhYzE4MWMtY2Q1Zi00MmM5LTk2ZGEtNWZlNmMxNGE4YWRh",
+                "name": "Roswell Rd",
+                "name_preferred": "Roswell Rd",
+                "place_formatted": "Atlanta, Georgia 30350, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.36766,
+                    33.941079
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzNkOTkxYzYtM2RkMS00ZTg5LThkYTgtYzAwMjExZjhlNjhk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                        "name": "Atlanta"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmF1N0E",
+                        "name": "30328"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzNkOTkxYzYtM2RkMS00ZTg5LThkYTgtYzAwMjExZjhlNjhk",
+                        "name": "Roswell Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.941079,
+                    "longitude": -84.36766
+                },
+                "feature_type": "street",
+                "full_address": "Roswell Rd, Atlanta, Georgia 30328, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzNkOTkxYzYtM2RkMS00ZTg5LThkYTgtYzAwMjExZjhlNjhk",
+                "name": "Roswell Rd",
+                "name_preferred": "Roswell Rd",
+                "place_formatted": "Atlanta, Georgia 30328, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.381796,
+                    33.857407
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODg2MGExZmItY2YwMi00N2JkLWEyNmMtZWU2N2ZhYmRkYTMx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCSTJNN0E",
+                            "name": "Buckhead Triangle",
+                            "wikidata_id": "Q2333137"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpHa2RNN0E",
+                        "name": "North Buckhead",
+                        "wikidata_id": "Q7054323"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFV29vN0E",
+                            "name": "Sandy Springs"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmd1N0E",
+                        "name": "30342"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODg2MGExZmItY2YwMi00N2JkLWEyNmMtZWU2N2ZhYmRkYTMx",
+                        "name": "Roswell Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.857407,
+                    "longitude": -84.381796
+                },
+                "feature_type": "street",
+                "full_address": "Roswell Road, Atlanta, Georgia 30342, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODg2MGExZmItY2YwMi00N2JkLWEyNmMtZWU2N2ZhYmRkYTMx",
+                "name": "Roswell Road",
+                "name_preferred": "Roswell Road",
+                "place_formatted": "Atlanta, Georgia 30342, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.382296,
+                    33.847469
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmFmNGRlZTYtOGUyMS00YzhkLWI4YTktNGQ0MzJhNTQ5NTcy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCSTJNN0E",
+                            "name": "Buckhead Triangle",
+                            "wikidata_id": "Q2333137"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpKQWxNN0E",
+                        "name": "South Tuxedo Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlB1N0E",
+                        "name": "30305"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmFmNGRlZTYtOGUyMS00YzhkLWI4YTktNGQ0MzJhNTQ5NTcy",
+                        "name": "Roswell Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.847469,
+                    "longitude": -84.382296
+                },
+                "feature_type": "street",
+                "full_address": "Roswell Road, Atlanta, Georgia 30305, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmFmNGRlZTYtOGUyMS00YzhkLWI4YTktNGQ0MzJhNTQ5NTcy",
+                "name": "Roswell Road",
+                "name_preferred": "Roswell Road",
+                "place_formatted": "Atlanta, Georgia 30305, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

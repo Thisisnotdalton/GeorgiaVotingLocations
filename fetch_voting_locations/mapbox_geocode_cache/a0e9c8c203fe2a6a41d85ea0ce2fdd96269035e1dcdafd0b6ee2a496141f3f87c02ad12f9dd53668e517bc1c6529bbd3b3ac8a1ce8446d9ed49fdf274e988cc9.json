@@ -1,0 +1,339 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.827657,
+                    33.637769
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkMjE5NGU2NC00N2Y3LTRhMzUtOWFjOC1hNzQ1OThhZTY0NGQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "6100",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkMjE5NGU2NC00N2Y3LTRhMzUtOWFjOC1hNzQ1OThhZTY0NGQ",
+                        "name": "6100 Bill Arp Road",
+                        "street_name": "Bill Arp Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVd1N0E",
+                        "name": "30135"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDIxOTRlNjQtNDdmNy00YTM1LTlhYzgtYTc0NTk4YWU2NDRk",
+                        "name": "Bill Arp Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.637769,
+                    "longitude": -84.827657,
+                    "routable_points": [
+                        {
+                            "latitude": 33.637777,
+                            "longitude": -84.828033,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "6100 Bill Arp Road, Douglasville, Georgia 30135, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkMjE5NGU2NC00N2Y3LTRhMzUtOWFjOC1hNzQ1OThhZTY0NGQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "6100 GA 5",
+                "name_preferred": "6100 Bill Arp Road",
+                "place_formatted": "Douglasville, Georgia 30135, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.775235,
+                    33.628474
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUkyTVRBd0lFZEJMVFVzSUVSdmRXZHNZWE4yYVd4c1pTd2dSMEVnTXpBeE16VWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0ltSmliM2dpT2xzaUxUZzBMamt4TVRBek9TSXNJak16TGpVM016TTNPQ0lzSWkwNE5DNDFOemM0TkRnaUxDSXpNeTQ0TURZek9EY2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "6100",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUkyTVRBd0lFZEJMVFVzSUVSdmRXZHNZWE4yYVd4c1pTd2dSMEVnTXpBeE16VWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0ltSmliM2dpT2xzaUxUZzBMamt4TVRBek9TSXNJak16TGpVM016TTNPQ0lzSWkwNE5DNDFOemM0TkRnaUxDSXpNeTQ0TURZek9EY2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+                        "name": "6100 Duncan Memorial Highway",
+                        "street_name": "Duncan Memorial Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVd1N0E",
+                        "name": "30135"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbkVpT2lJMk1UQXdJRWRCTFRVc0lFUnZkV2RzWVhOMmFXeHNaU3dnUjBFZ016QXhNelVpTENKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbUppYjNnaU9sc2lMVGcwTGpreE1UQXpPU0lzSWpNekxqVTNNek0zT0NJc0lpMDROQzQxTnpjNE5EZ2lMQ0l6TXk0NE1EWXpPRGNpWFN3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6MQ",
+                        "name": "Duncan Memorial Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.628474,
+                    "longitude": -84.775235,
+                    "routable_points": [
+                        {
+                            "latitude": 33.628474,
+                            "longitude": -84.775235,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "6100 Duncan Memorial Highway, Douglasville, Georgia 30135, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUkyTVRBd0lFZEJMVFVzSUVSdmRXZHNZWE4yYVd4c1pTd2dSMEVnTXpBeE16VWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0ltSmliM2dpT2xzaUxUZzBMamt4TVRBek9TSXNJak16TGpVM016TTNPQ0lzSWkwNE5DNDFOemM0TkRnaUxDSXpNeTQ0TURZek9EY2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "6100 GA 5",
+                "name_preferred": "6100 Duncan Memorial Highway",
+                "place_formatted": "Douglasville, Georgia 30135, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.76489,
+                    33.718451
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDE1NWNhNzItMzBjMC00YjQyLWE4ZWQtNTkzMTI0M2UyMTQw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVd1N0E",
+                        "name": "30135"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDE1NWNhNzItMzBjMC00YjQyLWE4ZWQtNTkzMTI0M2UyMTQw",
+                        "name": "Bill Arp Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.718451,
+                    "longitude": -84.76489
+                },
+                "feature_type": "street",
+                "full_address": "Bill Arp Road, Douglasville, Georgia 30135, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDE1NWNhNzItMzBjMC00YjQyLWE4ZWQtNTkzMTI0M2UyMTQw",
+                "name": "GA 5",
+                "name_preferred": "Bill Arp Road",
+                "place_formatted": "Douglasville, Georgia 30135, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.778978,
+                    33.694572
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTQwZGRkMTItNGUyOC00YmM4LTkzYTYtYWY0MGFkOGMzM2Zl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVd1N0E",
+                        "name": "30135"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTQwZGRkMTItNGUyOC00YmM4LTkzYTYtYWY0MGFkOGMzM2Zl",
+                        "name": "Ga-5"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.694572,
+                    "longitude": -84.778978
+                },
+                "feature_type": "street",
+                "full_address": "Ga-5, Douglasville, Georgia 30135, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTQwZGRkMTItNGUyOC00YmM4LTkzYTYtYWY0MGFkOGMzM2Zl",
+                "name": "Ga-5",
+                "name_preferred": "Ga-5",
+                "place_formatted": "Douglasville, Georgia 30135, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.773686,
+                    33.743379
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDdjNzE4OTctMGQ0MS00Y2QzLTg4NWItODVhMGZkZDYwZGVh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVdPN0E",
+                        "name": "30134"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDdjNzE4OTctMGQ0MS00Y2QzLTg4NWItODVhMGZkZDYwZGVh",
+                        "name": "Veterans Memorial Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.743379,
+                    "longitude": -84.773686
+                },
+                "feature_type": "street",
+                "full_address": "Veterans Memorial Highway, Douglasville, Georgia 30134, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDdjNzE4OTctMGQ0MS00Y2QzLTg4NWItODVhMGZkZDYwZGVh",
+                "name": "GA 5",
+                "name_preferred": "Veterans Memorial Highway",
+                "place_formatted": "Douglasville, Georgia 30134, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
