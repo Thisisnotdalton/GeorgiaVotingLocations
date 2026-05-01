@@ -14,7 +14,7 @@ import pandas as pd
 import geopandas as gpd
 from shapely import box
 
-from mapbox_geocode import geocode_address
+from fetch_voting_locations.utils.mapbox_geocode import geocode_address
 
 
 @lru_cache()

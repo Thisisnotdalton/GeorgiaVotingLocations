@@ -10,7 +10,7 @@ from functools import lru_cache
 import requests
 import pandas as pd
 
-from file_cached_function import FileCachedFunction, kwargs_hasher
+from fetch_voting_locations.utils.file_cached_function import FileCachedFunction, kwargs_hasher
 
 
 @lru_cache
