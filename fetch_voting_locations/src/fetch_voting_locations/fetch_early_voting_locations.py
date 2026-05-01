@@ -485,9 +485,8 @@ def get_state_fips(state_name: str = None, state_usps: str = None) -> dict:
     return result
 
 
-def get_state_county_boundaries(state: str = 'Georgia') -> gpd.GeoDataFrame:
+def get_state_county_boundaries(state: str = 'Georgia', national_county_boundary_file = './inputs/cb_2025_us_county_500k.zip') -> gpd.GeoDataFrame:
     # data fetched from https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
-    national_county_boundary_file = './inputs/cb_2018_us_county_500k.zip'  # !cb_2018_us_county_500k.shp'
     assert os.path.isfile(national_county_boundary_file), 'Cannot find national county boundary file!'
     statefp_filter = str(get_state_fips(state_name=state))
     gdf = gpd.read_file(national_county_boundary_file)
