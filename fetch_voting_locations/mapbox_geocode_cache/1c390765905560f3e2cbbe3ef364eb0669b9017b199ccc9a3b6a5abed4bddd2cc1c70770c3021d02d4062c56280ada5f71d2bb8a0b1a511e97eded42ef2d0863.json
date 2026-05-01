@@ -1,0 +1,339 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.119165,
+                    32.086818
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1ZTE0NTQ3Zi02MDIxLTRkZWQtYjNlNS1jN2QyMTdiOGNkYTI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "114",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1ZTE0NTQ3Zi02MDIxLTRkZWQtYjNlNS1jN2QyMTdiOGNkYTI",
+                        "name": "114 West Brazell Street",
+                        "street_name": "West Brazell Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmxtN0E",
+                        "name": "Tattnall County",
+                        "wikidata_id": "Q505310"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFR0pvN0E",
+                        "name": "Reidsville",
+                        "wikidata_id": "Q1311821"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0N1N0E",
+                        "name": "30453"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWUxNDU0N2YtNjAyMS00ZGVkLWIzZTUtYzdkMjE3YjhjZGEy",
+                        "name": "West Brazell Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 32.086818,
+                    "longitude": -82.119165,
+                    "routable_points": [
+                        {
+                            "latitude": 32.08681,
+                            "longitude": -82.119153,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "114 West Brazell Street, Reidsville, Georgia 30453, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1ZTE0NTQ3Zi02MDIxLTRkZWQtYjNlNS1jN2QyMTdiOGNkYTI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "114 West Brazell Street",
+                "name_preferred": "114 West Brazell Street",
+                "place_formatted": "Reidsville, Georgia 30453, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.10889,
+                    32.095799
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjI3MzdmYzgtOTA4Zi00ZTc5LWI3NTktYzM2ZDdiMjY0MWVj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmxtN0E",
+                        "name": "Tattnall County",
+                        "wikidata_id": "Q505310"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFR0pvN0E",
+                        "name": "Reidsville",
+                        "wikidata_id": "Q1311821"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0N1N0E",
+                        "name": "30453"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjI3MzdmYzgtOTA4Zi00ZTc5LWI3NTktYzM2ZDdiMjY0MWVj",
+                        "name": "East Brazell Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.095799,
+                    "longitude": -82.10889
+                },
+                "feature_type": "street",
+                "full_address": "East Brazell Street, Reidsville, Georgia 30453, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjI3MzdmYzgtOTA4Zi00ZTc5LWI3NTktYzM2ZDdiMjY0MWVj",
+                "name": "East Brazell Street",
+                "name_preferred": "East Brazell Street",
+                "place_formatted": "Reidsville, Georgia 30453, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.117929,
+                    32.086847
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ0N1N0E",
+            "properties": {
+                "bbox": [
+                    -82.225044,
+                    31.886003,
+                    -81.946521,
+                    32.140929
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmxtN0E",
+                        "name": "Tattnall County",
+                        "wikidata_id": "Q505310"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFR0pvN0E",
+                        "name": "Reidsville",
+                        "wikidata_id": "Q1311821"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0N1N0E",
+                        "name": "30453"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.086847,
+                    "longitude": -82.117929
+                },
+                "feature_type": "postcode",
+                "full_address": "Reidsville, Georgia 30453, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ0N1N0E",
+                "name": "30453",
+                "name_preferred": "30453",
+                "place_formatted": "Reidsville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.06154,
+                    32.279068
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URTBJaXdpYzNSeVpXVjBJam9pVnlCQ1VrRmFSVXhNSUZOVUlpd2ljR3hoWTJVaU9pSlNSVWxFVTFaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TkRVeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE1pNHlNelE1T0RJaUxDSXpNUzQzT0RJMk1EY2lMQ0l0T0RFdU56WXhOek0xSWl3aU16SXVNekU0T0RNNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "114",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URTBJaXdpYzNSeVpXVjBJam9pVnlCQ1VrRmFSVXhNSUZOVUlpd2ljR3hoWTJVaU9pSlNSVWxFVTFaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TkRVeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE1pNHlNelE1T0RJaUxDSXpNUzQzT0RJMk1EY2lMQ0l0T0RFdU56WXhOek0xSWl3aU16SXVNekU0T0RNNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+                        "name": "114 Will Funderburke Road",
+                        "street_name": "Will Funderburke Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmxtN0E",
+                        "name": "Tattnall County",
+                        "wikidata_id": "Q505310"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQWVJN0E",
+                        "name": "Collins",
+                        "wikidata_id": "Q1950738"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZjN1N0E",
+                        "name": "30421"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEUwSWl3aWMzUnlaV1YwSWpvaVZ5QkNVa0ZhUlV4TUlGTlVJaXdpY0d4aFkyVWlPaUpTUlVsRVUxWkpURXhGSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd05EVXpJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDRNaTR5TXpRNU9ESWlMQ0l6TVM0M09ESTJNRGNpTENJdE9ERXVOell4TnpNMUlpd2lNekl1TXpFNE9ETTRJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjM",
+                        "name": "Will Funderburke Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.279068,
+                    "longitude": -82.06154,
+                    "routable_points": [
+                        {
+                            "latitude": 32.279068,
+                            "longitude": -82.06154,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "114 Will Funderburke Road, Collins, Georgia 30421, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1URTBJaXdpYzNSeVpXVjBJam9pVnlCQ1VrRmFSVXhNSUZOVUlpd2ljR3hoWTJVaU9pSlNSVWxFVTFaSlRFeEZJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TkRVeklpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE1pNHlNelE1T0RJaUxDSXpNUzQzT0RJMk1EY2lMQ0l0T0RFdU56WXhOek0xSWl3aU16SXVNekU0T0RNNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "114 West Rd",
+                "name_preferred": "114 Will Funderburke Road",
+                "place_formatted": "Collins, Georgia 30421, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.117929,
+                    32.086847
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpFR0pvN0E",
+            "properties": {
+                "bbox": [
+                    -82.225044,
+                    31.886003,
+                    -81.946521,
+                    32.140929
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmxtN0E",
+                        "name": "Tattnall County",
+                        "wikidata_id": "Q505310"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFR0pvN0E",
+                        "name": "Reidsville",
+                        "wikidata_id": "Q1311821"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.086847,
+                    "longitude": -82.117929
+                },
+                "feature_type": "place",
+                "full_address": "Reidsville, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpFR0pvN0E",
+                "name": "Reidsville",
+                "name_preferred": "Reidsville",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

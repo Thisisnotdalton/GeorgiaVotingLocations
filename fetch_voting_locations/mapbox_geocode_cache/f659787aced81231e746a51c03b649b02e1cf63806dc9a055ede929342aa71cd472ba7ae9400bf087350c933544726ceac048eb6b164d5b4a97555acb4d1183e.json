@@ -1,0 +1,327 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.09769,
+                    32.005193
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphOThiYTEwZS1iNWNkLTQyZDItYWQ3Mi1lNThmM2QyNWEzNTY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1249",
+                        "mapbox_id": "dXJuOm1ieGFkcjphOThiYTEwZS1iNWNkLTQyZDItYWQ3Mi1lNThmM2QyNWEzNTY",
+                        "name": "1249 Eisenhower Drive",
+                        "street_name": "Eisenhower Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFVE9zN0E",
+                        "name": "Highland Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTlPN0E",
+                        "name": "31406"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTk4YmExMGUtYjVjZC00MmQyLWFkNzItZTU4ZjNkMjVhMzU2",
+                        "name": "Eisenhower Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.005193,
+                    "longitude": -81.09769,
+                    "routable_points": [
+                        {
+                            "latitude": 32.005075,
+                            "longitude": -81.09772,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1249 Eisenhower Drive, Savannah, Georgia 31406, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphOThiYTEwZS1iNWNkLTQyZDItYWQ3Mi1lNThmM2QyNWEzNTY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1249 Eisenhower Drive",
+                "name_preferred": "1249 Eisenhower Drive",
+                "place_formatted": "Savannah, Georgia 31406, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.112151,
+                    32.002847
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaTlPN0E",
+            "properties": {
+                "bbox": [
+                    -81.151368,
+                    31.921685,
+                    -81.013136,
+                    32.027013
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTlPN0E",
+                        "name": "31406"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.002847,
+                    "longitude": -81.112151
+                },
+                "feature_type": "postcode",
+                "full_address": "Savannah, Georgia 31406, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaTlPN0E",
+                "name": "31406",
+                "name_preferred": "31406",
+                "place_formatted": "Savannah, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.228074,
+                    32.007375
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDc2YTUwYWQtZmMzOC00MmFkLTg1NjEtODA2ZGQ0MjQ1MjVj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCenZvN0E",
+                            "name": "Garden City"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTh1N0E",
+                        "name": "31405"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDc2YTUwYWQtZmMzOC00MmFkLTg1NjEtODA2ZGQ0MjQ1MjVj",
+                        "name": "Circle Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.007375,
+                    "longitude": -81.228074
+                },
+                "feature_type": "street",
+                "full_address": "Circle Drive, Savannah, Georgia 31405, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDc2YTUwYWQtZmMzOC00MmFkLTg1NjEtODA2ZGQ0MjQ1MjVj",
+                "name": "Circle Drive",
+                "name_preferred": "Circle Drive",
+                "place_formatted": "Savannah, Georgia 31405, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.047864,
+                    32.056376
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTczYjdmYjItOTQ5Yy00ZjI2LThkNDEtZWM0NjRiMjA1Y2Zi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFM2hvN0E",
+                            "name": "Thunderbolt"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaThPN0E",
+                        "name": "31404"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTczYjdmYjItOTQ5Yy00ZjI2LThkNDEtZWM0NjRiMjA1Y2Zi",
+                        "name": "Savannah"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.056376,
+                    "longitude": -81.047864
+                },
+                "feature_type": "street",
+                "full_address": "Savannah, Savannah, Georgia 31404, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTczYjdmYjItOTQ5Yy00ZjI2LThkNDEtZWM0NjRiMjA1Y2Zi",
+                "name": "Savannah",
+                "name_preferred": "Savannah",
+                "place_formatted": "Savannah, Georgia 31404, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.092575,
+                    32.080527
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpFWTVvN0E",
+            "properties": {
+                "bbox": [
+                    -81.355591,
+                    31.709354,
+                    -80.862982,
+                    32.243979
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                        "name": "Savannah",
+                        "wikidata_id": "Q83813"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.080527,
+                    "longitude": -81.092575
+                },
+                "feature_type": "place",
+                "full_address": "Savannah, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpFWTVvN0E",
+                "name": "Savannah",
+                "name_preferred": "Savannah",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

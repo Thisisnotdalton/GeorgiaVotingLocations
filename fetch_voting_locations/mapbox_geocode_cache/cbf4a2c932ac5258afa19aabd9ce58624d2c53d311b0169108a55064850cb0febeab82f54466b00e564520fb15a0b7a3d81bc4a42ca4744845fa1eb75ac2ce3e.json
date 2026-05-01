@@ -1,0 +1,336 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.507177,
+                    31.206806
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowMGU1ZmE3MC1iOGU2LTRhMjUtYjlkZS1lYmUzMjYwOTEyNjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "30",
+                        "mapbox_id": "dXJuOm1ieGFkcjowMGU1ZmE3MC1iOGU2LTRhMjUtYjlkZS1lYmUzMjYwOTEyNjM",
+                        "name": "30 Nimitz Drive",
+                        "street_name": "Nimitz Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDTUFxN0E",
+                        "name": "Dock Junction",
+                        "wikidata_id": "Q2668503"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYzZzN0E",
+                        "name": "Pine Ridge"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBblhvN0E",
+                        "name": "Brunswick",
+                        "wikidata_id": "Q994144"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakpPN0E",
+                        "name": "31520"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDBlNWZhNzAtYjhlNi00YTI1LWI5ZGUtZWJlMzI2MDkxMjYz",
+                        "name": "Nimitz Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 31.206806,
+                    "longitude": -81.507177,
+                    "routable_points": [
+                        {
+                            "latitude": 31.206111,
+                            "longitude": -81.506925,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "30 Nimitz Drive, Brunswick, Georgia 31520, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowMGU1ZmE3MC1iOGU2LTRhMjUtYjlkZS1lYmUzMjYwOTEyNjM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "30 Nimitz Drive",
+                "name_preferred": "30 Nimitz Drive",
+                "place_formatted": "Brunswick, Georgia 31520, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.49339,
+                    31.149603
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCakpPN0E",
+            "properties": {
+                "bbox": [
+                    -81.540429,
+                    31.1095,
+                    -81.424618,
+                    31.241597
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBblhvN0E",
+                        "name": "Brunswick",
+                        "wikidata_id": "Q994144"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakpPN0E",
+                        "name": "31520"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.149603,
+                    "longitude": -81.49339
+                },
+                "feature_type": "postcode",
+                "full_address": "Brunswick, Georgia 31520, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCakpPN0E",
+                "name": "31520",
+                "name_preferred": "31520",
+                "place_formatted": "Brunswick, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.386413,
+                    31.158958
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NGQ4OGU4ZDctZWJlMy00N2NhLWI1ODUtMzc4MzViMDc4NDVm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJQ1NLN0E",
+                        "name": "St. Simons"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVzBzN0E",
+                        "name": "Saint Simons Heights"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHRDNJN0E",
+                        "name": "Brunswick"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaktPN0E",
+                        "name": "31522"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGQ4OGU4ZDctZWJlMy00N2NhLWI1ODUtMzc4MzViMDc4NDVm",
+                        "name": "Circle Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.158958,
+                    "longitude": -81.386413
+                },
+                "feature_type": "street",
+                "full_address": "Circle Drive, Brunswick, Georgia 31522, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGQ4OGU4ZDctZWJlMy00N2NhLWI1ODUtMzc4MzViMDc4NDVm",
+                "name": "Circle Drive",
+                "name_preferred": "Circle Drive",
+                "place_formatted": "Brunswick, Georgia 31522, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.49339,
+                    31.149603
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpBblhvN0E",
+            "properties": {
+                "bbox": [
+                    -81.782632,
+                    31.029625,
+                    -81.384742,
+                    31.453018
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBblhvN0E",
+                        "name": "Brunswick",
+                        "wikidata_id": "Q994144"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.149603,
+                    "longitude": -81.49339
+                },
+                "feature_type": "place",
+                "full_address": "Brunswick, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpBblhvN0E",
+                "name": "Brunswick",
+                "name_preferred": "Brunswick",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.642432,
+                    31.394446
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MzI3YzlhYTQtNzUwMS00OWIzLTk2NDgtMzEwNjYxMDA0ZTRh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDcC9LN0E",
+                        "name": "Everett",
+                        "wikidata_id": "Q5416964"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBblhvN0E",
+                        "name": "Brunswick",
+                        "wikidata_id": "Q994144"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakx1N0E",
+                        "name": "31525"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzI3YzlhYTQtNzUwMS00OWIzLTk2NDgtMzEwNjYxMDA0ZTRh",
+                        "name": "Brunswick Everett Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.394446,
+                    "longitude": -81.642432
+                },
+                "feature_type": "street",
+                "full_address": "Brunswick Everett Avenue, Brunswick, Georgia 31525, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzI3YzlhYTQtNzUwMS00OWIzLTk2NDgtMzEwNjYxMDA0ZTRh",
+                "name": "Brunswick Avenue",
+                "name_preferred": "Brunswick Everett Avenue",
+                "place_formatted": "Brunswick, Georgia 31525, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

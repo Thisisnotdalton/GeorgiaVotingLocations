@@ -1,0 +1,318 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.896422,
+                    33.554611
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1MmYwM2I1ZS04NGNlLTQ0NGMtYmJhZC0xYmQzOTNmNDQ2Njk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "113",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1MmYwM2I1ZS04NGNlLTQ0NGMtYmJhZC0xYmQzOTNmNDQ2Njk",
+                        "name": "113 Monument Street",
+                        "street_name": "Monument Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmdtN0E",
+                        "name": "Taliaferro County",
+                        "wikidata_id": "Q134080"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCSGNvN0E",
+                        "name": "Crawfordville",
+                        "wikidata_id": "Q2258854"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzR1N0E",
+                        "name": "30631"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTJmMDNiNWUtODRjZS00NDRjLWJiYWQtMWJkMzkzZjQ0NjY5",
+                        "name": "Monument Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 33.554611,
+                    "longitude": -82.896422,
+                    "routable_points": [
+                        {
+                            "latitude": 33.55459,
+                            "longitude": -82.896205,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "113 Monument Street, Crawfordville, Georgia 30631, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1MmYwM2I1ZS04NGNlLTQ0NGMtYmJhZC0xYmQzOTNmNDQ2Njk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "113 Monument Street",
+                "name_preferred": "113 Monument Street",
+                "place_formatted": "Crawfordville, Georgia 30631, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.896259,
+                    33.554211
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZzR1N0E",
+            "properties": {
+                "bbox": [
+                    -83.039358,
+                    33.438109,
+                    -82.679978,
+                    33.69337
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmdtN0E",
+                        "name": "Taliaferro County",
+                        "wikidata_id": "Q134080"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCSGNvN0E",
+                        "name": "Crawfordville",
+                        "wikidata_id": "Q2258854"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzR1N0E",
+                        "name": "30631"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.554211,
+                    "longitude": -82.896259
+                },
+                "feature_type": "postcode",
+                "full_address": "Crawfordville, Georgia 30631, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZzR1N0E",
+                "name": "30631",
+                "name_preferred": "30631",
+                "place_formatted": "Crawfordville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.896259,
+                    33.554211
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCSGNvN0E",
+            "properties": {
+                "bbox": [
+                    -83.039358,
+                    33.438109,
+                    -82.679978,
+                    33.707577
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmdtN0E",
+                        "name": "Taliaferro County",
+                        "wikidata_id": "Q134080"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCSGNvN0E",
+                        "name": "Crawfordville",
+                        "wikidata_id": "Q2258854"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.554211,
+                    "longitude": -82.896259
+                },
+                "feature_type": "place",
+                "full_address": "Crawfordville, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCSGNvN0E",
+                "name": "Crawfordville",
+                "name_preferred": "Crawfordville",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.005905,
+                    33.480949
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWI4NWFiN2QtMTVkZC00YTBkLWJjMmItZTc2Mjk2YTVhZDZh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzppOGJz",
+                        "name": "Greene County",
+                        "wikidata_id": "Q486765"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGVUlvN0E",
+                        "name": "White Plains",
+                        "wikidata_id": "Q1938378"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEd1N0E",
+                        "name": "30678"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWI4NWFiN2QtMTVkZC00YTBkLWJjMmItZTc2Mjk2YTVhZDZh",
+                        "name": "Crawfordville Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.480949,
+                    "longitude": -83.005905
+                },
+                "feature_type": "street",
+                "full_address": "Crawfordville Road, White Plains, Georgia 30678, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWI4NWFiN2QtMTVkZC00YTBkLWJjMmItZTc2Mjk2YTVhZDZh",
+                "name": "Crawfordville Road",
+                "name_preferred": "Crawfordville Road",
+                "place_formatted": "White Plains, Georgia 30678, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.976563,
+                    33.721932
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjVjNDgzMmMtNjdjZS00ZmE1LWIyNTAtMTE5ZjkxOWY1YTY5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWptN0E",
+                        "name": "Oglethorpe County",
+                        "wikidata_id": "Q491525"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpHK2tJN0E",
+                            "name": "Rayle"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpEMTZJN0E",
+                        "name": "Philomath"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEF1N0E",
+                        "name": "30660"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjVjNDgzMmMtNjdjZS00ZmE1LWIyNTAtMTE5ZjkxOWY1YTY5",
+                        "name": "Crawfordville Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.721932,
+                    "longitude": -82.976563
+                },
+                "feature_type": "street",
+                "full_address": "Crawfordville Road, Philomath, Georgia 30660, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjVjNDgzMmMtNjdjZS00ZmE1LWIyNTAtMTE5ZjkxOWY1YTY5",
+                "name": "Crawfordville Road",
+                "name_preferred": "Crawfordville Road",
+                "place_formatted": "Philomath, Georgia 30660, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

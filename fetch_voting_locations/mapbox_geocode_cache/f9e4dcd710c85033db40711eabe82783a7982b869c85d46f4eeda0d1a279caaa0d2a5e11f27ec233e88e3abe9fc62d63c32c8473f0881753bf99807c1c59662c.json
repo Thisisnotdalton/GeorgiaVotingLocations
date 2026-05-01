@@ -1,0 +1,325 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.29261,
+                    30.87028
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3MmQ5ZjgyYS03M2YxLTRlYTQtODFkMi0yY2ZkOWRhZmMzMTc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2808",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3MmQ5ZjgyYS03M2YxLTRlYTQtODFkMi0yY2ZkOWRhZmMzMTc",
+                        "name": "2808 North Oak Street",
+                        "street_name": "North Oak Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxMmJz",
+                        "name": "Lowndes County",
+                        "wikidata_id": "Q493134"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpET2RzN0E",
+                        "name": "Five Points"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGQW1JN0E",
+                        "name": "Valdosta",
+                        "wikidata_id": "Q1010240"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamV1N0E",
+                        "name": "31602"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzJkOWY4MmEtNzNmMS00ZWE0LTgxZDItMmNmZDlkYWZjMzE3",
+                        "name": "North Oak Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 30.87028,
+                    "longitude": -83.29261,
+                    "routable_points": [
+                        {
+                            "latitude": 30.870121,
+                            "longitude": -83.292607,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2808 North Oak Street, Valdosta, Georgia 31602, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3MmQ5ZjgyYS03M2YxLTRlYTQtODFkMi0yY2ZkOWRhZmMzMTc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2808 North Oak Street",
+                "name_preferred": "2808 North Oak Street",
+                "place_formatted": "Valdosta, Georgia 31602, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.270841,
+                    30.889914
+                ],
+                "type": "Point"
+            },
+            "id": "address.7680179236150060",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxMmJz",
+                        "name": "Lowndes County",
+                        "wikidata_id": "Q493134"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJZXBNN0E",
+                        "name": "Schoer Estates"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGQW1JN0E",
+                        "name": "Valdosta",
+                        "wikidata_id": "Q1010240"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamdPN0E",
+                        "name": "31605"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.7680179236150060",
+                        "name": "North Oak Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.889914,
+                    "longitude": -83.270841
+                },
+                "feature_type": "street",
+                "full_address": "North Oak Street, Valdosta, Georgia 31605, United States",
+                "mapbox_id": "address.7680179236150060",
+                "name": "North Oak Street",
+                "name_preferred": "North Oak Street",
+                "place_formatted": "Valdosta, Georgia 31605, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.281106,
+                    30.857739
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCamV1N0E",
+            "properties": {
+                "bbox": [
+                    -83.425229,
+                    30.825333,
+                    -83.231714,
+                    30.929417
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxMmJz",
+                        "name": "Lowndes County",
+                        "wikidata_id": "Q493134"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGQW1JN0E",
+                        "name": "Valdosta",
+                        "wikidata_id": "Q1010240"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamV1N0E",
+                        "name": "31602"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.857739,
+                    "longitude": -83.281106
+                },
+                "feature_type": "postcode",
+                "full_address": "Valdosta, Georgia 31602, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCamV1N0E",
+                "name": "31602",
+                "name_preferred": "31602",
+                "place_formatted": "Valdosta, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.177607,
+                    30.683271
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MGUxNzE1MmItMjQyNC00N2NmLWEzMDMtNDY1N2NjYjFhODUy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxMmJz",
+                        "name": "Lowndes County",
+                        "wikidata_id": "Q493134"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDbzRJN0E",
+                        "name": "Lake Park",
+                        "wikidata_id": "Q2615385"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCam51N0E",
+                        "name": "31636"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGUxNzE1MmItMjQyNC00N2NmLWEzMDMtNDY1N2NjYjFhODUy",
+                        "name": "Oak Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.683271,
+                    "longitude": -83.177607
+                },
+                "feature_type": "street",
+                "full_address": "Oak Street, Lake Park, Georgia 31636, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGUxNzE1MmItMjQyNC00N2NmLWEzMDMtNDY1N2NjYjFhODUy",
+                "name": "Oak Street",
+                "name_preferred": "Oak Street",
+                "place_formatted": "Lake Park, Georgia 31636, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.373353,
+                    30.863367
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTUzYjUwZDAtNzk4Yy00MWZjLTgxNmQtNTdkMmNmZTFhNWFj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJd2Jz",
+                        "name": "Brooks County",
+                        "wikidata_id": "Q488175"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGQW1JN0E",
+                        "name": "Valdosta",
+                        "wikidata_id": "Q1010240"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamV1N0E",
+                        "name": "31602"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTUzYjUwZDAtNzk4Yy00MWZjLTgxNmQtNTdkMmNmZTFhNWFj",
+                        "name": "Valdosta Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.863367,
+                    "longitude": -83.373353
+                },
+                "feature_type": "street",
+                "full_address": "Valdosta Highway, Valdosta, Georgia 31602, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTUzYjUwZDAtNzk4Yy00MWZjLTgxNmQtNTdkMmNmZTFhNWFj",
+                "name": "Valdosta Highway",
+                "name_preferred": "Valdosta Highway",
+                "place_formatted": "Valdosta, Georgia 31602, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

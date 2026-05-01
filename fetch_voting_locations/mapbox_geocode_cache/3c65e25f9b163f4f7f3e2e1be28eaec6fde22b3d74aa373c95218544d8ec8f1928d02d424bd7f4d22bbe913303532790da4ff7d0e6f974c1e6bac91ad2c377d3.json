@@ -1,0 +1,343 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.288214,
+                    34.980403
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5YjJkMDFkOC0wNjNmLTQzNTItOTA4Yy0zYjI5MGQ4Y2NhYzE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "400",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5YjJkMDFkOC0wNjNmLTQzNTItOTA4Yy0zYjI5MGQ4Y2NhYzE",
+                        "name": "400 Mcfarland Avenue",
+                        "street_name": "Mcfarland Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUFZvN0E",
+                        "name": "Rossville",
+                        "wikidata_id": "Q3261835"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFV1N0E",
+                        "name": "30741"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWIyZDAxZDgtMDYzZi00MzUyLTkwOGMtM2IyOTBkOGNjYWMx",
+                        "name": "Mcfarland Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.980403,
+                    "longitude": -85.288214,
+                    "routable_points": [
+                        {
+                            "latitude": 34.980662,
+                            "longitude": -85.288861,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "400 Mcfarland Avenue, Rossville, Georgia 30741, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5YjJkMDFkOC0wNjNmLTQzNTItOTA4Yy0zYjI5MGQ4Y2NhYzE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "400 Mcfarland Avenue",
+                "name_preferred": "400 Mcfarland Avenue",
+                "place_formatted": "Rossville, Georgia 30741, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.286385,
+                    34.983483
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaFV1N0E",
+            "properties": {
+                "bbox": [
+                    -85.347606,
+                    34.890371,
+                    -85.198665,
+                    34.986009
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUFZvN0E",
+                        "name": "Rossville",
+                        "wikidata_id": "Q3261835"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFV1N0E",
+                        "name": "30741"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.983483,
+                    "longitude": -85.286385
+                },
+                "feature_type": "postcode",
+                "full_address": "Rossville, Georgia 30741, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaFV1N0E",
+                "name": "30741",
+                "name_preferred": "30741",
+                "place_formatted": "Rossville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.286901,
+                    34.984705
+                ],
+                "type": "Point"
+            },
+            "id": "address.7357107229547250",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUFZvN0E",
+                        "name": "Rossville",
+                        "wikidata_id": "Q3261835"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFV1N0E",
+                        "name": "30741"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.7357107229547250",
+                        "name": "Rossville Boulevard"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.984705,
+                    "longitude": -85.286901
+                },
+                "feature_type": "street",
+                "full_address": "Rossville Boulevard, Rossville, Georgia 30741, United States",
+                "mapbox_id": "address.7357107229547250",
+                "name": "Rossville Boulevard",
+                "name_preferred": "Rossville Boulevard",
+                "place_formatted": "Rossville, Georgia 30741, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.362795,
+                    34.976413
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5NTc3Yjg3Mi02OWVhLTQxNjYtYTUzMS0wYjZiZmM5NDg1Nzk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "400",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5NTc3Yjg3Mi02OWVhLTQxNjYtYTUzMS0wYjZiZmM5NDg1Nzk",
+                        "name": "400 Mc Farland Road",
+                        "street_name": "Mc Farland Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpKQThJN0E",
+                            "name": "Lookout Mountain"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpKQThvN0E",
+                        "name": "Lookout Mountain",
+                        "wikidata_id": "Q2183478"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFd1N0E",
+                        "name": "30750"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTU3N2I4NzItNjllYS00MTY2LWE1MzEtMGI2YmZjOTQ4NTc5",
+                        "name": "Mc Farland Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.976413,
+                    "longitude": -85.362795,
+                    "routable_points": [
+                        {
+                            "latitude": 34.976268,
+                            "longitude": -85.362622,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "400 Mc Farland Road, Lookout Mountain, Georgia 30750, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5NTc3Yjg3Mi02OWVhLTQxNjYtYTUzMS0wYjZiZmM5NDg1Nzk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "400 Mcfarland Rd",
+                "name_preferred": "400 Mc Farland Road",
+                "place_formatted": "Lookout Mountain, Georgia 30750, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.286385,
+                    34.983483
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpFUFZvN0E",
+            "properties": {
+                "bbox": [
+                    -85.347606,
+                    34.890371,
+                    -85.198665,
+                    34.985877
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV3hHN0E",
+                        "name": "Walker County",
+                        "wikidata_id": "Q498321"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUFZvN0E",
+                        "name": "Rossville",
+                        "wikidata_id": "Q3261835"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.983483,
+                    "longitude": -85.286385
+                },
+                "feature_type": "place",
+                "full_address": "Rossville, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpFUFZvN0E",
+                "name": "Rossville",
+                "name_preferred": "Rossville",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

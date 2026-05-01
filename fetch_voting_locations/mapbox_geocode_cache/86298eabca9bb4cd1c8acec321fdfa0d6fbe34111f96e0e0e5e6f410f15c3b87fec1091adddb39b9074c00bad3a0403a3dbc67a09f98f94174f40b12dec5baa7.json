@@ -1,0 +1,309 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.896402,
+                    32.066353
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkMTY4OGQ4OS1iMDljLTRkZmItYjZmNy0xMzg0YzFhNDAzMTM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "91",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkMTY4OGQ4OS1iMDljLTRkZmItYjZmNy0xMzg0YzFhNDAzMTM",
+                        "name": "91 Telfair Avenue",
+                        "street_name": "Telfair Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnJHN0E",
+                        "name": "Telfair County",
+                        "wikidata_id": "Q691614"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERlFJN0E",
+                        "name": "McRae Helena"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUd1N0E",
+                        "name": "31055"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDE2ODhkODktYjA5Yy00ZGZiLWI2ZjctMTM4NGMxYTQwMzEz",
+                        "name": "Telfair Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 32.066353,
+                    "longitude": -82.896402,
+                    "routable_points": [
+                        {
+                            "latitude": 32.066384,
+                            "longitude": -82.896517,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "91 Telfair Avenue, McRae Helena, Georgia 31055, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkMTY4OGQ4OS1iMDljLTRkZmItYjZmNy0xMzg0YzFhNDAzMTM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "91 Telfair Avenue",
+                "name_preferred": "91 Telfair Avenue",
+                "place_formatted": "McRae Helena, Georgia 31055, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.900929,
+                    32.068113
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaUd1N0E",
+            "properties": {
+                "bbox": [
+                    -83.032782,
+                    31.868458,
+                    -82.704744,
+                    32.0826
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnJHN0E",
+                        "name": "Telfair County",
+                        "wikidata_id": "Q691614"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERlFJN0E",
+                        "name": "McRae Helena"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUd1N0E",
+                        "name": "31055"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.068113,
+                    "longitude": -82.900929
+                },
+                "feature_type": "postcode",
+                "full_address": "McRae Helena, Georgia 31055, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaUd1N0E",
+                "name": "31055",
+                "name_preferred": "31055",
+                "place_formatted": "McRae Helena, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.069776,
+                    32.105475
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmE2OGQ4NWUtNDMzOC00MGFmLWJkOWEtZjQxZGM3ZTU4ZmQy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpZNGJz",
+                        "name": "Dodge County",
+                        "wikidata_id": "Q115272"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBM0FvN0E",
+                        "name": "Chauncey",
+                        "wikidata_id": "Q2356669"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHlPN0E",
+                        "name": "31011"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmE2OGQ4NWUtNDMzOC00MGFmLWJkOWEtZjQxZGM3ZTU4ZmQy",
+                        "name": "Mcrae Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.105475,
+                    "longitude": -83.069776
+                },
+                "feature_type": "street",
+                "full_address": "Mcrae Highway, Chauncey, Georgia 31011, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmE2OGQ4NWUtNDMzOC00MGFmLWJkOWEtZjQxZGM3ZTU4ZmQy",
+                "name": "Mcrae Highway",
+                "name_preferred": "Mcrae Highway",
+                "place_formatted": "Chauncey, Georgia 31011, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.900929,
+                    32.068113
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpERlFJN0E",
+            "properties": {
+                "bbox": [
+                    -83.032782,
+                    31.868458,
+                    -82.704744,
+                    32.153273
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnJHN0E",
+                        "name": "Telfair County",
+                        "wikidata_id": "Q691614"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERlFJN0E",
+                        "name": "McRae Helena"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.068113,
+                    "longitude": -82.900929
+                },
+                "feature_type": "place",
+                "full_address": "McRae Helena, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpERlFJN0E",
+                "name": "McRae Helena",
+                "name_preferred": "McRae Helena",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.990351,
+                    32.027394
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpHdVVvN0E",
+            "properties": {
+                "bbox": [
+                    -82.997622,
+                    32.023586,
+                    -82.980185,
+                    32.031986
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnJHN0E",
+                        "name": "Telfair County",
+                        "wikidata_id": "Q691614"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHdVVvN0E",
+                        "name": "McRae"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.027394,
+                    "longitude": -82.990351
+                },
+                "feature_type": "place",
+                "full_address": "McRae, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpHdVVvN0E",
+                "name": "McRae",
+                "name_preferred": "McRae",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

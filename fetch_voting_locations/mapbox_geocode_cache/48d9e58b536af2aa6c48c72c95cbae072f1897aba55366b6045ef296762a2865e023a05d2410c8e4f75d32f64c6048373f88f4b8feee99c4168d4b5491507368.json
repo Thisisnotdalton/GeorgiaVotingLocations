@@ -1,0 +1,324 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.336615,
+                    34.090137
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5ZDcxNjRjZS0wMjRiLTQ3Y2MtYmUxOC0zMWJkNWFmZTA5ZTA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "855",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5ZDcxNjRjZS0wMjRiLTQ3Y2MtYmUxOC0zMWJkNWFmZTA5ZTA",
+                        "name": "855 Mayfield Road",
+                        "street_name": "Mayfield Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMT29NN0E",
+                        "name": "Crabapple",
+                        "wikidata_id": "Q5180251"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpVc2pz",
+                            "name": "Alpharetta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpETVlvN0E",
+                        "name": "Milton"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGVPN0E",
+                        "name": "30009"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWQ3MTY0Y2UtMDI0Yi00N2NjLWJlMTgtMzFiZDVhZmUwOWUw",
+                        "name": "Mayfield Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.090137,
+                    "longitude": -84.336615,
+                    "routable_points": [
+                        {
+                            "latitude": 34.089895,
+                            "longitude": -84.336566,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "855 Mayfield Road, Milton, Georgia 30009, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5ZDcxNjRjZS0wMjRiLTQ3Y2MtYmUxOC0zMWJkNWFmZTA5ZTA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "855 Mayfield Road",
+                "name_preferred": "855 Mayfield Road",
+                "place_formatted": "Milton, Georgia 30009, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.274562,
+                    34.070796
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZGVPN0E",
+            "properties": {
+                "bbox": [
+                    -84.33948,
+                    34.033812,
+                    -84.268181,
+                    34.11627
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETVpJN0E",
+                        "name": "Milton"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGVPN0E",
+                        "name": "30009"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.070796,
+                    "longitude": -84.274562
+                },
+                "feature_type": "postcode",
+                "full_address": "Milton, Georgia 30009, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZGVPN0E",
+                "name": "30009",
+                "name_preferred": "30009",
+                "place_formatted": "Milton, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.304412,
+                    34.08152
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2UwYThmMGMtMDNiMS00Mjg2LWEyNzUtZTU4OTFjYWRkMmIy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETVpJN0E",
+                        "name": "Milton"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGVPN0E",
+                        "name": "30009"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2UwYThmMGMtMDNiMS00Mjg2LWEyNzUtZTU4OTFjYWRkMmIy",
+                        "name": "Mayfield Circle"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.08152,
+                    "longitude": -84.304412
+                },
+                "feature_type": "street",
+                "full_address": "Mayfield Circle, Milton, Georgia 30009, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2UwYThmMGMtMDNiMS00Mjg2LWEyNzUtZTU4OTFjYWRkMmIy",
+                "name": "Mayfield Circle",
+                "name_preferred": "Mayfield Circle",
+                "place_formatted": "Milton, Georgia 30009, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.83881,
+                    34.085345
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWIwM2M5MTgtZjRlOC00YzZjLWJhYzctMWQ1NGY1NDFlMTNh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFaWJz",
+                        "name": "Bartow County",
+                        "wikidata_id": "Q488181"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCa0RJN0E",
+                            "name": "Euharlee"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeEtJN0E",
+                        "name": "Cartersville",
+                        "wikidata_id": "Q932346"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVF1N0E",
+                        "name": "30120"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWIwM2M5MTgtZjRlOC00YzZjLWJhYzctMWQ1NGY1NDFlMTNh",
+                        "name": "Mayfield Road Southeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.085345,
+                    "longitude": -84.83881
+                },
+                "feature_type": "street",
+                "full_address": "Mayfield Road Southeast, Cartersville, Georgia 30120, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWIwM2M5MTgtZjRlOC00YzZjLWJhYzctMWQ1NGY1NDFlMTNh",
+                "name": "Mayfield Rd",
+                "name_preferred": "Mayfield Road Southeast",
+                "place_formatted": "Cartersville, Georgia 30120, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.268948,
+                    34.11064
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpETVlvN0E",
+            "properties": {
+                "bbox": [
+                    -84.379294,
+                    34.083072,
+                    -84.247493,
+                    34.186292
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETVlvN0E",
+                        "name": "Milton"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.11064,
+                    "longitude": -84.268948
+                },
+                "feature_type": "place",
+                "full_address": "Milton, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpETVlvN0E",
+                "name": "Milton",
+                "name_preferred": "Milton",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

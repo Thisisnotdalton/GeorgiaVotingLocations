@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.700524,
+                    32.465059
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo5YWY3ODg1ZC1hZmUzLTQwYTUtODQwYS1lOWUzZjhjYzc2MGU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2030",
+                        "mapbox_id": "dXJuOm1ieGFkcjo5YWY3ODg1ZC1hZmUzLTQwYTUtODQwYS1lOWUzZjhjYzc2MGU",
+                        "name": "2030 Kings Chapel Road",
+                        "street_name": "Kings Chapel Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpvcWJz",
+                        "name": "Houston County",
+                        "wikidata_id": "Q486362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEMGlJN0E",
+                        "name": "Perry",
+                        "wikidata_id": "Q668422"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaU5PN0E",
+                        "name": "31069"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWFmNzg4NWQtYWZlMy00MGE1LTg0MGEtZTllM2Y4Y2M3NjBl",
+                        "name": "Kings Chapel Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.465059,
+                    "longitude": -83.700524,
+                    "routable_points": [
+                        {
+                            "latitude": 32.465053,
+                            "longitude": -83.700631,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2030 Kings Chapel Road, Perry, Georgia 31069, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo5YWY3ODg1ZC1hZmUzLTQwYTUtODQwYS1lOWUzZjhjYzc2MGU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2030 Kings Chapel Road",
+                "name_preferred": "2030 Kings Chapel Road",
+                "place_formatted": "Perry, Georgia 31069, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.684319,
+                    32.479219
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDhmYzlhZGYtYzA3Mi00MmExLWIzZjktNjY5ODU0MWQ4NGMz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpvcWJz",
+                        "name": "Houston County",
+                        "wikidata_id": "Q486362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEMGlJN0E",
+                        "name": "Perry",
+                        "wikidata_id": "Q668422"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaU5PN0E",
+                        "name": "31069"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDhmYzlhZGYtYzA3Mi00MmExLWIzZjktNjY5ODU0MWQ4NGMz",
+                        "name": "Kings Chapel Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.479219,
+                    "longitude": -83.684319
+                },
+                "feature_type": "street",
+                "full_address": "Kings Chapel Rd, Perry, Georgia 31069, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDhmYzlhZGYtYzA3Mi00MmExLWIzZjktNjY5ODU0MWQ4NGMz",
+                "name": "Kings Chapel Rd",
+                "name_preferred": "Kings Chapel Rd",
+                "place_formatted": "Perry, Georgia 31069, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.728653,
+                    32.475414
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjcyOGZmNWYtMDY5Mi00MjUwLWJjMDQtNWNiMDZjMTA5NGEx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpvcWJz",
+                        "name": "Houston County",
+                        "wikidata_id": "Q486362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEMGlJN0E",
+                        "name": "Perry",
+                        "wikidata_id": "Q668422"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaU5PN0E",
+                        "name": "31069"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjcyOGZmNWYtMDY5Mi00MjUwLWJjMDQtNWNiMDZjMTA5NGEx",
+                        "name": "Chapel Ridge Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.475414,
+                    "longitude": -83.728653
+                },
+                "feature_type": "street",
+                "full_address": "Chapel Ridge Drive, Perry, Georgia 31069, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjcyOGZmNWYtMDY5Mi00MjUwLWJjMDQtNWNiMDZjMTA5NGEx",
+                "name": "Chapel Ridge Drive",
+                "name_preferred": "Chapel Ridge Drive",
+                "place_formatted": "Perry, Georgia 31069, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.733933,
+                    32.458965
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaU5PN0E",
+            "properties": {
+                "bbox": [
+                    -83.861136,
+                    32.340189,
+                    -83.622373,
+                    32.534156
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpvcWJz",
+                        "name": "Houston County",
+                        "wikidata_id": "Q486362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEMGlJN0E",
+                        "name": "Perry",
+                        "wikidata_id": "Q668422"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaU5PN0E",
+                        "name": "31069"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.458965,
+                    "longitude": -83.733933
+                },
+                "feature_type": "postcode",
+                "full_address": "Perry, Georgia 31069, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaU5PN0E",
+                "name": "31069",
+                "name_preferred": "31069",
+                "place_formatted": "Perry, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.726426,
+                    32.486696
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDJmZjM0ZmItNGUwYS00ZDI2LWE0MTYtZDAyYmZlMzY5NWE0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpvcWJz",
+                        "name": "Houston County",
+                        "wikidata_id": "Q486362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEMGlJN0E",
+                        "name": "Perry",
+                        "wikidata_id": "Q668422"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaU5PN0E",
+                        "name": "31069"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDJmZjM0ZmItNGUwYS00ZDI2LWE0MTYtZDAyYmZlMzY5NWE0",
+                        "name": "North Perry Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.486696,
+                    "longitude": -83.726426
+                },
+                "feature_type": "street",
+                "full_address": "North Perry Parkway, Perry, Georgia 31069, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDJmZjM0ZmItNGUwYS00ZDI2LWE0MTYtZDAyYmZlMzY5NWE0",
+                "name": "Perry Parkway",
+                "name_preferred": "North Perry Parkway",
+                "place_formatted": "Perry, Georgia 31069, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

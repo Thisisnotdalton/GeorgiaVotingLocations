@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.664761,
+                    33.876379
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2MTc1OGE1ZC01MzQxLTQ3NjktYTdjYS1hNDU5ZjFlZDBhODU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3820",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2MTc1OGE1ZC01MzQxLTQ3NjktYTdjYS1hNDU5ZjFlZDBhODU",
+                        "name": "3820 Macedonia Road",
+                        "street_name": "Macedonia Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEK2ZvN0E",
+                        "name": "Powder Springs",
+                        "wikidata_id": "Q3261052"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVVPN0E",
+                        "name": "30127"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjE3NThhNWQtNTM0MS00NzY5LWE3Y2EtYTQ1OWYxZWQwYTg1",
+                        "name": "Macedonia Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.876379,
+                    "longitude": -84.664761,
+                    "routable_points": [
+                        {
+                            "latitude": 33.876246,
+                            "longitude": -84.664437,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3820 Macedonia Road, Powder Springs, Georgia 30127, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2MTc1OGE1ZC01MzQxLTQ3NjktYTdjYS1hNDU5ZjFlZDBhODU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3820 Macedonia Road",
+                "name_preferred": "3820 Macedonia Road",
+                "place_formatted": "Powder Springs, Georgia 30127, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.654995,
+                    33.878479
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjJlNTk3NDEtYjJjYS00MDQ1LWFiNGQtM2ViMTZmYjg5NzFl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEK2ZvN0E",
+                        "name": "Powder Springs",
+                        "wikidata_id": "Q3261052"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVVPN0E",
+                        "name": "30127"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjJlNTk3NDEtYjJjYS00MDQ1LWFiNGQtM2ViMTZmYjg5NzFl",
+                        "name": "Macedonia Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.878479,
+                    "longitude": -84.654995
+                },
+                "feature_type": "street",
+                "full_address": "Macedonia Drive, Powder Springs, Georgia 30127, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjJlNTk3NDEtYjJjYS00MDQ1LWFiNGQtM2ViMTZmYjg5NzFl",
+                "name": "Macedonia Drive",
+                "name_preferred": "Macedonia Drive",
+                "place_formatted": "Powder Springs, Georgia 30127, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.685445,
+                    33.859768
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZVVPN0E",
+            "properties": {
+                "bbox": [
+                    -84.766899,
+                    33.794077,
+                    -84.633086,
+                    33.976515
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEK2ZvN0E",
+                        "name": "Powder Springs",
+                        "wikidata_id": "Q3261052"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVVPN0E",
+                        "name": "30127"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.859768,
+                    "longitude": -84.685445
+                },
+                "feature_type": "postcode",
+                "full_address": "Powder Springs, Georgia 30127, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZVVPN0E",
+                "name": "30127",
+                "name_preferred": "30127",
+                "place_formatted": "Powder Springs, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.656153,
+                    33.87762
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTM4OTYzY2YtOTY3Zi00NzFkLWFiYTEtMDlhYmU1Yzc0MGI1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEK2ZvN0E",
+                        "name": "Powder Springs",
+                        "wikidata_id": "Q3261052"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVVPN0E",
+                        "name": "30127"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTM4OTYzY2YtOTY3Zi00NzFkLWFiYTEtMDlhYmU1Yzc0MGI1",
+                        "name": "Macedonia Court"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.87762,
+                    "longitude": -84.656153
+                },
+                "feature_type": "street",
+                "full_address": "Macedonia Court, Powder Springs, Georgia 30127, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTM4OTYzY2YtOTY3Zi00NzFkLWFiYTEtMDlhYmU1Yzc0MGI1",
+                "name": "Macedonia Court",
+                "name_preferred": "Macedonia Court",
+                "place_formatted": "Powder Springs, Georgia 30127, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.563653,
+                    33.931391
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDRjMmJlODUtMjMzYi00NGI4LThiMjktNWM4YzYzNjlmZWVh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDLzdvN0E",
+                        "name": "Marietta",
+                        "wikidata_id": "Q852684"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDJPN0E",
+                        "name": "30064"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDRjMmJlODUtMjMzYi00NGI4LThiMjktNWM4YzYzNjlmZWVh",
+                        "name": "Powder Springs Street Southwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.931391,
+                    "longitude": -84.563653
+                },
+                "feature_type": "street",
+                "full_address": "Powder Springs Street Southwest, Marietta, Georgia 30064, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDRjMmJlODUtMjMzYi00NGI4LThiMjktNWM4YzYzNjlmZWVh",
+                "name": "Powder Springs St",
+                "name_preferred": "Powder Springs Street Southwest",
+                "place_formatted": "Marietta, Georgia 30064, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

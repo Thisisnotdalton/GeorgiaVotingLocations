@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.343482,
+                    33.103291
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyZjY1ZjU5MC05NTExLTQ1NjUtOTY5Ni1hMTA2ZDgwNjdlZGU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "81",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyZjY1ZjU5MC05NTExLTQ1NjUtOTY5Ni1hMTA2ZDgwNjdlZGU",
+                        "name": "81 Jackson Street",
+                        "street_name": "Jackson Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUnZHN0E",
+                        "name": "Pike County",
+                        "wikidata_id": "Q491533"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGZXZJN0E",
+                        "name": "Zebulon",
+                        "wikidata_id": "Q169530"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkx1N0E",
+                        "name": "30295"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmY2NWY1OTAtOTUxMS00NTY1LTk2OTYtYTEwNmQ4MDY3ZWRl",
+                        "name": "Jackson Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 33.103291,
+                    "longitude": -84.343482,
+                    "routable_points": [
+                        {
+                            "latitude": 33.103029,
+                            "longitude": -84.34349,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "81 Jackson Street, Zebulon, Georgia 30295, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyZjY1ZjU5MC05NTExLTQ1NjUtOTY5Ni1hMTA2ZDgwNjdlZGU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "81 Jackson Street",
+                "name_preferred": "81 Jackson Street",
+                "place_formatted": "Zebulon, Georgia 30295, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.328324,
+                    33.109128
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjAwZWE1ZmUtNmJiNS00ZmIzLTg3YjItYTRmNzg5NzVlNjk5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUnZHN0E",
+                        "name": "Pike County",
+                        "wikidata_id": "Q491533"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGZXZJN0E",
+                        "name": "Zebulon",
+                        "wikidata_id": "Q169530"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkx1N0E",
+                        "name": "30295"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjAwZWE1ZmUtNmJiNS00ZmIzLTg3YjItYTRmNzg5NzVlNjk5",
+                        "name": "Jackson Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.109128,
+                    "longitude": -84.328324
+                },
+                "feature_type": "street",
+                "full_address": "Jackson Road, Zebulon, Georgia 30295, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjAwZWE1ZmUtNmJiNS00ZmIzLTg3YjItYTRmNzg5NzVlNjk5",
+                "name": "Jackson Road",
+                "name_preferred": "Jackson Road",
+                "place_formatted": "Zebulon, Georgia 30295, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.342701,
+                    33.102097
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZkx1N0E",
+            "properties": {
+                "bbox": [
+                    -84.402758,
+                    33.032496,
+                    -84.233057,
+                    33.164884
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUnZHN0E",
+                        "name": "Pike County",
+                        "wikidata_id": "Q491533"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGZXZJN0E",
+                        "name": "Zebulon",
+                        "wikidata_id": "Q169530"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkx1N0E",
+                        "name": "30295"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.102097,
+                    "longitude": -84.342701
+                },
+                "feature_type": "postcode",
+                "full_address": "Zebulon, Georgia 30295, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZkx1N0E",
+                "name": "30295",
+                "name_preferred": "30295",
+                "place_formatted": "Zebulon, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.342701,
+                    33.102097
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpGZXZJN0E",
+            "properties": {
+                "bbox": [
+                    -84.412271,
+                    33.032496,
+                    -84.23294,
+                    33.164884
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUnZHN0E",
+                        "name": "Pike County",
+                        "wikidata_id": "Q491533"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGZXZJN0E",
+                        "name": "Zebulon",
+                        "wikidata_id": "Q169530"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.102097,
+                    "longitude": -84.342701
+                },
+                "feature_type": "place",
+                "full_address": "Zebulon, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpGZXZJN0E",
+                "name": "Zebulon",
+                "name_preferred": "Zebulon",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.297289,
+                    33.183906
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YWQ2MzgxNWItM2QzZC00MDVjLThlYjMtMDU4ZDVhZWE2YzIx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUnZHN0E",
+                        "name": "Pike County",
+                        "wikidata_id": "Q491533"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQTRvN0E",
+                        "name": "Griffin",
+                        "wikidata_id": "Q1012372"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXp1N0E",
+                        "name": "30224"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWQ2MzgxNWItM2QzZC00MDVjLThlYjMtMDU4ZDVhZWE2YzIx",
+                        "name": "Zebulon Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.183906,
+                    "longitude": -84.297289
+                },
+                "feature_type": "street",
+                "full_address": "Zebulon Road, Griffin, Georgia 30224, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWQ2MzgxNWItM2QzZC00MDVjLThlYjMtMDU4ZDVhZWE2YzIx",
+                "name": "Zebulon Road",
+                "name_preferred": "Zebulon Road",
+                "place_formatted": "Griffin, Georgia 30224, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

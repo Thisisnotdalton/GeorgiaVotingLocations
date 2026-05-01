@@ -1,0 +1,83 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -84.92961,
+                33.727491
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjpkODllODEyZi0wYzRkLTRkMDYtOGE0ZS02MTExMDA1NzEwMjk",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "524",
+                    "mapbox_id": "dXJuOm1ieGFkcjpkODllODEyZi0wYzRkLTRkMDYtOGE0ZS02MTExMDA1NzEwMjk",
+                    "name": "524 Leslie Drive",
+                    "street_name": "Leslie Drive"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpNZ2Jz",
+                    "name": "Carroll County",
+                    "wikidata_id": "Q493088"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpGRUlJN0E",
+                    "name": "Villa Rica",
+                    "wikidata_id": "Q2014975"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZXBPN0E",
+                    "name": "30180"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDg5ZTgxMmYtMGM0ZC00ZDA2LThhNGUtNjExMTAwNTcxMDI5",
+                    "name": "Leslie Drive"
+                }
+            },
+            "coordinates": {
+                "accuracy": "parcel",
+                "latitude": 33.727491,
+                "longitude": -84.92961,
+                "routable_points": [
+                    {
+                        "latitude": 33.727572,
+                        "longitude": -84.929585,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "524 Leslie Drive, Villa Rica, Georgia 30180, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjpkODllODEyZi0wYzRkLTRkMDYtOGE0ZS02MTExMDA1NzEwMjk",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "exact",
+                "country": "inferred",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "524 Leslie Drive",
+            "name_preferred": "524 Leslie Drive",
+            "place_formatted": "Villa Rica, Georgia 30180, United States"
+        },
+        "type": "Feature"
+    }
+]

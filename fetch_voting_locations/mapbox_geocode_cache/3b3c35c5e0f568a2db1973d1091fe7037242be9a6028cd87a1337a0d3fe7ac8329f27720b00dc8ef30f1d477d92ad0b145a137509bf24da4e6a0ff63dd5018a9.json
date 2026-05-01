@@ -1,0 +1,363 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.592495,
+                    32.376792
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyZWUwZDY2Ni03MWE3LTQ0MjQtOTYwZC1lOGU5N2Q2MzlmNWY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "650",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyZWUwZDY2Ni03MWE3LTQ0MjQtOTYwZC1lOGU5N2Q2MzlmNWY",
+                        "name": "650 2nd Street",
+                        "street_name": "2nd Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0RtN0E",
+                        "name": "Treutlen County",
+                        "wikidata_id": "Q503071"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVTFvN0E",
+                        "name": "Soperton",
+                        "wikidata_id": "Q1766520"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0V1N0E",
+                        "name": "30457"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmVlMGQ2NjYtNzFhNy00NDI0LTk2MGQtZThlOTdkNjM5ZjVm",
+                        "name": "2nd Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.376792,
+                    "longitude": -82.592495,
+                    "routable_points": [
+                        {
+                            "latitude": 32.376632,
+                            "longitude": -82.592607,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "650 2nd Street, Soperton, Georgia 30457, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyZWUwZDY2Ni03MWE3LTQ0MjQtOTYwZC1lOGU5N2Q2MzlmNWY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "650 2nd Street",
+                "name_preferred": "650 2nd Street",
+                "place_formatted": "Soperton, Georgia 30457, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.587838,
+                    32.382074
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qVXdJaXdpYzNSeVpXVjBJam9pVTBWRFQwNUVJRk5VSWl3aWNHeGhZMlVpT2lKVFQxQkZVbFJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EUTFOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPREl1TnpRNE56TXlJaXdpTXpJdU1qa3pOak1pTENJdE9ESXVNemd4T1RRaUxDSXpNaTQxTVRJMU1EY2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "650",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qVXdJaXdpYzNSeVpXVjBJam9pVTBWRFQwNUVJRk5VSWl3aWNHeGhZMlVpT2lKVFQxQkZVbFJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EUTFOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPREl1TnpRNE56TXlJaXdpTXpJdU1qa3pOak1pTENJdE9ESXVNemd4T1RRaUxDSXpNaTQxTVRJMU1EY2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+                        "name": "650 Second Street",
+                        "street_name": "Second Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0RtN0E",
+                        "name": "Treutlen County",
+                        "wikidata_id": "Q503071"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVTFvN0E",
+                        "name": "Soperton",
+                        "wikidata_id": "Q1766520"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0V1N0E",
+                        "name": "30457"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOalV3SWl3aWMzUnlaV1YwSWpvaVUwVkRUMDVFSUZOVUlpd2ljR3hoWTJVaU9pSlRUMUJGVWxSUFRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFExTnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RJdU56UTROek15SWl3aU16SXVNamt6TmpNaUxDSXRPREl1TXpneE9UUWlMQ0l6TWk0MU1USTFNRGNpWFN3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6MQ",
+                        "name": "Second Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.382074,
+                    "longitude": -82.587838,
+                    "routable_points": [
+                        {
+                            "latitude": 32.382074,
+                            "longitude": -82.587838,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "650 Second Street, Soperton, Georgia 30457, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qVXdJaXdpYzNSeVpXVjBJam9pVTBWRFQwNUVJRk5VSWl3aWNHeGhZMlVpT2lKVFQxQkZVbFJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EUTFOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPREl1TnpRNE56TXlJaXdpTXpJdU1qa3pOak1pTENJdE9ESXVNemd4T1RRaUxDSXpNaTQxTVRJMU1EY2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOTox",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "medium",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "650 Second Street",
+                "name_preferred": "650 Second Street",
+                "place_formatted": "Soperton, Georgia 30457, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.598082,
+                    32.37167
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qVXdJaXdpYzNSeVpXVjBJam9pVTBWRFQwNUVJRk5VSWl3aWNHeGhZMlVpT2lKVFQxQkZVbFJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EUTFOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPREl1TnpRNE56TXlJaXdpTXpJdU1qa3pOak1pTENJdE9ESXVNemd4T1RRaUxDSXpNaTQxTVRJMU1EY2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "650",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qVXdJaXdpYzNSeVpXVjBJam9pVTBWRFQwNUVJRk5VSWl3aWNHeGhZMlVpT2lKVFQxQkZVbFJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EUTFOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPREl1TnpRNE56TXlJaXdpTXpJdU1qa3pOak1pTENJdE9ESXVNemd4T1RRaUxDSXpNaTQxTVRJMU1EY2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToy",
+                        "name": "650 South 2nd Street",
+                        "street_name": "South 2nd Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0RtN0E",
+                        "name": "Treutlen County",
+                        "wikidata_id": "Q503071"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVTFvN0E",
+                        "name": "Soperton",
+                        "wikidata_id": "Q1766520"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0V1N0E",
+                        "name": "30457"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOalV3SWl3aWMzUnlaV1YwSWpvaVUwVkRUMDVFSUZOVUlpd2ljR3hoWTJVaU9pSlRUMUJGVWxSUFRpSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRFExTnlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RJdU56UTROek15SWl3aU16SXVNamt6TmpNaUxDSXRPREl1TXpneE9UUWlMQ0l6TWk0MU1USTFNRGNpWFN3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mg",
+                        "name": "South 2nd Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.37167,
+                    "longitude": -82.598082,
+                    "routable_points": [
+                        {
+                            "latitude": 32.37167,
+                            "longitude": -82.598082,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "650 South 2nd Street, Soperton, Georgia 30457, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qVXdJaXdpYzNSeVpXVjBJam9pVTBWRFQwNUVJRk5VSWl3aWNHeGhZMlVpT2lKVFQxQkZVbFJQVGlJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1EUTFOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPREl1TnpRNE56TXlJaXdpTXpJdU1qa3pOak1pTENJdE9ESXVNemd4T1RRaUxDSXpNaTQxTVRJMU1EY2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "650 South 2nd Street",
+                "name_preferred": "650 South 2nd Street",
+                "place_formatted": "Soperton, Georgia 30457, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.592398,
+                    32.376958
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzZkMTRjMDEtYmY1YS00NWQ3LWEwNzItMDA5Mzg4ZTYwZGUw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV0RtN0E",
+                        "name": "Treutlen County",
+                        "wikidata_id": "Q503071"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVTFvN0E",
+                        "name": "Soperton",
+                        "wikidata_id": "Q1766520"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0V1N0E",
+                        "name": "30457"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzZkMTRjMDEtYmY1YS00NWQ3LWEwNzItMDA5Mzg4ZTYwZGUw",
+                        "name": "2nd Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.376958,
+                    "longitude": -82.592398
+                },
+                "feature_type": "street",
+                "full_address": "2nd Street, Soperton, Georgia 30457, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzZkMTRjMDEtYmY1YS00NWQ3LWEwNzItMDA5Mzg4ZTYwZGUw",
+                "name": "2nd Street",
+                "name_preferred": "2nd Street",
+                "place_formatted": "Soperton, Georgia 30457, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.55975,
+                    32.32078
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDcxYzFiZDktM2U2MC00MGVkLWJlMzMtMmY2ZGYyNzQzNzEx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorR2Jz",
+                        "name": "Montgomery County",
+                        "wikidata_id": "Q493125"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMFNJN0E",
+                        "name": "Tarrytown",
+                        "wikidata_id": "Q2801332"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0lPN0E",
+                        "name": "30470"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDcxYzFiZDktM2U2MC00MGVkLWJlMzMtMmY2ZGYyNzQzNzEx",
+                        "name": "2nd Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.32078,
+                    "longitude": -82.55975
+                },
+                "feature_type": "street",
+                "full_address": "2nd Street, Tarrytown, Georgia 30470, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDcxYzFiZDktM2U2MC00MGVkLWJlMzMtMmY2ZGYyNzQzNzEx",
+                "name": "2nd Street",
+                "name_preferred": "2nd Street",
+                "place_formatted": "Tarrytown, Georgia 30470, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

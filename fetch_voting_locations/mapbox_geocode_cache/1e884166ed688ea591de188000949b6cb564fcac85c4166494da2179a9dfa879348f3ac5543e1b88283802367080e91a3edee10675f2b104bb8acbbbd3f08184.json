@@ -1,0 +1,388 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.336585,
+                    33.764614
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3M2ZkZWRiOS01OTEzLTQ4MDAtYmUwOS1kNjAzNTYzMTMzZTQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1561",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3M2ZkZWRiOS01OTEzLTQ4MDAtYmUwOS1kNjAzNTYzMTMzZTQ",
+                        "name": "1561 Mclendon Avenue Northeast",
+                        "street_name": "Mclendon Avenue Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVEtNN0E",
+                        "name": "Candler Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlF1N0E",
+                        "name": "30307"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzNmZGVkYjktNTkxMy00ODAwLWJlMDktZDYwMzU2MzEzM2U0",
+                        "name": "Mclendon Avenue Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.764614,
+                    "longitude": -84.336585,
+                    "routable_points": [
+                        {
+                            "latitude": 33.76486,
+                            "longitude": -84.336586,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1561 Mclendon Avenue Northeast, Atlanta, Georgia 30307, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3M2ZkZWRiOS01OTEzLTQ4MDAtYmUwOS1kNjAzNTYzMTMzZTQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1561 Mclendon Avenue Northeast",
+                "name_preferred": "1561 Mclendon Avenue Northeast",
+                "place_formatted": "Atlanta, Georgia 30307, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.349206,
+                    33.764957
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZlF1N0E",
+            "properties": {
+                "bbox": [
+                    -84.365693,
+                    33.753247,
+                    -84.307374,
+                    33.795048
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlF1N0E",
+                        "name": "30307"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.764957,
+                    "longitude": -84.349206
+                },
+                "feature_type": "postcode",
+                "full_address": "Atlanta, Georgia 30307, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZlF1N0E",
+                "name": "30307",
+                "name_preferred": "30307",
+                "place_formatted": "Atlanta, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.261492,
+                    33.926788
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MzQ5YTJkYjEtYzFjMS00YzYxLWI0NGEtNGU4YTNkZWI0ZGY5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCWGZvN0E",
+                            "name": "Dunwoody"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                        "name": "Atlanta"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZm9PN0E",
+                        "name": "30360"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzQ5YTJkYjEtYzFjMS00YzYxLWI0NGEtNGU4YTNkZWI0ZGY5",
+                        "name": "Northeast Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.926788,
+                    "longitude": -84.261492
+                },
+                "feature_type": "street",
+                "full_address": "Northeast Parkway, Atlanta, Georgia 30360, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzQ5YTJkYjEtYzFjMS00YzYxLWI0NGEtNGU4YTNkZWI0ZGY5",
+                "name": "Northeast Parkway",
+                "name_preferred": "Northeast Parkway",
+                "place_formatted": "Atlanta, Georgia 30360, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.348892,
+                    33.771081
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTJNU0lzSW5OMGNtVmxkQ0k2SWsxRFRFVk9SRTlPSUVGV1JTQk9SU0lzSW5Cc1lXTmxJam9pUVZSTVFVNVVRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURNd055SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVNelE1T0RjMUlpd2lNek11TmpFME5qWTJJaXdpTFRnMExqQXlNemN4TXlJc0lqTXpMamszTURnNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "30307",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTJNU0lzSW5OMGNtVmxkQ0k2SWsxRFRFVk9SRTlPSUVGV1JTQk9SU0lzSW5Cc1lXTmxJam9pUVZSTVFVNVVRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURNd055SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVNelE1T0RjMUlpd2lNek11TmpFME5qWTJJaXdpTFRnMExqQXlNemN4TXlJc0lqTXpMamszTURnNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+                        "name": "30307 North Avenue Northeast",
+                        "street_name": "North Avenue Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIbklNN0E",
+                            "name": "Poncey Highlands"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVEtNN0E",
+                        "name": "Candler Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlF1N0E",
+                        "name": "30307"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFUyTVNJc0luTjBjbVZsZENJNklrMURURVZPUkU5T0lFRldSU0JPUlNJc0luQnNZV05sSWpvaVFWUk1RVTVVUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ETXdOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRFF1TXpRNU9EYzFJaXdpTXpNdU5qRTBOalkySWl3aUxUZzBMakF5TXpjeE15SXNJak16TGprM01EZzRJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjM",
+                        "name": "North Avenue Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.771081,
+                    "longitude": -84.348892,
+                    "routable_points": [
+                        {
+                            "latitude": 33.771081,
+                            "longitude": -84.348892,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "30307 North Avenue Northeast, Atlanta, Georgia 30307, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTJNU0lzSW5OMGNtVmxkQ0k2SWsxRFRFVk9SRTlPSUVGV1JTQk9SU0lzSW5Cc1lXTmxJam9pUVZSTVFVNVVRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURNd055SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVNelE1T0RjMUlpd2lNek11TmpFME5qWTJJaXdpTFRnMExqQXlNemN4TXlJc0lqTXpMamszTURnNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+                "match_code": {
+                    "address_number": "unmatched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "30307 GA 8",
+                "name_preferred": "30307 North Avenue Northeast",
+                "place_formatted": "Atlanta, Georgia 30307, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.262387,
+                    33.822465
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTJNU0lzSW5OMGNtVmxkQ0k2SWsxRFRFVk9SRTlPSUVGV1JTQk9SU0lzSW5Cc1lXTmxJam9pUVZSTVFVNVVRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURNd055SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVNelE1T0RjMUlpd2lNek11TmpFME5qWTJJaXdpTFRnMExqQXlNemN4TXlJc0lqTXpMamszTURnNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6NA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1561",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTJNU0lzSW5OMGNtVmxkQ0k2SWsxRFRFVk9SRTlPSUVGV1JTQk9SU0lzSW5Cc1lXTmxJam9pUVZSTVFVNVVRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURNd055SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVNelE1T0RjMUlpd2lNek11TmpFME5qWTJJaXdpTFRnMExqQXlNemN4TXlJc0lqTXpMamszTURnNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6NA",
+                        "name": "1561 Mclendon Drive",
+                        "street_name": "Mclendon Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBOTZzN0E",
+                            "name": "Briarcliff"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpINlhzN0E",
+                        "name": "Rehoboth"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCT1VvN0E",
+                        "name": "Decatur",
+                        "wikidata_id": "Q986200"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHBPN0E",
+                        "name": "30033"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVFUyTVNJc0luTjBjbVZsZENJNklrMURURVZPUkU5T0lFRldSU0JPUlNJc0luQnNZV05sSWpvaVFWUk1RVTVVUVNJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1ETXdOeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRFF1TXpRNU9EYzFJaXdpTXpNdU5qRTBOalkySWl3aUxUZzBMakF5TXpjeE15SXNJak16TGprM01EZzRJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjQ",
+                        "name": "Mclendon Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.822465,
+                    "longitude": -84.262387,
+                    "routable_points": [
+                        {
+                            "latitude": 33.822465,
+                            "longitude": -84.262387,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1561 Mclendon Drive, Decatur, Georgia 30033, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UVTJNU0lzSW5OMGNtVmxkQ0k2SWsxRFRFVk9SRTlPSUVGV1JTQk9SU0lzSW5Cc1lXTmxJam9pUVZSTVFVNVVRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURNd055SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVNelE1T0RjMUlpd2lNek11TmpFME5qWTJJaXdpTFRnMExqQXlNemN4TXlJc0lqTXpMamszTURnNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6NA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1561 Mclendon Drive",
+                "name_preferred": "1561 Mclendon Drive",
+                "place_formatted": "Decatur, Georgia 30033, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

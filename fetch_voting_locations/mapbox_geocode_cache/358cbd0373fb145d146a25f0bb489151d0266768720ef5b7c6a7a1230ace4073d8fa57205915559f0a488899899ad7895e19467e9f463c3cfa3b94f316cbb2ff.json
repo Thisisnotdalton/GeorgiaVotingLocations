@@ -1,0 +1,321 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.456082,
+                    34.203628
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxYWI3N2ZiMC03MGIyLTQzZDktYTY3ZS1lZjJhY2EwNWNkZGQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "110",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxYWI3N2ZiMC03MGIyLTQzZDktYTY3ZS1lZjJhY2EwNWNkZGQ",
+                        "name": "110 State Street",
+                        "street_name": "State Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQjRJN0E",
+                        "name": "Commerce",
+                        "wikidata_id": "Q2689380"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1hPN0E",
+                        "name": "30529"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWFiNzdmYjAtNzBiMi00M2Q5LWE2N2UtZWYyYWNhMDVjZGRk",
+                        "name": "State Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.203628,
+                    "longitude": -83.456082,
+                    "routable_points": [
+                        {
+                            "latitude": 34.203833,
+                            "longitude": -83.45608,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "110 State Street, Commerce, Georgia 30529, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxYWI3N2ZiMC03MGIyLTQzZDktYTY3ZS1lZjJhY2EwNWNkZGQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "110 State Street",
+                "name_preferred": "110 State Street",
+                "place_formatted": "Commerce, Georgia 30529, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.457424,
+                    34.203317
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ1hPN0E",
+            "properties": {
+                "bbox": [
+                    -83.579802,
+                    34.126414,
+                    -83.415913,
+                    34.312331
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQjRJN0E",
+                        "name": "Commerce",
+                        "wikidata_id": "Q2689380"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1hPN0E",
+                        "name": "30529"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.203317,
+                    "longitude": -83.457424
+                },
+                "feature_type": "postcode",
+                "full_address": "Commerce, Georgia 30529, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ1hPN0E",
+                "name": "30529",
+                "name_preferred": "30529",
+                "place_formatted": "Commerce, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.402232,
+                    34.03806
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MmQ4NjQ2MDQtOGRjYS00OGI0LWExMmQtNmE1NGRmMTgyY2Yz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3hPN0E",
+                        "name": "30607"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmQ4NjQ2MDQtOGRjYS00OGI0LWExMmQtNmE1NGRmMTgyY2Yz",
+                        "name": "Commerce Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.03806,
+                    "longitude": -83.402232
+                },
+                "feature_type": "street",
+                "full_address": "Commerce Road, Athens, Georgia 30607, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmQ4NjQ2MDQtOGRjYS00OGI0LWExMmQtNmE1NGRmMTgyY2Yz",
+                "name": "Commerce Road",
+                "name_preferred": "Commerce Road",
+                "place_formatted": "Athens, Georgia 30607, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.533614,
+                    34.14097
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWQ5MWViMmEtMTcxNC00ZGY5LWI5MGMtZWU3NWYyNzVhMjlm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJVFhxN0E",
+                        "name": "Thyatira"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpINUlJN0E",
+                        "name": "Jefferson",
+                        "wikidata_id": "Q1966822"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2dPN0E",
+                        "name": "30549"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWQ5MWViMmEtMTcxNC00ZGY5LWI5MGMtZWU3NWYyNzVhMjlm",
+                        "name": "Commerce Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.14097,
+                    "longitude": -83.533614
+                },
+                "feature_type": "street",
+                "full_address": "Commerce Road, Jefferson, Georgia 30549, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWQ5MWViMmEtMTcxNC00ZGY5LWI5MGMtZWU3NWYyNzVhMjlm",
+                "name": "Commerce Road",
+                "name_preferred": "Commerce Road",
+                "place_formatted": "Jefferson, Georgia 30549, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.56285,
+                    34.12632
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NWU1YjVkMTMtYjQyZS00MjNmLTkwNmUtNTk4MmU1ZDRlYTU0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpyR2Jz",
+                        "name": "Jackson County",
+                        "wikidata_id": "Q486137"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpINUlJN0E",
+                        "name": "Jefferson",
+                        "wikidata_id": "Q1966822"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2dPN0E",
+                        "name": "30549"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWU1YjVkMTMtYjQyZS00MjNmLTkwNmUtNTk4MmU1ZDRlYTU0",
+                        "name": "Commerce Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.12632,
+                    "longitude": -83.56285
+                },
+                "feature_type": "street",
+                "full_address": "Commerce Rd, Jefferson, Georgia 30549, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWU1YjVkMTMtYjQyZS00MjNmLTkwNmUtNTk4MmU1ZDRlYTU0",
+                "name": "Commerce Rd",
+                "name_preferred": "Commerce Rd",
+                "place_formatted": "Jefferson, Georgia 30549, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

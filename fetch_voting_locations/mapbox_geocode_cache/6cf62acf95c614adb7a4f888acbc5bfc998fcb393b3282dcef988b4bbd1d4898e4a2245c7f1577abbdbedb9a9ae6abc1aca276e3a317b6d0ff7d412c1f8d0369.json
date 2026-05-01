@@ -1,0 +1,387 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.783767,
+                    32.451772
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4YmE5NjNhMS0zZjVlLTRlYjYtOWIyZi1lNGQyOGUyNjg0MDM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "113",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4YmE5NjNhMS0zZjVlLTRlYjYtOWIyZi1lNGQyOGUyNjg0MDM",
+                        "name": "113 North Main Street",
+                        "street_name": "North Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKc2Jz",
+                        "name": "Bulloch County",
+                        "wikidata_id": "Q488166"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFclVJN0E",
+                        "name": "Statesboro",
+                        "wikidata_id": "Q988919"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0ZPN0E",
+                        "name": "30458"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGJhOTYzYTEtM2Y1ZS00ZWI2LTliMmYtZTRkMjhlMjY4NDAz",
+                        "name": "North Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.451772,
+                    "longitude": -81.783767,
+                    "routable_points": [
+                        {
+                            "latitude": 32.451793,
+                            "longitude": -81.784201,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "113 North Main Street, Statesboro, Georgia 30458, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4YmE5NjNhMS0zZjVlLTRlYjYtOWIyZi1lNGQyOGUyNjg0MDM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "113 North Main Street",
+                "name_preferred": "113 North Main Street",
+                "place_formatted": "Statesboro, Georgia 30458, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.884245,
+                    32.36625
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmM0ZjFlYzYtOTc1MC00YzM3LTk3MzgtMzk5NjBkYzA5Nzc1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKc2Jz",
+                        "name": "Bulloch County",
+                        "wikidata_id": "Q488166"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFR0ZJN0E",
+                        "name": "Register",
+                        "wikidata_id": "Q2477950"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ0NPN0E",
+                        "name": "30452"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmM0ZjFlYzYtOTc1MC00YzM3LTk3MzgtMzk5NjBkYzA5Nzc1",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.36625,
+                    "longitude": -81.884245
+                },
+                "feature_type": "street",
+                "full_address": "Main Street, Register, Georgia 30452, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmM0ZjFlYzYtOTc1MC00YzM3LTk3MzgtMzk5NjBkYzA5Nzc1",
+                "name": "Main Street",
+                "name_preferred": "Main Street",
+                "place_formatted": "Register, Georgia 30452, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.17454,
+                    33.020769
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl4TVRNZ1RpQk5ZV2x1SUZOMExDQlRkR0YwWlhOaWIzSnZMQ0JIUVNBek1EUTFPQ3dnVlc1cGRHVmtJRk4wWVhSbGN5SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "113",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl4TVRNZ1RpQk5ZV2x1SUZOMExDQlRkR0YwWlhOaWIzSnZMQ0JIUVNBek1EUTFPQ3dnVlc1cGRHVmtJRk4wWVhSbGN5SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mg",
+                        "name": "113 North Main Street",
+                        "street_name": "North Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaS2Jz",
+                        "name": "Dorchester County",
+                        "wikidata_id": "Q502431"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJWGlvN0E",
+                        "name": "Summerville",
+                        "wikidata_id": "Q947304"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYlFPN0E",
+                        "name": "29483"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbkVpT2lJeE1UTWdUaUJOWVdsdUlGTjBMQ0JUZEdGMFpYTmliM0p2TENCSFFTQXpNRFExT0N3Z1ZXNXBkR1ZrSUZOMFlYUmxjeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjI",
+                        "name": "North Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.020769,
+                    "longitude": -80.17454,
+                    "routable_points": [
+                        {
+                            "latitude": 33.020769,
+                            "longitude": -80.17454,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "113 North Main Street, Summerville, South Carolina 29483, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl4TVRNZ1RpQk5ZV2x1SUZOMExDQlRkR0YwWlhOaWIzSnZMQ0JIUVNBek1EUTFPQ3dnVlc1cGRHVmtJRk4wWVhSbGN5SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mg",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "113 North Main Street",
+                "name_preferred": "113 North Main Street",
+                "place_formatted": "Summerville, South Carolina 29483, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.312092,
+                    33.099319
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl4TVRNZ1RpQk5ZV2x1SUZOMExDQlRkR0YwWlhOaWIzSnZMQ0JIUVNBek1EUTFPQ3dnVlc1cGRHVmtJRk4wWVhSbGN5SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "113",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl4TVRNZ1RpQk5ZV2x1SUZOMExDQlRkR0YwWlhOaWIzSnZMQ0JIUVNBek1EUTFPQ3dnVlc1cGRHVmtJRk4wWVhSbGN5SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mw",
+                        "name": "113 North Main Street",
+                        "street_name": "North Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaS2Jz",
+                        "name": "Dorchester County",
+                        "wikidata_id": "Q502431"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJUGpvN0E",
+                        "name": "Ridgeville",
+                        "wikidata_id": "Q2311408"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYk1PN0E",
+                        "name": "29472"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbkVpT2lJeE1UTWdUaUJOWVdsdUlGTjBMQ0JUZEdGMFpYTmliM0p2TENCSFFTQXpNRFExT0N3Z1ZXNXBkR1ZrSUZOMFlYUmxjeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjM",
+                        "name": "North Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.099319,
+                    "longitude": -80.312092,
+                    "routable_points": [
+                        {
+                            "latitude": 33.099319,
+                            "longitude": -80.312092,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "113 North Main Street, Ridgeville, South Carolina 29472, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl4TVRNZ1RpQk5ZV2x1SUZOMExDQlRkR0YwWlhOaWIzSnZMQ0JIUVNBek1EUTFPQ3dnVlc1cGRHVmtJRk4wWVhSbGN5SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "113 North Main Street",
+                "name_preferred": "113 North Main Street",
+                "place_formatted": "Ridgeville, South Carolina 29472, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.186934,
+                    32.927141
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl4TVRNZ1RpQk5ZV2x1SUZOMExDQlRkR0YwWlhOaWIzSnZMQ0JIUVNBek1EUTFPQ3dnVlc1cGRHVmtJRk4wWVhSbGN5SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6NA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "113",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl4TVRNZ1RpQk5ZV2x1SUZOMExDQlRkR0YwWlhOaWIzSnZMQ0JIUVNBek1EUTFPQ3dnVlc1cGRHVmtJRk4wWVhSbGN5SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6NA",
+                        "name": "113 North Main Street",
+                        "street_name": "North Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprc2Jz",
+                        "name": "Hampton County",
+                        "wikidata_id": "Q497880"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBbldJN0E",
+                        "name": "Brunson",
+                        "wikidata_id": "Q2293591"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZEx1N0E",
+                        "name": "29911"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbkVpT2lJeE1UTWdUaUJOWVdsdUlGTjBMQ0JUZEdGMFpYTmliM0p2TENCSFFTQXpNRFExT0N3Z1ZXNXBkR1ZrSUZOMFlYUmxjeUlzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjQ",
+                        "name": "North Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 32.927141,
+                    "longitude": -81.186934,
+                    "routable_points": [
+                        {
+                            "latitude": 32.927141,
+                            "longitude": -81.186934,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "113 North Main Street, Brunson, South Carolina 29911, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUl4TVRNZ1RpQk5ZV2x1SUZOMExDQlRkR0YwWlhOaWIzSnZMQ0JIUVNBek1EUTFPQ3dnVlc1cGRHVmtJRk4wWVhSbGN5SXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aWJHbHRhWFFpT2lJMUlpd2lkMjl5YkdSMmFXVjNJam9pZFhNaUxDSnBibU5zZFdSbFgyMWhkR05vWDJSbGRHRnBiQ0k2SW5SeWRXVWlMQ0p0YjJSbElqb2labTl5ZDJGeVpDSjk6NA",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "113 North Main Street",
+                "name_preferred": "113 North Main Street",
+                "place_formatted": "Brunson, South Carolina 29911, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

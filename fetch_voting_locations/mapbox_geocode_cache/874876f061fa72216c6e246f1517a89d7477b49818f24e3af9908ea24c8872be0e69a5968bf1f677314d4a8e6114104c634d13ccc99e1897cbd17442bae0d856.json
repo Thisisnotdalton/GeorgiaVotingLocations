@@ -1,0 +1,321 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.466939,
+                    33.59905
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxZTQ1MzQzZC02ZGY4LTQwNWItODhiNS0yNTNkMWM5MGUwNDA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "237",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxZTQ1MzQzZC02ZGY4LTQwNWItODhiNS0yNTNkMWM5MGUwNDA",
+                        "name": "237 North 2nd Street",
+                        "street_name": "North 2nd Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorNGJz",
+                        "name": "Morgan County",
+                        "wikidata_id": "Q493083"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIL3BJN0E",
+                        "name": "Madison",
+                        "wikidata_id": "Q580412"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy9PN0E",
+                        "name": "30650"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWU0NTM0M2QtNmRmOC00MDViLTg4YjUtMjUzZDFjOTBlMDQw",
+                        "name": "North 2nd Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.59905,
+                    "longitude": -83.466939,
+                    "routable_points": [
+                        {
+                            "latitude": 33.598898,
+                            "longitude": -83.466728,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "237 North 2nd Street, Madison, Georgia 30650, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxZTQ1MzQzZC02ZGY4LTQwNWItODhiNS0yNTNkMWM5MGUwNDA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "237 North 2nd Street",
+                "name_preferred": "237 North 2nd Street",
+                "place_formatted": "Madison, Georgia 30650, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.4705,
+                    33.5959
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZWVmNWY0NTktZWM1Ny00ZTZmLTg0MzUtMzU0OTgyZGFhY2Zk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorNGJz",
+                        "name": "Morgan County",
+                        "wikidata_id": "Q493083"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIL3BJN0E",
+                        "name": "Madison",
+                        "wikidata_id": "Q580412"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy9PN0E",
+                        "name": "30650"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWVmNWY0NTktZWM1Ny00ZTZmLTg0MzUtMzU0OTgyZGFhY2Zk",
+                        "name": "S Second St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.5959,
+                    "longitude": -83.4705
+                },
+                "feature_type": "street",
+                "full_address": "S Second St, Madison, Georgia 30650, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWVmNWY0NTktZWM1Ny00ZTZmLTg0MzUtMzU0OTgyZGFhY2Zk",
+                "name": "S Second St",
+                "name_preferred": "S Second St",
+                "place_formatted": "Madison, Georgia 30650, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.468049,
+                    33.595597
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZy9PN0E",
+            "properties": {
+                "bbox": [
+                    -83.610318,
+                    33.415385,
+                    -83.260801,
+                    33.745972
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorNGJz",
+                        "name": "Morgan County",
+                        "wikidata_id": "Q493083"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIL3BJN0E",
+                        "name": "Madison",
+                        "wikidata_id": "Q580412"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy9PN0E",
+                        "name": "30650"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.595597,
+                    "longitude": -83.468049
+                },
+                "feature_type": "postcode",
+                "full_address": "Madison, Georgia 30650, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZy9PN0E",
+                "name": "30650",
+                "name_preferred": "30650",
+                "place_formatted": "Madison, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.517572,
+                    33.736331
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzVmZjcxODgtZWUwNy00N2JiLWEzMTEtNGU4ZWU4ODAxNDMw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzorNGJz",
+                        "name": "Morgan County",
+                        "wikidata_id": "Q493083"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLMGVLN0E",
+                        "name": "Bostwick"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBYnJvN0E",
+                        "name": "Bishop",
+                        "wikidata_id": "Q2705093"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzBPN0E",
+                        "name": "30621"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzVmZjcxODgtZWUwNy00N2JiLWEzMTEtNGU4ZWU4ODAxNDMw",
+                        "name": "2nd Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.736331,
+                    "longitude": -83.517572
+                },
+                "feature_type": "street",
+                "full_address": "2nd Street, Bishop, Georgia 30621, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzVmZjcxODgtZWUwNy00N2JiLWEzMTEtNGU4ZWU4ODAxNDMw",
+                "name": "2nd Street",
+                "name_preferred": "2nd Street",
+                "place_formatted": "Bishop, Georgia 30621, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.319488,
+                    33.615474
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NmQ0ZWRiMzMtNTQxNy00NDA1LTg5YTEtNGY3ZjY5NTE2OWZh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzppOGJz",
+                        "name": "Greene County",
+                        "wikidata_id": "Q486765"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIL3BJN0E",
+                        "name": "Madison",
+                        "wikidata_id": "Q580412"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZy9PN0E",
+                        "name": "30650"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmQ0ZWRiMzMtNTQxNy00NDA1LTg5YTEtNGY3ZjY5NTE2OWZh",
+                        "name": "Madison Hwy"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.615474,
+                    "longitude": -83.319488
+                },
+                "feature_type": "street",
+                "full_address": "Madison Hwy, Madison, Georgia 30650, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmQ0ZWRiMzMtNTQxNy00NDA1LTg5YTEtNGY3ZjY5NTE2OWZh",
+                "name": "Madison Hwy",
+                "name_preferred": "Madison Hwy",
+                "place_formatted": "Madison, Georgia 30650, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

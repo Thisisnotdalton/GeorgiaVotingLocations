@@ -1,0 +1,314 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.360688,
+                    31.21116
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0YmU0ZDEwYS0yZjY5LTRkMjEtYTkyMi01ZjZlZjY5ZjYxOGE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "408",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0YmU0ZDEwYS0yZjY5LTRkMjEtYTkyMi01ZjZlZjY5ZjYxOGE",
+                        "name": "408 Tebeau Street",
+                        "street_name": "Tebeau Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzRtN0E",
+                        "name": "Ware County",
+                        "wikidata_id": "Q498353"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKQlRvN0E",
+                        "name": "Waycross",
+                        "wikidata_id": "Q615027"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakVPN0E",
+                        "name": "31501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NGJlNGQxMGEtMmY2OS00ZDIxLWE5MjItNWY2ZWY2OWY2MThh",
+                        "name": "Tebeau Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.21116,
+                    "longitude": -82.360688,
+                    "routable_points": [
+                        {
+                            "latitude": 31.211173,
+                            "longitude": -82.361007,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "408 Tebeau Street, Waycross, Georgia 31501, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0YmU0ZDEwYS0yZjY5LTRkMjEtYTkyMi01ZjZlZjY5ZjYxOGE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "408 Tebeau Street",
+                "name_preferred": "408 Tebeau Street",
+                "place_formatted": "Waycross, Georgia 31501, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.354125,
+                    31.213401
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCakVPN0E",
+            "properties": {
+                "bbox": [
+                    -82.380389,
+                    31.184414,
+                    -82.312656,
+                    31.264021
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzRtN0E",
+                        "name": "Ware County",
+                        "wikidata_id": "Q498353"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKQlRvN0E",
+                        "name": "Waycross",
+                        "wikidata_id": "Q615027"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakVPN0E",
+                        "name": "31501"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.213401,
+                    "longitude": -82.354125
+                },
+                "feature_type": "postcode",
+                "full_address": "Waycross, Georgia 31501, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCakVPN0E",
+                "name": "31501",
+                "name_preferred": "31501",
+                "place_formatted": "Waycross, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.374635,
+                    31.199858
+                ],
+                "type": "Point"
+            },
+            "id": "address.3481608615539914",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzRtN0E",
+                        "name": "Ware County",
+                        "wikidata_id": "Q498353"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKQlRvN0E",
+                        "name": "Waycross",
+                        "wikidata_id": "Q615027"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakZPN0E",
+                        "name": "31503"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.3481608615539914",
+                        "name": "Boulevard Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.199858,
+                    "longitude": -82.374635
+                },
+                "feature_type": "street",
+                "full_address": "Boulevard Street, Waycross, Georgia 31503, United States",
+                "mapbox_id": "address.3481608615539914",
+                "name": "Boulevard Street",
+                "name_preferred": "Boulevard Street",
+                "place_formatted": "Waycross, Georgia 31503, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.354125,
+                    31.213401
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpKQlRvN0E",
+            "properties": {
+                "bbox": [
+                    -82.593757,
+                    30.568558,
+                    -82.120111,
+                    31.417431
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzRtN0E",
+                        "name": "Ware County",
+                        "wikidata_id": "Q498353"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKQlRvN0E",
+                        "name": "Waycross",
+                        "wikidata_id": "Q615027"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.213401,
+                    "longitude": -82.354125
+                },
+                "feature_type": "place",
+                "full_address": "Waycross, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpKQlRvN0E",
+                "name": "Waycross",
+                "name_preferred": "Waycross",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.661052,
+                    31.070754
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmQ4MzZmODQtNWE4NS00NTFiLTgyMDItMmY5NDVjNzY1NzA3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSMGJz",
+                        "name": "Clinch County",
+                        "wikidata_id": "Q486167"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIMjVvN0E",
+                        "name": "Homerville"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCam11N0E",
+                        "name": "31634"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmQ4MzZmODQtNWE4NS00NTFiLTgyMDItMmY5NDVjNzY1NzA3",
+                        "name": "Waycross Hwy"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.070754,
+                    "longitude": -82.661052
+                },
+                "feature_type": "street",
+                "full_address": "Waycross Hwy, Homerville, Georgia 31634, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmQ4MzZmODQtNWE4NS00NTFiLTgyMDItMmY5NDVjNzY1NzA3",
+                "name": "Waycross Hwy",
+                "name_preferred": "Waycross Hwy",
+                "place_formatted": "Homerville, Georgia 31634, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

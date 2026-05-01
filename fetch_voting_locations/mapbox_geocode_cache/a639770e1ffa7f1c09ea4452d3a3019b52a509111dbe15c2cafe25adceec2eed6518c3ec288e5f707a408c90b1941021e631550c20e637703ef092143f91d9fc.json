@@ -1,0 +1,332 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.664273,
+                    33.530517
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjMmJjMmQ4OS1jOWJmLTQ5OGEtYjNlNi01OWZiMDM2MDAxYjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "9111",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjMmJjMmQ4OS1jOWJmLTQ5OGEtYjNlNi01OWZiMDM2MDAxYjE",
+                        "name": "9111 Palmetto Cascade Highway",
+                        "street_name": "Palmetto Cascade Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBMjdJN0E",
+                            "name": "Chattahoochee Hills"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpEdW5JN0E",
+                        "name": "Palmetto",
+                        "wikidata_id": "Q508485"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkF1N0E",
+                        "name": "30268"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzJiYzJkODktYzliZi00OThhLWIzZTYtNTlmYjAzNjAwMWIx",
+                        "name": "Palmetto Cascade Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.530517,
+                    "longitude": -84.664273,
+                    "routable_points": [
+                        {
+                            "latitude": 33.530347,
+                            "longitude": -84.66427,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "9111 Palmetto Cascade Highway, Palmetto, Georgia 30268, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjMmJjMmQ4OS1jOWJmLTQ5OGEtYjNlNi01OWZiMDM2MDAxYjE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "9111 Cascade Palmetto Hwy",
+                "name_preferred": "9111 Palmetto Cascade Highway",
+                "place_formatted": "Palmetto, Georgia 30268, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.669482,
+                    33.517713
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZkF1N0E",
+            "properties": {
+                "bbox": [
+                    -84.850083,
+                    33.48031,
+                    -84.595132,
+                    33.624819
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBMjdJN0E",
+                            "name": "Chattahoochee Hills"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpEdW5JN0E",
+                        "name": "Palmetto",
+                        "wikidata_id": "Q508485"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkF1N0E",
+                        "name": "30268"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.517713,
+                    "longitude": -84.669482
+                },
+                "feature_type": "postcode",
+                "full_address": "Palmetto, Georgia 30268, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZkF1N0E",
+                "name": "30268",
+                "name_preferred": "30268",
+                "place_formatted": "Palmetto, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.389729,
+                    33.549296
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjY1YTY3YjUtM2MxZi00NjY1LWI3ZjctYmRjYTljYmZiZjE2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKSFZzN0E",
+                        "name": "Spring Valley"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFS0dvN0E",
+                        "name": "Riverdale",
+                        "wikidata_id": "Q3260888"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkR1N0E",
+                        "name": "30274"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjY1YTY3YjUtM2MxZi00NjY1LWI3ZjctYmRjYTljYmZiZjE2",
+                        "name": "Palmetto Way"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.549296,
+                    "longitude": -84.389729
+                },
+                "feature_type": "street",
+                "full_address": "Palmetto Way, Riverdale, Georgia 30274, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjY1YTY3YjUtM2MxZi00NjY1LWI3ZjctYmRjYTljYmZiZjE2",
+                "name": "Palmetto Way",
+                "name_preferred": "Palmetto Way",
+                "place_formatted": "Riverdale, Georgia 30274, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.669482,
+                    33.517713
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpEdW5JN0E",
+            "properties": {
+                "bbox": [
+                    -84.73835,
+                    33.48031,
+                    -84.595132,
+                    33.569082
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEdW5JN0E",
+                        "name": "Palmetto",
+                        "wikidata_id": "Q508485"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.517713,
+                    "longitude": -84.669482
+                },
+                "feature_type": "place",
+                "full_address": "Palmetto, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpEdW5JN0E",
+                "name": "Palmetto",
+                "name_preferred": "Palmetto",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.141272,
+                    33.861834
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDFmN2I5MGEtZjliOS00NzMzLThiZmYtNjE3MDczMjNiNDNj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGbEdLN0E",
+                        "name": "Mountain Park",
+                        "wikidata_id": "Q2315279"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDeUNvN0E",
+                        "name": "Lilburn",
+                        "wikidata_id": "Q2097325"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHdPN0E",
+                        "name": "30047"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDFmN2I5MGEtZjliOS00NzMzLThiZmYtNjE3MDczMjNiNDNj",
+                        "name": "Cascade Drive Southwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.861834,
+                    "longitude": -84.141272
+                },
+                "feature_type": "street",
+                "full_address": "Cascade Drive Southwest, Lilburn, Georgia 30047, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDFmN2I5MGEtZjliOS00NzMzLThiZmYtNjE3MDczMjNiNDNj",
+                "name": "Cascade Dr",
+                "name_preferred": "Cascade Drive Southwest",
+                "place_formatted": "Lilburn, Georgia 30047, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

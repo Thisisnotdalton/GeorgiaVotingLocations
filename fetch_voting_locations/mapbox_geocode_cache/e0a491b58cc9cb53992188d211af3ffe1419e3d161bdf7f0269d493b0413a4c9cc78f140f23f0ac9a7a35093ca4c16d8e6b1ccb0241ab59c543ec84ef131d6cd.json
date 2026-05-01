@@ -1,0 +1,313 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.75481,
+                    34.61738
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxZjdiNDRkNS0zYWZmLTRkNjktODNkNy0wNTVkMTRiMzBmMjc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1241",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxZjdiNDRkNS0zYWZmLTRkNjktODNkNy0wNTVkMTRiMzBmMjc",
+                        "name": "1241 Helen Highway",
+                        "street_name": "Helen Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHZHN0E",
+                        "name": "White County",
+                        "wikidata_id": "Q389365"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBODVvN0E",
+                        "name": "Cleveland",
+                        "wikidata_id": "Q2376316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1d1N0E",
+                        "name": "30528"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWY3YjQ0ZDUtM2FmZi00ZDY5LTgzZDctMDU1ZDE0YjMwZjI3",
+                        "name": "Helen Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.61738,
+                    "longitude": -83.75481,
+                    "routable_points": [
+                        {
+                            "latitude": 34.617388,
+                            "longitude": -83.754593,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1241 Helen Highway, Cleveland, Georgia 30528, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxZjdiNDRkNS0zYWZmLTRkNjktODNkNy0wNTVkMTRiMzBmMjc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1241 Helen Highway",
+                "name_preferred": "1241 Helen Highway",
+                "place_formatted": "Cleveland, Georgia 30528, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.763293,
+                    34.596714
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZ1d1N0E",
+            "properties": {
+                "bbox": [
+                    -83.945587,
+                    34.495765,
+                    -83.615537,
+                    34.729967
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHZHN0E",
+                        "name": "White County",
+                        "wikidata_id": "Q389365"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBODVvN0E",
+                        "name": "Cleveland",
+                        "wikidata_id": "Q2376316"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ1d1N0E",
+                        "name": "30528"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.596714,
+                    "longitude": -83.763293
+                },
+                "feature_type": "postcode",
+                "full_address": "Cleveland, Georgia 30528, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZ1d1N0E",
+                "name": "30528",
+                "name_preferred": "30528",
+                "place_formatted": "Cleveland, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.865694,
+                    34.532471
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTExNmM1ZmYtMzI1Ny00MmY3LTkyZDAtNmEzYTc4MWY4YWY2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyRWJz",
+                        "name": "Lumpkin County",
+                        "wikidata_id": "Q492040"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEVzlvN0E",
+                        "name": "Murrayville",
+                        "wikidata_id": "Q19987251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2x1N0E",
+                        "name": "30564"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTExNmM1ZmYtMzI1Ny00MmY3LTkyZDAtNmEzYTc4MWY4YWY2",
+                        "name": "Cleveland Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.532471,
+                    "longitude": -83.865694
+                },
+                "feature_type": "street",
+                "full_address": "Cleveland Highway, Murrayville, Georgia 30564, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTExNmM1ZmYtMzI1Ny00MmY3LTkyZDAtNmEzYTc4MWY4YWY2",
+                "name": "Cleveland Highway",
+                "name_preferred": "Cleveland Highway",
+                "place_formatted": "Murrayville, Georgia 30564, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.730616,
+                    34.701229
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDSzVJN0E",
+            "properties": {
+                "bbox": [
+                    -83.83955,
+                    34.662949,
+                    -83.68495,
+                    34.801423
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHZHN0E",
+                        "name": "White County",
+                        "wikidata_id": "Q389365"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDSzVJN0E",
+                        "name": "Helen",
+                        "wikidata_id": "Q1601823"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.701229,
+                    "longitude": -83.730616
+                },
+                "feature_type": "place",
+                "full_address": "Helen, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDSzVJN0E",
+                "name": "Helen",
+                "name_preferred": "Helen",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.763293,
+                    34.596714
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpBODVvN0E",
+            "properties": {
+                "bbox": [
+                    -83.945587,
+                    34.495454,
+                    -83.615537,
+                    34.729967
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHZHN0E",
+                        "name": "White County",
+                        "wikidata_id": "Q389365"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBODVvN0E",
+                        "name": "Cleveland",
+                        "wikidata_id": "Q2376316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.596714,
+                    "longitude": -83.763293
+                },
+                "feature_type": "place",
+                "full_address": "Cleveland, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpBODVvN0E",
+                "name": "Cleveland",
+                "name_preferred": "Cleveland",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

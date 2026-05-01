@@ -1,0 +1,310 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.416825,
+                    31.12108
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmMGI3OWQyZC1lMjI2LTQyMDMtYmU5Ny1mYzNkYWZlMDA2NzU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1200",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmMGI3OWQyZC1lMjI2LTQyMDMtYmU5Ny1mYzNkYWZlMDA2NzU",
+                        "name": "1200 South Hutchinson Avenue",
+                        "street_name": "South Hutchinson Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUcWJz",
+                        "name": "Cook County",
+                        "wikidata_id": "Q156431"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGUWpz",
+                        "name": "Adel"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamhPN0E",
+                        "name": "31620"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjBiNzlkMmQtZTIyNi00MjAzLWJlOTctZmMzZGFmZTAwNjc1",
+                        "name": "South Hutchinson Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.12108,
+                    "longitude": -83.416825,
+                    "routable_points": [
+                        {
+                            "latitude": 31.121227,
+                            "longitude": -83.416624,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1200 South Hutchinson Avenue, Adel, Georgia 31620, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmMGI3OWQyZC1lMjI2LTQyMDMtYmU5Ny1mYzNkYWZlMDA2NzU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1200 South Hutchinson Avenue",
+                "name_preferred": "1200 South Hutchinson Avenue",
+                "place_formatted": "Adel, Georgia 31620, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.417155,
+                    31.134471
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OGM4NTcxYWItZGQxZi00MjJjLTlmZTQtODM3ZTk2YzIxODkw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUcWJz",
+                        "name": "Cook County",
+                        "wikidata_id": "Q156431"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGUWpz",
+                        "name": "Adel"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamhPN0E",
+                        "name": "31620"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGM4NTcxYWItZGQxZi00MjJjLTlmZTQtODM3ZTk2YzIxODkw",
+                        "name": "S Hutchinson Ave"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.134471,
+                    "longitude": -83.417155
+                },
+                "feature_type": "street",
+                "full_address": "S Hutchinson Ave, Adel, Georgia 31620, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGM4NTcxYWItZGQxZi00MjJjLTlmZTQtODM3ZTk2YzIxODkw",
+                "name": "S Hutchinson Ave",
+                "name_preferred": "S Hutchinson Ave",
+                "place_formatted": "Adel, Georgia 31620, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.425626,
+                    31.14332
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjEyMTE0OGEtNmQxYy00M2U1LWEwNGEtNzZhNDIyYzU3MTBi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUcWJz",
+                        "name": "Cook County",
+                        "wikidata_id": "Q156431"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGUWpz",
+                        "name": "Adel"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamhPN0E",
+                        "name": "31620"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjEyMTE0OGEtNmQxYy00M2U1LWEwNGEtNzZhNDIyYzU3MTBi",
+                        "name": "North Hutchinson Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.14332,
+                    "longitude": -83.425626
+                },
+                "feature_type": "street",
+                "full_address": "North Hutchinson Avenue, Adel, Georgia 31620, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjEyMTE0OGEtNmQxYy00M2U1LWEwNGEtNzZhNDIyYzU3MTBi",
+                "name": "North Hutchinson Avenue",
+                "name_preferred": "North Hutchinson Avenue",
+                "place_formatted": "Adel, Georgia 31620, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.423388,
+                    31.137039
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCamhPN0E",
+            "properties": {
+                "bbox": [
+                    -83.576667,
+                    31.031895,
+                    -83.30136,
+                    31.217193
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUcWJz",
+                        "name": "Cook County",
+                        "wikidata_id": "Q156431"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGUWpz",
+                        "name": "Adel"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamhPN0E",
+                        "name": "31620"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.137039,
+                    "longitude": -83.423388
+                },
+                "feature_type": "postcode",
+                "full_address": "Adel, Georgia 31620, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCamhPN0E",
+                "name": "31620",
+                "name_preferred": "31620",
+                "place_formatted": "Adel, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.423388,
+                    31.137039
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpGUWpz",
+            "properties": {
+                "bbox": [
+                    -83.576667,
+                    31.031895,
+                    -83.30136,
+                    31.217201
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpUcWJz",
+                        "name": "Cook County",
+                        "wikidata_id": "Q156431"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGUWpz",
+                        "name": "Adel"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.137039,
+                    "longitude": -83.423388
+                },
+                "feature_type": "place",
+                "full_address": "Adel, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpGUWpz",
+                "name": "Adel",
+                "name_preferred": "Adel",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

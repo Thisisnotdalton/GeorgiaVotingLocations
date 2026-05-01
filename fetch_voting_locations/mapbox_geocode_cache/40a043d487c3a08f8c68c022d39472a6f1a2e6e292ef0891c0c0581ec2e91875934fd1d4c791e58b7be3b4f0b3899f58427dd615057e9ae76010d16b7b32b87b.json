@@ -1,0 +1,323 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.605849,
+                    33.606049
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmYTBkMjJhMS1lNDY1LTRjMGYtYTk1ZC1iYTVkOTA4NWVmMzQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5600",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmYTBkMjJhMS1lNDY1LTRjMGYtYTk1ZC1iYTVkOTA4NWVmMzQ",
+                        "name": "5600 Campbellton Fairburn Road",
+                        "street_name": "Campbellton Fairburn Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHVW1vN0E",
+                        "name": "Fairburn",
+                        "wikidata_id": "Q3261359"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZPN0E",
+                        "name": "30213"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmEwZDIyYTEtZTQ2NS00YzBmLWE5NWQtYmE1ZDkwODVlZjM0",
+                        "name": "Campbellton Fairburn Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.606049,
+                    "longitude": -84.605849,
+                    "routable_points": [
+                        {
+                            "latitude": 33.606453,
+                            "longitude": -84.605137,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5600 Campbellton Fairburn Road, Fairburn, Georgia 30213, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmYTBkMjJhMS1lNDY1LTRjMGYtYTk1ZC1iYTVkOTA4NWVmMzQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5600 Campbellton Fairburn Road",
+                "name_preferred": "5600 Campbellton Fairburn Road",
+                "place_formatted": "Fairburn, Georgia 30213, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.604091,
+                    33.615459
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTBhNjdjNTItNGMwZS00ZDViLThmN2YtNGIxZGIxYTJiNDQ3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHVW1vN0E",
+                        "name": "Fairburn",
+                        "wikidata_id": "Q3261359"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXZPN0E",
+                        "name": "30213"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTBhNjdjNTItNGMwZS00ZDViLThmN2YtNGIxZGIxYTJiNDQ3",
+                        "name": "Parkway Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.615459,
+                    "longitude": -84.604091
+                },
+                "feature_type": "street",
+                "full_address": "Parkway Rd, Fairburn, Georgia 30213, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTBhNjdjNTItNGMwZS00ZDViLThmN2YtNGIxZGIxYTJiNDQ3",
+                "name": "Parkway Rd",
+                "name_preferred": "Parkway Rd",
+                "place_formatted": "Fairburn, Georgia 30213, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.563758,
+                    33.567585
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZWJhOGQ2NGQtYjE1YS00YTM0LWFiYWItOWM3YmVhOGFjZDVm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMa2dNN0E",
+                        "name": "Shannon Chase"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpITnVJN0E",
+                        "name": "Union City",
+                        "wikidata_id": "Q3261692"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkp1N0E",
+                        "name": "30291"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWJhOGQ2NGQtYjE1YS00YTM0LWFiYWItOWM3YmVhOGFjZDVm",
+                        "name": "Parkway Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.567585,
+                    "longitude": -84.563758
+                },
+                "feature_type": "street",
+                "full_address": "Parkway Road, Union City, Georgia 30291, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWJhOGQ2NGQtYjE1YS00YTM0LWFiYWItOWM3YmVhOGFjZDVm",
+                "name": "Parkway Road",
+                "name_preferred": "Parkway Road",
+                "place_formatted": "Union City, Georgia 30291, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.668312,
+                    33.731886
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDQ0OGYzMDAtMTkwZS00ZDE0LThiZDMtZjI0ZjFiNjkwODM4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQmNzN0E",
+                        "name": "Britt"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVd1N0E",
+                        "name": "30135"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDQ0OGYzMDAtMTkwZS00ZDE0LThiZDMtZjI0ZjFiNjkwODM4",
+                        "name": "Fairburn Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.731886,
+                    "longitude": -84.668312
+                },
+                "feature_type": "street",
+                "full_address": "Fairburn Road, Douglasville, Georgia 30135, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDQ0OGYzMDAtMTkwZS00ZDE0LThiZDMtZjI0ZjFiNjkwODM4",
+                "name": "Fairburn Road",
+                "name_preferred": "Fairburn Road",
+                "place_formatted": "Douglasville, Georgia 30135, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.686748,
+                    33.678004
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTM4YjFiNDYtNmFmZS00ZTM2LWJlNzItY2ZhZDRiNzZkYjk3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                        "name": "Douglas County",
+                        "wikidata_id": "Q486325"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                        "name": "Douglasville",
+                        "wikidata_id": "Q2856147"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZVd1N0E",
+                        "name": "30135"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTM4YjFiNDYtNmFmZS00ZTM2LWJlNzItY2ZhZDRiNzZkYjk3",
+                        "name": "Fairburn Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.678004,
+                    "longitude": -84.686748
+                },
+                "feature_type": "street",
+                "full_address": "Fairburn Rd, Douglasville, Georgia 30135, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTM4YjFiNDYtNmFmZS00ZTM2LWJlNzItY2ZhZDRiNzZkYjk3",
+                "name": "Fairburn Rd",
+                "name_preferred": "Fairburn Rd",
+                "place_formatted": "Douglasville, Georgia 30135, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

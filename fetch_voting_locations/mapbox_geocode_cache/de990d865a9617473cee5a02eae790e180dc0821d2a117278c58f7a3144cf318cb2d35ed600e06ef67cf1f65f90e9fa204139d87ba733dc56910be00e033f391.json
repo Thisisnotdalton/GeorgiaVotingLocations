@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.05972,
+                    32.29499
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2MDMzYmRhYS00ZTRmLTRjMTQtYTk0MS1mMjcwNjkyZDFlMDA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "100",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2MDMzYmRhYS00ZTRmLTRjMTQtYTk0MS1mMjcwNjkyZDFlMDA",
+                        "name": "100 Macon Street",
+                        "street_name": "Macon Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyc2Jz",
+                        "name": "Macon County",
+                        "wikidata_id": "Q492021"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEblFvN0E",
+                        "name": "Oglethorpe",
+                        "wikidata_id": "Q1906108"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaU11N0E",
+                        "name": "31068"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjAzM2JkYWEtNGU0Zi00YzE0LWE5NDEtZjI3MDY5MmQxZTAw",
+                        "name": "Macon Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.29499,
+                    "longitude": -84.05972,
+                    "routable_points": [
+                        {
+                            "latitude": 32.294815,
+                            "longitude": -84.059981,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "100 Macon Street, Oglethorpe, Georgia 31068, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2MDMzYmRhYS00ZTRmLTRjMTQtYTk0MS1mMjcwNjkyZDFlMDA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "100 Macon Street",
+                "name_preferred": "100 Macon Street",
+                "place_formatted": "Oglethorpe, Georgia 31068, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.058929,
+                    32.294192
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmQ1NTYwM2MtZDgxMC00ZjExLTkxMWEtMmFlYjQ1NGIyOTZk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyc2Jz",
+                        "name": "Macon County",
+                        "wikidata_id": "Q492021"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEblFvN0E",
+                        "name": "Oglethorpe",
+                        "wikidata_id": "Q1906108"
+                    },
+                    "postcode": {
+                        "mapbox_id": "postcode.2425088214169186",
+                        "name": "31076"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmQ1NTYwM2MtZDgxMC00ZjExLTkxMWEtMmFlYjQ1NGIyOTZk",
+                        "name": "S Macon St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.294192,
+                    "longitude": -84.058929
+                },
+                "feature_type": "street",
+                "full_address": "S Macon St, Oglethorpe, Georgia 31076, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmQ1NTYwM2MtZDgxMC00ZjExLTkxMWEtMmFlYjQ1NGIyOTZk",
+                "name": "S Macon St",
+                "name_preferred": "S Macon St",
+                "place_formatted": "Oglethorpe, Georgia 31076, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.058961,
+                    32.293796
+                ],
+                "type": "Point"
+            },
+            "id": "address.6069591436905138",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyc2Jz",
+                        "name": "Macon County",
+                        "wikidata_id": "Q492021"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEblFvN0E",
+                        "name": "Oglethorpe",
+                        "wikidata_id": "Q1906108"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaU11N0E",
+                        "name": "31068"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.6069591436905138",
+                        "name": "South Macon Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.293796,
+                    "longitude": -84.058961
+                },
+                "feature_type": "street",
+                "full_address": "South Macon Street, Oglethorpe, Georgia 31068, United States",
+                "mapbox_id": "address.6069591436905138",
+                "name": "South Macon Street",
+                "name_preferred": "South Macon Street",
+                "place_formatted": "Oglethorpe, Georgia 31068, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.060846,
+                    32.293818
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaU11N0E",
+            "properties": {
+                "bbox": [
+                    -84.209323,
+                    32.244462,
+                    -84.023812,
+                    32.451174
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyc2Jz",
+                        "name": "Macon County",
+                        "wikidata_id": "Q492021"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEblFvN0E",
+                        "name": "Oglethorpe",
+                        "wikidata_id": "Q1906108"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaU11N0E",
+                        "name": "31068"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.293818,
+                    "longitude": -84.060846
+                },
+                "feature_type": "postcode",
+                "full_address": "Oglethorpe, Georgia 31068, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaU11N0E",
+                "name": "31068",
+                "name_preferred": "31068",
+                "place_formatted": "Oglethorpe, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.060846,
+                    32.293818
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpEblFvN0E",
+            "properties": {
+                "bbox": [
+                    -84.209323,
+                    32.240116,
+                    -84.023812,
+                    32.451174
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyc2Jz",
+                        "name": "Macon County",
+                        "wikidata_id": "Q492021"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEblFvN0E",
+                        "name": "Oglethorpe",
+                        "wikidata_id": "Q1906108"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.293818,
+                    "longitude": -84.060846
+                },
+                "feature_type": "place",
+                "full_address": "Oglethorpe, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpEblFvN0E",
+                "name": "Oglethorpe",
+                "name_preferred": "Oglethorpe",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

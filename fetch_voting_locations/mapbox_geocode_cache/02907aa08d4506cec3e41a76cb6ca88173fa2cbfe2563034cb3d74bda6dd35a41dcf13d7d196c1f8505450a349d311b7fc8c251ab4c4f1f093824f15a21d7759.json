@@ -1,0 +1,321 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.283211,
+                    30.839991
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3NzE2YmY2Mi1hMzljLTRjZjAtOGYyYy1lZjYyN2VlMDMwNjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "903",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3NzE2YmY2Mi1hMzljLTRjZjAtOGYyYy1lZjYyN2VlMDMwNjI",
+                        "name": "903 North Patterson Street",
+                        "street_name": "North Patterson Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxMmJz",
+                        "name": "Lowndes County",
+                        "wikidata_id": "Q493134"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGQW1JN0E",
+                        "name": "Valdosta",
+                        "wikidata_id": "Q1010240"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamVPN0E",
+                        "name": "31601"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzcxNmJmNjItYTM5Yy00Y2YwLThmMmMtZWY2MjdlZTAzMDYy",
+                        "name": "North Patterson Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 30.839991,
+                    "longitude": -83.283211,
+                    "routable_points": [
+                        {
+                            "latitude": 30.840245,
+                            "longitude": -83.283321,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "903 North Patterson Street, Valdosta, Georgia 31601, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3NzE2YmY2Mi1hMzljLTRjZjAtOGYyYy1lZjYyN2VlMDMwNjI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "903 North Patterson Street",
+                "name_preferred": "903 North Patterson Street",
+                "place_formatted": "Valdosta, Georgia 31601, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.261318,
+                    30.811331
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Nzc5NzQxYWUtN2E0YS00OWJkLWJiOTItNjVkNGQ1NzBmMjIw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxMmJz",
+                        "name": "Lowndes County",
+                        "wikidata_id": "Q493134"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGZEZNN0E",
+                        "name": "Little Miami"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGQW1JN0E",
+                        "name": "Valdosta",
+                        "wikidata_id": "Q1010240"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamVPN0E",
+                        "name": "31601"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Nzc5NzQxYWUtN2E0YS00OWJkLWJiOTItNjVkNGQ1NzBmMjIw",
+                        "name": "South Patterson Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.811331,
+                    "longitude": -83.261318
+                },
+                "feature_type": "street",
+                "full_address": "South Patterson Street, Valdosta, Georgia 31601, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Nzc5NzQxYWUtN2E0YS00OWJkLWJiOTItNjVkNGQ1NzBmMjIw",
+                "name": "South Patterson Street",
+                "name_preferred": "South Patterson Street",
+                "place_formatted": "Valdosta, Georgia 31601, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.290916,
+                    30.868705
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MTU1ZjVlNGYtMzIxNS00MmRlLWJmNDgtMWUzMTkzZWZlZDc3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxMmJz",
+                        "name": "Lowndes County",
+                        "wikidata_id": "Q493134"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGQW1JN0E",
+                        "name": "Valdosta",
+                        "wikidata_id": "Q1010240"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamV1N0E",
+                        "name": "31602"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTU1ZjVlNGYtMzIxNS00MmRlLWJmNDgtMWUzMTkzZWZlZDc3",
+                        "name": "S Patterson St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.868705,
+                    "longitude": -83.290916
+                },
+                "feature_type": "street",
+                "full_address": "S Patterson St, Valdosta, Georgia 31602, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTU1ZjVlNGYtMzIxNS00MmRlLWJmNDgtMWUzMTkzZWZlZDc3",
+                "name": "S Patterson St",
+                "name_preferred": "S Patterson St",
+                "place_formatted": "Valdosta, Georgia 31602, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.278628,
+                    30.832314
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCamVPN0E",
+            "properties": {
+                "bbox": [
+                    -83.484769,
+                    30.631235,
+                    -83.214313,
+                    30.87816
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoxMmJz",
+                        "name": "Lowndes County",
+                        "wikidata_id": "Q493134"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGQW1JN0E",
+                        "name": "Valdosta",
+                        "wikidata_id": "Q1010240"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamVPN0E",
+                        "name": "31601"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.832314,
+                    "longitude": -83.278628
+                },
+                "feature_type": "postcode",
+                "full_address": "Valdosta, Georgia 31601, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCamVPN0E",
+                "name": "31601",
+                "name_preferred": "31601",
+                "place_formatted": "Valdosta, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.373353,
+                    30.863367
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTUzYjUwZDAtNzk4Yy00MWZjLTgxNmQtNTdkMmNmZTFhNWFj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJd2Jz",
+                        "name": "Brooks County",
+                        "wikidata_id": "Q488175"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGQW1JN0E",
+                        "name": "Valdosta",
+                        "wikidata_id": "Q1010240"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCamV1N0E",
+                        "name": "31602"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTUzYjUwZDAtNzk4Yy00MWZjLTgxNmQtNTdkMmNmZTFhNWFj",
+                        "name": "Valdosta Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 30.863367,
+                    "longitude": -83.373353
+                },
+                "feature_type": "street",
+                "full_address": "Valdosta Highway, Valdosta, Georgia 31602, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTUzYjUwZDAtNzk4Yy00MWZjLTgxNmQtNTdkMmNmZTFhNWFj",
+                "name": "Valdosta Highway",
+                "name_preferred": "Valdosta Highway",
+                "place_formatted": "Valdosta, Georgia 31602, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

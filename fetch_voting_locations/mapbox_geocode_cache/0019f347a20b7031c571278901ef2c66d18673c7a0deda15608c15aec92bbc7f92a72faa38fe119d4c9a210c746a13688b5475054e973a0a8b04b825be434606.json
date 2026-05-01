@@ -1,0 +1,318 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.950856,
+                    34.502495
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphYmY0MTZlNy0zYWEyLTQwYmUtOTMwOS03ZTdjNWQ5ZTcwNmI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "100",
+                        "mapbox_id": "dXJuOm1ieGFkcjphYmY0MTZlNy0zYWEyLTQwYmUtOTMwOS03ZTdjNWQ5ZTcwNmI",
+                        "name": "100 South Wall Street",
+                        "street_name": "South Wall Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoT2Jz",
+                        "name": "Gordon County",
+                        "wikidata_id": "Q200696"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBc01vN0E",
+                        "name": "Calhoun",
+                        "wikidata_id": "Q1022996"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaElPN0E",
+                        "name": "30701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWJmNDE2ZTctM2FhMi00MGJlLTkzMDktN2U3YzVkOWU3MDZi",
+                        "name": "South Wall Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.502495,
+                    "longitude": -84.950856,
+                    "routable_points": [
+                        {
+                            "latitude": 34.502539,
+                            "longitude": -84.951292,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "100 South Wall Street, Calhoun, Georgia 30701, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphYmY0MTZlNy0zYWEyLTQwYmUtOTMwOS03ZTdjNWQ5ZTcwNmI",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "100 South Wall Street",
+                "name_preferred": "100 South Wall Street",
+                "place_formatted": "Calhoun, Georgia 30701, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.96629,
+                    34.496475
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDdkMTYzOGItZWRhZC00MzE5LWE4MGUtZDdkNDZjZDZhZjhi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoT2Jz",
+                        "name": "Gordon County",
+                        "wikidata_id": "Q200696"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBc01vN0E",
+                        "name": "Calhoun",
+                        "wikidata_id": "Q1022996"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaElPN0E",
+                        "name": "30701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDdkMTYzOGItZWRhZC00MzE5LWE4MGUtZDdkNDZjZDZhZjhi",
+                        "name": "N Wall St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.496475,
+                    "longitude": -84.96629
+                },
+                "feature_type": "street",
+                "full_address": "N Wall St, Calhoun, Georgia 30701, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDdkMTYzOGItZWRhZC00MzE5LWE4MGUtZDdkNDZjZDZhZjhi",
+                "name": "N Wall St",
+                "name_preferred": "N Wall St",
+                "place_formatted": "Calhoun, Georgia 30701, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.883474,
+                    34.445338
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YWNjOWVjMjgtMjIwYS00ODQ3LWE2ODItMjk1NzYyOTkwODk2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoT2Jz",
+                        "name": "Gordon County",
+                        "wikidata_id": "Q200696"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEb2pz",
+                        "name": "Adairsville"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUlPN0E",
+                        "name": "30103"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWNjOWVjMjgtMjIwYS00ODQ3LWE2ODItMjk1NzYyOTkwODk2",
+                        "name": "S Wall St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.445338,
+                    "longitude": -84.883474
+                },
+                "feature_type": "street",
+                "full_address": "S Wall St, Adairsville, Georgia 30103, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWNjOWVjMjgtMjIwYS00ODQ3LWE2ODItMjk1NzYyOTkwODk2",
+                "name": "S Wall St",
+                "name_preferred": "S Wall St",
+                "place_formatted": "Adairsville, Georgia 30103, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.966743,
+                    34.614898
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Mzg0NTQ3ODMtMWQwNC00NWIyLTg5YzYtNzI0ZGNkNzc3NmFm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoT2Jz",
+                        "name": "Gordon County",
+                        "wikidata_id": "Q200696"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFR3RJN0E",
+                        "name": "Resaca",
+                        "wikidata_id": "Q1402992"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaFNPN0E",
+                        "name": "30735"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Mzg0NTQ3ODMtMWQwNC00NWIyLTg5YzYtNzI0ZGNkNzc3NmFm",
+                        "name": "S Wall St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.614898,
+                    "longitude": -84.966743
+                },
+                "feature_type": "street",
+                "full_address": "S Wall St, Resaca, Georgia 30735, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Mzg0NTQ3ODMtMWQwNC00NWIyLTg5YzYtNzI0ZGNkNzc3NmFm",
+                "name": "S Wall St",
+                "name_preferred": "S Wall St",
+                "place_formatted": "Resaca, Georgia 30735, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.944926,
+                    34.516884
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2I1ZTZkYmYtNjNmOC00OTg1LWI3ZmEtMzA5ZGQzNWRhYTMz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpoT2Jz",
+                        "name": "Gordon County",
+                        "wikidata_id": "Q200696"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpMUkFzN0E",
+                        "name": "Echota"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBc01vN0E",
+                        "name": "Calhoun",
+                        "wikidata_id": "Q1022996"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaElPN0E",
+                        "name": "30701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2I1ZTZkYmYtNjNmOC00OTg1LWI3ZmEtMzA5ZGQzNWRhYTMz",
+                        "name": "North Wall Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.516884,
+                    "longitude": -84.944926
+                },
+                "feature_type": "street",
+                "full_address": "North Wall Street, Calhoun, Georgia 30701, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2I1ZTZkYmYtNjNmOC00OTg1LWI3ZmEtMzA5ZGQzNWRhYTMz",
+                "name": "Wall",
+                "name_preferred": "North Wall Street",
+                "place_formatted": "Calhoun, Georgia 30701, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

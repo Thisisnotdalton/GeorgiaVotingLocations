@@ -1,0 +1,360 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.32571,
+                    33.739288
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowMTY2OTIwYS0yNjAwLTRjNDctOWQ2MS1iNDBiNzdjNjJmY2Q",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1879",
+                        "mapbox_id": "dXJuOm1ieGFkcjowMTY2OTIwYS0yNjAwLTRjNDctOWQ2MS1iNDBiNzdjNjJmY2Q",
+                        "name": "1879 Glenwood Avenue Southeast",
+                        "street_name": "Glenwood Avenue Southeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlZPN0E",
+                        "name": "30316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDE2NjkyMGEtMjYwMC00YzQ3LTlkNjEtYjQwYjc3YzYyZmNk",
+                        "name": "Glenwood Avenue Southeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.739288,
+                    "longitude": -84.32571,
+                    "routable_points": [
+                        {
+                            "latitude": 33.739297,
+                            "longitude": -84.325959,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1879 Glenwood Avenue Southeast, Atlanta, Georgia 30316, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowMTY2OTIwYS0yNjAwLTRjNDctOWQ2MS1iNDBiNzdjNjJmY2Q",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1879 Glenwood Avenue Southeast",
+                "name_preferred": "1879 Glenwood Avenue Southeast",
+                "place_formatted": "Atlanta, Georgia 30316, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.345374,
+                    33.740139
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZlZPN0E",
+            "properties": {
+                "bbox": [
+                    -84.368101,
+                    33.672754,
+                    -84.289875,
+                    33.755659
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlZPN0E",
+                        "name": "30316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.740139,
+                    "longitude": -84.345374
+                },
+                "feature_type": "postcode",
+                "full_address": "Atlanta, Georgia 30316, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZlZPN0E",
+                "name": "30316",
+                "name_preferred": "30316",
+                "place_formatted": "Atlanta, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.301461,
+                    33.746198
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmQyMTM3NDgtOThkNS00NGMxLTllMjktYjVlNWFjNGY1N2U1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpMUWpNN0E",
+                            "name": "East Lake Highlands",
+                            "wikidata_id": "Q14686620"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDdUVzN0E",
+                        "name": "East Lake",
+                        "wikidata_id": "Q14686620"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlZ1N0E",
+                        "name": "30317"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmQyMTM3NDgtOThkNS00NGMxLTllMjktYjVlNWFjNGY1N2U1",
+                        "name": "Green Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.746198,
+                    "longitude": -84.301461
+                },
+                "feature_type": "street",
+                "full_address": "Green Avenue, Atlanta, Georgia 30317, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmQyMTM3NDgtOThkNS00NGMxLTllMjktYjVlNWFjNGY1N2U1",
+                "name": "Glenwood Ave SE",
+                "name_preferred": "Green Avenue",
+                "place_formatted": "Atlanta, Georgia 30317, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.34777,
+                    33.740378
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzMwNmQ5MDItY2RmYS00ZmE4LWE1MTEtYzRhNmUzZjY0Nzk1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDcWdzN0E",
+                        "name": "East Atlanta",
+                        "wikidata_id": "Q5327753"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlZPN0E",
+                        "name": "30316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzMwNmQ5MDItY2RmYS00ZmE4LWE1MTEtYzRhNmUzZjY0Nzk1",
+                        "name": "Atlanta"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.740378,
+                    "longitude": -84.34777
+                },
+                "feature_type": "street",
+                "full_address": "Atlanta, Atlanta, Georgia 30316, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzMwNmQ5MDItY2RmYS00ZmE4LWE1MTEtYzRhNmUzZjY0Nzk1",
+                "name": "Atlanta",
+                "name_preferred": "Atlanta",
+                "place_formatted": "Atlanta, Georgia 30316, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.339427,
+                    33.771174
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UZzNPU0lzSW5OMGNtVmxkQ0k2SWtkTVJVNVhUMDlFSUVGV1JTSXNJbkJzWVdObElqb2lRVlJNUVU1VVFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRE14TmlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RRdU16UTVPRGMxSWl3aU16TXVOakUwTmpZMklpd2lMVGcwTGpBeU16Y3hNeUlzSWpNekxqazNNRGc0SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "30316",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UZzNPU0lzSW5OMGNtVmxkQ0k2SWtkTVJVNVhUMDlFSUVGV1JTSXNJbkJzWVdObElqb2lRVlJNUVU1VVFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRE14TmlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RRdU16UTVPRGMxSWl3aU16TXVOakUwTmpZMklpd2lMVGcwTGpBeU16Y3hNeUlzSWpNekxqazNNRGc0SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTo0",
+                        "name": "30316 North Avenue Northeast",
+                        "street_name": "North Avenue Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVEtNN0E",
+                        "name": "Candler Park"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlF1N0E",
+                        "name": "30307"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVGczT1NJc0luTjBjbVZsZENJNklrZE1SVTVYVDA5RUlFRldSU0lzSW5Cc1lXTmxJam9pUVZSTVFVNVVRU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TURNeE5pSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVNelE1T0RjMUlpd2lNek11TmpFME5qWTJJaXdpTFRnMExqQXlNemN4TXlJc0lqTXpMamszTURnNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6NA",
+                        "name": "North Avenue Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.771174,
+                    "longitude": -84.339427,
+                    "routable_points": [
+                        {
+                            "latitude": 33.771174,
+                            "longitude": -84.339427,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "30316 North Avenue Northeast, Atlanta, Georgia 30307, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UZzNPU0lzSW5OMGNtVmxkQ0k2SWtkTVJVNVhUMDlFSUVGV1JTSXNJbkJzWVdObElqb2lRVlJNUVU1VVFTSXNJbkpsWjJsdmJpSTZJa2RCSWl3aWNHOXpkR052WkdVaU9pSXpNRE14TmlJc0ltRjFkRzlqYjIxd2JHVjBaU0k2SW1aaGJITmxJaXdpWW1KdmVDSTZXeUl0T0RRdU16UTVPRGMxSWl3aU16TXVOakUwTmpZMklpd2lMVGcwTGpBeU16Y3hNeUlzSWpNekxqazNNRGc0SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTo0",
+                "match_code": {
+                    "address_number": "unmatched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "30316 GA 8",
+                "name_preferred": "30316 North Avenue Northeast",
+                "place_formatted": "Atlanta, Georgia 30307, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

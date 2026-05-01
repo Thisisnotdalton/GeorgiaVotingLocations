@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.23928,
+                    32.071842
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0MmU3ZjZmOS01NGZhLTQzYzYtODE5Zi01NjY1NjhlNzcxOWE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "500",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0MmU3ZjZmOS01NGZhLTQzYzYtODE5Zi01NjY1NjhlNzcxOWE",
+                        "name": "500 West Lamar Street",
+                        "street_name": "West Lamar Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                        "name": "Sumter County",
+                        "wikidata_id": "Q503076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWpz",
+                        "name": "Americus",
+                        "wikidata_id": "Q123067"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanl1N0E",
+                        "name": "31709"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDJlN2Y2ZjktNTRmYS00M2M2LTgxOWYtNTY2NTY4ZTc3MTlh",
+                        "name": "West Lamar Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.071842,
+                    "longitude": -84.23928,
+                    "routable_points": [
+                        {
+                            "latitude": 32.071599,
+                            "longitude": -84.239418,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "500 West Lamar Street, Americus, Georgia 31709, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0MmU3ZjZmOS01NGZhLTQzYzYtODE5Zi01NjY1NjhlNzcxOWE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "500 West Lamar Street",
+                "name_preferred": "500 West Lamar Street",
+                "place_formatted": "Americus, Georgia 31709, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.20007,
+                    32.062
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjFiMjE0ODYtMGRhMC00ODRhLWI2MTgtOWFhOTE4MmZkN2E3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                        "name": "Sumter County",
+                        "wikidata_id": "Q503076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWpz",
+                        "name": "Americus",
+                        "wikidata_id": "Q123067"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanl1N0E",
+                        "name": "31709"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjFiMjE0ODYtMGRhMC00ODRhLWI2MTgtOWFhOTE4MmZkN2E3",
+                        "name": "E Lamar St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.062,
+                    "longitude": -84.20007
+                },
+                "feature_type": "street",
+                "full_address": "E Lamar St, Americus, Georgia 31709, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjFiMjE0ODYtMGRhMC00ODRhLWI2MTgtOWFhOTE4MmZkN2E3",
+                "name": "E Lamar St",
+                "name_preferred": "E Lamar St",
+                "place_formatted": "Americus, Georgia 31709, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.218738,
+                    32.071287
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjI3YTcxMzMtODIyMi00MDUxLTlmNzktM2U0NWRmMThhNTkx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                        "name": "Sumter County",
+                        "wikidata_id": "Q503076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWpz",
+                        "name": "Americus",
+                        "wikidata_id": "Q123067"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanl1N0E",
+                        "name": "31709"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjI3YTcxMzMtODIyMi00MDUxLTlmNzktM2U0NWRmMThhNTkx",
+                        "name": "East Lamar Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.071287,
+                    "longitude": -84.218738
+                },
+                "feature_type": "street",
+                "full_address": "East Lamar Street, Americus, Georgia 31709, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjI3YTcxMzMtODIyMi00MDUxLTlmNzktM2U0NWRmMThhNTkx",
+                "name": "East Lamar Street",
+                "name_preferred": "East Lamar Street",
+                "place_formatted": "Americus, Georgia 31709, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.232557,
+                    32.072192
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCanl1N0E",
+            "properties": {
+                "bbox": [
+                    -84.256476,
+                    31.920084,
+                    -83.978375,
+                    32.174376
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                        "name": "Sumter County",
+                        "wikidata_id": "Q503076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWpz",
+                        "name": "Americus",
+                        "wikidata_id": "Q123067"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanl1N0E",
+                        "name": "31709"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.072192,
+                    "longitude": -84.232557
+                },
+                "feature_type": "postcode",
+                "full_address": "Americus, Georgia 31709, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCanl1N0E",
+                "name": "31709",
+                "name_preferred": "31709",
+                "place_formatted": "Americus, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.053895,
+                    32.015521
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjdhZjdkYTctMTYxZi00ZGVmLTk5OWYtOTM3YTZlN2U0Yjk4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                        "name": "Sumter County",
+                        "wikidata_id": "Q503076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDd2NJN0E",
+                        "name": "Leslie",
+                        "wikidata_id": "Q2101248"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCai91N0E",
+                        "name": "31764"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjdhZjdkYTctMTYxZi00ZGVmLTk5OWYtOTM3YTZlN2U0Yjk4",
+                        "name": "Lamar Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.015521,
+                    "longitude": -84.053895
+                },
+                "feature_type": "street",
+                "full_address": "Lamar Road, Leslie, Georgia 31764, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjdhZjdkYTctMTYxZi00ZGVmLTk5OWYtOTM3YTZlN2U0Yjk4",
+                "name": "Lamar Road",
+                "name_preferred": "Lamar Road",
+                "place_formatted": "Leslie, Georgia 31764, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

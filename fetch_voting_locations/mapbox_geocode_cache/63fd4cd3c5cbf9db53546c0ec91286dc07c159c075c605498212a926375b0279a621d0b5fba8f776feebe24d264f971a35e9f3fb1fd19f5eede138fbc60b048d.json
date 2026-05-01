@@ -1,0 +1,349 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.52336,
+                    33.951666
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo1OGRhOTVhMS1kMGNhLTRhMDQtYjViNS0xZGRhZDliMGI5OWM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "995",
+                        "mapbox_id": "dXJuOm1ieGFkcjo1OGRhOTVhMS1kMGNhLTRhMDQtYjViNS0xZGRhZDliMGI5OWM",
+                        "name": "995 Roswell Street",
+                        "street_name": "Roswell Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDLzdvN0E",
+                        "name": "Marietta",
+                        "wikidata_id": "Q852684"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDBPN0E",
+                        "name": "30060"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NThkYTk1YTEtZDBjYS00YTA0LWI1YjUtMWRkYWQ5YjBiOTlj",
+                        "name": "Roswell Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.951666,
+                    "longitude": -84.52336,
+                    "routable_points": [
+                        {
+                            "latitude": 33.951365,
+                            "longitude": -84.523367,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "995 Roswell Street, Marietta, Georgia 30060, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo1OGRhOTVhMS1kMGNhLTRhMDQtYjViNS0xZGRhZDliMGI5OWM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "995 Roswell St NE",
+                "name_preferred": "995 Roswell Street",
+                "place_formatted": "Marietta, Georgia 30060, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.524418,
+                    33.933655
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MzFmZjgyNjgtYzYxNS00OTMyLWI5MDEtMDdlNGQ4MzYyZGI3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDLzdvN0E",
+                        "name": "Marietta",
+                        "wikidata_id": "Q852684"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDBPN0E",
+                        "name": "30060"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzFmZjgyNjgtYzYxNS00OTMyLWI5MDEtMDdlNGQ4MzYyZGI3",
+                        "name": "Roswell St NE"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.933655,
+                    "longitude": -84.524418
+                },
+                "feature_type": "street",
+                "full_address": "Roswell St NE, Marietta, Georgia 30060, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzFmZjgyNjgtYzYxNS00OTMyLWI5MDEtMDdlNGQ4MzYyZGI3",
+                "name": "Roswell St NE",
+                "name_preferred": "Roswell St NE",
+                "place_formatted": "Marietta, Georgia 30060, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.506438,
+                    33.889951
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YmU3ZTEyZGMtZWY2Yy00Y2Y3LTk1MzgtYmUxZjBhMmQ2NTZj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFamhJN0E",
+                        "name": "Smyrna",
+                        "wikidata_id": "Q958676"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDl1N0E",
+                        "name": "30080"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmU3ZTEyZGMtZWY2Yy00Y2Y3LTk1MzgtYmUxZjBhMmQ2NTZj",
+                        "name": "Roswell Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.889951,
+                    "longitude": -84.506438
+                },
+                "feature_type": "street",
+                "full_address": "Roswell Street, Smyrna, Georgia 30080, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmU3ZTEyZGMtZWY2Yy00Y2Y3LTk1MzgtYmUxZjBhMmQ2NTZj",
+                "name": "Roswell St SE",
+                "name_preferred": "Roswell Street",
+                "place_formatted": "Smyrna, Georgia 30080, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.449143,
+                    33.979213
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UazFJaXdpYzNSeVpXVjBJam9pVWs5VFYwVk1UQ0JUVkNCT1JTSXNJbkJzWVdObElqb2lUVUZTU1VWVVZFRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF3TmpBaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW1KaWIzZ2lPbHNpTFRnMExqY3pPVFkzT1NJc0lqTXpMamMwTXpZNE15SXNJaTA0TkM0ek56UTJOallpTENJek5DNHdPREUzTnpraVhTd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "995",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UazFJaXdpYzNSeVpXVjBJam9pVWs5VFYwVk1UQ0JUVkNCT1JTSXNJbkJzWVdObElqb2lUVUZTU1VWVVZFRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF3TmpBaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW1KaWIzZ2lPbHNpTFRnMExqY3pPVFkzT1NJc0lqTXpMamMwTXpZNE15SXNJaTA0TkM0ek56UTJOallpTENJek5DNHdPREUzTnpraVhTd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjM",
+                        "name": "995 Roswell Road",
+                        "street_name": "Roswell Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                        "name": "Cobb County",
+                        "wikidata_id": "Q484247"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDLzdvN0E",
+                        "name": "Marietta",
+                        "wikidata_id": "Q852684"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDFPN0E",
+                        "name": "30062"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVGsxSWl3aWMzUnlaV1YwSWpvaVVrOVRWMFZNVENCVFZDQk9SU0lzSW5Cc1lXTmxJam9pVFVGU1NVVlVWRUVpTENKeVpXZHBiMjRpT2lKSFFTSXNJbkJ2YzNSamIyUmxJam9pTXpBd05qQWlMQ0poZFhSdlkyOXRjR3hsZEdVaU9pSm1ZV3h6WlNJc0ltSmliM2dpT2xzaUxUZzBMamN6T1RZM09TSXNJak16TGpjME16WTRNeUlzSWkwNE5DNHpOelEyTmpZaUxDSXpOQzR3T0RFM056a2lYU3dpYkdsdGFYUWlPaUkxSWl3aWQyOXliR1IyYVdWM0lqb2lkWE1pTENKcGJtTnNkV1JsWDIxaGRHTm9YMlJsZEdGcGJDSTZJblJ5ZFdVaUxDSnRiMlJsSWpvaVptOXlkMkZ5WkNKOToz",
+                        "name": "Roswell Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.979213,
+                    "longitude": -84.449143,
+                    "routable_points": [
+                        {
+                            "latitude": 33.979213,
+                            "longitude": -84.449143,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "995 Roswell Road, Marietta, Georgia 30062, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9UazFJaXdpYzNSeVpXVjBJam9pVWs5VFYwVk1UQ0JUVkNCT1JTSXNJbkJzWVdObElqb2lUVUZTU1VWVVZFRWlMQ0p5WldkcGIyNGlPaUpIUVNJc0luQnZjM1JqYjJSbElqb2lNekF3TmpBaUxDSmhkWFJ2WTI5dGNHeGxkR1VpT2lKbVlXeHpaU0lzSW1KaWIzZ2lPbHNpTFRnMExqY3pPVFkzT1NJc0lqTXpMamMwTXpZNE15SXNJaTA0TkM0ek56UTJOallpTENJek5DNHdPREUzTnpraVhTd2liR2x0YVhRaU9pSTFJaXdpZDI5eWJHUjJhV1YzSWpvaWRYTWlMQ0pwYm1Oc2RXUmxYMjFoZEdOb1gyUmxkR0ZwYkNJNkluUnlkV1VpTENKdGIyUmxJam9pWm05eWQyRnlaQ0o5OjM",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "995 Roswell Road",
+                "name_preferred": "995 Roswell Road",
+                "place_formatted": "Marietta, Georgia 30062, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.381566,
+                    33.84882
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OGZkZWRkZmItMzkwYS00ODkwLThjMjMtN2IxZTRiMjc2MDY0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCSTJNN0E",
+                            "name": "Buckhead Triangle",
+                            "wikidata_id": "Q2333137"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCSTFNN0E",
+                        "name": "Buckhead Forest",
+                        "wikidata_id": "Q4983128"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlB1N0E",
+                        "name": "30305"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGZkZWRkZmItMzkwYS00ODkwLThjMjMtN2IxZTRiMjc2MDY0",
+                        "name": "Roswell Court Northeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.84882,
+                    "longitude": -84.381566
+                },
+                "feature_type": "street",
+                "full_address": "Roswell Court Northeast, Atlanta, Georgia 30305, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGZkZWRkZmItMzkwYS00ODkwLThjMjMtN2IxZTRiMjc2MDY0",
+                "name": "Roswell Court Northeast",
+                "name_preferred": "Roswell Court Northeast",
+                "place_formatted": "Atlanta, Georgia 30305, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

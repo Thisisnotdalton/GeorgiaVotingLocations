@@ -1,0 +1,329 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.379375,
+                    33.83765
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4YWI3NzViOC1jZjhmLTQwZWEtYmUyZi04YzI0YjhkNWEwNDY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "269",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4YWI3NzViOC1jZjhmLTQwZWEtYmUyZi04YzI0YjhkNWEwNDY",
+                        "name": "269 Buckhead Avenue Northeast",
+                        "street_name": "Buckhead Avenue Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCSTJNN0E",
+                            "name": "Buckhead Triangle",
+                            "wikidata_id": "Q2333137"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCSTJzN0E",
+                        "name": "Buckhead Village"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlB1N0E",
+                        "name": "30305"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGFiNzc1YjgtY2Y4Zi00MGVhLWJlMmYtOGMyNGI4ZDVhMDQ2",
+                        "name": "Buckhead Avenue Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.83765,
+                    "longitude": -84.379375,
+                    "routable_points": [
+                        {
+                            "latitude": 33.837541,
+                            "longitude": -84.379163,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "269 Buckhead Avenue Northeast, Atlanta, Georgia 30305, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4YWI3NzViOC1jZjhmLTQwZWEtYmUyZi04YzI0YjhkNWEwNDY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "269 Buckhead Avenue Northeast",
+                "name_preferred": "269 Buckhead Avenue Northeast",
+                "place_formatted": "Atlanta, Georgia 30305, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.379899,
+                    33.839416
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZlB1N0E",
+            "properties": {
+                "bbox": [
+                    -84.416142,
+                    33.809947,
+                    -84.360088,
+                    33.861672
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlB1N0E",
+                        "name": "30305"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.839416,
+                    "longitude": -84.379899
+                },
+                "feature_type": "postcode",
+                "full_address": "Atlanta, Georgia 30305, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZlB1N0E",
+                "name": "30305",
+                "name_preferred": "30305",
+                "place_formatted": "Atlanta, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.345151,
+                    33.834116
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTA3M2ZhNTAtMjU4Yi00ZGI1LWFmMDAtOWE5MjZjYjc4MTNl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZll1N0E",
+                        "name": "30324"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTA3M2ZhNTAtMjU4Yi00ZGI1LWFmMDAtOWE5MjZjYjc4MTNl",
+                        "name": "Buckhead Lane"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.834116,
+                    "longitude": -84.345151
+                },
+                "feature_type": "street",
+                "full_address": "Buckhead Lane, Atlanta, Georgia 30324, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTA3M2ZhNTAtMjU4Yi00ZGI1LWFmMDAtOWE5MjZjYjc4MTNl",
+                "name": "Buckhead Lane",
+                "name_preferred": "Buckhead Lane",
+                "place_formatted": "Atlanta, Georgia 30324, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.346062,
+                    33.834384
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjM5YTRkMTEtZmJjNC00NGY0LWJhMTYtODZkOGRmNmZjMWYw",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZll1N0E",
+                        "name": "30324"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjM5YTRkMTEtZmJjNC00NGY0LWJhMTYtODZkOGRmNmZjMWYw",
+                        "name": "Buckhead Court"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.834384,
+                    "longitude": -84.346062
+                },
+                "feature_type": "street",
+                "full_address": "Buckhead Court, Atlanta, Georgia 30324, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjM5YTRkMTEtZmJjNC00NGY0LWJhMTYtODZkOGRmNmZjMWYw",
+                "name": "Buckhead Court",
+                "name_preferred": "Buckhead Court",
+                "place_formatted": "Atlanta, Georgia 30324, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.261492,
+                    33.926788
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MzQ5YTJkYjEtYzFjMS00YzYxLWI0NGEtNGU4YTNkZWI0ZGY5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpCWGZvN0E",
+                            "name": "Dunwoody"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                        "name": "Atlanta"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZm9PN0E",
+                        "name": "30360"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzQ5YTJkYjEtYzFjMS00YzYxLWI0NGEtNGU4YTNkZWI0ZGY5",
+                        "name": "Northeast Parkway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.926788,
+                    "longitude": -84.261492
+                },
+                "feature_type": "street",
+                "full_address": "Northeast Parkway, Atlanta, Georgia 30360, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MzQ5YTJkYjEtYzFjMS00YzYxLWI0NGEtNGU4YTNkZWI0ZGY5",
+                "name": "Northeast Parkway",
+                "name_preferred": "Northeast Parkway",
+                "place_formatted": "Atlanta, Georgia 30360, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

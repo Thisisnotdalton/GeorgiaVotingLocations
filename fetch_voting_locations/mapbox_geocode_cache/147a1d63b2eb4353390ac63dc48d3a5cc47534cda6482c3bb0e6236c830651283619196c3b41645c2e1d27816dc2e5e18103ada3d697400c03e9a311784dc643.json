@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.940283,
+                    34.34713
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxNjc2NzYwMC1kY2M2LTRiMDAtYjVmNi1jYjJhNTA2ZGY1NTM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "182",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxNjc2NzYwMC1kY2M2LTRiMDAtYjVmNi1jYjJhNTA2ZGY1NTM",
+                        "name": "182 Cade Street",
+                        "street_name": "Cade Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptTWJz",
+                        "name": "Hart County",
+                        "wikidata_id": "Q491301"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDSDdvN0E",
+                        "name": "Hartwell",
+                        "wikidata_id": "Q2855962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzh1N0E",
+                        "name": "30643"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTY3Njc2MDAtZGNjNi00YjAwLWI1ZjYtY2IyYTUwNmRmNTUz",
+                        "name": "Cade Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 34.34713,
+                    "longitude": -82.940283,
+                    "routable_points": [
+                        {
+                            "latitude": 34.347084,
+                            "longitude": -82.940068,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "182 Cade Street, Hartwell, Georgia 30643, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxNjc2NzYwMC1kY2M2LTRiMDAtYjVmNi1jYjJhNTA2ZGY1NTM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "182 Cade Street",
+                "name_preferred": "182 Cade Street",
+                "place_formatted": "Hartwell, Georgia 30643, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.930864,
+                    34.352233
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZzh1N0E",
+            "properties": {
+                "bbox": [
+                    -83.026018,
+                    34.250115,
+                    -82.773411,
+                    34.486762
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptTWJz",
+                        "name": "Hart County",
+                        "wikidata_id": "Q491301"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDSDdvN0E",
+                        "name": "Hartwell",
+                        "wikidata_id": "Q2855962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzh1N0E",
+                        "name": "30643"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.352233,
+                    "longitude": -82.930864
+                },
+                "feature_type": "postcode",
+                "full_address": "Hartwell, Georgia 30643, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZzh1N0E",
+                "name": "30643",
+                "name_preferred": "30643",
+                "place_formatted": "Hartwell, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.058189,
+                    34.415731
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OThiNDY1NTMtNTY2Zi00NDY5LWI3MWYtM2NmZGFhNjE5NTE2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptTWJz",
+                        "name": "Hart County",
+                        "wikidata_id": "Q491301"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDdFlvN0E",
+                        "name": "Lavonia",
+                        "wikidata_id": "Q2794607"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2hPN0E",
+                        "name": "30553"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OThiNDY1NTMtNTY2Zi00NDY5LWI3MWYtM2NmZGFhNjE5NTE2",
+                        "name": "Lavonia Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.415731,
+                    "longitude": -83.058189
+                },
+                "feature_type": "street",
+                "full_address": "Lavonia Highway, Lavonia, Georgia 30553, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OThiNDY1NTMtNTY2Zi00NDY5LWI3MWYtM2NmZGFhNjE5NTE2",
+                "name": "Hartwell Road",
+                "name_preferred": "Lavonia Highway",
+                "place_formatted": "Lavonia, Georgia 30553, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.099056,
+                    34.433016
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTYyZjA1NDAtZjJkZi00ZGY1LWE1NTUtMzA0ZDBlNjIzZTVk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzplU2Jz",
+                        "name": "Franklin County",
+                        "wikidata_id": "Q385931"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDdFlvN0E",
+                        "name": "Lavonia",
+                        "wikidata_id": "Q2794607"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ2hPN0E",
+                        "name": "30553"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTYyZjA1NDAtZjJkZi00ZGY1LWE1NTUtMzA0ZDBlNjIzZTVk",
+                        "name": "Hartwell Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.433016,
+                    "longitude": -83.099056
+                },
+                "feature_type": "street",
+                "full_address": "Hartwell Road, Lavonia, Georgia 30553, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTYyZjA1NDAtZjJkZi00ZGY1LWE1NTUtMzA0ZDBlNjIzZTVk",
+                "name": "Hartwell Road",
+                "name_preferred": "Hartwell Road",
+                "place_formatted": "Lavonia, Georgia 30553, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.930864,
+                    34.352233
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDSDdvN0E",
+            "properties": {
+                "bbox": [
+                    -83.026018,
+                    34.253137,
+                    -82.773411,
+                    34.486762
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzptTWJz",
+                        "name": "Hart County",
+                        "wikidata_id": "Q491301"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDSDdvN0E",
+                        "name": "Hartwell",
+                        "wikidata_id": "Q2855962"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.352233,
+                    "longitude": -82.930864
+                },
+                "feature_type": "place",
+                "full_address": "Hartwell, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDSDdvN0E",
+                "name": "Hartwell",
+                "name_preferred": "Hartwell",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

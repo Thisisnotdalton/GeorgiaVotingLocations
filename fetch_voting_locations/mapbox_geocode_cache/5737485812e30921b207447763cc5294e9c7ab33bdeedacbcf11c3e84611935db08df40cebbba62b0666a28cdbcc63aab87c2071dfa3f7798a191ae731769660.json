@@ -1,0 +1,353 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.511939,
+                    34.114437
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxZDBlMGQ4Yy03ODhlLTQyMGMtODQwMi1kODNlODQ3ZGU4MjQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "7545",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxZDBlMGQ4Yy03ODhlLTQyMGMtODQwMi1kODNlODQ3ZGU4MjQ",
+                        "name": "7545 Main Street",
+                        "street_name": "Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEVDdJN0E",
+                            "name": "Mountain Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpGYmlJN0E",
+                        "name": "Woodstock",
+                        "wikidata_id": "Q2797172"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXNPN0E",
+                        "name": "30188"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWQwZTBkOGMtNzg4ZS00MjBjLTg0MDItZDgzZTg0N2RlODI0",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.114437,
+                    "longitude": -84.511939,
+                    "routable_points": [
+                        {
+                            "latitude": 34.114058,
+                            "longitude": -84.512059,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "7545 Main Street, Woodstock, Georgia 30188, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxZDBlMGQ4Yy03ODhlLTQyMGMtODQwMi1kODNlODQ3ZGU4MjQ",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "7545 Main Street",
+                "name_preferred": "7545 Main Street",
+                "place_formatted": "Woodstock, Georgia 30188, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.279108,
+                    34.094138
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUkzTlRRMUlFMWhhVzRnVTNSeVpXVjBMQ0JYYjI5a2MzUnZZMnNzSUVkQklETXdNVGc0SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "7545",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUkzTlRRMUlFMWhhVzRnVTNSeVpXVjBMQ0JYYjI5a2MzUnZZMnNzSUVkQklETXdNVGc0SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjE",
+                        "name": "7545 North Main Street",
+                        "street_name": "North Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpETVpJN0E",
+                            "name": "Milton"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpVdWpz",
+                        "name": "Alpharetta",
+                        "wikidata_id": "Q1003649"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZGJ1N0E",
+                        "name": "30004"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbkVpT2lJM05UUTFJRTFoYVc0Z1UzUnlaV1YwTENCWGIyOWtjM1J2WTJzc0lFZEJJRE13TVRnNElpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+                        "name": "North Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 34.094138,
+                    "longitude": -84.279108,
+                    "routable_points": [
+                        {
+                            "latitude": 34.094138,
+                            "longitude": -84.279108,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "7545 North Main Street, Alpharetta, Georgia 30004, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0luRWlPaUkzTlRRMUlFMWhhVzRnVTNSeVpXVjBMQ0JYYjI5a2MzUnZZMnNzSUVkQklETXdNVGc0SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "7545 North Main Street",
+                "name_preferred": "7545 North Main Street",
+                "place_formatted": "Alpharetta, Georgia 30004, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.519381,
+                    34.10131
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZXNPN0E",
+            "properties": {
+                "bbox": [
+                    -84.538915,
+                    34.068213,
+                    -84.356908,
+                    34.173733
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEVDdJN0E",
+                            "name": "Mountain Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpGYmlJN0E",
+                        "name": "Woodstock",
+                        "wikidata_id": "Q2797172"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXNPN0E",
+                        "name": "30188"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.10131,
+                    "longitude": -84.519381
+                },
+                "feature_type": "postcode",
+                "full_address": "Woodstock, Georgia 30188, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZXNPN0E",
+                "name": "30188",
+                "name_preferred": "30188",
+                "place_formatted": "Woodstock, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.519381,
+                    34.10131
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpGYmlJN0E",
+            "properties": {
+                "bbox": [
+                    -84.627929,
+                    34.068213,
+                    -84.356908,
+                    34.180079
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGYmlJN0E",
+                        "name": "Woodstock",
+                        "wikidata_id": "Q2797172"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.10131,
+                    "longitude": -84.519381
+                },
+                "feature_type": "place",
+                "full_address": "Woodstock, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpGYmlJN0E",
+                "name": "Woodstock",
+                "name_preferred": "Woodstock",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.871544,
+                    34.8243
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDck9xN0E",
+            "properties": {
+                "bbox": [
+                    -83.878031,
+                    34.820034,
+                    -83.865175,
+                    34.830066
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV1lHN0E",
+                        "name": "Union County",
+                        "wikidata_id": "Q491547"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDck9xN0E",
+                        "name": "Fain"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBY2xvN0E",
+                        "name": "Blairsville",
+                        "wikidata_id": "Q579734"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.8243,
+                    "longitude": -83.871544
+                },
+                "feature_type": "locality",
+                "full_address": "Fain, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDck9xN0E",
+                "name": "Fain",
+                "name_preferred": "Fain",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,332 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.30717,
+                    33.889775
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2YTkwZTNlYS1kZmZiLTQ3ZDQtODY4My05OGI3YTc5OTA1OTU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3393",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2YTkwZTNlYS1kZmZiLTQ3ZDQtODY4My05OGI3YTc5OTA1OTU",
+                        "name": "3393 Malone Drive",
+                        "street_name": "Malone Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBMWlvN0E",
+                        "name": "Chamblee",
+                        "wikidata_id": "Q2527605"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmdPN0E",
+                        "name": "30341"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmE5MGUzZWEtZGZmYi00N2Q0LTg2ODMtOThiN2E3OTkwNTk1",
+                        "name": "Malone Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.889775,
+                    "longitude": -84.30717,
+                    "routable_points": [
+                        {
+                            "latitude": 33.889648,
+                            "longitude": -84.307085,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3393 Malone Drive, Chamblee, Georgia 30341, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2YTkwZTNlYS1kZmZiLTQ3ZDQtODY4My05OGI3YTc5OTA1OTU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3393 Malone Drive",
+                "name_preferred": "3393 Malone Drive",
+                "place_formatted": "Chamblee, Georgia 30341, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.288216,
+                    33.885689
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZmdPN0E",
+            "properties": {
+                "bbox": [
+                    -84.324263,
+                    33.860046,
+                    -84.232859,
+                    33.92041
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpBMWlvN0E",
+                        "name": "Chamblee",
+                        "wikidata_id": "Q2527605"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmdPN0E",
+                        "name": "30341"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.885689,
+                    "longitude": -84.288216
+                },
+                "feature_type": "postcode",
+                "full_address": "Chamblee, Georgia 30341, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZmdPN0E",
+                "name": "30341",
+                "name_preferred": "30341",
+                "place_formatted": "Chamblee, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.116977,
+                    33.898098
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTRiNmZlNzUtNDU2My00YmJkLTg4MGQtNjg1NDhkMmI0NzNk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGbTJzN0E",
+                        "name": "Luxomni"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDeUNvN0E",
+                        "name": "Lilburn",
+                        "wikidata_id": "Q2097325"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHdPN0E",
+                        "name": "30047"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTRiNmZlNzUtNDU2My00YmJkLTg4MGQtNjg1NDhkMmI0NzNk",
+                        "name": "Mahone Dr"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.898098,
+                    "longitude": -84.116977
+                },
+                "feature_type": "street",
+                "full_address": "Mahone Dr, Lilburn, Georgia 30047, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTRiNmZlNzUtNDU2My00YmJkLTg4MGQtNjg1NDhkMmI0NzNk",
+                "name": "Mahone Dr",
+                "name_preferred": "Mahone Dr",
+                "place_formatted": "Lilburn, Georgia 30047, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.298844,
+                    33.892025
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpBMWlvN0E",
+            "properties": {
+                "bbox": [
+                    -84.325547,
+                    33.860038,
+                    -84.232859,
+                    33.92041
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBMWlvN0E",
+                        "name": "Chamblee",
+                        "wikidata_id": "Q2527605"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.892025,
+                    "longitude": -84.298844
+                },
+                "feature_type": "place",
+                "full_address": "Chamblee, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpBMWlvN0E",
+                "name": "Chamblee",
+                "name_preferred": "Chamblee",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.115703,
+                    33.712501
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTRjZjJiZDktMGU2YS00YzU5LWI3ZGItMjU0MjY1MzU4ZTg4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpILzBxN0E",
+                        "name": "Stonecrest",
+                        "wikidata_id": "Q28456847"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDejlvN0E",
+                        "name": "Lithonia",
+                        "wikidata_id": "Q2409037"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHp1N0E",
+                        "name": "30058"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTRjZjJiZDktMGU2YS00YzU5LWI3ZGItMjU0MjY1MzU4ZTg4",
+                        "name": "Parkway Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.712501,
+                    "longitude": -84.115703
+                },
+                "feature_type": "street",
+                "full_address": "Parkway Drive, Lithonia, Georgia 30058, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTRjZjJiZDktMGU2YS00YzU5LWI3ZGItMjU0MjY1MzU4ZTg4",
+                "name": "Parkway Drive",
+                "name_preferred": "Parkway Drive",
+                "place_formatted": "Lithonia, Georgia 30058, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

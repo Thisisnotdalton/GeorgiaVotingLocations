@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.759607,
+                    34.792019
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphMjU4YjY2NC00Y2VhLTQ3MWMtOTdhOC02NzdlNzQ3ODY2NDE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "651",
+                        "mapbox_id": "dXJuOm1ieGFkcjphMjU4YjY2NC00Y2VhLTQ3MWMtOTdhOC02NzdlNzQ3ODY2NDE",
+                        "name": "651 Hyden Tyler Road",
+                        "street_name": "Hyden Tyler Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovY2Jz",
+                        "name": "Murray County",
+                        "wikidata_id": "Q493074"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBMjNvN0E",
+                        "name": "Chatsworth",
+                        "wikidata_id": "Q2843015"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEpPN0E",
+                        "name": "30705"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTI1OGI2NjQtNGNlYS00NzFjLTk3YTgtNjc3ZTc0Nzg2NjQx",
+                        "name": "Hyden Tyler Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.792019,
+                    "longitude": -84.759607,
+                    "routable_points": [
+                        {
+                            "latitude": 34.791756,
+                            "longitude": -84.759956,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "651 Hyden Tyler Road, Chatsworth, Georgia 30705, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphMjU4YjY2NC00Y2VhLTQ3MWMtOTdhOC02NzdlNzQ3ODY2NDE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "651 Hyden Tyler Road",
+                "name_preferred": "651 Hyden Tyler Road",
+                "place_formatted": "Chatsworth, Georgia 30705, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.769575,
+                    34.76612
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaEpPN0E",
+            "properties": {
+                "bbox": [
+                    -84.934911,
+                    34.576965,
+                    -84.582196,
+                    34.900215
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovY2Jz",
+                        "name": "Murray County",
+                        "wikidata_id": "Q493074"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBMjNvN0E",
+                        "name": "Chatsworth",
+                        "wikidata_id": "Q2843015"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEpPN0E",
+                        "name": "30705"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.76612,
+                    "longitude": -84.769575
+                },
+                "feature_type": "postcode",
+                "full_address": "Chatsworth, Georgia 30705, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaEpPN0E",
+                "name": "30705",
+                "name_preferred": "30705",
+                "place_formatted": "Chatsworth, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.769575,
+                    34.76612
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpBMjNvN0E",
+            "properties": {
+                "bbox": [
+                    -84.934911,
+                    34.576958,
+                    -84.582196,
+                    34.900215
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzovY2Jz",
+                        "name": "Murray County",
+                        "wikidata_id": "Q493074"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBMjNvN0E",
+                        "name": "Chatsworth",
+                        "wikidata_id": "Q2843015"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.76612,
+                    "longitude": -84.769575
+                },
+                "feature_type": "place",
+                "full_address": "Chatsworth, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpBMjNvN0E",
+                "name": "Chatsworth",
+                "name_preferred": "Chatsworth",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.881823,
+                    34.782931
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmYwMjA2ZjAtYjFiNy00OGY4LTg4ZmMtODU2OTAzMGU0Njg0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHhtN0E",
+                        "name": "Whitfield County",
+                        "wikidata_id": "Q491537"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTHJJN0E",
+                        "name": "Dalton",
+                        "wikidata_id": "Q996830"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaE11N0E",
+                        "name": "30721"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmYwMjA2ZjAtYjFiNy00OGY4LTg4ZmMtODU2OTAzMGU0Njg0",
+                        "name": "Chatsworth Road Southeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.782931,
+                    "longitude": -84.881823
+                },
+                "feature_type": "street",
+                "full_address": "Chatsworth Road Southeast, Dalton, Georgia 30721, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmYwMjA2ZjAtYjFiNy00OGY4LTg4ZmMtODU2OTAzMGU0Njg0",
+                "name": "Chatsworth Hwy",
+                "name_preferred": "Chatsworth Road Southeast",
+                "place_formatted": "Dalton, Georgia 30721, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.942296,
+                    34.761194
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDk0MDhkZTYtOGU4My00NDJhLTg0MWQtZDNjMTBiMmU5YjI1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWHhtN0E",
+                        "name": "Whitfield County",
+                        "wikidata_id": "Q491537"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTHJJN0E",
+                        "name": "Dalton",
+                        "wikidata_id": "Q996830"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaE11N0E",
+                        "name": "30721"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDk0MDhkZTYtOGU4My00NDJhLTg0MWQtZDNjMTBiMmU5YjI1",
+                        "name": "East Walnut Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.761194,
+                    "longitude": -84.942296
+                },
+                "feature_type": "street",
+                "full_address": "East Walnut Avenue, Dalton, Georgia 30721, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDk0MDhkZTYtOGU4My00NDJhLTg0MWQtZDNjMTBiMmU5YjI1",
+                "name": "Chatsworth Road",
+                "name_preferred": "East Walnut Avenue",
+                "place_formatted": "Dalton, Georgia 30721, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

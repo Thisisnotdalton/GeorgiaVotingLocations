@@ -1,0 +1,83 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -84.827657,
+                33.637769
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjpkMjE5NGU2NC00N2Y3LTRhMzUtOWFjOC1hNzQ1OThhZTY0NGQ",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "6100",
+                    "mapbox_id": "dXJuOm1ieGFkcjpkMjE5NGU2NC00N2Y3LTRhMzUtOWFjOC1hNzQ1OThhZTY0NGQ",
+                    "name": "6100 Bill Arp Road",
+                    "street_name": "Bill Arp Road"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpaaWJz",
+                    "name": "Douglas County",
+                    "wikidata_id": "Q486325"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCVXFvN0E",
+                    "name": "Douglasville",
+                    "wikidata_id": "Q2856147"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZVd1N0E",
+                    "name": "30135"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDIxOTRlNjQtNDdmNy00YTM1LTlhYzgtYTc0NTk4YWU2NDRk",
+                    "name": "Bill Arp Road"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 33.637769,
+                "longitude": -84.827657,
+                "routable_points": [
+                    {
+                        "latitude": 33.637777,
+                        "longitude": -84.828033,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "6100 Bill Arp Road, Douglasville, Georgia 30135, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjpkMjE5NGU2NC00N2Y3LTRhMzUtOWFjOC1hNzQ1OThhZTY0NGQ",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "high",
+                "country": "inferred",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "unmatched"
+            },
+            "name": "6100 GA 5",
+            "name_preferred": "6100 Bill Arp Road",
+            "place_formatted": "Douglasville, Georgia 30135, United States"
+        },
+        "type": "Feature"
+    }
+]

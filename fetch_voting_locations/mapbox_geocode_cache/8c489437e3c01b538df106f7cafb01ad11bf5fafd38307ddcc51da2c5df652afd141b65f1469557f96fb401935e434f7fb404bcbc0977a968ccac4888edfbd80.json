@@ -1,0 +1,329 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.474666,
+                    34.241184
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmMTYyZjIzMC1mNjQzLTQwNjAtOGU2Zi1kNTk3MDkwZWQ3Njg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "193",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmMTYyZjIzMC1mNjQzLTQwNjAtOGU2Zi1kNTk3MDkwZWQ3Njg",
+                        "name": "193 Lamar Haley Parkway",
+                        "street_name": "Lamar Haley Parkway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdXlvN0E",
+                        "name": "Canton",
+                        "wikidata_id": "Q2207351"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU51N0E",
+                        "name": "30114"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjE2MmYyMzAtZjY0My00MDYwLThlNmYtZDU5NzA5MGVkNzY4",
+                        "name": "Lamar Haley Parkway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 34.241184,
+                    "longitude": -84.474666,
+                    "routable_points": [
+                        {
+                            "latitude": 34.240986,
+                            "longitude": -84.474531,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "193 Lamar Haley Parkway, Canton, Georgia 30114, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmMTYyZjIzMC1mNjQzLTQwNjAtOGU2Zi1kNTk3MDkwZWQ3Njg",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "193 Lamar Haley Parkway",
+                "name_preferred": "193 Lamar Haley Parkway",
+                "place_formatted": "Canton, Georgia 30114, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.490867,
+                    34.236851
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZU51N0E",
+            "properties": {
+                "bbox": [
+                    -84.63923,
+                    34.134133,
+                    -84.416744,
+                    34.381026
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBdXlvN0E",
+                        "name": "Canton",
+                        "wikidata_id": "Q2207351"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZU51N0E",
+                        "name": "30114"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.236851,
+                    "longitude": -84.490867
+                },
+                "feature_type": "postcode",
+                "full_address": "Canton, Georgia 30114, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZU51N0E",
+                "name": "30114",
+                "name_preferred": "30114",
+                "place_formatted": "Canton, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.417006,
+                    34.295827
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OGIyZWM5MmItMTE2Yy00NGY3LTg4M2ItMjdkY2RmZmQxNTE2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhJN0E",
+                        "name": "Ball Ground",
+                        "wikidata_id": "Q2895677"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUtPN0E",
+                        "name": "30107"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGIyZWM5MmItMTE2Yy00NGY3LTg4M2ItMjdkY2RmZmQxNTE2",
+                        "name": "Ball Ground Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.295827,
+                    "longitude": -84.417006
+                },
+                "feature_type": "street",
+                "full_address": "Ball Ground Highway, Ball Ground, Georgia 30107, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGIyZWM5MmItMTE2Yy00NGY3LTg4M2ItMjdkY2RmZmQxNTE2",
+                "name": "Canton Highway",
+                "name_preferred": "Ball Ground Highway",
+                "place_formatted": "Ball Ground, Georgia 30107, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.381272,
+                    34.340712
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDBmMjQwOGItN2JkOS00YmU1LTgyYjMtZDY2NTE3Nzk1ZWZj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhJN0E",
+                        "name": "Ball Ground",
+                        "wikidata_id": "Q2895677"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUtPN0E",
+                        "name": "30107"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDBmMjQwOGItN2JkOS00YmU1LTgyYjMtZDY2NTE3Nzk1ZWZj",
+                        "name": "Canton Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.340712,
+                    "longitude": -84.381272
+                },
+                "feature_type": "street",
+                "full_address": "Canton Highway, Ball Ground, Georgia 30107, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDBmMjQwOGItN2JkOS00YmU1LTgyYjMtZDY2NTE3Nzk1ZWZj",
+                "name": "Canton Highway",
+                "name_preferred": "Canton Highway",
+                "place_formatted": "Ball Ground, Georgia 30107, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.518426,
+                    34.103698
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzhmNjA3ODMtNGFiMS00Yjg1LTk5YTQtN2NkMTYwMWIyN2Zk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                        "name": "Cherokee County",
+                        "wikidata_id": "Q486664"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDbElzN0E",
+                            "name": "Downtown Woodstock"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDYzNzN0E",
+                        "name": "Dobbs Estates"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEVDdJN0E",
+                            "name": "Mountain Park"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpGYmlJN0E",
+                        "name": "Woodstock",
+                        "wikidata_id": "Q2797172"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXNPN0E",
+                        "name": "30188"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzhmNjA3ODMtNGFiMS00Yjg1LTk5YTQtN2NkMTYwMWIyN2Zk",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.103698,
+                    "longitude": -84.518426
+                },
+                "feature_type": "street",
+                "full_address": "Main Street, Woodstock, Georgia 30188, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzhmNjA3ODMtNGFiMS00Yjg1LTk5YTQtN2NkMTYwMWIyN2Zk",
+                "name": "Canton Highway",
+                "name_preferred": "Main Street",
+                "place_formatted": "Woodstock, Georgia 30188, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

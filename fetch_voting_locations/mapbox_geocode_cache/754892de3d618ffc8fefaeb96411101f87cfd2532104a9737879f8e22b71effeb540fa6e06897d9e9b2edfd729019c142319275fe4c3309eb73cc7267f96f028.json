@@ -1,0 +1,316 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.309605,
+                    32.885792
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyNjQ5OTJjOS05MjQwLTRkYmItOTBhYS0xOTRhYjliYWVjYjU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "101",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyNjQ5OTJjOS05MjQwLTRkYmItOTBhYS0xOTRhYjliYWVjYjU",
+                        "name": "101 Civic Center Drive",
+                        "street_name": "Civic Center Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV2NHN0E",
+                        "name": "Upson County",
+                        "wikidata_id": "Q498377"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMnNvN0E",
+                        "name": "Thomaston",
+                        "wikidata_id": "Q2856170"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkhPN0E",
+                        "name": "30286"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjY0OTkyYzktOTI0MC00ZGJiLTkwYWEtMTk0YWI5YmFlY2I1",
+                        "name": "Civic Center Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 32.885792,
+                    "longitude": -84.309605,
+                    "routable_points": [
+                        {
+                            "latitude": 32.885806,
+                            "longitude": -84.309582,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "101 Civic Center Drive, Thomaston, Georgia 30286, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyNjQ5OTJjOS05MjQwLTRkYmItOTBhYS0xOTRhYjliYWVjYjU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "101 Civic Center Drive",
+                "name_preferred": "101 Civic Center Drive",
+                "place_formatted": "Thomaston, Georgia 30286, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.320923,
+                    32.8866
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6M2UzMDk4MjYtZGQwMi00MDEwLWIxYTctMDg4YWRjNTZiMmU0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV2NHN0E",
+                        "name": "Upson County",
+                        "wikidata_id": "Q498377"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMnNvN0E",
+                        "name": "Thomaston",
+                        "wikidata_id": "Q2856170"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkhPN0E",
+                        "name": "30286"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2UzMDk4MjYtZGQwMi00MDEwLWIxYTctMDg4YWRjNTZiMmU0",
+                        "name": "Parkway Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.8866,
+                    "longitude": -84.320923
+                },
+                "feature_type": "street",
+                "full_address": "Parkway Drive, Thomaston, Georgia 30286, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2UzMDk4MjYtZGQwMi00MDEwLWIxYTctMDg4YWRjNTZiMmU0",
+                "name": "Parkway Drive",
+                "name_preferred": "Parkway Drive",
+                "place_formatted": "Thomaston, Georgia 30286, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.327384,
+                    32.879911
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjM4M2FhOWMtYmUzMC00N2Q4LTk1OTUtZWJlNmRkNGI2MGNi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV2NHN0E",
+                        "name": "Upson County",
+                        "wikidata_id": "Q498377"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMnNvN0E",
+                        "name": "Thomaston",
+                        "wikidata_id": "Q2856170"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkhPN0E",
+                        "name": "30286"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjM4M2FhOWMtYmUzMC00N2Q4LTk1OTUtZWJlNmRkNGI2MGNi",
+                        "name": "Highway Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.879911,
+                    "longitude": -84.327384
+                },
+                "feature_type": "street",
+                "full_address": "Highway Drive, Thomaston, Georgia 30286, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjM4M2FhOWMtYmUzMC00N2Q4LTk1OTUtZWJlNmRkNGI2MGNi",
+                "name": "Highway Drive",
+                "name_preferred": "Highway Drive",
+                "place_formatted": "Thomaston, Georgia 30286, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.326195,
+                    32.887178
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZkhPN0E",
+            "properties": {
+                "bbox": [
+                    -84.494619,
+                    32.743763,
+                    -84.17525,
+                    32.992526
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV2NHN0E",
+                        "name": "Upson County",
+                        "wikidata_id": "Q498377"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFMnNvN0E",
+                        "name": "Thomaston",
+                        "wikidata_id": "Q2856170"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkhPN0E",
+                        "name": "30286"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.887178,
+                    "longitude": -84.326195
+                },
+                "feature_type": "postcode",
+                "full_address": "Thomaston, Georgia 30286, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZkhPN0E",
+                "name": "30286",
+                "name_preferred": "30286",
+                "place_formatted": "Thomaston, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.1244,
+                    32.831864
+                ],
+                "type": "Point"
+            },
+            "id": "address.1502930443562120",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBV2NHN0E",
+                        "name": "Upson County",
+                        "wikidata_id": "Q498377"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGZGlJN0E",
+                        "name": "Yatesville"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVp1N0E",
+                        "name": "31097"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.1502930443562120",
+                        "name": "Thomaston Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.831864,
+                    "longitude": -84.1244
+                },
+                "feature_type": "street",
+                "full_address": "Thomaston Road, Yatesville, Georgia 31097, United States",
+                "mapbox_id": "address.1502930443562120",
+                "name": "Thomaston Road",
+                "name_preferred": "Thomaston Road",
+                "place_formatted": "Yatesville, Georgia 31097, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

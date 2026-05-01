@@ -1,0 +1,339 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.05778,
+                    33.50621
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowZmQxOTJiMi03ZjJmLTQ4NzEtODhmMy01M2VkZGI0YWZhYjk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "300",
+                        "mapbox_id": "dXJuOm1ieGFkcjowZmQxOTJiMi03ZjJmLTQ4NzEtODhmMy01M2VkZGI0YWZhYjk",
+                        "name": "300 Warren Road",
+                        "street_name": "Warren Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBVzhzN0E",
+                            "name": "Avondale"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpLWjNNN0E",
+                        "name": "West Augusta"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEQm9vN0E",
+                            "name": "Martinez"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHBPN0E",
+                        "name": "30907"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MGZkMTkyYjItN2YyZi00ODcxLTg4ZjMtNTNlZGRiNGFmYWI5",
+                        "name": "Warren Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.50621,
+                    "longitude": -82.05778,
+                    "routable_points": [
+                        {
+                            "latitude": 33.505776,
+                            "longitude": -82.05778,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "300 Warren Road, Augusta, Georgia 30907, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowZmQxOTJiMi03ZjJmLTQ4NzEtODhmMy01M2VkZGI0YWZhYjk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "300 Warren Road",
+                "name_preferred": "300 Warren Road",
+                "place_formatted": "Augusta, Georgia 30907, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.056119,
+                    33.515943
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaHBPN0E",
+            "properties": {
+                "bbox": [
+                    -82.166051,
+                    33.482236,
+                    -82.011532,
+                    33.578288
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEQm9vN0E",
+                            "name": "Martinez"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHBPN0E",
+                        "name": "30907"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.515943,
+                    "longitude": -82.056119
+                },
+                "feature_type": "postcode",
+                "full_address": "Augusta, Georgia 30907, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaHBPN0E",
+                "name": "30907",
+                "name_preferred": "30907",
+                "place_formatted": "Augusta, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.002067,
+                    33.477956
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6Y2RjY2YyYWMtYzI2MS00MzJiLWEwNTMtZGNiYzA5YzUzMzdl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHOU9zN0E",
+                        "name": "Old City"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG51N0E",
+                        "name": "30904"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2RjY2YyYWMtYzI2MS00MzJiLWEwNTMtZGNiYzA5YzUzMzdl",
+                        "name": "Warren Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.477956,
+                    "longitude": -82.002067
+                },
+                "feature_type": "street",
+                "full_address": "Warren Street, Augusta, Georgia 30904, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6Y2RjY2YyYWMtYzI2MS00MzJiLWEwNTMtZGNiYzA5YzUzMzdl",
+                "name": "Warren Street",
+                "name_preferred": "Warren Street",
+                "place_formatted": "Augusta, Georgia 30904, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.986045,
+                    33.482028
+                ],
+                "type": "Point"
+            },
+            "id": "address.5801218874963986",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHOU9zN0E",
+                        "name": "Old City"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaG51N0E",
+                        "name": "30904"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.5801218874963986",
+                        "name": "Warren Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.482028,
+                    "longitude": -81.986045
+                },
+                "feature_type": "street",
+                "full_address": "Warren Drive, Augusta, Georgia 30904, United States",
+                "mapbox_id": "address.5801218874963986",
+                "name": "Warren Drive",
+                "name_preferred": "Warren Drive",
+                "place_formatted": "Augusta, Georgia 30904, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.965412,
+                    33.475142
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzozeWpz",
+            "properties": {
+                "bbox": [
+                    -82.16977,
+                    33.242003,
+                    -81.828339,
+                    33.544932
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUzdtN0E",
+                        "name": "Richmond County",
+                        "wikidata_id": "Q498319"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                        "name": "Augusta",
+                        "wikidata_id": "Q181962"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.475142,
+                    "longitude": -81.965412
+                },
+                "feature_type": "place",
+                "full_address": "Augusta, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzozeWpz",
+                "name": "Augusta",
+                "name_preferred": "Augusta",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

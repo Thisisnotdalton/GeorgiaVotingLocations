@@ -1,0 +1,317 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.25039,
+                    33.244108
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmNzc2OGZhZS02YzE4LTQxMTYtYjUwOS0zNjE4NTYxZTk5MTM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "825",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmNzc2OGZhZS02YzE4LTQxMTYtYjUwOS0zNjE4NTYxZTk5MTM",
+                        "name": "825 Memorial Drive",
+                        "street_name": "Memorial Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVW9tN0E",
+                        "name": "Spalding County",
+                        "wikidata_id": "Q503486"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQTRvN0E",
+                        "name": "Griffin",
+                        "wikidata_id": "Q1012372"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXpPN0E",
+                        "name": "30223"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6Zjc3NjhmYWUtNmMxOC00MTE2LWI1MDktMzYxODU2MWU5OTEz",
+                        "name": "Memorial Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 33.244108,
+                    "longitude": -84.25039,
+                    "routable_points": [
+                        {
+                            "latitude": 33.243657,
+                            "longitude": -84.250961,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "825 Memorial Drive, Griffin, Georgia 30223, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmNzc2OGZhZS02YzE4LTQxMTYtYjUwOS0zNjE4NTYxZTk5MTM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "825 Memorial Drive",
+                "name_preferred": "825 Memorial Drive",
+                "place_formatted": "Griffin, Georgia 30223, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.22445,
+                    33.203507
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjkwMzQ4MTMtZDRlOS00OTVmLWE1MzctZjUwY2JhYmViMDg5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVW9tN0E",
+                        "name": "Spalding County",
+                        "wikidata_id": "Q503486"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQTRvN0E",
+                        "name": "Griffin",
+                        "wikidata_id": "Q1012372"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXp1N0E",
+                        "name": "30224"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjkwMzQ4MTMtZDRlOS00OTVmLWE1MzctZjUwY2JhYmViMDg5",
+                        "name": "Macon Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.203507,
+                    "longitude": -84.22445
+                },
+                "feature_type": "street",
+                "full_address": "Macon Road, Griffin, Georgia 30224, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjkwMzQ4MTMtZDRlOS00OTVmLWE1MzctZjUwY2JhYmViMDg5",
+                "name": "Memorial Drive",
+                "name_preferred": "Macon Road",
+                "place_formatted": "Griffin, Georgia 30224, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.222911,
+                    33.268876
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjJmYWMxN2ItYThjYy00Y2Q4LWFiZTYtMThkODRkNGFlYjYy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVW9tN0E",
+                        "name": "Spalding County",
+                        "wikidata_id": "Q503486"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQTRvN0E",
+                        "name": "Griffin",
+                        "wikidata_id": "Q1012372"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXpPN0E",
+                        "name": "30223"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjJmYWMxN2ItYThjYy00Y2Q4LWFiZTYtMThkODRkNGFlYjYy",
+                        "name": "Parkway Drive"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.268876,
+                    "longitude": -84.222911
+                },
+                "feature_type": "street",
+                "full_address": "Parkway Drive, Griffin, Georgia 30223, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjJmYWMxN2ItYThjYy00Y2Q4LWFiZTYtMThkODRkNGFlYjYy",
+                "name": "Parkway Drive",
+                "name_preferred": "Parkway Drive",
+                "place_formatted": "Griffin, Georgia 30223, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.263795,
+                    33.247132
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZXpPN0E",
+            "properties": {
+                "bbox": [
+                    -84.433372,
+                    33.228343,
+                    -84.102756,
+                    33.357074
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVW9tN0E",
+                        "name": "Spalding County",
+                        "wikidata_id": "Q503486"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQTRvN0E",
+                        "name": "Griffin",
+                        "wikidata_id": "Q1012372"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXpPN0E",
+                        "name": "30223"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.247132,
+                    "longitude": -84.263795
+                },
+                "feature_type": "postcode",
+                "full_address": "Griffin, Georgia 30223, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZXpPN0E",
+                "name": "30223",
+                "name_preferred": "30223",
+                "place_formatted": "Griffin, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.288441,
+                    33.257743
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NzIzYjBlMTMtMDJmZS00NzU5LTlmM2MtNTRiMThhMGU4MjVh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVW9tN0E",
+                        "name": "Spalding County",
+                        "wikidata_id": "Q503486"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQTRvN0E",
+                        "name": "Griffin",
+                        "wikidata_id": "Q1012372"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXpPN0E",
+                        "name": "30223"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzIzYjBlMTMtMDJmZS00NzU5LTlmM2MtNTRiMThhMGU4MjVh",
+                        "name": "Griffin Hwy"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.257743,
+                    "longitude": -84.288441
+                },
+                "feature_type": "street",
+                "full_address": "Griffin Hwy, Griffin, Georgia 30223, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzIzYjBlMTMtMDJmZS00NzU5LTlmM2MtNTRiMThhMGU4MjVh",
+                "name": "Griffin Hwy",
+                "name_preferred": "Griffin Hwy",
+                "place_formatted": "Griffin, Georgia 30223, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -83.35553,
+                33.95926
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjpkYTRiZWYyOS1jMmRkLTQxYWEtYWUyNS00Y2MwODg2NTFiYTA",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "410",
+                    "mapbox_id": "dXJuOm1ieGFkcjpkYTRiZWYyOS1jMmRkLTQxYWEtYWUyNS00Y2MwODg2NTFiYTA",
+                    "name": "410 Mckinley Drive",
+                    "street_name": "Mckinley Drive"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                    "name": "Clarke County",
+                    "wikidata_id": "Q112061"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                    "name": "Athens",
+                    "wikidata_id": "Q203263"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZ3VPN0E",
+                    "name": "30601"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGE0YmVmMjktYzJkZC00MWFhLWFlMjUtNGNjMDg4NjUxYmEw",
+                    "name": "Mckinley Drive"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 33.95926,
+                "longitude": -83.35553,
+                "routable_points": [
+                    {
+                        "latitude": 33.959427,
+                        "longitude": -83.355685,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "410 Mckinley Drive, Athens, Georgia 30601, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjpkYTRiZWYyOS1jMmRkLTQxYWEtYWUyNS00Y2MwODg2NTFiYTA",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "exact",
+                "country": "inferred",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "410 Mckinley Drive",
+            "name_preferred": "410 Mckinley Drive",
+            "place_formatted": "Athens, Georgia 30601, United States"
+        },
+        "type": "Feature"
+    }
+]

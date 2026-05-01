@@ -1,0 +1,321 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.739073,
+                    33.738256
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjowN2NiMTQ0ZS0yYWNjLTQ1MzAtOWQ5Ny05Yzg0Y2ZjMjY1ZjY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "23",
+                        "mapbox_id": "dXJuOm1ieGFkcjowN2NiMTQ0ZS0yYWNjLTQ1MzAtOWQ5Ny05Yzg0Y2ZjMjY1ZjY",
+                        "name": "23 East Court Street",
+                        "street_name": "East Court Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDNtN0E",
+                        "name": "Wilkes County",
+                        "wikidata_id": "Q491759"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSmZvN0E",
+                        "name": "Washington",
+                        "wikidata_id": "Q166186"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEZ1N0E",
+                        "name": "30673"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDdjYjE0NGUtMmFjYy00NTMwLTlkOTctOWM4NGNmYzI2NWY2",
+                        "name": "East Court Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.738256,
+                    "longitude": -82.739073,
+                    "routable_points": [
+                        {
+                            "latitude": 33.738281,
+                            "longitude": -82.739318,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "23 East Court Street, Washington, Georgia 30673, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjowN2NiMTQ0ZS0yYWNjLTQ1MzAtOWQ5Ny05Yzg0Y2ZjMjY1ZjY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "medium",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "23 East Court Street",
+                "name_preferred": "23 East Court Street",
+                "place_formatted": "Washington, Georgia 30673, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.73849,
+                    33.737655
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjAwNDdhNjktOGQyZi00YWY3LWI3NzQtNzA1NDI5MWE2NmRm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDNtN0E",
+                        "name": "Wilkes County",
+                        "wikidata_id": "Q491759"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSmZvN0E",
+                        "name": "Washington",
+                        "wikidata_id": "Q166186"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEZ1N0E",
+                        "name": "30673"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjAwNDdhNjktOGQyZi00YWY3LWI3NzQtNzA1NDI5MWE2NmRm",
+                        "name": "Court St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.737655,
+                    "longitude": -82.73849
+                },
+                "feature_type": "street",
+                "full_address": "Court St, Washington, Georgia 30673, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjAwNDdhNjktOGQyZi00YWY3LWI3NzQtNzA1NDI5MWE2NmRm",
+                "name": "Court St",
+                "name_preferred": "Court St",
+                "place_formatted": "Washington, Georgia 30673, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.739485,
+                    33.736911
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaEZ1N0E",
+            "properties": {
+                "bbox": [
+                    -82.919441,
+                    33.596106,
+                    -82.50406,
+                    33.863014
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDNtN0E",
+                        "name": "Wilkes County",
+                        "wikidata_id": "Q491759"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSmZvN0E",
+                        "name": "Washington",
+                        "wikidata_id": "Q166186"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEZ1N0E",
+                        "name": "30673"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.736911,
+                    "longitude": -82.739485
+                },
+                "feature_type": "postcode",
+                "full_address": "Washington, Georgia 30673, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaEZ1N0E",
+                "name": "30673",
+                "name_preferred": "30673",
+                "place_formatted": "Washington, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.69952,
+                    33.72144
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmNjMzFiMDEtY2Y1Yy00OGVlLTk1OGItNzZjNDE4MDRiYjY4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDNtN0E",
+                        "name": "Wilkes County",
+                        "wikidata_id": "Q491759"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp2MnJz",
+                        "name": "Anne Heights"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGSmZvN0E",
+                        "name": "Washington",
+                        "wikidata_id": "Q166186"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEZ1N0E",
+                        "name": "30673"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmNjMzFiMDEtY2Y1Yy00OGVlLTk1OGItNzZjNDE4MDRiYjY4",
+                        "name": "Washington"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.72144,
+                    "longitude": -82.69952
+                },
+                "feature_type": "street",
+                "full_address": "Washington, Washington, Georgia 30673, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmNjMzFiMDEtY2Y1Yy00OGVlLTk1OGItNzZjNDE4MDRiYjY4",
+                "name": "Washington",
+                "name_preferred": "Washington",
+                "place_formatted": "Washington, Georgia 30673, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.511657,
+                    33.751676
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZWRiYjg3NGQtODQxNS00MDhjLTkxMzUtYWNmMzUyNjJlNmE4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzowaWJz",
+                        "name": "Lincoln County",
+                        "wikidata_id": "Q491519"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDeXNvN0E",
+                        "name": "Lincolnton",
+                        "wikidata_id": "Q2615624"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGhPN0E",
+                        "name": "30817"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWRiYjg3NGQtODQxNS00MDhjLTkxMzUtYWNmMzUyNjJlNmE4",
+                        "name": "Washington Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.751676,
+                    "longitude": -82.511657
+                },
+                "feature_type": "street",
+                "full_address": "Washington Highway, Lincolnton, Georgia 30817, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWRiYjg3NGQtODQxNS00MDhjLTkxMzUtYWNmMzUyNjJlNmE4",
+                "name": "Washington Highway",
+                "name_preferred": "Washington Highway",
+                "place_formatted": "Lincolnton, Georgia 30817, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

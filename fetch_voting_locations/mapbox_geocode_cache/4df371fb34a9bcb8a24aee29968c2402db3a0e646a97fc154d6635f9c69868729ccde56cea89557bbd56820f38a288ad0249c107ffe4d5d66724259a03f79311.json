@@ -1,0 +1,340 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.206535,
+                    32.061412
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiMGM2OWIyZC0wYmIzLTQ5OTQtODQ5NS04YzQyMWFiMWUxODY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "104",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiMGM2OWIyZC0wYmIzLTQ5OTQtODQ5NS04YzQyMWFiMWUxODY",
+                        "name": "104 Sunshine Avenue",
+                        "street_name": "Sunshine Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpFWTlJN0E",
+                            "name": "Savannah"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCendJN0E",
+                        "name": "Garden City"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTh1N0E",
+                        "name": "31405"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjBjNjliMmQtMGJiMy00OTk0LTg0OTUtOGM0MjFhYjFlMTg2",
+                        "name": "Sunshine Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.061412,
+                    "longitude": -81.206535,
+                    "routable_points": [
+                        {
+                            "latitude": 32.061289,
+                            "longitude": -81.20657,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "104 Sunshine Avenue, Garden City, Georgia 31405, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiMGM2OWIyZC0wYmIzLTQ5OTQtODQ5NS04YzQyMWFiMWUxODY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "104 Sunshine Road",
+                "name_preferred": "104 Sunshine Avenue",
+                "place_formatted": "Garden City, Georgia 31405, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.102644,
+                    32.036894
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaTh1N0E",
+            "properties": {
+                "bbox": [
+                    -81.254423,
+                    31.996994,
+                    -81.085288,
+                    32.074326
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCenZvN0E",
+                        "name": "Garden City"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTh1N0E",
+                        "name": "31405"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.036894,
+                    "longitude": -81.102644
+                },
+                "feature_type": "postcode",
+                "full_address": "Garden City, Georgia 31405, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaTh1N0E",
+                "name": "31405",
+                "name_preferred": "31405",
+                "place_formatted": "Garden City, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.154539,
+                    32.114314
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCendJN0E",
+            "properties": {
+                "bbox": [
+                    -81.220601,
+                    32.036951,
+                    -81.139654,
+                    32.135787
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpPWWJz",
+                        "name": "Chatham County",
+                        "wikidata_id": "Q384890"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCendJN0E",
+                        "name": "Garden City"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.114314,
+                    "longitude": -81.154539
+                },
+                "feature_type": "place",
+                "full_address": "Garden City, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCendJN0E",
+                "name": "Garden City",
+                "name_preferred": "Garden City",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.391048,
+                    31.804081
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQTBJaXdpYzNSeVpXVjBJam9pVTFWT1UwaEpUa1VnVWtRaUxDSndiR0ZqWlNJNklrZEJVa1JGVGlCRFNWUlpJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TkRBMUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE1TNHpPVEUyT1RnaUxDSXpNUzQzTWpBNU16UWlMQ0l0T0RBdU9EUXdNemM0SWl3aU16SXVNak0zTkRZNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "104",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQTBJaXdpYzNSeVpXVjBJam9pVTFWT1UwaEpUa1VnVWtRaUxDSndiR0ZqWlNJNklrZEJVa1JGVGlCRFNWUlpJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TkRBMUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE1TNHpPVEUyT1RnaUxDSXpNUzQzTWpBNU16UWlMQ0l0T0RBdU9EUXdNemM0SWl3aU16SXVNak0zTkRZNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+                        "name": "104 Sunshine Lake Road",
+                        "street_name": "Sunshine Lake Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp6dWJz",
+                        "name": "Liberty County",
+                        "wikidata_id": "Q487692"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpES1NvN0E",
+                        "name": "Midway",
+                        "wikidata_id": "Q3261544"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTFPN0E",
+                        "name": "31320"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEEwSWl3aWMzUnlaV1YwSWpvaVUxVk9VMGhKVGtVZ1VrUWlMQ0p3YkdGalpTSTZJa2RCVWtSRlRpQkRTVlJaSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNeE5EQTFJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDRNUzR6T1RFMk9UZ2lMQ0l6TVM0M01qQTVNelFpTENJdE9EQXVPRFF3TXpjNElpd2lNekl1TWpNM05EWTRJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjM",
+                        "name": "Sunshine Lake Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.804081,
+                    "longitude": -81.391048,
+                    "routable_points": [
+                        {
+                            "latitude": 31.804081,
+                            "longitude": -81.391048,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "104 Sunshine Lake Road, Midway, Georgia 31320, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UQTBJaXdpYzNSeVpXVjBJam9pVTFWT1UwaEpUa1VnVWtRaUxDSndiR0ZqWlNJNklrZEJVa1JGVGlCRFNWUlpJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak14TkRBMUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE1TNHpPVEUyT1RnaUxDSXpNUzQzTWpBNU16UWlMQ0l0T0RBdU9EUXdNemM0SWl3aU16SXVNak0zTkRZNElsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "104 Sunshine Lake Road",
+                "name_preferred": "104 Sunshine Lake Road",
+                "place_formatted": "Midway, Georgia 31320, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.373449,
+                    31.82212
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NTM2MWM2MWItNGViYi00MDU1LTgyNDEtMWY0NmEyYTA1MTQx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp6dWJz",
+                        "name": "Liberty County",
+                        "wikidata_id": "Q487692"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpES1NvN0E",
+                        "name": "Midway",
+                        "wikidata_id": "Q3261544"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaTFPN0E",
+                        "name": "31320"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTM2MWM2MWItNGViYi00MDU1LTgyNDEtMWY0NmEyYTA1MTQx",
+                        "name": "Circle Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.82212,
+                    "longitude": -81.373449
+                },
+                "feature_type": "street",
+                "full_address": "Circle Road, Midway, Georgia 31320, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTM2MWM2MWItNGViYi00MDU1LTgyNDEtMWY0NmEyYTA1MTQx",
+                "name": "Circle Road",
+                "name_preferred": "Circle Road",
+                "place_formatted": "Midway, Georgia 31320, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

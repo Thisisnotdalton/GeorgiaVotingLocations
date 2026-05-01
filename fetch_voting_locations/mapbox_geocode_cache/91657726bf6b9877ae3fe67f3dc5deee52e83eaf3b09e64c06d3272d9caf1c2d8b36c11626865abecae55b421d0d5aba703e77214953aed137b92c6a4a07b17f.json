@@ -1,0 +1,319 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.92961,
+                    33.727491
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkODllODEyZi0wYzRkLTRkMDYtOGE0ZS02MTExMDA1NzEwMjk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "524",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkODllODEyZi0wYzRkLTRkMDYtOGE0ZS02MTExMDA1NzEwMjk",
+                        "name": "524 Leslie Drive",
+                        "street_name": "Leslie Drive"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpNZ2Jz",
+                        "name": "Carroll County",
+                        "wikidata_id": "Q493088"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGRUlJN0E",
+                        "name": "Villa Rica",
+                        "wikidata_id": "Q2014975"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXBPN0E",
+                        "name": "30180"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDg5ZTgxMmYtMGM0ZC00ZDA2LThhNGUtNjExMTAwNTcxMDI5",
+                        "name": "Leslie Drive"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 33.727491,
+                    "longitude": -84.92961,
+                    "routable_points": [
+                        {
+                            "latitude": 33.727572,
+                            "longitude": -84.929585,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "524 Leslie Drive, Villa Rica, Georgia 30180, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkODllODEyZi0wYzRkLTRkMDYtOGE0ZS02MTExMDA1NzEwMjk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "524 Leslie Drive",
+                "name_preferred": "524 Leslie Drive",
+                "place_formatted": "Villa Rica, Georgia 30180, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.918862,
+                    33.730949
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZXBPN0E",
+            "properties": {
+                "bbox": [
+                    -84.995933,
+                    33.604501,
+                    -84.832727,
+                    33.815828
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpNZ2Jz",
+                        "name": "Carroll County",
+                        "wikidata_id": "Q493088"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGRUlJN0E",
+                        "name": "Villa Rica",
+                        "wikidata_id": "Q2014975"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXBPN0E",
+                        "name": "30180"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.730949,
+                    "longitude": -84.918862
+                },
+                "feature_type": "postcode",
+                "full_address": "Villa Rica, Georgia 30180, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZXBPN0E",
+                "name": "30180",
+                "name_preferred": "30180",
+                "place_formatted": "Villa Rica, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.926575,
+                    33.7437
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpIQWpNN0E",
+            "properties": {
+                "bbox": [
+                    -84.936124,
+                    33.740338,
+                    -84.922649,
+                    33.751543
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpNZ2Jz",
+                        "name": "Carroll County",
+                        "wikidata_id": "Q493088"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIQWpNN0E",
+                        "name": "Old Villa Rica"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGRUlJN0E",
+                        "name": "Villa Rica",
+                        "wikidata_id": "Q2014975"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXBPN0E",
+                        "name": "30180"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.7437,
+                    "longitude": -84.926575
+                },
+                "feature_type": "neighborhood",
+                "full_address": "Old Villa Rica, Villa Rica, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpIQWpNN0E",
+                "name": "Old Villa Rica",
+                "name_preferred": "Old Villa Rica",
+                "place_formatted": "Villa Rica, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.918862,
+                    33.730949
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpGRUlJN0E",
+            "properties": {
+                "bbox": [
+                    -84.995933,
+                    33.604501,
+                    -84.832727,
+                    33.815828
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpNZ2Jz",
+                        "name": "Carroll County",
+                        "wikidata_id": "Q493088"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGRUlJN0E",
+                        "name": "Villa Rica",
+                        "wikidata_id": "Q2014975"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.730949,
+                    "longitude": -84.918862
+                },
+                "feature_type": "place",
+                "full_address": "Villa Rica, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpGRUlJN0E",
+                "name": "Villa Rica",
+                "name_preferred": "Villa Rica",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.086341,
+                    31.953129
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDd2NJN0E",
+            "properties": {
+                "bbox": [
+                    -84.205011,
+                    31.855411,
+                    -83.966509,
+                    32.093019
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                        "name": "Sumter County",
+                        "wikidata_id": "Q503076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDd2NJN0E",
+                        "name": "Leslie",
+                        "wikidata_id": "Q2101248"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.953129,
+                    "longitude": -84.086341
+                },
+                "feature_type": "place",
+                "full_address": "Leslie, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDd2NJN0E",
+                "name": "Leslie",
+                "name_preferred": "Leslie",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

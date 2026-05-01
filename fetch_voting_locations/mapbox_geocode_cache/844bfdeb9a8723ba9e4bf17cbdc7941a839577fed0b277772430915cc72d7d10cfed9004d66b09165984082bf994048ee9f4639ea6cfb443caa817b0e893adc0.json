@@ -1,0 +1,340 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.450984,
+                    33.655943
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjphZWExMzJkZi1jZjJmLTQ1YzItYmQ2MC1iOWIzZjkzOGZmZmM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3636",
+                        "mapbox_id": "dXJuOm1ieGFkcjphZWExMzJkZi1jZjJmLTQ1YzItYmQ2MC1iOWIzZjkzOGZmZmM",
+                        "name": "3636 College Street",
+                        "street_name": "College Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQVJvN0E",
+                        "name": "College Park",
+                        "wikidata_id": "Q388435"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmVPN0E",
+                        "name": "30337"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YWVhMTMyZGYtY2YyZi00NWMyLWJkNjAtYjliM2Y5MzhmZmZj",
+                        "name": "College Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.655943,
+                    "longitude": -84.450984,
+                    "routable_points": [
+                        {
+                            "latitude": 33.655635,
+                            "longitude": -84.451285,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3636 College Street, College Park, Georgia 30337, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjphZWExMzJkZi1jZjJmLTQ1YzItYmQ2MC1iOWIzZjkzOGZmZmM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3636 College Street",
+                "name_preferred": "3636 College Street",
+                "place_formatted": "College Park, Georgia 30337, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.449515,
+                    33.653393
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZmVPN0E",
+            "properties": {
+                "bbox": [
+                    -84.48993,
+                    33.616396,
+                    -84.432501,
+                    33.669472
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCQVJvN0E",
+                        "name": "College Park",
+                        "wikidata_id": "Q388435"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmVPN0E",
+                        "name": "30337"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.653393,
+                    "longitude": -84.449515
+                },
+                "feature_type": "postcode",
+                "full_address": "College Park, Georgia 30337, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZmVPN0E",
+                "name": "30337",
+                "name_preferred": "30337",
+                "place_formatted": "College Park, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.392404,
+                    33.639786
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MmRmZTBmMjUtZDY4YS00Y2ZmLTk5ZDEtYjE3NDY3ZjAxYjM2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpSY2Jz",
+                        "name": "Clayton County",
+                        "wikidata_id": "Q486150"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHUitzN0E",
+                        "name": "Mountain View"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDRm9JN0E",
+                            "name": "Hapeville"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmxPN0E",
+                        "name": "30354"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmRmZTBmMjUtZDY4YS00Y2ZmLTk5ZDEtYjE3NDY3ZjAxYjM2",
+                        "name": "College Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.639786,
+                    "longitude": -84.392404
+                },
+                "feature_type": "street",
+                "full_address": "College Street, Atlanta, Georgia 30354, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmRmZTBmMjUtZDY4YS00Y2ZmLTk5ZDEtYjE3NDY3ZjAxYjM2",
+                "name": "College Street",
+                "name_preferred": "College Street",
+                "place_formatted": "Atlanta, Georgia 30354, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.408107,
+                    33.655977
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZmZiZWZiMmItMDE0Zi00NzFiLWEzMGQtNWVhZDNmOTNlMTkz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUjJzN0E",
+                        "name": "Asbury Park"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIYkRvN0E",
+                            "name": "Atlanta"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDRm5vN0E",
+                        "name": "Hapeville"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmxPN0E",
+                        "name": "30354"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmZiZWZiMmItMDE0Zi00NzFiLWEzMGQtNWVhZDNmOTNlMTkz",
+                        "name": "College Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.655977,
+                    "longitude": -84.408107
+                },
+                "feature_type": "street",
+                "full_address": "College Street, Hapeville, Georgia 30354, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZmZiZWZiMmItMDE0Zi00NzFiLWEzMGQtNWVhZDNmOTNlMTkz",
+                "name": "College Street",
+                "name_preferred": "College Street",
+                "place_formatted": "Hapeville, Georgia 30354, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.550677,
+                    33.575743
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTgxMGYxOWItNmU4Ni00M2MxLTgzYjMtNzI1N2M2Y2Q5YWZk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpITnVJN0E",
+                        "name": "Union City",
+                        "wikidata_id": "Q3261692"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkp1N0E",
+                        "name": "30291"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTgxMGYxOWItNmU4Ni00M2MxLTgzYjMtNzI1N2M2Y2Q5YWZk",
+                        "name": "College Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.575743,
+                    "longitude": -84.550677
+                },
+                "feature_type": "street",
+                "full_address": "College Street, Union City, Georgia 30291, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTgxMGYxOWItNmU4Ni00M2MxLTgzYjMtNzI1N2M2Y2Q5YWZk",
+                "name": "College Street",
+                "name_preferred": "College Street",
+                "place_formatted": "Union City, Georgia 30291, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

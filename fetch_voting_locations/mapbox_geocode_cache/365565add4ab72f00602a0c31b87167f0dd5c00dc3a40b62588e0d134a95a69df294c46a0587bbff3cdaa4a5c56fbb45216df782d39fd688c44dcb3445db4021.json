@@ -1,0 +1,203 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.876675,
+                    33.823214
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjODE0NzNhNS0zNDFlLTRlOTEtOWEwOC01MjdlNGU5YzYzYzA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "105",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjODE0NzNhNS0zNDFlLTRlOTEtOWEwOC01MjdlNGU5YzYzYzA",
+                        "name": "105 Generation Blvd",
+                        "street_name": "Generation Blvd"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzFtN0E",
+                        "name": "Walton County",
+                        "wikidata_id": "Q498312"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDMXRvN0E",
+                        "name": "Loganville",
+                        "wikidata_id": "Q1590654"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHh1N0E",
+                        "name": "30052"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzgxNDczYTUtMzQxZS00ZTkxLTlhMDgtNTI3ZTRlOWM2M2Mw",
+                        "name": "Generation Blvd"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 33.823214,
+                    "longitude": -83.876675,
+                    "routable_points": [
+                        {
+                            "latitude": 33.823284,
+                            "longitude": -83.876569,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "105 Generation Blvd, Loganville, Georgia 30052, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjODE0NzNhNS0zNDFlLTRlOTEtOWEwOC01MjdlNGU5YzYzYzA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "105 Generation Blvd",
+                "name_preferred": "105 Generation Blvd",
+                "place_formatted": "Loganville, Georgia 30052, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.902198,
+                    33.838286
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZHh1N0E",
+            "properties": {
+                "bbox": [
+                    -83.990143,
+                    33.717231,
+                    -83.784977,
+                    33.899371
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVzFtN0E",
+                        "name": "Walton County",
+                        "wikidata_id": "Q498312"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDMXRvN0E",
+                        "name": "Loganville",
+                        "wikidata_id": "Q1590654"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHh1N0E",
+                        "name": "30052"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.838286,
+                    "longitude": -83.902198
+                },
+                "feature_type": "postcode",
+                "full_address": "Loganville, Georgia 30052, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZHh1N0E",
+                "name": "30052",
+                "name_preferred": "30052",
+                "place_formatted": "Loganville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.928672,
+                    33.876337
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDBiZDM4MzktYzAyOC00ZDQxLThjOWUtZDIwN2NiMDViYTcy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDMXRvN0E",
+                        "name": "Loganville",
+                        "wikidata_id": "Q1590654"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZHh1N0E",
+                        "name": "30052"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDBiZDM4MzktYzAyOC00ZDQxLThjOWUtZDIwN2NiMDViYTcy",
+                        "name": "Loganville Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.876337,
+                    "longitude": -83.928672
+                },
+                "feature_type": "street",
+                "full_address": "Loganville Highway, Loganville, Georgia 30052, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDBiZDM4MzktYzAyOC00ZDQxLThjOWUtZDIwN2NiMDViYTcy",
+                "name": "Loganville Highway",
+                "name_preferred": "Loganville Highway",
+                "place_formatted": "Loganville, Georgia 30052, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

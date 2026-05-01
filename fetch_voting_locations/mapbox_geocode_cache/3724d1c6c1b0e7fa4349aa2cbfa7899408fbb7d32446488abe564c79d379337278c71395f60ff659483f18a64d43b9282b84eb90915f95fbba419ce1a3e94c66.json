@@ -1,0 +1,334 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.32411,
+                    33.799945
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjplZDNmNzc5Yi1mOGJjLTQ4MzItYmJkMi1lMDg3MzNkZTVjY2Q",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1599",
+                        "mapbox_id": "dXJuOm1ieGFkcjplZDNmNzc5Yi1mOGJjLTQ4MzItYmJkMi1lMDg3MzNkZTVjY2Q",
+                        "name": "1599 Clifton Road Northeast",
+                        "street_name": "Clifton Road Northeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBbHRvN0E",
+                            "name": "Brookhaven"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmJPN0E",
+                        "name": "30329"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZWQzZjc3OWItZjhiYy00ODMyLWJiZDItZTA4NzMzZGU1Y2Nk",
+                        "name": "Clifton Road Northeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 33.799945,
+                    "longitude": -84.32411,
+                    "routable_points": [
+                        {
+                            "latitude": 33.800048,
+                            "longitude": -84.324318,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1599 Clifton Road Northeast, Atlanta, Georgia 30329, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjplZDNmNzc5Yi1mOGJjLTQ4MzItYmJkMi1lMDg3MzNkZTVjY2Q",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "medium",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1599 Clifton Road Northeast",
+                "name_preferred": "1599 Clifton Road Northeast",
+                "place_formatted": "Atlanta, Georgia 30329, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.327819,
+                    33.773899
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDdmNjBhMTMtYzcxNC00ZWM5LTkwNmMtNmZkMjkyY2M2ZGQy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDUThxN0E",
+                        "name": "Druid Hills",
+                        "wikidata_id": "Q2939694"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlF1N0E",
+                        "name": "30307"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDdmNjBhMTMtYzcxNC00ZWM5LTkwNmMtNmZkMjkyY2M2ZGQy",
+                        "name": "Clifton Road Northeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.773899,
+                    "longitude": -84.327819
+                },
+                "feature_type": "street",
+                "full_address": "Clifton Road Northeast, Atlanta, Georgia 30307, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDdmNjBhMTMtYzcxNC00ZWM5LTkwNmMtNmZkMjkyY2M2ZGQy",
+                "name": "Clifton Road Northeast",
+                "name_preferred": "Clifton Road Northeast",
+                "place_formatted": "Atlanta, Georgia 30307, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.32828,
+                    33.79771
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NTk0YTRmNDMtM2FkOC00NzExLTk1M2ItOGE3NTgwZTZlNjA5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBbHRvN0E",
+                            "name": "Brookhaven"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmJPN0E",
+                        "name": "30329"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTk0YTRmNDMtM2FkOC00NzExLTk1M2ItOGE3NTgwZTZlNjA5",
+                        "name": "Clifton Way Northeast"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.79771,
+                    "longitude": -84.32828
+                },
+                "feature_type": "street",
+                "full_address": "Clifton Way Northeast, Atlanta, Georgia 30329, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTk0YTRmNDMtM2FkOC00NzExLTk1M2ItOGE3NTgwZTZlNjA5",
+                "name": "Clifton Road",
+                "name_preferred": "Clifton Way Northeast",
+                "place_formatted": "Atlanta, Georgia 30329, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.31794,
+                    33.79869
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MDk2NDYxYWItOGM4My00MDQzLTlmYTItZDYxYTM2ZjQ1YzJi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBbHRvN0E",
+                            "name": "Brookhaven"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZmJPN0E",
+                        "name": "30329"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDk2NDYxYWItOGM4My00MDQzLTlmYTItZDYxYTM2ZjQ1YzJi",
+                        "name": "Clifton Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.79869,
+                    "longitude": -84.31794
+                },
+                "feature_type": "street",
+                "full_address": "Clifton Road, Atlanta, Georgia 30329, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MDk2NDYxYWItOGM4My00MDQzLTlmYTItZDYxYTM2ZjQ1YzJi",
+                "name": "Clifton Road",
+                "name_preferred": "Clifton Road",
+                "place_formatted": "Atlanta, Georgia 30329, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.325107,
+                    33.792297
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZllPN0E",
+            "properties": {
+                "bbox": [
+                    -84.335752,
+                    33.787739,
+                    -84.315235,
+                    33.803759
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZllPN0E",
+                        "name": "30322"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.792297,
+                    "longitude": -84.325107
+                },
+                "feature_type": "postcode",
+                "full_address": "Atlanta, Georgia 30322, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZllPN0E",
+                "name": "30322",
+                "name_preferred": "30322",
+                "place_formatted": "Atlanta, Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,363 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.023052,
+                    33.086407
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3ZWFjM2YxZS01YjRkLTRkZjctYjFhYy03ZGM1MzY1YzljZGU",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "602",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3ZWFjM2YxZS01YjRkLTRkZjctYjFhYy03ZGM1MzY1YzljZGU",
+                        "name": "602 West 6th Street",
+                        "street_name": "West 6th Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKMmJz",
+                        "name": "Burke County",
+                        "wikidata_id": "Q211360"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTDRvN0E",
+                        "name": "Waynesboro",
+                        "wikidata_id": "Q1282929"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGx1N0E",
+                        "name": "30830"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2VhYzNmMWUtNWI0ZC00ZGY3LWIxYWMtN2RjNTM2NWM5Y2Rl",
+                        "name": "West 6th Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.086407,
+                    "longitude": -82.023052,
+                    "routable_points": [
+                        {
+                            "latitude": 33.086992,
+                            "longitude": -82.023223,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "602 West 6th Street, Waynesboro, Georgia 30830, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3ZWFjM2YxZS01YjRkLTRkZjctYjFhYy03ZGM1MzY1YzljZGU",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "602 West 6th Street",
+                "name_preferred": "602 West 6th Street",
+                "place_formatted": "Waynesboro, Georgia 30830, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.980978,
+                    33.107495
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NWQ1MjNjNDYtNTYwMS00MjFkLTk2MjAtY2RiN2NiMjQ4Yjdm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKMmJz",
+                        "name": "Burke County",
+                        "wikidata_id": "Q211360"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTDRvN0E",
+                        "name": "Waynesboro",
+                        "wikidata_id": "Q1282929"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGx1N0E",
+                        "name": "30830"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWQ1MjNjNDYtNTYwMS00MjFkLTk2MjAtY2RiN2NiMjQ4Yjdm",
+                        "name": "W 6th St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.107495,
+                    "longitude": -81.980978
+                },
+                "feature_type": "street",
+                "full_address": "W 6th St, Waynesboro, Georgia 30830, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NWQ1MjNjNDYtNTYwMS00MjFkLTk2MjAtY2RiN2NiMjQ4Yjdm",
+                "name": "W 6th St",
+                "name_preferred": "W 6th St",
+                "place_formatted": "Waynesboro, Georgia 30830, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.01233,
+                    33.091717
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NTBjZDA2OTktY2JkMS00MDNiLTg1YzgtOTJjZGQ3ZGU1NmZl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKMmJz",
+                        "name": "Burke County",
+                        "wikidata_id": "Q211360"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTDRvN0E",
+                        "name": "Waynesboro",
+                        "wikidata_id": "Q1282929"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaGx1N0E",
+                        "name": "30830"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTBjZDA2OTktY2JkMS00MDNiLTg1YzgtOTJjZGQ3ZGU1NmZl",
+                        "name": "East 6th Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.091717,
+                    "longitude": -82.01233
+                },
+                "feature_type": "street",
+                "full_address": "East 6th Street, Waynesboro, Georgia 30830, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NTBjZDA2OTktY2JkMS00MDNiLTg1YzgtOTJjZGQ3ZGU1NmZl",
+                "name": "East 6th Street",
+                "name_preferred": "East 6th Street",
+                "place_formatted": "Waynesboro, Georgia 30830, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.592785,
+                    39.751501
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qQXlJaXdpYzNSeVpXVjBJam9pVnlBMlZFZ2dVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSlhRVmxPUlZOQ1QxSlBJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13T0RNd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDoz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "602",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qQXlJaXdpYzNSeVpXVjBJam9pVnlBMlZFZ2dVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSlhRVmxPUlZOQ1QxSlBJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13T0RNd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDoz",
+                        "name": "602 West 6th Street",
+                        "street_name": "West 6th Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzplY2Jz",
+                        "name": "Franklin County",
+                        "wikidata_id": "Q494121"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGTDZvN0E",
+                        "name": "Waynesboro",
+                        "wikidata_id": "Q1181108"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBeFZPN0E",
+                        "name": "17268"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBa1Rz",
+                        "name": "Pennsylvania",
+                        "region_code": "PA",
+                        "region_code_full": "US-PA",
+                        "wikidata_id": "Q1400"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOakF5SWl3aWMzUnlaV1YwSWpvaVZ5QTJWRWdnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpYUVZsT1JWTkNUMUpQSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd09ETXdJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6Mw",
+                        "name": "West 6th Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 39.751501,
+                    "longitude": -77.592785,
+                    "routable_points": [
+                        {
+                            "latitude": 39.751501,
+                            "longitude": -77.592785,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "602 West 6th Street, Waynesboro, Pennsylvania 17268, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qQXlJaXdpYzNSeVpXVjBJam9pVnlBMlZFZ2dVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSlhRVmxPUlZOQ1QxSlBJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13T0RNd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDoz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "unmatched",
+                    "street": "matched"
+                },
+                "name": "602 West 6th Street",
+                "name_preferred": "602 West 6th Street",
+                "place_formatted": "Waynesboro, Pennsylvania 17268, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.256688,
+                    31.59689
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qQXlJaXdpYzNSeVpXVjBJam9pVnlBMlZFZ2dVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSlhRVmxPUlZOQ1QxSlBJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13T0RNd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDo0",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "602",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qQXlJaXdpYzNSeVpXVjBJam9pVnlBMlZFZ2dVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSlhRVmxPUlZOQ1QxSlBJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13T0RNd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDo0",
+                        "name": "602 West 6th Street",
+                        "street_name": "West 6th Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpxU2Jz",
+                        "name": "Irwin County",
+                        "wikidata_id": "Q492057"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEbW5JN0E",
+                        "name": "Ocilla",
+                        "wikidata_id": "Q1023481"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0RPN0E",
+                        "name": "31774"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOakF5SWl3aWMzUnlaV1YwSWpvaVZ5QTJWRWdnVTFSU1JVVlVJaXdpY0d4aFkyVWlPaUpYUVZsT1JWTkNUMUpQSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd09ETXdJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6NA",
+                        "name": "West 6th Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.59689,
+                    "longitude": -83.256688,
+                    "routable_points": [
+                        {
+                            "latitude": 31.59689,
+                            "longitude": -83.256688,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "602 West 6th Street, Ocilla, Georgia 31774, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU5qQXlJaXdpYzNSeVpXVjBJam9pVnlBMlZFZ2dVMVJTUlVWVUlpd2ljR3hoWTJVaU9pSlhRVmxPUlZOQ1QxSlBJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13T0RNd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDo0",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "602 West 6th Street",
+                "name_preferred": "602 West 6th Street",
+                "place_formatted": "Ocilla, Georgia 31774, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

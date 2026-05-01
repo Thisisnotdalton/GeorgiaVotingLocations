@@ -1,0 +1,323 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.69468,
+                    32.817797
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiZTk4M2IyYS1hNDBmLTRiMjgtYTdlZi1iMjdiNjEwYTM0NmY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "3661",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiZTk4M2IyYS1hNDBmLTRiMjgtYTdlZi1iMjdiNjEwYTM0NmY",
+                        "name": "3661 Eisenhower Parkway",
+                        "street_name": "Eisenhower Parkway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDTExNN0E",
+                        "name": "Crestfield"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaWx1N0E",
+                        "name": "31206"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmU5ODNiMmEtYTQwZi00YjI4LWE3ZWYtYjI3YjYxMGEzNDZm",
+                        "name": "Eisenhower Parkway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.817797,
+                    "longitude": -83.69468,
+                    "routable_points": [
+                        {
+                            "latitude": 32.817352,
+                            "longitude": -83.694634,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "3661 Eisenhower Parkway, Macon, Georgia 31206, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiZTk4M2IyYS1hNDBmLTRiMjgtYTdlZi1iMjdiNjEwYTM0NmY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "3661 Eisenhower Parkway",
+                "name_preferred": "3661 Eisenhower Parkway",
+                "place_formatted": "Macon, Georgia 31206, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.665615,
+                    32.798443
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaWx1N0E",
+            "properties": {
+                "bbox": [
+                    -83.758055,
+                    32.718063,
+                    -83.586881,
+                    32.833782
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaWx1N0E",
+                        "name": "31206"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.798443,
+                    "longitude": -83.665615
+                },
+                "feature_type": "postcode",
+                "full_address": "Macon, Georgia 31206, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaWx1N0E",
+                "name": "31206",
+                "name_preferred": "31206",
+                "place_formatted": "Macon, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.62782,
+                    32.838003
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpDN2tJN0E",
+            "properties": {
+                "bbox": [
+                    -83.891688,
+                    32.650129,
+                    -83.380394,
+                    32.977479
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.838003,
+                    "longitude": -83.62782
+                },
+                "feature_type": "place",
+                "full_address": "Macon, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                "name": "Macon",
+                "name_preferred": "Macon",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.480488,
+                    31.155203
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OTRmODdlMzctMWJmOS00ZmUwLWFlM2ItZGQzNGNhYjQxNjQz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpnOGJz",
+                        "name": "Glynn County",
+                        "wikidata_id": "Q487016"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWDVzN0E",
+                        "name": "Back Landing"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBblhvN0E",
+                        "name": "Brunswick",
+                        "wikidata_id": "Q994144"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakpPN0E",
+                        "name": "31520"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTRmODdlMzctMWJmOS00ZmUwLWFlM2ItZGQzNGNhYjQxNjQz",
+                        "name": "Macon Avenue"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.155203,
+                    "longitude": -81.480488
+                },
+                "feature_type": "street",
+                "full_address": "Macon Avenue, Brunswick, Georgia 31520, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OTRmODdlMzctMWJmOS00ZmUwLWFlM2ItZGQzNGNhYjQxNjQz",
+                "name": "Macon",
+                "name_preferred": "Macon Avenue",
+                "place_formatted": "Brunswick, Georgia 31520, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.159835,
+                    34.164225
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6M2VmY2Y0YjQtNmZhZi00YjkwLThiZGMtYzgxOGE3ZjZjYjc4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqU2Jz",
+                        "name": "Greenwood County",
+                        "wikidata_id": "Q502278"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQVlJN0E",
+                        "name": "Greenwood",
+                        "wikidata_id": "Q520251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCY0p1N0E",
+                        "name": "29646"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBd1Rz",
+                        "name": "South Carolina",
+                        "region_code": "SC",
+                        "region_code_full": "US-SC",
+                        "wikidata_id": "Q1456"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2VmY2Y0YjQtNmZhZi00YjkwLThiZGMtYzgxOGE3ZjZjYjc4",
+                        "name": "Chalmers Park Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.164225,
+                    "longitude": -82.159835
+                },
+                "feature_type": "street",
+                "full_address": "Chalmers Park Road, Greenwood, South Carolina 29646, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2VmY2Y0YjQtNmZhZi00YjkwLThiZGMtYzgxOGE3ZjZjYjc4",
+                "name": "Parkway",
+                "name_preferred": "Chalmers Park Road",
+                "place_formatted": "Greenwood, South Carolina 29646, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

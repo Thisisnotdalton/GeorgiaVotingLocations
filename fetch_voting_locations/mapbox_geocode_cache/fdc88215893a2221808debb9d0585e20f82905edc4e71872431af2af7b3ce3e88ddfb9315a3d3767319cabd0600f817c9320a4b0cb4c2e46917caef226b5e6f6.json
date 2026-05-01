@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.24527,
+                    32.08452
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxMTNjNDAwOC03NGVlLTQ4MGUtYjQ2Ni01ODYwZTQyMmEwZGM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "900",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxMTNjNDAwOC03NGVlLTQ4MGUtYjQ2Ni01ODYwZTQyMmEwZGM",
+                        "name": "900 Adderton Street",
+                        "street_name": "Adderton Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                        "name": "Sumter County",
+                        "wikidata_id": "Q503076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWpz",
+                        "name": "Americus",
+                        "wikidata_id": "Q123067"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajFPN0E",
+                        "name": "31719"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTEzYzQwMDgtNzRlZS00ODBlLWI0NjYtNTg2MGU0MjJhMGRj",
+                        "name": "Adderton Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.08452,
+                    "longitude": -84.24527,
+                    "routable_points": [
+                        {
+                            "latitude": 32.084769,
+                            "longitude": -84.245287,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "900 Adderton Street, Americus, Georgia 31719, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxMTNjNDAwOC03NGVlLTQ4MGUtYjQ2Ni01ODYwZTQyMmEwZGM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "inferred",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "900 Adderton Street",
+                "name_preferred": "900 Adderton Street",
+                "place_formatted": "Americus, Georgia 31719, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.299542,
+                    32.099998
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzlhNGE5NTktMWVjYS00N2JiLTg3OTYtODg4MDYyYWY4MTlh",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                        "name": "Sumter County",
+                        "wikidata_id": "Q503076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWpz",
+                        "name": "Americus",
+                        "wikidata_id": "Q123067"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajFPN0E",
+                        "name": "31719"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzlhNGE5NTktMWVjYS00N2JiLTg3OTYtODg4MDYyYWY4MTlh",
+                        "name": "Adderton St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.099998,
+                    "longitude": -84.299542
+                },
+                "feature_type": "street",
+                "full_address": "Adderton St, Americus, Georgia 31719, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzlhNGE5NTktMWVjYS00N2JiLTg3OTYtODg4MDYyYWY4MTlh",
+                "name": "Adderton St",
+                "name_preferred": "Adderton St",
+                "place_formatted": "Americus, Georgia 31719, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.243493,
+                    32.074467
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCajFPN0E",
+            "properties": {
+                "bbox": [
+                    -84.43154,
+                    31.93611,
+                    -84.178933,
+                    32.185416
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                        "name": "Sumter County",
+                        "wikidata_id": "Q503076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWpz",
+                        "name": "Americus",
+                        "wikidata_id": "Q123067"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCajFPN0E",
+                        "name": "31719"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.074467,
+                    "longitude": -84.243493
+                },
+                "feature_type": "postcode",
+                "full_address": "Americus, Georgia 31719, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCajFPN0E",
+                "name": "31719",
+                "name_preferred": "31719",
+                "place_formatted": "Americus, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.232557,
+                    32.072192
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpheWpz",
+            "properties": {
+                "bbox": [
+                    -84.43154,
+                    31.920092,
+                    -83.978375,
+                    32.185416
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                        "name": "Sumter County",
+                        "wikidata_id": "Q503076"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpheWpz",
+                        "name": "Americus",
+                        "wikidata_id": "Q123067"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.072192,
+                    "longitude": -84.232557
+                },
+                "feature_type": "place",
+                "full_address": "Americus, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpheWpz",
+                "name": "Americus",
+                "name_preferred": "Americus",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.397468,
+                    31.882396
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OWE5ZjAwMjYtZWQ0YS00Yjg2LThmOTMtZDA4NDBhZjk4YzZi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVnRHN0E",
+                        "name": "Terrell County",
+                        "wikidata_id": "Q503492"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTmZJN0E",
+                        "name": "Dawson",
+                        "wikidata_id": "Q1028058"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQXZ1N0E",
+                        "name": "39842"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWE5ZjAwMjYtZWQ0YS00Yjg2LThmOTMtZDA4NDBhZjk4YzZi",
+                        "name": "Americus Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.882396,
+                    "longitude": -84.397468
+                },
+                "feature_type": "street",
+                "full_address": "Americus Highway, Dawson, Georgia 39842, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OWE5ZjAwMjYtZWQ0YS00Yjg2LThmOTMtZDA4NDBhZjk4YzZi",
+                "name": "Americus Highway",
+                "name_preferred": "Americus Highway",
+                "place_formatted": "Dawson, Georgia 39842, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.23644,
+                    32.5569
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyNDFkODU5NC0yNDU1LTQxMTktYmM0Ni1lMzJhMjQ3NGYxNTg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyNDFkODU5NC0yNDU1LTQxMTktYmM0Ni1lMzJhMjQ3NGYxNTg",
+                        "name": "1 Ivy Street",
+                        "street_name": "Ivy Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVm9HN0E",
+                        "name": "Taylor County",
+                        "wikidata_id": "Q505299"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcXVvN0E",
+                        "name": "Butler",
+                        "wikidata_id": "Q2571619"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHZ1N0E",
+                        "name": "31006"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjQxZDg1OTQtMjQ1NS00MTE5LWJjNDYtZTMyYTI0NzRmMTU4",
+                        "name": "Ivy Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.5569,
+                    "longitude": -84.23644,
+                    "routable_points": [
+                        {
+                            "latitude": 32.557341,
+                            "longitude": -84.236673,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1 Ivy Street, Butler, Georgia 31006, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyNDFkODU5NC0yNDU1LTQxMTktYmM0Ni1lMzJhMjQ3NGYxNTg",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "1 Ivy Street",
+                "name_preferred": "1 Ivy Street",
+                "place_formatted": "Butler, Georgia 31006, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.21162,
+                    32.56183
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWQ4ZWZlZWItZTg0OC00ZWUwLTk0Y2QtYzVmZWY5NGIyMWE5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVm9HN0E",
+                        "name": "Taylor County",
+                        "wikidata_id": "Q505299"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcXVvN0E",
+                        "name": "Butler",
+                        "wikidata_id": "Q2571619"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHZ1N0E",
+                        "name": "31006"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWQ4ZWZlZWItZTg0OC00ZWUwLTk0Y2QtYzVmZWY5NGIyMWE5",
+                        "name": "Lane St"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.56183,
+                    "longitude": -84.21162
+                },
+                "feature_type": "street",
+                "full_address": "Lane St, Butler, Georgia 31006, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWQ4ZWZlZWItZTg0OC00ZWUwLTk0Y2QtYzVmZWY5NGIyMWE5",
+                "name": "Lane St",
+                "name_preferred": "Lane St",
+                "place_formatted": "Butler, Georgia 31006, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.238062,
+                    32.55718
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaHZ1N0E",
+            "properties": {
+                "bbox": [
+                    -84.389741,
+                    32.400849,
+                    -84.156035,
+                    32.747624
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVm9HN0E",
+                        "name": "Taylor County",
+                        "wikidata_id": "Q505299"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcXVvN0E",
+                        "name": "Butler",
+                        "wikidata_id": "Q2571619"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHZ1N0E",
+                        "name": "31006"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.55718,
+                    "longitude": -84.238062
+                },
+                "feature_type": "postcode",
+                "full_address": "Butler, Georgia 31006, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaHZ1N0E",
+                "name": "31006",
+                "name_preferred": "31006",
+                "place_formatted": "Butler, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.238062,
+                    32.55718
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpBcXVvN0E",
+            "properties": {
+                "bbox": [
+                    -84.389741,
+                    32.400849,
+                    -84.156035,
+                    32.762779
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVm9HN0E",
+                        "name": "Taylor County",
+                        "wikidata_id": "Q505299"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcXVvN0E",
+                        "name": "Butler",
+                        "wikidata_id": "Q2571619"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.55718,
+                    "longitude": -84.238062
+                },
+                "feature_type": "place",
+                "full_address": "Butler, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpBcXVvN0E",
+                "name": "Butler",
+                "name_preferred": "Butler",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.413724,
+                    32.587764
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ODc2YTIwMjYtYjIwZS00NTNiLThhZDgtNWZiZGJmNzU3MmVi",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBVmZtN0E",
+                        "name": "Talbot County",
+                        "wikidata_id": "Q498356"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDZWpJN0E",
+                        "name": "Junction City",
+                        "wikidata_id": "Q604154"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa1N1N0E",
+                        "name": "31812"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODc2YTIwMjYtYjIwZS00NTNiLThhZDgtNWZiZGJmNzU3MmVi",
+                        "name": "Butler Hwy"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.587764,
+                    "longitude": -84.413724
+                },
+                "feature_type": "street",
+                "full_address": "Butler Hwy, Junction City, Georgia 31812, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ODc2YTIwMjYtYjIwZS00NTNiLThhZDgtNWZiZGJmNzU3MmVi",
+                "name": "Butler Hwy",
+                "name_preferred": "Butler Hwy",
+                "place_formatted": "Junction City, Georgia 31812, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

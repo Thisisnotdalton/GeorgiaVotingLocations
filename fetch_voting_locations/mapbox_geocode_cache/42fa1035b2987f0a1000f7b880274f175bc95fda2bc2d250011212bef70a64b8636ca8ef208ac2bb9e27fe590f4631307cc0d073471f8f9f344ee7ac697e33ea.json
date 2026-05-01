@@ -1,0 +1,341 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.12313,
+                    33.441432
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpkMjg1MjEyZi0zNDg1LTQ3NjAtYTBlNC1lMTJlMDVjNGNlNzE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "99",
+                        "mapbox_id": "dXJuOm1ieGFkcjpkMjg1MjEyZi0zNDg1LTQ3NjAtYTBlNC1lMTJlMDVjNGNlNzE",
+                        "name": "99 Lake Dow Road",
+                        "street_name": "Lake Dow Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERW1vN0E",
+                        "name": "McDonough",
+                        "wikidata_id": "Q2075251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTZ1N0E",
+                        "name": "30252"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDI4NTIxMmYtMzQ4NS00NzYwLWEwZTQtZTEyZTA1YzRjZTcx",
+                        "name": "Lake Dow Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "point",
+                    "latitude": 33.441432,
+                    "longitude": -84.12313,
+                    "routable_points": [
+                        {
+                            "latitude": 33.441403,
+                            "longitude": -84.123144,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "99 Lake Dow Road, McDonough, Georgia 30252, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpkMjg1MjEyZi0zNDg1LTQ3NjAtYTBlNC1lMTJlMDVjNGNlNzE",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "99 Lake Dow Road",
+                "name_preferred": "99 Lake Dow Road",
+                "place_formatted": "McDonough, Georgia 30252, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.119285,
+                    33.437685
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZTZ1N0E",
+            "properties": {
+                "bbox": [
+                    -84.148903,
+                    33.382529,
+                    -83.931573,
+                    33.584545
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERW1vN0E",
+                        "name": "McDonough",
+                        "wikidata_id": "Q2075251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTZ1N0E",
+                        "name": "30252"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.437685,
+                    "longitude": -84.119285
+                },
+                "feature_type": "postcode",
+                "full_address": "McDonough, Georgia 30252, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZTZ1N0E",
+                "name": "30252",
+                "name_preferred": "30252",
+                "place_formatted": "McDonough, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.202661,
+                    33.478838
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9Ua2lMQ0p6ZEhKbFpYUWlPaUpNUVV0RklFUlBWeUJTUkNJc0luQnNZV05sSWpvaVRVTkVUMDVQVlVkSUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNalV5SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0ek5UUTBJaXdpTXpNdU1qazNOak14SWl3aUxUZ3pMamt5TWprd015SXNJak16TGpZME56TXdOeUpkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDoy",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "99",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9Ua2lMQ0p6ZEhKbFpYUWlPaUpNUVV0RklFUlBWeUJTUkNJc0luQnNZV05sSWpvaVRVTkVUMDVQVlVkSUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNalV5SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0ek5UUTBJaXdpTXpNdU1qazNOak14SWl3aUxUZ3pMamt5TWprd015SXNJak16TGpZME56TXdOeUpkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDoy",
+                        "name": "99 Wake Road",
+                        "street_name": "Wake Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERW1vN0E",
+                        "name": "McDonough",
+                        "wikidata_id": "Q2075251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTdPN0E",
+                        "name": "30253"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lPVGtpTENKemRISmxaWFFpT2lKTVFVdEZJRVJQVnlCU1JDSXNJbkJzWVdObElqb2lUVU5FVDA1UFZVZElJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TWpVeUlpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE5DNHpOVFEwSWl3aU16TXVNamszTmpNeElpd2lMVGd6TGpreU1qa3dNeUlzSWpNekxqWTBOek13TnlKZExDSnNhVzFwZENJNklqVWlMQ0ozYjNKc1pIWnBaWGNpT2lKMWN5SXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6Mg",
+                        "name": "Wake Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.478838,
+                    "longitude": -84.202661,
+                    "routable_points": [
+                        {
+                            "latitude": 33.478838,
+                            "longitude": -84.202661,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "99 Wake Road, McDonough, Georgia 30253, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU9Ua2lMQ0p6ZEhKbFpYUWlPaUpNUVV0RklFUlBWeUJTUkNJc0luQnNZV05sSWpvaVRVTkVUMDVQVlVkSUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNalV5SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0ek5UUTBJaXdpTXpNdU1qazNOak14SWl3aUxUZ3pMamt5TWprd015SXNJak16TGpZME56TXdOeUpkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDoy",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "99 Wake Road",
+                "name_preferred": "99 Wake Road",
+                "place_formatted": "McDonough, Georgia 30253, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.148631,
+                    33.425384
+                ],
+                "type": "Point"
+            },
+            "id": "address.2662557123161424",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERW1vN0E",
+                        "name": "McDonough",
+                        "wikidata_id": "Q2075251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTZ1N0E",
+                        "name": "30252"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.2662557123161424",
+                        "name": "Mcdonough Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.425384,
+                    "longitude": -84.148631
+                },
+                "feature_type": "street",
+                "full_address": "Mcdonough Road, McDonough, Georgia 30252, United States",
+                "mapbox_id": "address.2662557123161424",
+                "name": "Mcdonough Road",
+                "name_preferred": "Mcdonough Road",
+                "place_formatted": "McDonough, Georgia 30252, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.138502,
+                    33.509832
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6OGVjNjkzNzYtNjM0OC00ZWIzLTgxMmQtM2Y5NzVhNGNmZDUy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpuSWJz",
+                        "name": "Henry County",
+                        "wikidata_id": "Q492053"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpERW1vN0E",
+                        "name": "McDonough",
+                        "wikidata_id": "Q2075251"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZTZ1N0E",
+                        "name": "30252"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGVjNjkzNzYtNjM0OC00ZWIzLTgxMmQtM2Y5NzVhNGNmZDUy",
+                        "name": "Mcdonough Pkwy"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.509832,
+                    "longitude": -84.138502
+                },
+                "feature_type": "street",
+                "full_address": "Mcdonough Pkwy, McDonough, Georgia 30252, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGVjNjkzNzYtNjM0OC00ZWIzLTgxMmQtM2Y5NzVhNGNmZDUy",
+                "name": "Mcdonough Pkwy",
+                "name_preferred": "Mcdonough Pkwy",
+                "place_formatted": "McDonough, Georgia 30252, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

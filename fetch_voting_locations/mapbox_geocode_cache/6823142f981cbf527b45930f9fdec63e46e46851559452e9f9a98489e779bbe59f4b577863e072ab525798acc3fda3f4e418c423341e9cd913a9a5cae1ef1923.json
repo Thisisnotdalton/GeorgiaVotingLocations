@@ -1,0 +1,318 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.222845,
+                    34.121518
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoyZjU2NGRmYy05Njc0LTRjMzctYjlhMy1iMTU4YTU1YmExNTA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "20",
+                        "mapbox_id": "dXJuOm1ieGFkcjoyZjU2NGRmYy05Njc0LTRjMzctYjlhMy1iMTU4YTU1YmExNTA",
+                        "name": "20 Albany Avenue",
+                        "street_name": "Albany Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozS2Jz",
+                        "name": "Madison County",
+                        "wikidata_id": "Q156387"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTVdJN0E",
+                        "name": "Danielsville",
+                        "wikidata_id": "Q2103790"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzVPN0E",
+                        "name": "30633"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmY1NjRkZmMtOTY3NC00YzM3LWI5YTMtYjE1OGE1NWJhMTUw",
+                        "name": "Albany Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 34.121518,
+                    "longitude": -83.222845,
+                    "routable_points": [
+                        {
+                            "latitude": 34.121513,
+                            "longitude": -83.222847,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "20 Albany Avenue, Danielsville, Georgia 30633, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoyZjU2NGRmYy05Njc0LTRjMzctYjlhMy1iMTU4YTU1YmExNTA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "20 Albany Avenue",
+                "name_preferred": "20 Albany Avenue",
+                "place_formatted": "Danielsville, Georgia 30633, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.222992,
+                    34.122087
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZzVPN0E",
+            "properties": {
+                "bbox": [
+                    -83.375678,
+                    34.067856,
+                    -83.140768,
+                    34.265566
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozS2Jz",
+                        "name": "Madison County",
+                        "wikidata_id": "Q156387"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTVdJN0E",
+                        "name": "Danielsville",
+                        "wikidata_id": "Q2103790"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzVPN0E",
+                        "name": "30633"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.122087,
+                    "longitude": -83.222992
+                },
+                "feature_type": "postcode",
+                "full_address": "Danielsville, Georgia 30633, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZzVPN0E",
+                "name": "30633",
+                "name_preferred": "30633",
+                "place_formatted": "Danielsville, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.286079,
+                    34.169589
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MWFhNGE5OTAtMGQ1Yi00MjJhLWIyNzYtNzM4N2U3NDdkMGE5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozS2Jz",
+                        "name": "Madison County",
+                        "wikidata_id": "Q156387"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpIb3lvN0E",
+                            "name": "Danielsville"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpDVzVvN0E",
+                        "name": "Ila"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZzVPN0E",
+                        "name": "30633"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWFhNGE5OTAtMGQ1Yi00MjJhLWIyNzYtNzM4N2U3NDdkMGE5",
+                        "name": "Danielsville Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.169589,
+                    "longitude": -83.286079
+                },
+                "feature_type": "street",
+                "full_address": "Danielsville Street, Ila, Georgia 30633, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWFhNGE5OTAtMGQ1Yi00MjJhLWIyNzYtNzM4N2U3NDdkMGE5",
+                "name": "Danielsville Street",
+                "name_preferred": "Danielsville Street",
+                "place_formatted": "Ila, Georgia 30633, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.222992,
+                    34.122087
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCTVdJN0E",
+            "properties": {
+                "bbox": [
+                    -83.375678,
+                    34.067856,
+                    -83.140768,
+                    34.265566
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzozS2Jz",
+                        "name": "Madison County",
+                        "wikidata_id": "Q156387"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCTVdJN0E",
+                        "name": "Danielsville",
+                        "wikidata_id": "Q2103790"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.122087,
+                    "longitude": -83.222992
+                },
+                "feature_type": "place",
+                "full_address": "Danielsville, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCTVdJN0E",
+                "name": "Danielsville",
+                "name_preferred": "Danielsville",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.349438,
+                    34.005208
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTVkNjA3M2MtODM2Yi00NTg0LTljNGMtMmFiNGMwZTg0M2Y0",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3VPN0E",
+                        "name": "30601"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTVkNjA3M2MtODM2Yi00NTg0LTljNGMtMmFiNGMwZTg0M2Y0",
+                        "name": "Danielsville Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.005208,
+                    "longitude": -83.349438
+                },
+                "feature_type": "street",
+                "full_address": "Danielsville Road, Athens, Georgia 30601, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTVkNjA3M2MtODM2Yi00NTg0LTljNGMtMmFiNGMwZTg0M2Y0",
+                "name": "Danielsville Road",
+                "name_preferred": "Danielsville Road",
+                "place_formatted": "Athens, Georgia 30601, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

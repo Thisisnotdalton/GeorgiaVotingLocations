@@ -1,0 +1,359 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.14918,
+                    33.97359
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo0NzBlZTY0Yi0yOWM0LTRkODctOTM3Ni02Yjg5ZTdiMjc3NDY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2750",
+                        "mapbox_id": "dXJuOm1ieGFkcjo0NzBlZTY0Yi0yOWM0LTRkODctOTM3Ni02Yjg5ZTdiMjc3NDY",
+                        "name": "2750 Pleasant Hill Road",
+                        "street_name": "Pleasant Hill Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBWXFvN0E",
+                            "name": "Berkeley Lake"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV2tvN0E",
+                        "name": "Duluth",
+                        "wikidata_id": "Q285751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUZPN0E",
+                        "name": "30096"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDcwZWU2NGItMjljNC00ZDg3LTkzNzYtNmI4OWU3YjI3NzQ2",
+                        "name": "Pleasant Hill Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.97359,
+                    "longitude": -84.14918,
+                    "routable_points": [
+                        {
+                            "latitude": 33.973731,
+                            "longitude": -84.148924,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2750 Pleasant Hill Road, Duluth, Georgia 30096, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo0NzBlZTY0Yi0yOWM0LTRkODctOTM3Ni02Yjg5ZTdiMjc3NDY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "2750 Pleasant Hill Road",
+                "name_preferred": "2750 Pleasant Hill Road",
+                "place_formatted": "Duluth, Georgia 30096, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.125774,
+                    33.960387
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NDlkMWFmOWYtMTRmNi00YmY3LTk5M2QtYWFhZWUwMDQ2ZjY4",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBWXFvN0E",
+                            "name": "Berkeley Lake"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV2tvN0E",
+                        "name": "Duluth",
+                        "wikidata_id": "Q285751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUZPN0E",
+                        "name": "30096"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDlkMWFmOWYtMTRmNi00YmY3LTk5M2QtYWFhZWUwMDQ2ZjY4",
+                        "name": "Pleasant Hill Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.960387,
+                    "longitude": -84.125774
+                },
+                "feature_type": "street",
+                "full_address": "Pleasant Hill Rd, Duluth, Georgia 30096, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NDlkMWFmOWYtMTRmNi00YmY3LTk5M2QtYWFhZWUwMDQ2ZjY4",
+                "name": "Pleasant Hill Rd",
+                "name_preferred": "Pleasant Hill Rd",
+                "place_formatted": "Duluth, Georgia 30096, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.176033,
+                    34.006679
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjNhYWI4OTYtOGUwYS00NzNmLTkxZTItOWI1Yjg4NjFiYmI2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBWXFvN0E",
+                            "name": "Berkeley Lake"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV2tvN0E",
+                        "name": "Duluth",
+                        "wikidata_id": "Q285751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUZPN0E",
+                        "name": "30096"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjNhYWI4OTYtOGUwYS00NzNmLTkxZTItOWI1Yjg4NjFiYmI2",
+                        "name": "Pleasant Hill Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 34.006679,
+                    "longitude": -84.176033
+                },
+                "feature_type": "street",
+                "full_address": "Pleasant Hill Road, Duluth, Georgia 30096, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjNhYWI4OTYtOGUwYS00NzNmLTkxZTItOWI1Yjg4NjFiYmI2",
+                "name": "Pleasant Hill Road",
+                "name_preferred": "Pleasant Hill Road",
+                "place_formatted": "Duluth, Georgia 30096, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.143923,
+                    33.955466
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjRlOGJjNGUtYjE0Yi00MDhjLWJiYzYtYjZjMmEwNDEyMGQy",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpBWXFvN0E",
+                            "name": "Berkeley Lake"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV2tvN0E",
+                        "name": "Duluth",
+                        "wikidata_id": "Q285751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUZPN0E",
+                        "name": "30096"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjRlOGJjNGUtYjE0Yi00MDhjLWJiYzYtYjZjMmEwNDEyMGQy",
+                        "name": "Pleasantlake Village Lane"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.955466,
+                    "longitude": -84.143923
+                },
+                "feature_type": "street",
+                "full_address": "Pleasantlake Village Lane, Duluth, Georgia 30096, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjRlOGJjNGUtYjE0Yi00MDhjLWJiYzYtYjZjMmEwNDEyMGQy",
+                "name": "Pleasant Lake Village",
+                "name_preferred": "Pleasantlake Village Lane",
+                "place_formatted": "Duluth, Georgia 30096, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.11731,
+                    33.984473
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qYzFNQ0lzSW5OMGNtVmxkQ0k2SWxCTVJVRlRRVTVVSUVoSlRFd2dVazlCUkNJc0luQnNZV05sSWpvaVJGVk1WVlJJSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EazJJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzR5Tnpjd09UTWlMQ0l6TXk0M05USTRNRGdpTENJdE9ETXVOems1TVRBMElpd2lNelF1TVRZNE5UUXhJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjQ",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "2750",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qYzFNQ0lzSW5OMGNtVmxkQ0k2SWxCTVJVRlRRVTVVSUVoSlRFd2dVazlCUkNJc0luQnNZV05sSWpvaVJGVk1WVlJJSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EazJJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzR5Tnpjd09UTWlMQ0l6TXk0M05USTRNRGdpTENJdE9ETXVOems1TVRBMElpd2lNelF1TVRZNE5UUXhJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjQ",
+                        "name": "2750 Pheasant Trail",
+                        "street_name": "Pheasant Trail"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpEeU9vN0E",
+                            "name": "Peachtree Corners"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpCV2tvN0E",
+                        "name": "Duluth",
+                        "wikidata_id": "Q285751"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUZ1N0E",
+                        "name": "30097"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNamMxTUNJc0luTjBjbVZsZENJNklsQk1SVUZUUVU1VUlFaEpURXdnVWs5QlJDSXNJbkJzWVdObElqb2lSRlZNVlZSSUlpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNRGsySWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0eU56Y3dPVE1pTENJek15NDNOVEk0TURnaUxDSXRPRE11TnprNU1UQTBJaXdpTXpRdU1UWTROVFF4SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUTo0",
+                        "name": "Pheasant Trail"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.984473,
+                    "longitude": -84.11731,
+                    "routable_points": [
+                        {
+                            "latitude": 33.984473,
+                            "longitude": -84.11731,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "2750 Pheasant Trail, Duluth, Georgia 30097, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1qYzFNQ0lzSW5OMGNtVmxkQ0k2SWxCTVJVRlRRVTVVSUVoSlRFd2dVazlCUkNJc0luQnNZV05sSWpvaVJGVk1WVlJJSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01EazJJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzR5Tnpjd09UTWlMQ0l6TXk0M05USTRNRGdpTENJdE9ETXVOems1TVRBMElpd2lNelF1TVRZNE5UUXhJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjQ",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "2750 Pheasant Trail",
+                "name_preferred": "2750 Pheasant Trail",
+                "place_formatted": "Duluth, Georgia 30097, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

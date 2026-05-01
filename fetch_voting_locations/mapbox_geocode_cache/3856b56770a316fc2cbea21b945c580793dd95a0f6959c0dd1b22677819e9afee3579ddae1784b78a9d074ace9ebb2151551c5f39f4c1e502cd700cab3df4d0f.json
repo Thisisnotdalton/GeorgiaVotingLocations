@@ -1,0 +1,258 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.923002,
+                    33.03371
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo4ZjgwODhjNS00MTI5LTQzZWMtYTIzZS1jMjg2NmY0ZDVhM2M",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "479",
+                        "mapbox_id": "dXJuOm1ieGFkcjo4ZjgwODhjNS00MTI5LTQzZWMtYTIzZS1jMjg2NmY0ZDVhM2M",
+                        "name": "479 Holiday Circle",
+                        "street_name": "Holiday Circle"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo5Y2Jz",
+                        "name": "Monroe County",
+                        "wikidata_id": "Q493024"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc3NJN0E",
+                        "name": "Forsyth",
+                        "wikidata_id": "Q1820317"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDdPN0E",
+                        "name": "31029"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6OGY4MDg4YzUtNDEyOS00M2VjLWEyM2UtYzI4NjZmNGQ1YTNj",
+                        "name": "Holiday Circle"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 33.03371,
+                    "longitude": -83.923002,
+                    "routable_points": [
+                        {
+                            "latitude": 33.033704,
+                            "longitude": -83.923002,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "479 Holiday Circle, Forsyth, Georgia 31029, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo4ZjgwODhjNS00MTI5LTQzZWMtYTIzZS1jMjg2NmY0ZDVhM2M",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "479 Holiday Circle",
+                "name_preferred": "479 Holiday Circle",
+                "place_formatted": "Forsyth, Georgia 31029, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.938528,
+                    33.03418
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaDdPN0E",
+            "properties": {
+                "bbox": [
+                    -84.046396,
+                    32.848499,
+                    -83.779983,
+                    33.216484
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo5Y2Jz",
+                        "name": "Monroe County",
+                        "wikidata_id": "Q493024"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc3NJN0E",
+                        "name": "Forsyth",
+                        "wikidata_id": "Q1820317"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDdPN0E",
+                        "name": "31029"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.03418,
+                    "longitude": -83.938528
+                },
+                "feature_type": "postcode",
+                "full_address": "Forsyth, Georgia 31029, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaDdPN0E",
+                "name": "31029",
+                "name_preferred": "31029",
+                "place_formatted": "Forsyth, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.938528,
+                    33.03418
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCc3NJN0E",
+            "properties": {
+                "bbox": [
+                    -84.044114,
+                    32.848499,
+                    -83.779983,
+                    33.216484
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzo5Y2Jz",
+                        "name": "Monroe County",
+                        "wikidata_id": "Q493024"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCc3NJN0E",
+                        "name": "Forsyth",
+                        "wikidata_id": "Q1820317"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.03418,
+                    "longitude": -83.938528
+                },
+                "feature_type": "place",
+                "full_address": "Forsyth, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCc3NJN0E",
+                "name": "Forsyth",
+                "name_preferred": "Forsyth",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.743145,
+                    32.888432
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YTU5MzM2MmUtNjBkNy00NjgyLThlNWYtMDM2YWY4NmQ4ZjA3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHV2Jz",
+                        "name": "Bibb County",
+                        "wikidata_id": "Q488171"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDN2tJN0E",
+                        "name": "Macon",
+                        "wikidata_id": "Q219656"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaW51N0E",
+                        "name": "31210"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTU5MzM2MmUtNjBkNy00NjgyLThlNWYtMDM2YWY4NmQ4ZjA3",
+                        "name": "Forsyth Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.888432,
+                    "longitude": -83.743145
+                },
+                "feature_type": "street",
+                "full_address": "Forsyth Road, Macon, Georgia 31210, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YTU5MzM2MmUtNjBkNy00NjgyLThlNWYtMDM2YWY4NmQ4ZjA3",
+                "name": "Forsyth Road",
+                "name_preferred": "Forsyth Road",
+                "place_formatted": "Macon, Georgia 31210, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

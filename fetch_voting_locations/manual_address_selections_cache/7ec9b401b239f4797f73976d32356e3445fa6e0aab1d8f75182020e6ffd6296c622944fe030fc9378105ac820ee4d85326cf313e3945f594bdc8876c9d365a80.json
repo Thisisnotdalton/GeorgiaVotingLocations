@@ -1,0 +1,83 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -84.24527,
+                32.08452
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjoxMTNjNDAwOC03NGVlLTQ4MGUtYjQ2Ni01ODYwZTQyMmEwZGM",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "900",
+                    "mapbox_id": "dXJuOm1ieGFkcjoxMTNjNDAwOC03NGVlLTQ4MGUtYjQ2Ni01ODYwZTQyMmEwZGM",
+                    "name": "900 Adderton Street",
+                    "street_name": "Adderton Street"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBVldtN0E",
+                    "name": "Sumter County",
+                    "wikidata_id": "Q503076"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpheWpz",
+                    "name": "Americus",
+                    "wikidata_id": "Q123067"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCajFPN0E",
+                    "name": "31719"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTEzYzQwMDgtNzRlZS00ODBlLWI0NjYtNTg2MGU0MjJhMGRj",
+                    "name": "Adderton Street"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 32.08452,
+                "longitude": -84.24527,
+                "routable_points": [
+                    {
+                        "latitude": 32.084769,
+                        "longitude": -84.245287,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "900 Adderton Street, Americus, Georgia 31719, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjoxMTNjNDAwOC03NGVlLTQ4MGUtYjQ2Ni01ODYwZTQyMmEwZGM",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "exact",
+                "country": "inferred",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "900 Adderton Street",
+            "name_preferred": "900 Adderton Street",
+            "place_formatted": "Americus, Georgia 31719, United States"
+        },
+        "type": "Feature"
+    }
+]

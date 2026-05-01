@@ -1,0 +1,83 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -84.516059,
+                33.882631
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjoyODU4MzQyNi0yNzZjLTQ3MDgtYTk0My1mMzZjMDBiNDc4NzY",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "1275",
+                    "mapbox_id": "dXJuOm1ieGFkcjoyODU4MzQyNi0yNzZjLTQ3MDgtYTk0My1mMzZjMDBiNDc4NzY",
+                    "name": "1275 Church Street Southeast",
+                    "street_name": "Church Street Southeast"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                    "name": "Cobb County",
+                    "wikidata_id": "Q484247"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpFamhJN0E",
+                    "name": "Smyrna",
+                    "wikidata_id": "Q958676"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZDl1N0E",
+                    "name": "30080"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6Mjg1ODM0MjYtMjc2Yy00NzA4LWE5NDMtZjM2YzAwYjQ3ODc2",
+                    "name": "Church Street Southeast"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 33.882631,
+                "longitude": -84.516059,
+                "routable_points": [
+                    {
+                        "latitude": 33.882765,
+                        "longitude": -84.516056,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "1275 Church Street Southeast, Smyrna, Georgia 30080, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjoyODU4MzQyNi0yNzZjLTQ3MDgtYTk0My1mMzZjMDBiNDc4NzY",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "medium",
+                "country": "matched",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "unmatched",
+                "region": "matched",
+                "street": "unmatched"
+            },
+            "name": "1275 Church Street Southeast",
+            "name_preferred": "1275 Church Street Southeast",
+            "place_formatted": "Smyrna, Georgia 30080, United States"
+        },
+        "type": "Feature"
+    }
+]

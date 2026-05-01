@@ -1,0 +1,341 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.761936,
+                    32.654226
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiMzliNmI0OS04YTkwLTRhNzQtODkyYi1lNzRhNjMwYzhmMjk",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "401",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiMzliNmI0OS04YTkwLTRhNzQtODkyYi1lNzRhNjMwYzhmMjk",
+                        "name": "401 Main Street",
+                        "street_name": "Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUlJtN0E",
+                        "name": "Peach County",
+                        "wikidata_id": "Q491553"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBclFJN0E",
+                        "name": "Byron",
+                        "wikidata_id": "Q1923402"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHd1N0E",
+                        "name": "31008"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjM5YjZiNDktOGE5MC00YTc0LTg5MmItZTc0YTYzMGM4ZjI5",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.654226,
+                    "longitude": -83.761936,
+                    "routable_points": [
+                        {
+                            "latitude": 32.654493,
+                            "longitude": -83.761994,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "401 Main Street, Byron, Georgia 31008, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiMzliNmI0OS04YTkwLTRhNzQtODkyYi1lNzRhNjMwYzhmMjk",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "401 Main Street",
+                "name_preferred": "401 Main Street",
+                "place_formatted": "Byron, Georgia 31008, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.75956,
+                    32.653748
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaHd1N0E",
+            "properties": {
+                "bbox": [
+                    -83.867065,
+                    32.562143,
+                    -83.688543,
+                    32.731401
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUlJtN0E",
+                        "name": "Peach County",
+                        "wikidata_id": "Q491553"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBclFJN0E",
+                        "name": "Byron",
+                        "wikidata_id": "Q1923402"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaHd1N0E",
+                        "name": "31008"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.653748,
+                    "longitude": -83.75956
+                },
+                "feature_type": "postcode",
+                "full_address": "Byron, Georgia 31008, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaHd1N0E",
+                "name": "31008",
+                "name_preferred": "31008",
+                "place_formatted": "Byron, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.735895,
+                    32.456575
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTc5MzRkNGEtZDY4Ny00YzE0LTgyM2UtZjEwNDY4ZTdjNjZk",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpvcWJz",
+                        "name": "Houston County",
+                        "wikidata_id": "Q486362"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEMGlJN0E",
+                        "name": "Perry",
+                        "wikidata_id": "Q668422"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaU5PN0E",
+                        "name": "31069"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTc5MzRkNGEtZDY4Ny00YzE0LTgyM2UtZjEwNDY4ZTdjNjZk",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.456575,
+                    "longitude": -83.735895
+                },
+                "feature_type": "street",
+                "full_address": "Main Street, Perry, Georgia 31069, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTc5MzRkNGEtZDY4Ny00YzE0LTgyM2UtZjEwNDY4ZTdjNjZk",
+                "name": "Main Street",
+                "name_preferred": "Main Street",
+                "place_formatted": "Perry, Georgia 31069, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.885745,
+                    32.553137
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MjQ0ZDk3NzEtYzA2NS00N2QxLWE4ODgtNjQ2ZGYxODQxZGVl",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUlJtN0E",
+                        "name": "Peach County",
+                        "wikidata_id": "Q491553"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCdVFvN0E",
+                        "name": "Fort Valley",
+                        "wikidata_id": "Q260197"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDd1N0E",
+                        "name": "31030"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjQ0ZDk3NzEtYzA2NS00N2QxLWE4ODgtNjQ2ZGYxODQxZGVl",
+                        "name": "East Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.553137,
+                    "longitude": -83.885745
+                },
+                "feature_type": "street",
+                "full_address": "East Main Street, Fort Valley, Georgia 31030, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MjQ0ZDk3NzEtYzA2NS00N2QxLWE4ODgtNjQ2ZGYxODQxZGVl",
+                "name": "Main St",
+                "name_preferred": "East Main Street",
+                "place_formatted": "Fort Valley, Georgia 31030, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.94947,
+                    32.45679
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo2ZDBkMDNkMS04NDNlLTQ0YTMtYjRjOS0zNDc5MmFiNzg0NzM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "401",
+                        "mapbox_id": "dXJuOm1ieGFkcjo2ZDBkMDNkMS04NDNlLTQ0YTMtYjRjOS0zNDc5MmFiNzg0NzM",
+                        "name": "401 West Main Street",
+                        "street_name": "West Main Street"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzoyc2Jz",
+                        "name": "Macon County",
+                        "wikidata_id": "Q492021"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEQlJJN0E",
+                        "name": "Marshallville",
+                        "wikidata_id": "Q2680818"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUhPN0E",
+                        "name": "31057"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NmQwZDAzZDEtODQzZS00NGEzLWI0YzktMzQ3OTJhYjc4NDcz",
+                        "name": "West Main Street"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 32.45679,
+                    "longitude": -83.94947,
+                    "routable_points": [
+                        {
+                            "latitude": 32.456432,
+                            "longitude": -83.949472,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "401 West Main Street, Marshallville, Georgia 31057, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo2ZDBkMDNkMS04NDNlLTQ0YTMtYjRjOS0zNDc5MmFiNzg0NzM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "401 West Main Street",
+                "name_preferred": "401 West Main Street",
+                "place_formatted": "Marshallville, Georgia 31057, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

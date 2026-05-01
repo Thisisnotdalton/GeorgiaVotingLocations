@@ -1,0 +1,365 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.4074,
+                    33.718776
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3MWFkNDc5MS01NzlhLTRmZjgtYjdkZC1iMGMyYzQ0NDA0OTc",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1332",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3MWFkNDc5MS01NzlhLTRmZjgtYjdkZC1iMGMyYzQ0NDA0OTc",
+                        "name": "1332 Metropolitan Parkway Southwest",
+                        "street_name": "Metropolitan Parkway Southwest"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCVjNNN0E",
+                        "name": "Capitol View Manor",
+                        "wikidata_id": "Q5035960"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlNPN0E",
+                        "name": "30310"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NzFhZDQ3OTEtNTc5YS00ZmY4LWI3ZGQtYjBjMmM0NDQwNDk3",
+                        "name": "Metropolitan Parkway Southwest"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.718776,
+                    "longitude": -84.4074,
+                    "routable_points": [
+                        {
+                            "latitude": 33.718774,
+                            "longitude": -84.407854,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1332 Metropolitan Parkway Southwest, Atlanta, Georgia 30310, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3MWFkNDc5MS01NzlhLTRmZjgtYjdkZC1iMGMyYzQ0NDA0OTc",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1332 Metropolitan Parkway Southwest",
+                "name_preferred": "1332 Metropolitan Parkway Southwest",
+                "place_formatted": "Atlanta, Georgia 30310, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.401842,
+                    33.713808
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjY5ZDEzN2UtNDNiOS00ZjQyLWIyZjItOGEyZTBmMjFhZDE5",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpKZUNNN0E",
+                        "name": "Sylvan Hills",
+                        "wikidata_id": "Q14686850"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlNPN0E",
+                        "name": "30310"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjY5ZDEzN2UtNDNiOS00ZjQyLWIyZjItOGEyZTBmMjFhZDE5",
+                        "name": "Metropolitan Parkway SW"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.713808,
+                    "longitude": -84.401842
+                },
+                "feature_type": "street",
+                "full_address": "Metropolitan Parkway SW, Atlanta, Georgia 30310, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjY5ZDEzN2UtNDNiOS00ZjQyLWIyZjItOGEyZTBmMjFhZDE5",
+                "name": "Metropolitan Parkway SW",
+                "name_preferred": "Metropolitan Parkway SW",
+                "place_formatted": "Atlanta, Georgia 30310, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.41195,
+                    33.735482
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZjA5YTgxNzAtNzE0OC00ZWU3LTliNTUtOGU0MTg3ZjlmYTMx",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpGMnNzN0E",
+                            "name": "McDaniel Glen"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpIdXpz",
+                        "name": "Adair Park",
+                        "wikidata_id": "Q4678474"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlNPN0E",
+                        "name": "30310"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjA5YTgxNzAtNzE0OC00ZWU3LTliNTUtOGU0MTg3ZjlmYTMx",
+                        "name": "Metropolitan Parkway SE"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.735482,
+                    "longitude": -84.41195
+                },
+                "feature_type": "street",
+                "full_address": "Metropolitan Parkway SE, Atlanta, Georgia 30310, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjA5YTgxNzAtNzE0OC00ZWU3LTliNTUtOGU0MTg3ZjlmYTMx",
+                "name": "Metropolitan Parkway SE",
+                "name_preferred": "Metropolitan Parkway SE",
+                "place_formatted": "Atlanta, Georgia 30310, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.344108,
+                    33.742655
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTXpNaUlzSW5OMGNtVmxkQ0k2SWsxRlZGSlBVRTlNU1ZSQlRpQlFRVkpMVjBGWklpd2ljR3hoWTJVaU9pSkJWRXhCVGxSQklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNekV3SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0NE5URXhOVGdpTENJek15NDFNREkxTVRVaUxDSXRPRFF1TURrM05qYzBJaXdpTXpRdU1UZzJNamc1SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToz",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "1332",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTXpNaUlzSW5OMGNtVmxkQ0k2SWsxRlZGSlBVRTlNU1ZSQlRpQlFRVkpMVjBGWklpd2ljR3hoWTJVaU9pSkJWRXhCVGxSQklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNekV3SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0NE5URXhOVGdpTENJek15NDFNREkxTVRVaUxDSXRPRFF1TURrM05qYzBJaXdpTXpRdU1UZzJNamc1SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToz",
+                        "name": "1332 Metropolitan Avenue Southeast",
+                        "street_name": "Metropolitan Avenue Southeast"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpYZWJz",
+                        "name": "DeKalb County",
+                        "wikidata_id": "Q486398"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDcWdzN0E",
+                        "name": "East Atlanta",
+                        "wikidata_id": "Q5327753"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlZPN0E",
+                        "name": "30316"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVE16TWlJc0luTjBjbVZsZENJNklrMUZWRkpQVUU5TVNWUkJUaUJRUVZKTFYwRlpJaXdpY0d4aFkyVWlPaUpCVkV4QlRsUkJJaXdpY21WbmFXOXVJam9pUjBFaUxDSndiM04wWTI5a1pTSTZJak13TXpFd0lpd2lZWFYwYjJOdmJYQnNaWFJsSWpvaVptRnNjMlVpTENKaVltOTRJanBiSWkwNE5DNDROVEV4TlRnaUxDSXpNeTQxTURJMU1UVWlMQ0l0T0RRdU1EazNOamMwSWl3aU16UXVNVGcyTWpnNUlsMHNJbXhwYldsMElqb2lOU0lzSW5kdmNteGtkbWxsZHlJNkluVnpJaXdpYVc1amJIVmtaVjl0WVhSamFGOWtaWFJoYVd3aU9pSjBjblZsSWl3aWJXOWtaU0k2SW1admNuZGhjbVFpZlE6Mw",
+                        "name": "Metropolitan Avenue Southeast"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.742655,
+                    "longitude": -84.344108,
+                    "routable_points": [
+                        {
+                            "latitude": 33.742655,
+                            "longitude": -84.344108,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "1332 Metropolitan Avenue Southeast, Atlanta, Georgia 30316, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1UTXpNaUlzSW5OMGNtVmxkQ0k2SWsxRlZGSlBVRTlNU1ZSQlRpQlFRVkpMVjBGWklpd2ljR3hoWTJVaU9pSkJWRXhCVGxSQklpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNekV3SWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0NE5URXhOVGdpTENJek15NDFNREkxTVRVaUxDSXRPRFF1TURrM05qYzBJaXdpTXpRdU1UZzJNamc1SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToz",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "1332 Metropolitan Avenue",
+                "name_preferred": "1332 Metropolitan Avenue Southeast",
+                "place_formatted": "Atlanta, Georgia 30316, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.4121,
+                    33.740555
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZlNPN0E",
+            "properties": {
+                "bbox": [
+                    -84.466224,
+                    33.696427,
+                    -84.394969,
+                    33.754778
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpmR2Jz",
+                        "name": "Fulton County",
+                        "wikidata_id": "Q486633"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpIYkVJN0E",
+                        "name": "Atlanta",
+                        "wikidata_id": "Q23556"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZlNPN0E",
+                        "name": "30310"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.740555,
+                    "longitude": -84.4121
+                },
+                "feature_type": "postcode",
+                "full_address": "Atlanta, Georgia 30310, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZlNPN0E",
+                "name": "30310",
+                "name_preferred": "30310",
+                "place_formatted": "Atlanta, Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

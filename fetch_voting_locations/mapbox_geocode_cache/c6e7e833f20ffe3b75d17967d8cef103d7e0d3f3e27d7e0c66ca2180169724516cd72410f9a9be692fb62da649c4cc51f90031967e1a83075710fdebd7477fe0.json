@@ -1,0 +1,367 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.150402,
+                    31.578819
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpjNWIwYmRiNS0xN2Q0LTQ0MmYtYWE1My1lMGVhYjQyZTljY2Q",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "125",
+                        "mapbox_id": "dXJuOm1ieGFkcjpjNWIwYmRiNS0xN2Q0LTQ0MmYtYWE1My1lMGVhYjQyZTljY2Q",
+                        "name": "125 Pine Avenue",
+                        "street_name": "Pine Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaT2Jz",
+                        "name": "Dougherty County",
+                        "wikidata_id": "Q176480"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLQ2pz",
+                        "name": "Albany",
+                        "wikidata_id": "Q285599"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanV1N0E",
+                        "name": "31701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzViMGJkYjUtMTdkNC00NDJmLWFhNTMtZTBlYWI0MmU5Y2Nk",
+                        "name": "Pine Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 31.578819,
+                    "longitude": -84.150402,
+                    "routable_points": [
+                        {
+                            "latitude": 31.578817,
+                            "longitude": -84.150581,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "125 Pine Avenue, Albany, Georgia 31701, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpjNWIwYmRiNS0xN2Q0LTQ0MmYtYWE1My1lMGVhYjQyZTljY2Q",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "125 Pine Avenue",
+                "name_preferred": "125 Pine Avenue",
+                "place_formatted": "Albany, Georgia 31701, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.159222,
+                    31.597814
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USTFJaXdpYzNSeVpXVjBJam9pVUVsT1JTQkJWa1VpTENKd2JHRmpaU0k2SWtGTVFrRk9XU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRjd01TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVORFUzTmpZeUlpd2lNekV1TkRNMU9EVTJJaXdpTFRnekxqazRNVFl3TmlJc0lqTXhMalkxTURJM05DSmRMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjE",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "125",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USTFJaXdpYzNSeVpXVjBJam9pVUVsT1JTQkJWa1VpTENKd2JHRmpaU0k2SWtGTVFrRk9XU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRjd01TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVORFUzTmpZeUlpd2lNekV1TkRNMU9EVTJJaXdpTFRnekxqazRNVFl3TmlJc0lqTXhMalkxTURJM05DSmRMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjE",
+                        "name": "125 9th Avenue",
+                        "street_name": "9th Avenue"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaT2Jz",
+                        "name": "Dougherty County",
+                        "wikidata_id": "Q176480"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpHbktzN0E",
+                        "name": "Northend Addition"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLQ2pz",
+                        "name": "Albany",
+                        "wikidata_id": "Q285599"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanV1N0E",
+                        "name": "31701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lNVEkxSWl3aWMzUnlaV1YwSWpvaVVFbE9SU0JCVmtVaUxDSndiR0ZqWlNJNklrRk1Ra0ZPV1NJc0luSmxaMmx2YmlJNklrZEJJaXdpY0c5emRHTnZaR1VpT2lJek1UY3dNU0lzSW1GMWRHOWpiMjF3YkdWMFpTSTZJbVpoYkhObElpd2lZbUp2ZUNJNld5SXRPRFF1TkRVM05qWXlJaXdpTXpFdU5ETTFPRFUySWl3aUxUZ3pMams0TVRZd05pSXNJak14TGpZMU1ESTNOQ0pkTENKc2FXMXBkQ0k2SWpVaUxDSjNiM0pzWkhacFpYY2lPaUoxY3lJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+                        "name": "9th Avenue"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 31.597814,
+                    "longitude": -84.159222,
+                    "routable_points": [
+                        {
+                            "latitude": 31.597814,
+                            "longitude": -84.159222,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "125 9th Avenue, Albany, Georgia 31701, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU1USTFJaXdpYzNSeVpXVjBJam9pVUVsT1JTQkJWa1VpTENKd2JHRmpaU0k2SWtGTVFrRk9XU0lzSW5KbFoybHZiaUk2SWtkQklpd2ljRzl6ZEdOdlpHVWlPaUl6TVRjd01TSXNJbUYxZEc5amIyMXdiR1YwWlNJNkltWmhiSE5sSWl3aVltSnZlQ0k2V3lJdE9EUXVORFUzTmpZeUlpd2lNekV1TkRNMU9EVTJJaXdpTFRnekxqazRNVFl3TmlJc0lqTXhMalkxTURJM05DSmRMQ0pzYVcxcGRDSTZJalVpTENKM2IzSnNaSFpwWlhjaU9pSjFjeUlzSW1sdVkyeDFaR1ZmYldGMFkyaGZaR1YwWVdsc0lqb2lkSEoxWlNJc0ltMXZaR1VpT2lKbWIzSjNZWEprSW4wOjE",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "125 9th Avenue",
+                "name_preferred": "125 9th Avenue",
+                "place_formatted": "Albany, Georgia 31701, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.153665,
+                    31.576947
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCanV1N0E",
+            "properties": {
+                "bbox": [
+                    -84.209449,
+                    31.503797,
+                    -84.102738,
+                    31.64409
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaT2Jz",
+                        "name": "Dougherty County",
+                        "wikidata_id": "Q176480"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLQ2pz",
+                        "name": "Albany",
+                        "wikidata_id": "Q285599"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCanV1N0E",
+                        "name": "31701"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.576947,
+                    "longitude": -84.153665
+                },
+                "feature_type": "postcode",
+                "full_address": "Albany, Georgia 31701, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCanV1N0E",
+                "name": "31701",
+                "name_preferred": "31701",
+                "place_formatted": "Albany, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.991829,
+                    31.574229
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxNjg3ZmZmOC0wMWZhLTQ5NjctYTZmNC0yNzIxNjkwMGFkMDg",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "125",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxNjg3ZmZmOC0wMWZhLTQ5NjctYTZmNC0yNzIxNjkwMGFkMDg",
+                        "name": "125 Pine Trail",
+                        "street_name": "Pine Trail"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBWVBHN0E",
+                        "name": "Worth County",
+                        "wikidata_id": "Q486154"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFeTNJN0E",
+                        "name": "Sylvester",
+                        "wikidata_id": "Q2795652"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCa0tPN0E",
+                        "name": "31791"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTY4N2ZmZjgtMDFmYS00OTY3LWE2ZjQtMjcyMTY5MDBhZDA4",
+                        "name": "Pine Trail"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "parcel",
+                    "latitude": 31.574229,
+                    "longitude": -83.991829,
+                    "routable_points": [
+                        {
+                            "latitude": 31.573859,
+                            "longitude": -83.991146,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "125 Pine Trail, Sylvester, Georgia 31791, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxNjg3ZmZmOC0wMWZhLTQ5NjctYTZmNC0yNzIxNjkwMGFkMDg",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "125 Pine",
+                "name_preferred": "125 Pine Trail",
+                "place_formatted": "Sylvester, Georgia 31791, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.153665,
+                    31.576947
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpLQ2pz",
+            "properties": {
+                "bbox": [
+                    -84.457654,
+                    31.373003,
+                    -83.93673,
+                    31.650276
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpaT2Jz",
+                        "name": "Dougherty County",
+                        "wikidata_id": "Q176480"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpLQ2pz",
+                        "name": "Albany",
+                        "wikidata_id": "Q285599"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.576947,
+                    "longitude": -84.153665
+                },
+                "feature_type": "place",
+                "full_address": "Albany, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpLQ2pz",
+                "name": "Albany",
+                "name_preferred": "Albany",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

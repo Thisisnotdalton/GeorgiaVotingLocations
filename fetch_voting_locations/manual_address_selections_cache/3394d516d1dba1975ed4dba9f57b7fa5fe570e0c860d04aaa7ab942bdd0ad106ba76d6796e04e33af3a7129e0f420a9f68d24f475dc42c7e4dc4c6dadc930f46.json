@@ -1,0 +1,87 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -84.511939,
+                34.114437
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjoxZDBlMGQ4Yy03ODhlLTQyMGMtODQwMi1kODNlODQ3ZGU4MjQ",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "7545",
+                    "mapbox_id": "dXJuOm1ieGFkcjoxZDBlMGQ4Yy03ODhlLTQyMGMtODQwMi1kODNlODQ3ZGU4MjQ",
+                    "name": "7545 Main Street",
+                    "street_name": "Main Street"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpPOGJz",
+                    "name": "Cherokee County",
+                    "wikidata_id": "Q486664"
+                },
+                "place": {
+                    "alternate": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEVDdJN0E",
+                        "name": "Mountain Park"
+                    },
+                    "mapbox_id": "dXJuOm1ieHBsYzpGYmlJN0E",
+                    "name": "Woodstock",
+                    "wikidata_id": "Q2797172"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZXNPN0E",
+                    "name": "30188"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6MWQwZTBkOGMtNzg4ZS00MjBjLTg0MDItZDgzZTg0N2RlODI0",
+                    "name": "Main Street"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 34.114437,
+                "longitude": -84.511939,
+                "routable_points": [
+                    {
+                        "latitude": 34.114058,
+                        "longitude": -84.512059,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "7545 Main Street, Woodstock, Georgia 30188, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjoxZDBlMGQ4Yy03ODhlLTQyMGMtODQwMi1kODNlODQ3ZGU4MjQ",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "exact",
+                "country": "inferred",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "7545 Main Street",
+            "name_preferred": "7545 Main Street",
+            "place_formatted": "Woodstock, Georgia 30188, United States"
+        },
+        "type": "Feature"
+    }
+]

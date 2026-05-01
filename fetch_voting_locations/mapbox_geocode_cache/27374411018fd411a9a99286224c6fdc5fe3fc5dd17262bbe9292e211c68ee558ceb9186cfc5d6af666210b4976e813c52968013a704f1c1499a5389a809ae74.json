@@ -1,0 +1,315 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.175328,
+                    32.201066
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjoxMTE0MWFiNS1lMTc4LTQ4MmQtOWI4OS0wOTUwZGY5YTBlOWM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "5016",
+                        "mapbox_id": "dXJuOm1ieGFkcjoxMTE0MWFiNS1lMTc4LTQ4MmQtOWI4OS0wOTUwZGY5YTBlOWM",
+                        "name": "5016 Courthouse Circle",
+                        "street_name": "Courthouse Circle"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpZNGJz",
+                        "name": "Dodge County",
+                        "wikidata_id": "Q115272"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYVFJN0E",
+                        "name": "Eastman",
+                        "wikidata_id": "Q1278280"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDRPN0E",
+                        "name": "31023"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MTExNDFhYjUtZTE3OC00ODJkLTliODktMDk1MGRmOWEwZTlj",
+                        "name": "Courthouse Circle"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 32.201066,
+                    "longitude": -83.175328,
+                    "routable_points": [
+                        {
+                            "latitude": 32.201083,
+                            "longitude": -83.175391,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "5016 Courthouse Circle, Eastman, Georgia 31023, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjoxMTE0MWFiNS1lMTc4LTQ4MmQtOWI4OS0wOTUwZGY5YTBlOWM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "5016 Courthouse Circle",
+                "name_preferred": "5016 Courthouse Circle",
+                "place_formatted": "Eastman, Georgia 31023, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.176539,
+                    32.199039
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaDRPN0E",
+            "properties": {
+                "bbox": [
+                    -83.373935,
+                    31.998814,
+                    -83.028245,
+                    32.350784
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpZNGJz",
+                        "name": "Dodge County",
+                        "wikidata_id": "Q115272"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYVFJN0E",
+                        "name": "Eastman",
+                        "wikidata_id": "Q1278280"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDRPN0E",
+                        "name": "31023"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.199039,
+                    "longitude": -83.176539
+                },
+                "feature_type": "postcode",
+                "full_address": "Eastman, Georgia 31023, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaDRPN0E",
+                "name": "31023",
+                "name_preferred": "31023",
+                "place_formatted": "Eastman, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.32056,
+                    32.203522
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6M2U2ZDM0NzQtMmIxNS00NDU0LWExZjAtNjQ4ZTMxYzlhYjRm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpZNGJz",
+                        "name": "Dodge County",
+                        "wikidata_id": "Q115272"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYVFJN0E",
+                        "name": "Eastman",
+                        "wikidata_id": "Q1278280"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaDRPN0E",
+                        "name": "31023"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2U2ZDM0NzQtMmIxNS00NDU0LWExZjAtNjQ4ZTMxYzlhYjRm",
+                        "name": "Eastman Hwy"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.203522,
+                    "longitude": -83.32056
+                },
+                "feature_type": "street",
+                "full_address": "Eastman Hwy, Eastman, Georgia 31023, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6M2U2ZDM0NzQtMmIxNS00NDU0LWExZjAtNjQ4ZTMxYzlhYjRm",
+                "name": "Eastman Hwy",
+                "name_preferred": "Eastman Hwy",
+                "place_formatted": "Eastman, Georgia 31023, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.176539,
+                    32.199039
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCYVFJN0E",
+            "properties": {
+                "bbox": [
+                    -83.373935,
+                    31.99931,
+                    -83.028245,
+                    32.350791
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpZNGJz",
+                        "name": "Dodge County",
+                        "wikidata_id": "Q115272"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYVFJN0E",
+                        "name": "Eastman",
+                        "wikidata_id": "Q1278280"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.199039,
+                    "longitude": -83.176539
+                },
+                "feature_type": "place",
+                "full_address": "Eastman, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCYVFJN0E",
+                "name": "Eastman",
+                "name_preferred": "Eastman",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.346835,
+                    32.20869
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZTA4YmU2NzMtZTBlMi00M2IzLThhNjUtMDNmZjFjMzMzZGU1",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBU1pHN0E",
+                        "name": "Pulaski County",
+                        "wikidata_id": "Q498301"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDSk1vN0E",
+                        "name": "Hawkinsville",
+                        "wikidata_id": "Q2659489"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaCt1N0E",
+                        "name": "31036"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTA4YmU2NzMtZTBlMi00M2IzLThhNjUtMDNmZjFjMzMzZGU1",
+                        "name": "Eastman Hwy"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 32.20869,
+                    "longitude": -83.346835
+                },
+                "feature_type": "street",
+                "full_address": "Eastman Hwy, Hawkinsville, Georgia 31036, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZTA4YmU2NzMtZTBlMi00M2IzLThhNjUtMDNmZjFjMzMzZGU1",
+                "name": "Eastman Hwy",
+                "name_preferred": "Eastman Hwy",
+                "place_formatted": "Hawkinsville, Georgia 31036, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

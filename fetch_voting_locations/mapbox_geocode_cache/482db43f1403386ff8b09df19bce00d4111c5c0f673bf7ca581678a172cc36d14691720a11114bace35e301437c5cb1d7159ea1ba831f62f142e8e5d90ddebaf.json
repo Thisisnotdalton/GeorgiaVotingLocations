@@ -1,0 +1,323 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.19723,
+                    33.88058
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjo3YWEwODYzMC1lZGNhLTQwZmUtYjlhYS0yODllOGI4MTUwM2Q",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4651",
+                        "mapbox_id": "dXJuOm1ieGFkcjo3YWEwODYzMC1lZGNhLTQwZmUtYjlhYS0yODllOGI4MTUwM2Q",
+                        "name": "4651 Britt Road",
+                        "street_name": "Britt Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZ0pJN0E",
+                        "name": "Norcross",
+                        "wikidata_id": "Q2581974"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUR1N0E",
+                        "name": "30093"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2FhMDg2MzAtZWRjYS00MGZlLWI5YWEtMjg5ZThiODE1MDNk",
+                        "name": "Britt Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.88058,
+                    "longitude": -84.19723,
+                    "routable_points": [
+                        {
+                            "latitude": 33.880893,
+                            "longitude": -84.197269,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4651 Britt Road, Norcross, Georgia 30093, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjo3YWEwODYzMC1lZGNhLTQwZmUtYjlhYS0yODllOGI4MTUwM2Q",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "4651 Britt Road",
+                "name_preferred": "4651 Britt Road",
+                "place_formatted": "Norcross, Georgia 30093, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.191524,
+                    33.8851
+                ],
+                "type": "Point"
+            },
+            "id": "address.7455360048867206",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZ0pJN0E",
+                        "name": "Norcross",
+                        "wikidata_id": "Q2581974"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUR1N0E",
+                        "name": "30093"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.7455360048867206",
+                        "name": "Britt Road Northwest"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.8851,
+                    "longitude": -84.191524
+                },
+                "feature_type": "street",
+                "full_address": "Britt Road Northwest, Norcross, Georgia 30093, United States",
+                "mapbox_id": "address.7455360048867206",
+                "name": "Britt Road Northwest",
+                "name_preferred": "Britt Road Northwest",
+                "place_formatted": "Norcross, Georgia 30093, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.191772,
+                    33.8849
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCZUR1N0E",
+            "properties": {
+                "bbox": [
+                    -84.236704,
+                    33.867333,
+                    -84.121944,
+                    33.944745
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZ0pJN0E",
+                        "name": "Norcross",
+                        "wikidata_id": "Q2581974"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZUR1N0E",
+                        "name": "30093"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.8849,
+                    "longitude": -84.191772
+                },
+                "feature_type": "postcode",
+                "full_address": "Norcross, Georgia 30093, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCZUR1N0E",
+                "name": "30093",
+                "name_preferred": "30093",
+                "place_formatted": "Norcross, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.025248,
+                    33.846355
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6NjdiYTEzOWUtMDk4Zi00ZDMzLWEyMmUtNDJmZmQxYjRhNTlj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "neighborhood": {
+                        "alternate": {
+                            "mapbox_id": "dXJuOm1ieHBsYzpDaFpNN0E",
+                            "name": "Downtown"
+                        },
+                        "mapbox_id": "dXJuOm1ieHBsYzpFUERNN0E",
+                        "name": "Hickory Hills"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFanBJN0E",
+                        "name": "Snellville",
+                        "wikidata_id": "Q1639930"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZDh1N0E",
+                        "name": "30078"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjdiYTEzOWUtMDk4Zi00ZDMzLWEyMmUtNDJmZmQxYjRhNTlj",
+                        "name": "Britt Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.846355,
+                    "longitude": -84.025248
+                },
+                "feature_type": "street",
+                "full_address": "Britt Street, Snellville, Georgia 30078, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjdiYTEzOWUtMDk4Zi00ZDMzLWEyMmUtNDJmZmQxYjRhNTlj",
+                "name": "Britt Rd",
+                "name_preferred": "Britt Street",
+                "place_formatted": "Snellville, Georgia 30078, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.211514,
+                    33.941137
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpEZ0pJN0E",
+            "properties": {
+                "bbox": [
+                    -84.240369,
+                    33.867333,
+                    -84.121944,
+                    33.970563
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpqMmJz",
+                        "name": "Gwinnett County",
+                        "wikidata_id": "Q490065"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEZ0pJN0E",
+                        "name": "Norcross",
+                        "wikidata_id": "Q2581974"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.941137,
+                    "longitude": -84.211514
+                },
+                "feature_type": "place",
+                "full_address": "Norcross, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpEZ0pJN0E",
+                "name": "Norcross",
+                "name_preferred": "Norcross",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

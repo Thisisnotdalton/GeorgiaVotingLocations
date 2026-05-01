@@ -1,0 +1,323 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.303048,
+                    33.925362
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmNGYzYzFmNy0yNGUwLTQ4OTQtYjQ2Ni04M2Q1MTg0OTVjZTA",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "4460",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmNGYzYzFmNy0yNGUwLTQ4OTQtYjQ2Ni04M2Q1MTg0OTVjZTA",
+                        "name": "4460 Lexington Road",
+                        "street_name": "Lexington Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3dPN0E",
+                        "name": "30605"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjRmM2MxZjctMjRlMC00ODk0LWI0NjYtODNkNTE4NDk1Y2Uw",
+                        "name": "Lexington Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.925362,
+                    "longitude": -83.303048,
+                    "routable_points": [
+                        {
+                            "latitude": 33.9256,
+                            "longitude": -83.303073,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "4460 Lexington Road, Athens, Georgia 30605, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmNGYzYzFmNy0yNGUwLTQ4OTQtYjQ2Ni04M2Q1MTg0OTVjZTA",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "exact",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "matched"
+                },
+                "name": "4460 Lexington Road",
+                "name_preferred": "4460 Lexington Road",
+                "place_formatted": "Athens, Georgia 30605, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.2937,
+                    33.916008
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6ZDNmNzA2Y2QtNTQ0ZS00ZGI0LThiOTItODNlMmM2MThlNGJj",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3dPN0E",
+                        "name": "30605"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDNmNzA2Y2QtNTQ0ZS00ZGI0LThiOTItODNlMmM2MThlNGJj",
+                        "name": "Lexington Rd"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.916008,
+                    "longitude": -83.2937
+                },
+                "feature_type": "street",
+                "full_address": "Lexington Rd, Athens, Georgia 30605, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDNmNzA2Y2QtNTQ0ZS00ZGI0LThiOTItODNlMmM2MThlNGJj",
+                "name": "Lexington Rd",
+                "name_preferred": "Lexington Rd",
+                "place_formatted": "Athens, Georgia 30605, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.331698,
+                    33.917752
+                ],
+                "type": "Point"
+            },
+            "id": "address.3273219935858042",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpRd2Jz",
+                        "name": "Clarke County",
+                        "wikidata_id": "Q112061"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCYzdNN0E",
+                        "name": "Cedar Bluff"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzp5dWpz",
+                        "name": "Athens",
+                        "wikidata_id": "Q203263"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZ3dPN0E",
+                        "name": "30605"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "address.3273219935858042",
+                        "name": "Lexington Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.917752,
+                    "longitude": -83.331698
+                },
+                "feature_type": "street",
+                "full_address": "Lexington Road, Athens, Georgia 30605, United States",
+                "mapbox_id": "address.3273219935858042",
+                "name": "Lexington Road",
+                "name_preferred": "Lexington Road",
+                "place_formatted": "Athens, Georgia 30605, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.387339,
+                    33.872562
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MmJlYTNiODktOTk1NS00ZDNmLTg5NTgtOTJlMjRkMzcwZmVm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q492026"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGS3VvN0E",
+                        "name": "Watkinsville",
+                        "wikidata_id": "Q426428"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEdPN0E",
+                        "name": "30677"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmJlYTNiODktOTk1NS00ZDNmLTg5NTgtOTJlMjRkMzcwZmVm",
+                        "name": "Simonton Bridge Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.872562,
+                    "longitude": -83.387339
+                },
+                "feature_type": "street",
+                "full_address": "Simonton Bridge Road, Watkinsville, Georgia 30677, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmJlYTNiODktOTk1NS00ZDNmLTg5NTgtOTJlMjRkMzcwZmVm",
+                "name": "Road",
+                "name_preferred": "Simonton Bridge Road",
+                "place_formatted": "Watkinsville, Georgia 30677, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.380565,
+                    33.880567
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YzQzZjcwYzYtMDkyYy00YTE2LWE0NWUtZDE3M2MxYjM1YWNm",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUWhHN0E",
+                        "name": "Oconee County",
+                        "wikidata_id": "Q492026"
+                    },
+                    "neighborhood": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJcVdzN0E",
+                        "name": "Sherwood Forest"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGS3VvN0E",
+                        "name": "Watkinsville",
+                        "wikidata_id": "Q426428"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEdPN0E",
+                        "name": "30677"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzQzZjcwYzYtMDkyYy00YTE2LWE0NWUtZDE3M2MxYjM1YWNm",
+                        "name": "Poplar Ridge Lane"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.880567,
+                    "longitude": -83.380565
+                },
+                "feature_type": "street",
+                "full_address": "Poplar Ridge Lane, Watkinsville, Georgia 30677, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzQzZjcwYzYtMDkyYy00YTE2LWE0NWUtZDE3M2MxYjM1YWNm",
+                "name": "Road",
+                "name_preferred": "Poplar Ridge Lane",
+                "place_formatted": "Watkinsville, Georgia 30677, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

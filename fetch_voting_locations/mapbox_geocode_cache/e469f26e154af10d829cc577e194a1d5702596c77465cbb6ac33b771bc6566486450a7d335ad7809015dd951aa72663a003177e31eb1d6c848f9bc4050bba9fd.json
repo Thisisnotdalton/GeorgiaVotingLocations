@@ -1,0 +1,319 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.964399,
+                    33.280089
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpmMWZiYzA1ZS05YjI1LTRkM2YtYjlmZS1mMGFiMjgzN2E5ODM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "12560",
+                        "mapbox_id": "dXJuOm1ieGFkcjpmMWZiYzA1ZS05YjI1LTRkM2YtYjlmZS1mMGFiMjgzN2E5ODM",
+                        "name": "12560 Augusta Highway",
+                        "street_name": "Augusta Highway"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprMmJz",
+                        "name": "Hancock County",
+                        "wikidata_id": "Q493112"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbnFJN0E",
+                        "name": "Sparta",
+                        "wikidata_id": "Q2670509"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVV1N0E",
+                        "name": "31087"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZjFmYmMwNWUtOWIyNS00ZDNmLWI5ZmUtZjBhYjI4MzdhOTgz",
+                        "name": "Augusta Highway"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "approximate",
+                    "latitude": 33.280089,
+                    "longitude": -82.964399,
+                    "routable_points": [
+                        {
+                            "latitude": 33.280122,
+                            "longitude": -82.964497,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "12560 Augusta Highway, Sparta, Georgia 31087, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpmMWZiYzA1ZS05YjI1LTRkM2YtYjlmZS1mMGFiMjgzN2E5ODM",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "12560 Augusta Highway",
+                "name_preferred": "12560 Augusta Highway",
+                "place_formatted": "Sparta, Georgia 31087, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.975954,
+                    33.275487
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCaVV1N0E",
+            "properties": {
+                "bbox": [
+                    -83.275219,
+                    33.064068,
+                    -82.792231,
+                    33.469175
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprMmJz",
+                        "name": "Hancock County",
+                        "wikidata_id": "Q493112"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbnFJN0E",
+                        "name": "Sparta",
+                        "wikidata_id": "Q2670509"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaVV1N0E",
+                        "name": "31087"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.275487,
+                    "longitude": -82.975954
+                },
+                "feature_type": "postcode",
+                "full_address": "Sparta, Georgia 31087, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCaVV1N0E",
+                "name": "31087",
+                "name_preferred": "31087",
+                "place_formatted": "Sparta, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.137423,
+                    33.121802
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6N2ExOGYzMTAtZTA0Yi00ZjA5LTkzNzAtOGQ3NjYwMWJkNWM2",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpEeWJz",
+                        "name": "Baldwin County",
+                        "wikidata_id": "Q488206"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpETFdJN0E",
+                        "name": "Milledgeville",
+                        "wikidata_id": "Q1885071"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaUpPN0E",
+                        "name": "31061"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2ExOGYzMTAtZTA0Yi00ZjA5LTkzNzAtOGQ3NjYwMWJkNWM2",
+                        "name": "Sparta Highway"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.121802,
+                    "longitude": -83.137423
+                },
+                "feature_type": "street",
+                "full_address": "Sparta Highway, Milledgeville, Georgia 31061, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2ExOGYzMTAtZTA0Yi00ZjA5LTkzNzAtOGQ3NjYwMWJkNWM2",
+                "name": "Sparta",
+                "name_preferred": "Sparta Highway",
+                "place_formatted": "Milledgeville, Georgia 31061, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.975954,
+                    33.275487
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpFbnFJN0E",
+            "properties": {
+                "bbox": [
+                    -83.275219,
+                    33.064068,
+                    -82.792222,
+                    33.469175
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzprMmJz",
+                        "name": "Hancock County",
+                        "wikidata_id": "Q493112"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpFbnFJN0E",
+                        "name": "Sparta",
+                        "wikidata_id": "Q2670509"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.275487,
+                    "longitude": -82.975954
+                },
+                "feature_type": "place",
+                "full_address": "Sparta, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpFbnFJN0E",
+                "name": "Sparta",
+                "name_preferred": "Sparta",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.036204,
+                    33.459876
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6MmU4NjFiMDUtODIyOC00N2IxLTgxY2YtZmI2NzI5Zjk4Mjcz",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzppOGJz",
+                        "name": "Greene County",
+                        "wikidata_id": "Q486765"
+                    },
+                    "locality": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpJSHNLN0E",
+                        "name": "Swaggy Valley"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGVUlvN0E",
+                        "name": "White Plains",
+                        "wikidata_id": "Q1938378"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCaEd1N0E",
+                        "name": "30678"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmU4NjFiMDUtODIyOC00N2IxLTgxY2YtZmI2NzI5Zjk4Mjcz",
+                        "name": "Sparta Road"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.459876,
+                    "longitude": -83.036204
+                },
+                "feature_type": "street",
+                "full_address": "Sparta Road, White Plains, Georgia 30678, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6MmU4NjFiMDUtODIyOC00N2IxLTgxY2YtZmI2NzI5Zjk4Mjcz",
+                "name": "Sparta Road",
+                "name_preferred": "Sparta Road",
+                "place_formatted": "White Plains, Georgia 30678, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

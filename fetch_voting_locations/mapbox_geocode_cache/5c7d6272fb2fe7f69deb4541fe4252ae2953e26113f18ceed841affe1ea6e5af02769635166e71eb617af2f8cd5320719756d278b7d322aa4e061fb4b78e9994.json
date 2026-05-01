@@ -1,0 +1,120 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.242106,
+                    31.306115
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpCakh1N0E",
+            "properties": {
+                "bbox": [
+                    -82.390217,
+                    31.202226,
+                    -82.113428,
+                    31.422345
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUm9tN0E",
+                        "name": "Pierce County",
+                        "wikidata_id": "Q486800"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBY09JN0E",
+                        "name": "Blackshear",
+                        "wikidata_id": "Q670594"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCakh1N0E",
+                        "name": "31516"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.306115,
+                    "longitude": -82.242106
+                },
+                "feature_type": "postcode",
+                "full_address": "Blackshear, Georgia 31516, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpCakh1N0E",
+                "name": "31516",
+                "name_preferred": "31516",
+                "place_formatted": "Blackshear, Georgia, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.242106,
+                    31.306115
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieHBsYzpBY09JN0E",
+            "properties": {
+                "bbox": [
+                    -82.390217,
+                    31.202226,
+                    -82.113428,
+                    31.422345
+                ],
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUm9tN0E",
+                        "name": "Pierce County",
+                        "wikidata_id": "Q486800"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBY09JN0E",
+                        "name": "Blackshear",
+                        "wikidata_id": "Q670594"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 31.306115,
+                    "longitude": -82.242106
+                },
+                "feature_type": "place",
+                "full_address": "Blackshear, Georgia, United States",
+                "mapbox_id": "dXJuOm1ieHBsYzpBY09JN0E",
+                "name": "Blackshear",
+                "name_preferred": "Blackshear",
+                "place_formatted": "Georgia, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

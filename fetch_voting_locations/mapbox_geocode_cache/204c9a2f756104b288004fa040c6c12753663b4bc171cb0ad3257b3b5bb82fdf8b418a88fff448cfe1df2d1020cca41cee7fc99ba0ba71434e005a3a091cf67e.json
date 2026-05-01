@@ -1,0 +1,306 @@
+{
+    "attribution": "\u00a9 2026 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.34648,
+                    33.08498
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkcjpiZDM0NzQ5NS1kNmRiLTQ0MDUtOTUwMy1jMmY5MjAyM2UzODY",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "7077",
+                        "mapbox_id": "dXJuOm1ieGFkcjpiZDM0NzQ5NS1kNmRiLTQ0MDUtOTUwMy1jMmY5MjAyM2UzODY",
+                        "name": "7077 US Route 19",
+                        "street_name": "US Route 19"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUnZHN0E",
+                        "name": "Pike County",
+                        "wikidata_id": "Q491533"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGZXZJN0E",
+                        "name": "Zebulon",
+                        "wikidata_id": "Q169530"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkx1N0E",
+                        "name": "30295"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YmQzNDc0OTUtZDZkYi00NDA1LTk1MDMtYzJmOTIwMjNlMzg2",
+                        "name": "US Route 19"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "rooftop",
+                    "latitude": 33.08498,
+                    "longitude": -84.34648,
+                    "routable_points": [
+                        {
+                            "latitude": 33.084971,
+                            "longitude": -84.346309,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "7077 US Route 19, Zebulon, Georgia 30295, United States",
+                "mapbox_id": "dXJuOm1ieGFkcjpiZDM0NzQ5NS1kNmRiLTQ0MDUtOTUwMy1jMmY5MjAyM2UzODY",
+                "match_code": {
+                    "address_number": "matched",
+                    "confidence": "high",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "matched",
+                    "postcode": "matched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "7077 Highway 19 S",
+                "name_preferred": "7077 US Route 19",
+                "place_formatted": "Zebulon, Georgia 30295, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.34343,
+                    33.096852
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1zdHI6YjhkNjFjODgtNGEwNC00ZGRjLWExMDMtZTBmMDhiOWM5MGQ3",
+            "properties": {
+                "context": {
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUnZHN0E",
+                        "name": "Pike County",
+                        "wikidata_id": "Q491533"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGZXZJN0E",
+                        "name": "Zebulon",
+                        "wikidata_id": "Q169530"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZkx1N0E",
+                        "name": "30295"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjhkNjFjODgtNGEwNC00ZGRjLWExMDMtZTBmMDhiOWM5MGQ3",
+                        "name": "Main Street"
+                    }
+                },
+                "coordinates": {
+                    "latitude": 33.096852,
+                    "longitude": -84.34343
+                },
+                "feature_type": "street",
+                "full_address": "Main Street, Zebulon, Georgia 30295, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjhkNjFjODgtNGEwNC00ZGRjLWExMDMtZTBmMDhiOWM5MGQ3",
+                "name": "Highway 19 S",
+                "name_preferred": "Main Street",
+                "place_formatted": "Zebulon, Georgia 30295, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.290622,
+                    33.188041
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU56QTNOeUlzSW5OMGNtVmxkQ0k2SWtoWFdTQXhPU0JUSWl3aWNHeGhZMlVpT2lKYVJVSlZURTlPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01qazFJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzQxTXpjNU9UUWlMQ0l6TWk0NU5qZzFNellpTENJdE9EUXVNalEzT0RNMklpd2lNek11TWpBNE9EZzVJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjI",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "7077",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU56QTNOeUlzSW5OMGNtVmxkQ0k2SWtoWFdTQXhPU0JUSWl3aWNHeGhZMlVpT2lKYVJVSlZURTlPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01qazFJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzQxTXpjNU9UUWlMQ0l6TWk0NU5qZzFNellpTENJdE9EUXVNalEzT0RNMklpd2lNek11TWpBNE9EZzVJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjI",
+                        "name": "7077 Zebulon Road",
+                        "street_name": "Zebulon Road"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUnZHN0E",
+                        "name": "Pike County",
+                        "wikidata_id": "Q491533"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpDQTRvN0E",
+                        "name": "Griffin",
+                        "wikidata_id": "Q1012372"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZXp1N0E",
+                        "name": "30224"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOekEzTnlJc0luTjBjbVZsZENJNklraFhXU0F4T1NCVElpd2ljR3hoWTJVaU9pSmFSVUpWVEU5T0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamsxSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0MU16YzVPVFFpTENJek1pNDVOamcxTXpZaUxDSXRPRFF1TWpRM09ETTJJaXdpTXpNdU1qQTRPRGc1SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToy",
+                        "name": "Zebulon Road"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.188041,
+                    "longitude": -84.290622,
+                    "routable_points": [
+                        {
+                            "latitude": 33.188041,
+                            "longitude": -84.290622,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "7077 Zebulon Road, Griffin, Georgia 30224, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU56QTNOeUlzSW5OMGNtVmxkQ0k2SWtoWFdTQXhPU0JUSWl3aWNHeGhZMlVpT2lKYVJVSlZURTlPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01qazFJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzQxTXpjNU9UUWlMQ0l6TWk0NU5qZzFNellpTENJdE9EUXVNalEzT0RNMklpd2lNek11TWpBNE9EZzVJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjI",
+                "match_code": {
+                    "address_number": "plausible",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "7077 Highway 19",
+                "name_preferred": "7077 Zebulon Road",
+                "place_formatted": "Griffin, Georgia 30224, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.352467,
+                    33.189364
+                ],
+                "type": "Point"
+            },
+            "id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU56QTNOeUlzSW5OMGNtVmxkQ0k2SWtoWFdTQXhPU0JUSWl3aWNHeGhZMlVpT2lKYVJVSlZURTlPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01qazFJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzQxTXpjNU9UUWlMQ0l6TWk0NU5qZzFNellpTENJdE9EUXVNalEzT0RNMklpd2lNek11TWpBNE9EZzVJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjM",
+            "properties": {
+                "context": {
+                    "address": {
+                        "address_number": "19",
+                        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU56QTNOeUlzSW5OMGNtVmxkQ0k2SWtoWFdTQXhPU0JUSWl3aWNHeGhZMlVpT2lKYVJVSlZURTlPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01qazFJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzQxTXpjNU9UUWlMQ0l6TWk0NU5qZzFNellpTENJdE9EUXVNalEzT0RNMklpd2lNek11TWpBNE9EZzVJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjM",
+                        "name": "19 Georgia Highway 362",
+                        "street_name": "Georgia Highway 362"
+                    },
+                    "country": {
+                        "country_code": "US",
+                        "country_code_alpha_3": "USA",
+                        "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                        "name": "United States",
+                        "wikidata_id": "Q30"
+                    },
+                    "district": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBUnZHN0E",
+                        "name": "Pike County",
+                        "wikidata_id": "Q491533"
+                    },
+                    "place": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpGV09vN0E",
+                        "name": "Williamson",
+                        "wikidata_id": "Q1936603"
+                    },
+                    "postcode": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpCZktPN0E",
+                        "name": "30292"
+                    },
+                    "region": {
+                        "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                        "name": "Georgia",
+                        "region_code": "GA",
+                        "region_code_full": "US-GA",
+                        "wikidata_id": "Q1428"
+                    },
+                    "street": {
+                        "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SndaWEp0WVc1bGJuUWlPaUowY25WbElpd2labTl5YldGMElqb2laMlZ2YW5OdmJpSXNJbUZrWkhKbGMzTmZiblZ0WW1WeUlqb2lOekEzTnlJc0luTjBjbVZsZENJNklraFhXU0F4T1NCVElpd2ljR3hoWTJVaU9pSmFSVUpWVEU5T0lpd2ljbVZuYVc5dUlqb2lSMEVpTENKd2IzTjBZMjlrWlNJNklqTXdNamsxSWl3aVlYVjBiMk52YlhCc1pYUmxJam9pWm1Gc2MyVWlMQ0ppWW05NElqcGJJaTA0TkM0MU16YzVPVFFpTENJek1pNDVOamcxTXpZaUxDSXRPRFF1TWpRM09ETTJJaXdpTXpNdU1qQTRPRGc1SWwwc0lteHBiV2wwSWpvaU5TSXNJbmR2Y214a2RtbGxkeUk2SW5Weklpd2lhVzVqYkhWa1pWOXRZWFJqYUY5a1pYUmhhV3dpT2lKMGNuVmxJaXdpYlc5a1pTSTZJbVp2Y25kaGNtUWlmUToz",
+                        "name": "Georgia Highway 362"
+                    }
+                },
+                "coordinates": {
+                    "accuracy": "interpolated",
+                    "latitude": 33.189364,
+                    "longitude": -84.352467,
+                    "routable_points": [
+                        {
+                            "latitude": 33.189364,
+                            "longitude": -84.352467,
+                            "name": "default"
+                        }
+                    ]
+                },
+                "feature_type": "address",
+                "full_address": "19 Georgia Highway 362, Williamson, Georgia 30292, United States",
+                "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKd1pYSnRZVzVsYm5RaU9pSjBjblZsSWl3aVptOXliV0YwSWpvaVoyVnZhbk52YmlJc0ltRmtaSEpsYzNOZmJuVnRZbVZ5SWpvaU56QTNOeUlzSW5OMGNtVmxkQ0k2SWtoWFdTQXhPU0JUSWl3aWNHeGhZMlVpT2lKYVJVSlZURTlPSWl3aWNtVm5hVzl1SWpvaVIwRWlMQ0p3YjNOMFkyOWtaU0k2SWpNd01qazFJaXdpWVhWMGIyTnZiWEJzWlhSbElqb2labUZzYzJVaUxDSmlZbTk0SWpwYklpMDROQzQxTXpjNU9UUWlMQ0l6TWk0NU5qZzFNellpTENJdE9EUXVNalEzT0RNMklpd2lNek11TWpBNE9EZzVJbDBzSW14cGJXbDBJam9pTlNJc0luZHZjbXhrZG1sbGR5STZJblZ6SWl3aWFXNWpiSFZrWlY5dFlYUmphRjlrWlhSaGFXd2lPaUowY25WbElpd2liVzlrWlNJNkltWnZjbmRoY21RaWZROjM",
+                "match_code": {
+                    "address_number": "unmatched",
+                    "confidence": "low",
+                    "country": "matched",
+                    "locality": "not_applicable",
+                    "place": "unmatched",
+                    "postcode": "unmatched",
+                    "region": "matched",
+                    "street": "unmatched"
+                },
+                "name": "19 Highway 362 W",
+                "name_preferred": "19 Georgia Highway 362",
+                "place_formatted": "Williamson, Georgia 30292, United States"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

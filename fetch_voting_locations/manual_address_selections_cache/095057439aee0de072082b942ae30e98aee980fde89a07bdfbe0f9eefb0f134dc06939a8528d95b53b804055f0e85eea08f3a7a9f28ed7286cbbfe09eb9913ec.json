@@ -1,0 +1,83 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -84.620951,
+                34.021621
+            ],
+            "type": "Point"
+        },
+        "id": "dXJuOm1ieGFkcjpkYWRlOWQ2YS01ZGYzLTRmYjQtYWEzNy00ZmM2MDI0NjFhYWY",
+        "properties": {
+            "context": {
+                "address": {
+                    "address_number": "2753",
+                    "mapbox_id": "dXJuOm1ieGFkcjpkYWRlOWQ2YS01ZGYzLTRmYjQtYWEzNy00ZmM2MDI0NjFhYWY",
+                    "name": "2753 Watts Drive",
+                    "street_name": "Watts Drive"
+                },
+                "country": {
+                    "country_code": "US",
+                    "country_code_alpha_3": "USA",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "name": "United States",
+                    "wikidata_id": "Q30"
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpTT2Jz",
+                    "name": "Cobb County",
+                    "wikidata_id": "Q484247"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpDaExvN0E",
+                    "name": "Kennesaw",
+                    "wikidata_id": "Q1001316"
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZWF1N0E",
+                    "name": "30144"
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBcVRz",
+                    "name": "Georgia",
+                    "region_code": "GA",
+                    "region_code_full": "US-GA",
+                    "wikidata_id": "Q1428"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZGFkZTlkNmEtNWRmMy00ZmI0LWFhMzctNGZjNjAyNDYxYWFm",
+                    "name": "Watts Drive"
+                }
+            },
+            "coordinates": {
+                "accuracy": "rooftop",
+                "latitude": 34.021621,
+                "longitude": -84.620951,
+                "routable_points": [
+                    {
+                        "latitude": 34.021652,
+                        "longitude": -84.620814,
+                        "name": "default"
+                    }
+                ]
+            },
+            "feature_type": "address",
+            "full_address": "2753 Watts Drive, Kennesaw, Georgia 30144, United States",
+            "mapbox_id": "dXJuOm1ieGFkcjpkYWRlOWQ2YS01ZGYzLTRmYjQtYWEzNy00ZmM2MDI0NjFhYWY",
+            "match_code": {
+                "address_number": "matched",
+                "confidence": "exact",
+                "country": "inferred",
+                "locality": "not_applicable",
+                "place": "matched",
+                "postcode": "matched",
+                "region": "matched",
+                "street": "matched"
+            },
+            "name": "2753 Watts Drive",
+            "name_preferred": "2753 Watts Drive",
+            "place_formatted": "Kennesaw, Georgia 30144, United States"
+        },
+        "type": "Feature"
+    }
+]
